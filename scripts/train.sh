@@ -27,8 +27,8 @@ do
     yoyodyne-train \
       --experiment 2024americasnlp-$lang \
       --model_dir models \
-      --train data/yoyodyne_format/$lang-train.tsv \
-      --val data/yoyodyne_format/$lang-dev.tsv \
+      --train data/yoyodyne/$lang-train.tsv \
+      --val data/yoyodyne/$lang-dev.tsv \
       --arch $arch \
       --batch_size 32 \
       --max_epochs 100 \
@@ -46,7 +46,7 @@ do
       --model_dir ./models \
       --experiment 2024americasnlp-$lang \
       --checkpoint "$ckpt_file" \
-      --predict "data/yoyodyne_format/$lang-dev.tsv" \
+      --predict "data/yoyodyne/$lang-dev.tsv" \
       --output "./preds/$arch/$lang.tsv" \
       --target_col 0 \
       --accelerator gpu \
