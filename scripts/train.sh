@@ -29,6 +29,7 @@ do
       --model_dir models \
       --train data/yoyodyne/$lang-train.tsv \
       --val data/yoyodyne/$lang-dev.tsv \
+      --features_col 3 \
       --arch $arch \
       --batch_size 32 \
       --max_epochs 100 \
@@ -48,6 +49,7 @@ do
       --checkpoint "$ckpt_file" \
       --predict "data/yoyodyne/$lang-dev.tsv" \
       --output "./preds/$arch/$lang.tsv" \
+      --features_col 3 \
       --target_col 0 \
       --accelerator gpu \
       --arch $arch
