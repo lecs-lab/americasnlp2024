@@ -34,6 +34,7 @@ do
       --batch_size 32 \
       --max_epochs 100 \
       --scheduler lineardecay \
+      --accelerator gpu \
       --log_wandb \
       --seed 0
 
