@@ -1,6 +1,28 @@
-for lang in maya # bribri maya guarani 
+#!/bin/bash
+#SBATCH --nodes=1           # Number of requested nodes
+#SBATCH --gres=gpu:1
+#SBATCH --ntasks=4          # Number of requested cores
+#SBATCH --mem=32G
+#SBATCH --time=7-00:00:00          # Max walltime              
+#SBATCH --qos=blanca-curc-gpu
+#SBATCH --partition=blanca-curc-gpu
+#SBATCH --account=blanca-curc-gpu
+#SBATCH --out=americasnlp.%j.out      # Output file name
+#SBATCH --error=americasnlp.%j.err
+#SBATCH --mail-type=ALL
+#SBATCH --mail-user=michael.ginn@colorado.edu
+
+# purge all existing modules
+module purge
+# Load the python module
+module load anaconda
+# Run Python Script
+conda activate americasnlp2024
+cd "/projects/migi8081/americasnlp2024"
+
+for lang in bribri maya guarani 
 do
-  for arch in pointer_generator_lstm # attentive_lstm transformer transducer pointer_generator_transformer
+  for arch in pointer_generator_lstm attentive_lstm transformer transducer pointer_generator_transformer
   do
     yoyodyne-train \
       --experiment 2024americasnlp-$lang \
@@ -10,7 +32,7 @@ do
       --features_col 2 --features_sep , --target_col 3 \
       --arch $arch \
       --batch_size 32 \
-      --max_epochs 2 \
+      --max_epochs 100 \
       --scheduler lineardecay \
       --log_wandb \
       --seed 0
