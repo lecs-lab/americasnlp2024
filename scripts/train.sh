@@ -29,7 +29,6 @@ do
       --model_dir models \
       --train data/yoyodyne_format/$lang-train.tsv \
       --val data/yoyodyne_format/$lang-dev.tsv \
-      --features_col 2 --features_sep , --target_col 3 \
       --arch $arch \
       --batch_size 32 \
       --max_epochs 100 \
@@ -49,7 +48,8 @@ do
       --checkpoint "$ckpt_file" \
       --predict "data/yoyodyne_format/$lang-dev.tsv" \
       --output "./preds/$arch/$lang.tsv" \
-      --features_col 2 --features_sep , --target_col 0 \
+      --target_col 0 \
+      --accelerator gpu \
       --arch $arch
 
     # Move the folder so we only ever have one numbered version
