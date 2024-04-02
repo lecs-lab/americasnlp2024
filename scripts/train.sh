@@ -49,7 +49,7 @@ do
       --checkpoint "$ckpt_file" \
       --predict "data/yoyodyne_format/$lang-dev.tsv" \
       --output "./preds/$arch/$lang.tsv" \
-      --target_col 0 \
+      --features_col 2 --features_sep , --target_col 0 \
       --arch $arch
 
     # Move the folder so we only ever have one numbered version
