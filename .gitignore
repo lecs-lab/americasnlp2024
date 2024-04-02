@@ -7,3 +7,7 @@ slurm-out/
 training-checkpoints/
 models/
 wandb/
+.python-version
+.vscode/
+lightning_logs/
+
