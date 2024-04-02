@@ -1,80 +1,80 @@
-	Source	Target	Change
-0	Ore ndorombyai kuri	Ore rombyai kuri	TYPE:AFF
-1	Ore ndorombyai kuri	Ore ndorombyaita	TENSE:FUT_SIM
-2	Ore ndorombyai kuri	Ñande nañambyai kuri	PERSON:1_PL_INC
-3	Ore ndorombyai kuri	Che nambyai kuri	PERSON:1_SI
-4	Ore ndorombyai kuri	Peẽ napembyai kuri	PERSON:2_PL
-5	Ore ndorombyai kuri	Nde nerembyai kuri	PERSON:2_SI
-6	Peẽ napeñanga’uta	Peẽ peñanga’uta	TYPE:AFF
-7	Peẽ napeñanga’uta	Ha’ekuéra ndoñanga’uta	PERSON:3_PL
-8	Peẽ napeñanga’uta	Che nañanga’uta	PERSON:1_SI
-9	Peẽ napeñanga’uta	Peẽ napeñanga’ui kuri	TENSE:PAS_REC
-10	Peẽ napeñanga’uta	Peẽ napeñanga’ui	TENSE:PRE_SIM
-11	Peẽ peñemongetami	Peẽ peñemongeta kuri	TENSE:PAS_REC
-12	Peẽ peñemongetami	Ñande ñañemongetami	PERSON:1_PL_INC
-13	Peẽ peñemongetami	Ore roñemongetami	PERSON:1_PL_EXC
-14	Peẽ peñemongetami	Peẽ peñemongetáta	TENSE:FUT_SIM
-15	Peẽ peñemongetami	Peẽ napeñemongetaimi	TYPE:NEG
-16	Peẽ peñemongetami	Peẽ peñemongeta	TENSE:PRE_SIM
-17	Che ndahechái kuri peteĩ óga	Che ahechakuri peteĩ óga	TYPE:AFF
-18	Che ndahechái kuri peteĩ óga	Che ndahecháihina kuri peteĩ óga	ASPECT:IPFV
-19	Che ndahechái kuri peteĩ óga	Che ndahechái peteĩ óga	TENSE:PRE_SIM
-20	Che ndahechái kuri peteĩ óga	Nde nderehechái peteĩ óga	PERSON:2_SI
-21	Ko’ã tembi’u ombojy jepe’a tatarendýpe	Ko’ã tembi’u ñambojy jepe’a tatarendýpe	PERSON:1_PL_INC
-22	Ko’ã tembi’u ombojy jepe’a tatarendýpe	Ko’ã tembi’u rombojy jepe’a tatarendýpe	PERSON:1_PL_EXC
-23	Ko’ã tembi’u ombojy jepe’a tatarendýpe	Ko’ã tembi’u ndoñembojýi jepe’a tatarendýpe	TYPE:NEG
-24	Ko’ã tembi’u ombojy jepe’a tatarendýpe	Ko’ã tembi’u oñembojýta jepe’a tatarendýpe	TENSE:FUT_SIM
-25	Ko’ã tembi’u ombojy jepe’a tatarendýpe	Ko’ã tembi’u oñembojýva’ekue jepe’a tatarendýpe	TENSE:PAS_PLU
-26	Peẽ napemongyrái kuri	Peẽ napemongyráita	TENSE:FUT_SIM
-27	Peẽ napemongyrái kuri	Peẽ napemongyrá	TENSE:PRE_SIM
-28	Peẽ napemongyrái kuri	Ha’ekuéra nomongyrái kuri	PERSON:3_PL
-29	Peẽ napemongyrái kuri	Ñande nañamongyrái kuri	PERSON:1_PL_INC
-30	Peẽ napemongyrái kuri	Ore noromongyrái kuri	PERSON:1_PL_EXC
-31	Peẽ napemongyrái kuri	Peẽ pemongyra kuri	TYPE:AFF
-32	Peteĩ ko’ẽme oñombohovai rakúma hikuái	Peteĩ ko’ẽme noñombohovai rakúma hikuái	TYPE:NEG
-33	Peteĩ ko’ẽme oñombohovai rakúma hikuái	Peteĩ ko’ẽme nde reñombohovai rakúma	PERSON:2_PL
-34	Peteĩ ko’ẽme oñombohovai rakúma hikuái	Peteĩ ko’ẽme ñande ñañombohovai rakúma	PERSON:1_PL_INC
-35	Peteĩ ko’ẽme oñombohovai rakúma hikuái	Peteĩ ko’ẽme ore roñombohovai rakúma	PERSON:1_PL_EXC
-36	Ha’ekuéra osãmbyhy	Ha’ekuéra ndosãmbyhyi	TYPE:NEG
-37	Ha’ekuéra osãmbyhy	Ha’ekuéra osãmbyhy hína	ASPECT:IPFV
-38	Ha’ekuéra osãmbyhy	Ha’ekuéra osãmbyhyva’ekue	TENSE:PAS_PLU
-39	Ha’ekuéra osãmbyhy	Ha’ekuéra osãmbyhy ikóni	ASPECT:INM
-40	Ha’ekuéra osãmbyhy	Ñande ñasãmbyhy	PERSON:1_PL_INC
-41	Ha’ekuéra osãmbyhy	Ore rosãmbyhy	PERSON:1_PL_EXC
-42	Ore norokúita	Ore rokúita	TYPE:AFF
-43	Ore norokúita	Ñande nojakúita	PERSON:1_PL_INC
-44	Ore norokúita	Peẽ napekúirita	PERSON:2_PL
-45	Ore norokúita	Nde nerekúirita	PERSON:2_SI
-46	Ore norokúita	Ore norokúita hína	ASPECT:IPFV
-47	Ha’e omokañy kuri pene ñemu potavéva	Ha’e ndomokañýi kuri pene ñemu potavéva	TYPE:NEG
-48	Ha’e omokañy kuri pene ñemu potavéva	Nde remokañy kuri pene ñemu potavéva	PERSON:2_SI
-49	Ha’e omokañy kuri pene ñemu potavéva	Peẽ pemokañy kuri pene ñemu potavéva	PERSON:2_PL
-50	Ha’e omokañy kuri pene ñemu potavéva	Che amokañy kuri pene ñemu potavéva	PERSON:1_SI
-51	Ha’e omokañy kuri pene ñemu potavéva	Ha’e omokañyta pene ñemu potavéva	TENSE:FUT_SIM
-52	Ha’e omokañy kuri pene ñemu potavéva	Ha’e omokañy kuri hína pene ñemu potavéva	ASPECT:IPFV
-53	Ha’e noguerekómi	Ha’e oguerekómi	TYPE:AFF
-54	Ha’e noguerekómi	Ha’e noguerekói kuri	TENSE:PAS_REC
-55	Ha’e noguerekómi	Nde nereguerekómi	PERSON:2_SI
-56	Ha’e noguerekómi	Che naguerekómi	PERSON:1_SI
-57	Ha’e noguerekómi	Ñande nañaguerekómi	PERSON:1_PL_INC
-58	Ha’e noguerekómi	Ha’e noguerekóita	TENSE:FUT_SIM
-59	Ha’e opovyvy kuri	Ha’e ndopovyvýi kuri	TYPE:NEG
-60	Ha’e opovyvy kuri	Ha’e opovyvy kuri hína	ASPECT:IPFV
-61	Ha’e opovyvy kuri	Nde repovyvy kuri	PERSON:2_SI
-62	Ha’e opovyvy kuri	Che apovyvy kuri	PERSON:1_SI
-63	Ha’e opovyvy kuri	Ha’e opovyvyta	TENSE:FUT_SIM
-64	Ha’e opovyvy kuri	Ha’e opovyvyva’ekue	TENSE:PAS_PLU
-65	Ha’e opovyvy kuri	Ha’e opovyvymi	TENSE:PAS_IMP
-66	Peẽ peko’õimi	Nde reko’õimi	PERSON:2_SI
-67	Peẽ peko’õimi	Ha’e oko’õimi	PERSON:3_SI
-68	Peẽ peko’õimi	Peẽ napeko’õimi	TYPE:NEG
-69	Peẽ peko’õimi	Peẽ peko’õimi hína	ASPECT:IPFV
-70	Peẽ peko’õimi	Peẽ peko’õimi ikóni	ASPECT:INM
-71	Peẽ peko’õimi	Ore roko’õimi	PERSON:1_PL_EXC
-72	Peẽ peko’õimi	Che ako’õimi	PERSON:1_SI
-73	Umi kuaaukahárakuéra oñemongeta kuri	Umi kuaaukahárakuéra noñemongetái kuri	TYPE:NEG
-74	Umi kuaaukahárakuéra oñemongeta kuri	Pe kuaaukahára oñemongeta kuri	PERSON:3_SI
-75	Umi kuaaukahárakuéra oñemongeta kuri	Umi kuaaukahárakuéra oñemongetáta	TENSE:FUT_SIM
-76	Umi kuaaukahárakuéra oñemongeta kuri	Umi kuaaukahárakuéra oñemongeta kuri hína	ASPECT:IPFV
-77	Umi kuaaukahárakuéra oñemongeta kuri	Umi kuaaukahárakuéra oñemongetami	TENSE:PAS_IMP
-78	Umi kuaaukahárakuéra oñemongeta kuri	Umi kuaaukahárakuéra oñemongeta ikóni kuri	ASPECT:INM
+Source	Target	Change
+Ore ndorombyai kuri	Ore rombyai kuri	TYPE:AFF
+Ore ndorombyai kuri	Ore ndorombyaita	TENSE:FUT_SIM
+Ore ndorombyai kuri	Ñande nañambyai kuri	PERSON:1_PL_INC
+Ore ndorombyai kuri	Che nambyai kuri	PERSON:1_SI
+Ore ndorombyai kuri	Peẽ napembyai kuri	PERSON:2_PL
+Ore ndorombyai kuri	Nde nerembyai kuri	PERSON:2_SI
+Peẽ napeñanga’uta	Peẽ peñanga’uta	TYPE:AFF
+Peẽ napeñanga’uta	Ha’ekuéra ndoñanga’uta	PERSON:3_PL
+Peẽ napeñanga’uta	Che nañanga’uta	PERSON:1_SI
+Peẽ napeñanga’uta	Peẽ napeñanga’ui kuri	TENSE:PAS_REC
+Peẽ napeñanga’uta	Peẽ napeñanga’ui	TENSE:PRE_SIM
+Peẽ peñemongetami	Peẽ peñemongeta kuri	TENSE:PAS_REC
+Peẽ peñemongetami	Ñande ñañemongetami	PERSON:1_PL_INC
+Peẽ peñemongetami	Ore roñemongetami	PERSON:1_PL_EXC
+Peẽ peñemongetami	Peẽ peñemongetáta	TENSE:FUT_SIM
+Peẽ peñemongetami	Peẽ napeñemongetaimi	TYPE:NEG
+Peẽ peñemongetami	Peẽ peñemongeta	TENSE:PRE_SIM
+Che ndahechái kuri peteĩ óga	Che ahechakuri peteĩ óga	TYPE:AFF
+Che ndahechái kuri peteĩ óga	Che ndahecháihina kuri peteĩ óga	ASPECT:IPFV
+Che ndahechái kuri peteĩ óga	Che ndahechái peteĩ óga	TENSE:PRE_SIM
+Che ndahechái kuri peteĩ óga	Nde nderehechái peteĩ óga	PERSON:2_SI
+Ko’ã tembi’u ombojy jepe’a tatarendýpe	Ko’ã tembi’u ñambojy jepe’a tatarendýpe	PERSON:1_PL_INC
+Ko’ã tembi’u ombojy jepe’a tatarendýpe	Ko’ã tembi’u rombojy jepe’a tatarendýpe	PERSON:1_PL_EXC
+Ko’ã tembi’u ombojy jepe’a tatarendýpe	Ko’ã tembi’u ndoñembojýi jepe’a tatarendýpe	TYPE:NEG
+Ko’ã tembi’u ombojy jepe’a tatarendýpe	Ko’ã tembi’u oñembojýta jepe’a tatarendýpe	TENSE:FUT_SIM
+Ko’ã tembi’u ombojy jepe’a tatarendýpe	Ko’ã tembi’u oñembojýva’ekue jepe’a tatarendýpe	TENSE:PAS_PLU
+Peẽ napemongyrái kuri	Peẽ napemongyráita	TENSE:FUT_SIM
+Peẽ napemongyrái kuri	Peẽ napemongyrá	TENSE:PRE_SIM
+Peẽ napemongyrái kuri	Ha’ekuéra nomongyrái kuri	PERSON:3_PL
+Peẽ napemongyrái kuri	Ñande nañamongyrái kuri	PERSON:1_PL_INC
+Peẽ napemongyrái kuri	Ore noromongyrái kuri	PERSON:1_PL_EXC
+Peẽ napemongyrái kuri	Peẽ pemongyra kuri	TYPE:AFF
+Peteĩ ko’ẽme oñombohovai rakúma hikuái	Peteĩ ko’ẽme noñombohovai rakúma hikuái	TYPE:NEG
+Peteĩ ko’ẽme oñombohovai rakúma hikuái	Peteĩ ko’ẽme nde reñombohovai rakúma	PERSON:2_PL
+Peteĩ ko’ẽme oñombohovai rakúma hikuái	Peteĩ ko’ẽme ñande ñañombohovai rakúma	PERSON:1_PL_INC
+Peteĩ ko’ẽme oñombohovai rakúma hikuái	Peteĩ ko’ẽme ore roñombohovai rakúma	PERSON:1_PL_EXC
+Ha’ekuéra osãmbyhy	Ha’ekuéra ndosãmbyhyi	TYPE:NEG
+Ha’ekuéra osãmbyhy	Ha’ekuéra osãmbyhy hína	ASPECT:IPFV
+Ha’ekuéra osãmbyhy	Ha’ekuéra osãmbyhyva’ekue	TENSE:PAS_PLU
+Ha’ekuéra osãmbyhy	Ha’ekuéra osãmbyhy ikóni	ASPECT:INM
+Ha’ekuéra osãmbyhy	Ñande ñasãmbyhy	PERSON:1_PL_INC
+Ha’ekuéra osãmbyhy	Ore rosãmbyhy	PERSON:1_PL_EXC
+Ore norokúita	Ore rokúita	TYPE:AFF
+Ore norokúita	Ñande nojakúita	PERSON:1_PL_INC
+Ore norokúita	Peẽ napekúirita	PERSON:2_PL
+Ore norokúita	Nde nerekúirita	PERSON:2_SI
+Ore norokúita	Ore norokúita hína	ASPECT:IPFV
+Ha’e omokañy kuri pene ñemu potavéva	Ha’e ndomokañýi kuri pene ñemu potavéva	TYPE:NEG
+Ha’e omokañy kuri pene ñemu potavéva	Nde remokañy kuri pene ñemu potavéva	PERSON:2_SI
+Ha’e omokañy kuri pene ñemu potavéva	Peẽ pemokañy kuri pene ñemu potavéva	PERSON:2_PL
+Ha’e omokañy kuri pene ñemu potavéva	Che amokañy kuri pene ñemu potavéva	PERSON:1_SI
+Ha’e omokañy kuri pene ñemu potavéva	Ha’e omokañyta pene ñemu potavéva	TENSE:FUT_SIM
+Ha’e omokañy kuri pene ñemu potavéva	Ha’e omokañy kuri hína pene ñemu potavéva	ASPECT:IPFV
+Ha’e noguerekómi	Ha’e oguerekómi	TYPE:AFF
+Ha’e noguerekómi	Ha’e noguerekói kuri	TENSE:PAS_REC
+Ha’e noguerekómi	Nde nereguerekómi	PERSON:2_SI
+Ha’e noguerekómi	Che naguerekómi	PERSON:1_SI
+Ha’e noguerekómi	Ñande nañaguerekómi	PERSON:1_PL_INC
+Ha’e noguerekómi	Ha’e noguerekóita	TENSE:FUT_SIM
+Ha’e opovyvy kuri	Ha’e ndopovyvýi kuri	TYPE:NEG
+Ha’e opovyvy kuri	Ha’e opovyvy kuri hína	ASPECT:IPFV
+Ha’e opovyvy kuri	Nde repovyvy kuri	PERSON:2_SI
+Ha’e opovyvy kuri	Che apovyvy kuri	PERSON:1_SI
+Ha’e opovyvy kuri	Ha’e opovyvyta	TENSE:FUT_SIM
+Ha’e opovyvy kuri	Ha’e opovyvyva’ekue	TENSE:PAS_PLU
+Ha’e opovyvy kuri	Ha’e opovyvymi	TENSE:PAS_IMP
+Peẽ peko’õimi	Nde reko’õimi	PERSON:2_SI
+Peẽ peko’õimi	Ha’e oko’õimi	PERSON:3_SI
+Peẽ peko’õimi	Peẽ napeko’õimi	TYPE:NEG
+Peẽ peko’õimi	Peẽ peko’õimi hína	ASPECT:IPFV
+Peẽ peko’õimi	Peẽ peko’õimi ikóni	ASPECT:INM
+Peẽ peko’õimi	Ore roko’õimi	PERSON:1_PL_EXC
+Peẽ peko’õimi	Che ako’õimi	PERSON:1_SI
+Umi kuaaukahárakuéra oñemongeta kuri	Umi kuaaukahárakuéra noñemongetái kuri	TYPE:NEG
+Umi kuaaukahárakuéra oñemongeta kuri	Pe kuaaukahára oñemongeta kuri	PERSON:3_SI
+Umi kuaaukahárakuéra oñemongeta kuri	Umi kuaaukahárakuéra oñemongetáta	TENSE:FUT_SIM
+Umi kuaaukahárakuéra oñemongeta kuri	Umi kuaaukahárakuéra oñemongeta kuri hína	ASPECT:IPFV
+Umi kuaaukahárakuéra oñemongeta kuri	Umi kuaaukahárakuéra oñemongetami	TENSE:PAS_IMP
+Umi kuaaukahárakuéra oñemongeta kuri	Umi kuaaukahárakuéra oñemongeta ikóni kuri	ASPECT:INM
