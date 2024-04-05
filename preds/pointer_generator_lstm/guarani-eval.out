@@ -1,0 +1,1 @@
+./preds/pointer_generator_lstm/guarani.tsv: Accuracy=0.00, BLEU=1.11, ChrF=25.23
