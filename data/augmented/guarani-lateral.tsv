@@ -1,0 +1,196 @@
+Source	Target	Change
+Nde reikomi ka’aguy hovy’ûvare	Che aikomi ka’aguy hovy’ûvare	PERSON:1_SI
+Che aikomi ka’aguy hovy’ûvare	Nde reikomi ka’aguy hovy’ûvare	PERSON:2_SI
+Amo ñemuha osapukáita	Amo ñemuha osapukáiva’ekue	TENSE:PAS_PLU
+Amo ñemuha osapukáiva’ekue	Amo ñemuha osapukáita	TENSE:FUT_SIM
+Apurahéi va’ekue	Apurahéitta	TENSE:FUT_SIM
+Apurahéitta	Apurahéi va’ekue	TENSE:PAS_PLU
+Che ajavýta iñeikotevẽva akuápe	Che ajavy iñeikotevẽva akuápe	TENSE:PRE_SIM
+Che ajavy iñeikotevẽva akuápe	Che ajavýta iñeikotevẽva akuápe	TENSE:FUT_SIM
+Nde rejavýimi iñeikotevẽva akuápe	Ñande jajavýimi iñeikotevẽva akuápe	PERSON:1_SI_INC
+Nde rejavýimi iñeikotevẽva akuápe	Ore rojavýimi iñeikotevẽva akuápe	PERSON:1_SI_EXC
+Ñande jajavýimi iñeikotevẽva akuápe	Nde rejavýimi iñeikotevẽva akuápe	PERSON:2_PL
+Ñande jajavýimi iñeikotevẽva akuápe	Ore rojavýimi iñeikotevẽva akuápe	PERSON:1_SI_EXC
+Ore rojavýimi iñeikotevẽva akuápe	Nde rejavýimi iñeikotevẽva akuápe	PERSON:2_PL
+Ore rojavýimi iñeikotevẽva akuápe	Ñande jajavýimi iñeikotevẽva akuápe	PERSON:1_SI_INC
+Nde mba’e ko ykua	Ñande mba’e ko ykua	PERSON:1_SI_INC
+Nde mba’e ko ykua	Ore mba’e ko ykua	PERSON:1_SI_EXC
+Ñande mba’e ko ykua	Nde mba’e ko ykua	PERSON:2_SI
+Ñande mba’e ko ykua	Ore mba’e ko ykua	PERSON:1_SI_EXC
+Ore mba’e ko ykua	Nde mba’e ko ykua	PERSON:2_SI
+Ore mba’e ko ykua	Ñande mba’e ko ykua	PERSON:1_SI_INC
+Che nañemoingei	Che nañemoingeimi	TENSE:PAS_IMP
+Che nañemoingeimi	Che nañemoingei	TENSE:PRE_SIM
+Nde nareñemoingeta	Ore noroñemoingeta	PERSON:1_PL_EXC
+Ore noroñemoingeta	Nde nareñemoingeta	PERSON:2_SI
+Che cherasy kuri	Che cherasy va’ekue	TENSE:PAS_PLU
+Che cherasy va’ekue	Che cherasy kuri	TENSE:PAS_REC
+Nde nderasy	Ha’e hasy	PERSON:3_SI
+Nde nderasy	Ñande rasy	PERSON:1_PL_INC
+Nde nderasy	Ore rorasy	PERSON:1_PL_EXC
+Nde nderasy	Peê penderasy	PERSON:2_PL
+Ha’e hasy	Nde nderasy	PERSON:2_SI
+Ha’e hasy	Ñande rasy	PERSON:1_PL_INC
+Ha’e hasy	Ore rorasy	PERSON:1_PL_EXC
+Ha’e hasy	Peê penderasy	PERSON:2_PL
+Ñande rasy	Nde nderasy	PERSON:2_SI
+Ñande rasy	Ha’e hasy	PERSON:3_SI
+Ñande rasy	Ore rorasy	PERSON:1_PL_EXC
+Ñande rasy	Peê penderasy	PERSON:2_PL
+Ore rorasy	Nde nderasy	PERSON:2_SI
+Ore rorasy	Ha’e hasy	PERSON:3_SI
+Ore rorasy	Ñande rasy	PERSON:1_PL_INC
+Ore rorasy	Peê penderasy	PERSON:2_PL
+Peê penderasy	Nde nderasy	PERSON:2_SI
+Peê penderasy	Ha’e hasy	PERSON:3_SI
+Peê penderasy	Ñande rasy	PERSON:1_PL_INC
+Peê penderasy	Ore rorasy	PERSON:1_PL_EXC
+Nde nderembojarui mo’ãi	Che ndambojaruita	PERSON:1_SI
+Che ndambojaruita	Nde nderembojarui mo’ãi	PERSON:2_SI
+Ha’e ndombotujaikuri hina che ogyke - Ha’e ndombyaikuri hina che ogyke	Ha’e ombotujáta che ogyke - Ha’e ombyaíta che ogyke	TENSE:FUT_SIM
+Ha’e ndombotujaikuri hina che ogyke - Ha’e ndombyaikuri hina che ogyke	Ha’e ndombotujáiva’ekue che ogyke - Ha’e ndombyaiva’ekue che ogyke	TENSE:PAS_PLU
+Ha’e ndombotujaikuri hina che ogyke - Ha’e ndombyaikuri hina che ogyke	Che ndambotujamoái che ogyke - Che ndambyaimoái che ogyke	PERSON:1_SI;TENSE:FUT_SIM
+Nde nderembotujáimi che ogyke - Nde nerembyaimi che ogyke	Ñande ndañambotujáimi che ogyke - Ñande ndañambyaimi che ogyke	PERSON:1_PL_INC
+Nde nderembotujáimi che ogyke - Nde nerembyaimi che ogyke	Che ndambotujamoái che ogyke - Che ndambyaimoái che ogyke	PERSON:1_SI;TENSE:FUT_SIM
+Ñande ndañambotujáimi che ogyke - Ñande ndañambyaimi che ogyke	Nde nderembotujáimi che ogyke - Nde nerembyaimi che ogyke	PERSON:2_SI
+Ñande ndañambotujáimi che ogyke - Ñande ndañambyaimi che ogyke	Che ndambotujamoái che ogyke - Che ndambyaimoái che ogyke	PERSON:1_SI;TENSE:FUT_SIM
+Ha’e ombotujáta che ogyke - Ha’e ombyaíta che ogyke	Ha’e ndombotujaikuri hina che ogyke - Ha’e ndombyaikuri hina che ogyke	TENSE:PAS_REC
+Ha’e ombotujáta che ogyke - Ha’e ombyaíta che ogyke	Ha’e ndombotujáiva’ekue che ogyke - Ha’e ndombyaiva’ekue che ogyke	TENSE:PAS_PLU
+Ha’e ombotujáta che ogyke - Ha’e ombyaíta che ogyke	Che ndambotujamoái che ogyke - Che ndambyaimoái che ogyke	PERSON:1_SI;TENSE:FUT_SIM
+Ha’e ndombotujáiva’ekue che ogyke - Ha’e ndombyaiva’ekue che ogyke	Ha’e ndombotujaikuri hina che ogyke - Ha’e ndombyaikuri hina che ogyke	TENSE:PAS_REC
+Ha’e ndombotujáiva’ekue che ogyke - Ha’e ndombyaiva’ekue che ogyke	Ha’e ombotujáta che ogyke - Ha’e ombyaíta che ogyke	TENSE:FUT_SIM
+Ha’e ndombotujáiva’ekue che ogyke - Ha’e ndombyaiva’ekue che ogyke	Che ndambotujamoái che ogyke - Che ndambyaimoái che ogyke	PERSON:1_SI;TENSE:FUT_SIM
+Hikuái oguapy	Che aguapy	PERSON:1_SI
+Hikuái oguapy	Nde reguapy	PERSON:2_SI
+Hikuái oguapy	Peẽ peguapy	PERSON:2_PL
+Che aguapy	Hikuái oguapy	PERSON:3_PL
+Che aguapy	Nde reguapy	PERSON:2_SI
+Che aguapy	Peẽ peguapy	PERSON:2_PL
+Nde reguapy	Hikuái oguapy	PERSON:3_PL
+Nde reguapy	Che aguapy	PERSON:1_SI
+Nde reguapy	Peẽ peguapy	PERSON:2_PL
+Peẽ peguapy	Hikuái oguapy	PERSON:3_PL
+Peẽ peguapy	Che aguapy	PERSON:1_SI
+Peẽ peguapy	Nde reguapy	PERSON:2_SI
+Ha’e oguapýta	Ha’e oguapýva’ekue	TENSE:PAS_PLU
+Ha’e oguapýta	Ha’e oguapýkuri	TENSE:PAS_REC
+Ha’e oguapýva’ekue	Ha’e oguapýta	TENSE:FUT_SIM
+Ha’e oguapýva’ekue	Ha’e oguapýkuri	TENSE:PAS_REC
+Ha’e oguapýkuri	Ha’e oguapýta	TENSE:FUT_SIM
+Ha’e oguapýkuri	Ha’e oguapýva’ekue	TENSE:PAS_PLU
+Che ajupi kuri	Ñande jajupi kuri	PERSON:1_PL_INC
+Che ajupi kuri	Nde rejupi kuri	PERSON:2_SI
+Ñande jajupi kuri	Che ajupi kuri	PERSON:1_SI
+Ñande jajupi kuri	Nde rejupi kuri	PERSON:2_SI
+Ha’e ojupi kuri hína	Ha’e ojupi kuri ikóni	ASPECT:INM
+Ha’e ojupi kuri ikóni	Ha’e ojupi kuri hína	ASPECT:IPFV
+Nde rejupi kuri	Che ajupi kuri	PERSON:1_SI
+Nde rejupi kuri	Ñande jajupi kuri	PERSON:1_PL_INC
+Nde rembojára kuri mbovy apekuéra	Che ambojára kuri mbovy apekuéra	PERSON:1_SI
+Che ambojára kuri mbovy apekuéra	Nde rembojára kuri mbovy apekuéra	PERSON:2_SI
+Ha’ekuéra naiñemoñaréita	Ha’ekuéra ndoñemoñaréi	TENSE:PRE_SIM
+Ñande naiñañemoñaréi kuri	Ore nairoñemoñaréi kuri	PERSON:1_PL_EXC
+Ñande naiñañemoñaréi kuri	Peë naipeñemoñaréi kuri	PERSON:2_PL
+Ore nairoñemoñaréi kuri	Ñande naiñañemoñaréi kuri	PERSON:1_PL_INC
+Ore nairoñemoñaréi kuri	Peë naipeñemoñaréi kuri	PERSON:2_PL
+Peë naipeñemoñaréi kuri	Ñande naiñañemoñaréi kuri	PERSON:1_PL_INC
+Peë naipeñemoñaréi kuri	Ore nairoñemoñaréi kuri	PERSON:1_PL_EXC
+Ha’ekuéra ndoñemoñaréi	Ha’ekuéra naiñemoñaréita	TENSE:FUT_SIM
+Che, ka’i ruvicha, ha’e che ta’yrakuérape	Nde, ka’i ruvicha ere nde ta’yrakuérape	PERSON:2_SI
+Nde, ka’i ruvicha ere nde ta’yrakuérape	Che, ka’i ruvicha, ha’e che ta’yrakuérape	PERSON:1_SI
+Ijuru ñeimo’ã’ỹva ndojurai kuri che aovevekuéra	Ijuru ñeimo’ã’ỹva ndojuraimi che aovevekuéra	TENSE:PAS_IMP
+Ijuru ñeimo’ã’ỹva ndojurai kuri che aovevekuéra	Ijuru ñeimo’ã’ỹva ndojuraiva’ekue che aovevekuéra	TENSE:PAS_PLU
+Ijuru ñeimo’ã’ỹva ndojurai kuri che aovevekuéra	Ijuru ñeimo’ã’ỹva ndojurai che aovevekuéra	TENSE:PRE_SIM
+Ijuru ñeimo’ã’ỹva ndojuraimi che aovevekuéra	Ijuru ñeimo’ã’ỹva ndojurai kuri che aovevekuéra	TENSE:PAS_REC
+Ijuru ñeimo’ã’ỹva ndojuraimi che aovevekuéra	Ijuru ñeimo’ã’ỹva ndojuraiva’ekue che aovevekuéra	TENSE:PAS_PLU
+Ijuru ñeimo’ã’ỹva ndojuraimi che aovevekuéra	Ijuru ñeimo’ã’ỹva ndojurai che aovevekuéra	TENSE:PRE_SIM
+Ijuru ñeimo’ã’ỹva ndojuraiva’ekue che aovevekuéra	Ijuru ñeimo’ã’ỹva ndojurai kuri che aovevekuéra	TENSE:PAS_REC
+Ijuru ñeimo’ã’ỹva ndojuraiva’ekue che aovevekuéra	Ijuru ñeimo’ã’ỹva ndojuraimi che aovevekuéra	TENSE:PAS_IMP
+Ijuru ñeimo’ã’ỹva ndojuraiva’ekue che aovevekuéra	Ijuru ñeimo’ã’ỹva ndojurai che aovevekuéra	TENSE:PRE_SIM
+Ijuru ñeimo’ã’ỹva ndojurai che aovevekuéra	Ijuru ñeimo’ã’ỹva ndojurai kuri che aovevekuéra	TENSE:PAS_REC
+Ijuru ñeimo’ã’ỹva ndojurai che aovevekuéra	Ijuru ñeimo’ã’ỹva ndojuraimi che aovevekuéra	TENSE:PAS_IMP
+Ijuru ñeimo’ã’ỹva ndojurai che aovevekuéra	Ijuru ñeimo’ã’ỹva ndojuraiva’ekue che aovevekuéra	TENSE:PAS_PLU
+Che katu itáicha akirirĩ.	Nde katu itáicha rekirirĩ.	PERSON:2_SI
+Nde katu itáicha rekirirĩ.	Che katu itáicha akirirĩ.	PERSON:1_SI
+Ko mombe’upy emohenduká kuri chéve nde.	Ko mombe’upy pemohenduká kuri chéve peê.	PERSON:2_PL
+Ko mombe’upy pemohenduká kuri chéve peê.	Ko mombe’upy emohenduká kuri chéve nde.	PERSON:2_SI
+Ko mombe’upy ohendukáta chéve che ru.	Ko mombe’upy ohenduka chéve che ru.	TENSE:PRE_SIM
+Ko mombe’upy ohenduka chéve che ru.	Ko mombe’upy ohendukáta chéve che ru.	TENSE:FUT_SIM
+Ku mbói oñorairõ hína	Ku mbói oñorairõ ikóni	ASPECT:INM
+Ku mbói oñorairõ ikóni	Ku mbói oñorairõ hína	ASPECT:IPFV
+Ku mbói oñorairõmi	Ku mbói oñorairõta	TENSE:FUT_SIM
+Ku mbói oñorairõta	Ku mbói oñorairõmi	TENSE:PAS_IMP
+Mombe’ukuéra ombotyta pende arete	Mombe’ukuéra ombotyva’ekue pende arete	TENSE:PAS_PLU
+Mombe’ukuéra ombotyta pende arete	Mombe’ukuéra omboty pende arete	TENSE:PRE_SIM
+Mombe’ukuéra ombotyva’ekue pende arete	Mombe’ukuéra ombotyta pende arete	TENSE:FUT_SIM
+Mombe’ukuéra ombotyva’ekue pende arete	Mombe’ukuéra omboty pende arete	TENSE:PRE_SIM
+Mombe’ukuéra omboty pende arete	Mombe’ukuéra ombotyta pende arete	TENSE:FUT_SIM
+Mombe’ukuéra omboty pende arete	Mombe’ukuéra ombotyva’ekue pende arete	TENSE:PAS_PLU
+Nde rejapo	Nde nderejapókuri	TENSE:PAS_REC;TYPE:AFF
+Ñande ndajajapói	Ha’ekuéra ndojapói	PERSON:3_PL
+Ha’ekuéra ndojapói	Ñande ndajajapói	PERSON:1_PL_INC
+Nde remoheñói	Nde nderemoheñóikuri	TENSE:PAS_REC;TYPE:AFF
+Ñande ndañamoheñói	Ha’ekuéra ndomoheñoi	PERSON:3_PL
+Ha’ekuéra ndomoheñoi	Ñande ndañamoheñói	PERSON:1_PL_INC
+Nde reñembosarái	Nde reñembosarái ikóni	ASPECT:INM
+Che añembosarái hína	Ha’ekuéra oñembosarái hína	PERSON:3_PL
+Nde reñembosarái ikóni	Nde reñembosarái	ASPECT:-
+Nde reñembosaráita hína	Nde reñembosarái kuri hína	TENSE:PAS_REC
+Nde reñembosarái kuri hína	Nde reñembosaráita hína	TENSE:FUT_SIM
+Ha’ekuéra oñembosarái hína	Che añembosarái hína	PERSON:1_SI
+Ñande jaipuru ka’a ha ja’u terere.	Nde reipuru ka’a ha re’u terere.	PERSON:2_SI
+Nde reipuru ka’a ha re’u terere.	Ñande jaipuru ka’a ha ja’u terere.	PERSON:1_PL_INC
+Okũmby kuri hikuái.	Okũmbyta hikuái.	TENSE:FUT_SIM
+Okũmbyta hikuái.	Okũmby kuri hikuái.	TENSE:PAS_REC
+Ñande ñakũmbýimi	Che akũmbymi	PERSON:1_SI
+Che akũmbymi	Ñande ñakũmbýimi	PERSON:1_PL_INC
+Ore ndorokuave’ẽi hina umi tembi’ukuéra pytagua	Ore ndorokuave’ẽi ikóni umi tembi’ukuéra pytagua	ASPECT:INM
+Ore ndorokuave’ẽi ikóni umi tembi’ukuéra pytagua	Ore ndorokuave’ẽi hina umi tembi’ukuéra pytagua	ASPECT:IPFV
+Ñande ndañakuave’ẽi umi tembi’ukuéra pytagua	Che ndaikuave’ẽi umi tembi’ukuéra pytagua	PERSON:1_SI
+Ñande ndañakuave’ẽi umi tembi’ukuéra pytagua	Nde ndereikuave’ẽi umi tembi’ukuéra pytagua	PERSON:2_PL
+Che ndaikuave’ẽi umi tembi’ukuéra pytagua	Ñande ndañakuave’ẽi umi tembi’ukuéra pytagua	PERSON:1_PL_INC
+Che ndaikuave’ẽi umi tembi’ukuéra pytagua	Nde ndereikuave’ẽi umi tembi’ukuéra pytagua	PERSON:2_PL
+Nde ndereikuave’ẽi umi tembi’ukuéra pytagua	Ñande ndañakuave’ẽi umi tembi’ukuéra pytagua	PERSON:1_PL_INC
+Nde ndereikuave’ẽi umi tembi’ukuéra pytagua	Che ndaikuave’ẽi umi tembi’ukuéra pytagua	PERSON:1_SI
+Ore temimbo’e tie’ỹ ojapopa	Ore temimbo’e tie’ỹ ojapopata	TENSE:FUT_SIM
+Ore temimbo’e tie’ỹ ojapopa	Ore temimbo’e tie’ỹ ojapopava’ekue	TENSE:PAS_PLU
+Ore temimbo’e tie’ỹ ojapopata	Ore temimbo’e tie’ỹ ojapopa	TENSE:PRE_SIM
+Ore temimbo’e tie’ỹ ojapopata	Ore temimbo’e tie’ỹ ojapopava’ekue	TENSE:PAS_PLU
+Ore temimbo’e tie’ỹ ojapopava’ekue	Ore temimbo’e tie’ỹ ojapopa	TENSE:PRE_SIM
+Ore temimbo’e tie’ỹ ojapopava’ekue	Ore temimbo’e tie’ỹ ojapopata	TENSE:FUT_SIM
+Pakova roguépe pemo’â penderembi’ukuéra.	Pakova roguépe remo’â nderembi’ukuéra.	PERSON:2_SI
+Pakova roguépe pemo’â penderembi’ukuéra.	Pakova roguépe amo’â cherembi’ukuéra.	PERSON:1_SI
+Pakova roguépe remo’â nderembi’ukuéra.	Pakova roguépe pemo’â penderembi’ukuéra.	PERSON:2_PL
+Pakova roguépe remo’â nderembi’ukuéra.	Pakova roguépe amo’â cherembi’ukuéra.	PERSON:1_SI
+Pakova roguépe amo’â cherembi’ukuéra.	Pakova roguépe pemo’â penderembi’ukuéra.	PERSON:2_PL
+Pakova roguépe amo’â cherembi’ukuéra.	Pakova roguépe remo’â nderembi’ukuéra.	PERSON:2_SI
+Ñande najajapómi ogyke pokã	Ore norojapómi ogyke pokã	PERSON:1_PL_EXC
+Ñande najajapómi ogyke pokã	Ha’ekuéra nojapómi ogyke pokã	PERSON:3_PL
+Ñande najajapómi ogyke pokã	Nde nderejapómi ogyke pokã	PERSON:2_SI
+Ore norojapómi ogyke pokã	Ñande najajapómi ogyke pokã	PERSON:1_PL_INC
+Ore norojapómi ogyke pokã	Ha’ekuéra nojapómi ogyke pokã	PERSON:3_PL
+Ore norojapómi ogyke pokã	Nde nderejapómi ogyke pokã	PERSON:2_SI
+Peẽ napejapói kuri ogyke pokã	Peẽ napejapói ogyke pokã	TENSE:PRE_SIM
+Peẽ napejapói ogyke pokã	Peẽ napejapói kuri ogyke pokã	TENSE:PAS_REC
+Ha’ekuéra nojapómi ogyke pokã	Ñande najajapómi ogyke pokã	PERSON:1_PL_INC
+Ha’ekuéra nojapómi ogyke pokã	Ore norojapómi ogyke pokã	PERSON:1_PL_EXC
+Ha’ekuéra nojapómi ogyke pokã	Nde nderejapómi ogyke pokã	PERSON:2_SI
+Nde nderejapómi ogyke pokã	Ñande najajapómi ogyke pokã	PERSON:1_PL_INC
+Nde nderejapómi ogyke pokã	Ore norojapómi ogyke pokã	PERSON:1_PL_EXC
+Nde nderejapómi ogyke pokã	Ha’ekuéra nojapómi ogyke pokã	PERSON:3_PL
+Pohanohára akãguapy ndombovúi	Pohanohára akãguapy ndombovúi kuri	TENSE:PAS_REC
+Pohanohára akãguapy ndombovúi	Pohanohára akãguapy ndombovúiva’ekue	TENSE:PAS_PLU
+Pohanohára akãguapy ndombovúi kuri	Pohanohára akãguapy ndombovúi	TENSE:PRE_SIM
+Pohanohára akãguapy ndombovúi kuri	Pohanohára akãguapy ndombovúiva’ekue	TENSE:PAS_PLU
+Pohanohára akãguapy ndombovúiva’ekue	Pohanohára akãguapy ndombovúi	TENSE:PRE_SIM
+Pohanohára akãguapy ndombovúiva’ekue	Pohanohára akãguapy ndombovúi kuri	TENSE:PAS_REC
+Temirendukuéra omongakuaata	Temirendukuéra omongakuaami	TENSE:PAS_IMP
+Temirendukuéra omongakuaami	Temirendukuéra omongakuaata	TENSE:FUT_SIM
+Upérõ (che) añani hína	Upérõ (che) añanita hína	TENSE:FUT_SIM
+Upérõ (che) añani hína	Upérõ (che) añanihínava’ekue	TENSE:PAS_PLU
+Upérõ (che) añanita hína	Upérõ (che) añani hína	TENSE:PRE_SIM
+Upérõ (che) añanita hína	Upérõ (che) añanihínava’ekue	TENSE:PAS_PLU
+Upérõ (che) añanihínava’ekue	Upérõ (che) añani hína	TENSE:PRE_SIM
+Upérõ (che) añanihínava’ekue	Upérõ (che) añanita hína	TENSE:FUT_SIM
+Upérõ (nde) reñanihínakuri	Upérõ (ñande) ñañanihínakuri	PERSON:1_PL_INC
+Upérõ (ñande) ñañanihínakuri	Upérõ (nde) reñanihínakuri	PERSON:2_SI
