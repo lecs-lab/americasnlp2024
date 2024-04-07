@@ -13,15 +13,15 @@
 #SBATCH --mail-user=michael.ginn@colorado.edu
 
 # purge all existing modules
-# module purge
-# # Load the python module
-# module load anaconda
-# # Run Python Script
-# conda activate americasnlp2024
-# cd "/projects/migi8081/americasnlp2024"
+module purge
+# Load the python module
+module load anaconda
+# Run Python Script
+conda activate americasnlp2024
+cd "/projects/migi8081/americasnlp2024"
 
 arch='attentive_lstm'
-method='identity'
+method="$1"
 
 mkdir data/temp
 
