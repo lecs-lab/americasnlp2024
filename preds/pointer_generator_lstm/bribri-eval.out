@@ -1,1 +1,1 @@
-./preds/pointer_generator_lstm/bribri.tsv: Accuracy=0.00, BLEU=0.77, ChrF=12.53
+./preds/pointer_generator_lstm/bribri.tsv: Accuracy=0.00, BLEU=17.38, ChrF=27.36

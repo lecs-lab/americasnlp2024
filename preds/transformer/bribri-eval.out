@@ -1,1 +1,1 @@
-./preds/transformer/bribri.tsv: Accuracy=0.00, BLEU=17.44, ChrF=29.73
+./preds/transformer/bribri.tsv: Accuracy=0.00, BLEU=13.29, ChrF=29.17

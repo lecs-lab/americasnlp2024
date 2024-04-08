@@ -1,1 +1,1 @@
-./preds/transformer/maya.tsv: Accuracy=22.15, BLEU=48.56, ChrF=73.83
+./preds/transformer/maya.tsv: Accuracy=16.11, BLEU=42.33, ChrF=70.33

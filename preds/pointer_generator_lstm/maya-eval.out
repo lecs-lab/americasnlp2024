@@ -1,1 +1,1 @@
-./preds/pointer_generator_lstm/maya.tsv: Accuracy=11.41, BLEU=36.45, ChrF=68.85
+./preds/pointer_generator_lstm/maya.tsv: Accuracy=51.68, BLEU=75.51, ChrF=90.37

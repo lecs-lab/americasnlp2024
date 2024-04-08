@@ -1,1 +1,1 @@
-./preds/attentive_lstm/bribri.tsv: Accuracy=0.00, BLEU=15.55, ChrF=29.82
+./preds/attentive_lstm/bribri.tsv: Accuracy=0.00, BLEU=19.73, ChrF=32.57

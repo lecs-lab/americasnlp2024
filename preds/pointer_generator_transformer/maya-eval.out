@@ -1,0 +1,1 @@
+./preds/pointer_generator_transformer/maya.tsv: Accuracy=10.74, BLEU=36.45, ChrF=64.74

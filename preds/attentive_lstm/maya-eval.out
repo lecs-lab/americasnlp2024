@@ -1,1 +1,1 @@
-./preds/attentive_lstm/maya.tsv: Accuracy=37.58, BLEU=68.83, ChrF=85.27
+./preds/attentive_lstm/maya.tsv: Accuracy=40.94, BLEU=61.24, ChrF=83.33
