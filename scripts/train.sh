@@ -37,8 +37,8 @@ do
       --scheduler lineardecay \
       --log_wandb \
       --no_save_best \
-      --seed 0
-      # --accelerator gpu \
+      --seed 0 \
+      --accelerator gpu \
 
 
     ckpt_file=(./models/2024americasnlp-$lang/version_0/checkpoints/*.ckpt)
