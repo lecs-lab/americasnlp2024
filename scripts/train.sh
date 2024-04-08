@@ -31,13 +31,15 @@ do
       --val data/yoyodyne/$lang-dev.tsv \
       --features_col 3 \
       --arch $arch \
+      --features_encoder_arch linear \
       --batch_size 32 \
       --max_epochs 100 \
       --scheduler lineardecay \
-      --accelerator gpu \
       --log_wandb \
       --no_save_best \
       --seed 0
+      # --accelerator gpu \
+
 
     ckpt_file=(./models/2024americasnlp-$lang/version_0/checkpoints/*.ckpt)
     ckpt_file=${ckpt_file[0]}

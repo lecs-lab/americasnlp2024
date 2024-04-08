@@ -7,7 +7,7 @@ def copy_target_column(source_path, destination_path):
     source_df = pd.read_csv(source_path, sep='\t', header=None)
     destination_df = pd.read_csv(destination_path, sep='\t', header=None)
 
-    source_df.columns = ['Source', 'Target', 'Change']
+    source_df.columns = ['Target']
     destination_df.columns = ['Source', 'Target', 'Change']
 
     # Replace or add the 'Target' column in the destination DataFrame
