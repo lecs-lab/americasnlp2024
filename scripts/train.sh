@@ -22,7 +22,7 @@ cd "/projects/migi8081/americasnlp2024"
 
 for lang in bribri maya guarani 
 do
-  for arch in pointer_generator_lstm attentive_lstm transformer transducer pointer_generator_transformer
+  for arch in pointer_generator_lstm attentive_lstm transformer pointer_generator_transformer # transducer
   do
     yoyodyne-train \
       --experiment 2024americasnlp-$lang \
