@@ -14,7 +14,7 @@ def copy_target_column(source_path, destination_path):
     destination_df['Predicted Target'] = source_df['Target']
 
     # Save the updated destination DataFrame to a new file
-    destination_df.to_csv(source_path, sep='\t', index=False, header=False)
+    destination_df.to_csv(source_path, sep='\t', index=False)
 
 
 def main():
