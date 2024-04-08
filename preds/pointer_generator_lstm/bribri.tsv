@@ -1,0 +1,213 @@
+Source	Target	Change	Predicted Target
+Pûs kapë'wa̠	Pûs kapë'ulur	ABSNUM:PL	Ie' tak da'papa
+Pûs kapë'wa̠	Pûs kë̀ kapë̀ne̠wa̠	TYPE:NEG	Kë̀ ie' kë̀ wa̠ kë̀ne̠
+Pûs kapë'wa̠	Pûs kapówa̠	TENSE:PRF_REC	Alà dawówa̠
+Pûs kapë'wa̠	Pûs kapóulur	TENSE:PRF_REC;ABSNUM:PL	Ie' dalárke
+Pûs kapë'wa̠	Pûs kapö̀wa̠	TENSE:IPFV_REC;ASPECT:IPFV	Ie' dö̀ kàr
+Pûs kapë'wa̠	Pûs tso kapö́kwa̠	TENSE:IPFV_PROG;ASPECT:IPFV	Ie' tso dawö́k
+Pûs kapë'wa̠	Pûs kë̀ ku̠ kapö́kwa̠	TYPE:NEG;TENSE:IPFV_PROG;ASPECT:IPFV	Ie' kë̀ ku̠ dawö́k
+Pûs kapë'wa̠	Pûs bák kapö́kwa̠	TENSE:PRF_PROG	Ie' bák da'bák kö́k
+Pûs kapë'wa̠	Pûs kë̀ ku̠'bak kapö́kwa̠	TYPE:NEG;TENSE:PRF_PROG	Ie' kë̀ ku̠'bak darö́k
+Pûs kapë'wa̠	Pûs kapákwa̠	MODE:DES;TENSE:IPFV_REC;ASPECT:IPFV	Ie' é̠n a̠ ka'ma̠k
+Pûs kapë'wa̠	Pûs kapö̀ke̠wa̠	TENSE:IPFV_HAB;ASPECT:IPFV	Ie' dö̀ kè̠me̠
+Pûs kapë'wa̠	Ba kapö́wa̠	MODE:IMP;TENSE:IPFV_REC;ASPECT:IPFV;PERSON:2_SI	Be' dakö́r
+Pûs kapë'wa̠	Kapë̀ne̠wa̠	VOICE:MID;ABSNUM:NI	Iàstalë̀rk
+Pûs kapë'wa̠	Kë̀ kapë̀ne̠wa̠	TYPE:NEG;VOICE:MID;ABSNUM:NI	Kë̀ Po'tak kö̀ne̠
+Pûs kapë'wa̠	Kapë̀rwa̠	TENSE:IPFV_REC;ASPECT:IPFV;VOICE:MID;ABSNUM:NI	Iàr të̀r
+Ye' tö i kít	Ye' kë̀ wa̠ i kìte̠	TYPE:NEG	Ye' kë̀ wa̠ i síne̠
+Ye' tö i kít	Ye' tö i ishté	TENSE:PRF_REC	Ye' tö i ské
+Ye' tö i kít	Ye' kë̀ wa̠ i kìte̠	TYPE:NEG;TENSE:PRF_REC	Ye' kë̀ wa̠ i síne̠
+Ye' tö i kít	Ye' tö i ishtè	TENSE:IPFV_REC;ASPECT:IPFV	Ye' tö i skè
+Ye' tö i kít	Kë̀ ye' tö i ishte	TYPE:NEG;TENSE:IPFV_REC;ASPECT:IPFV	Ye' kë̀ wa̠ i skè
+Ye' tö i kít	Ye' tso i ishtö́k	TENSE:IPFV_PROG;ASPECT:IPFV	Ye' tso i skö́k
+Ye' tö i kít	Ye' kë̀ ku̠ i ishtö́k	TYPE:NEG;TENSE:IPFV_PROG;ASPECT:IPFV	Ye' kë̀ ku̠ i skö́k
+Ye' tö i kít	Ye' bák i ishtö́k	TENSE:PRF_PROG	Ye' bák i skö́k
+Ye' tö i kít	Ye' kë̀ ku̠'bak i ishtö́k	TYPE:NEG;TENSE:PRF_PROG	Ye' kë̀ ku̠'bak i skö́k
+Ye' tö i kít	I ishtö́	MODE:IMP;TENSE:IPFV_REC;ASPECT:IPFV;PERSON:NA	I ki'tak i
+Ye' tö i kít	Kë̀ i ishtök	TYPE:NEG;MODE:IMP;TENSE:IPFV_REC;ASPECT:IPFV;PERSON:NA	Ie' kë̀ ku̠'iak iö́
+Ye' tö i kít	Kë̀ i ishtar	TYPE:NEG;MODE:IMP;TENSE:IPFV_REC;ASPECT:IPFV;VOICE:MID;PERSON:3_SI	I kàsir
+Ye' tö i kít	I kìte̠	VOICE:MID;PERSON:3_SI	I síne̠
+Ye' tö i kít	Kë̀ i kìte̠	TYPE:NEG;TENSE:PRF_REC;VOICE:MID;PERSON:3_SI	I kë̀ wa̠ i skö́k
+Ye' diö́köl bàtsul ako̠' a̠'mi̠k	Ye' diö́köl kë̀ ku̠ bàtsul ako̠' a̠'mi̠k	TYPE:NEG	Kë̀ ye' kë̀ wa̠ àrrosta̠ku̠
+Ye' diö́köl bàtsul ako̠' a̠'mi̠k	Ye' diö́köl bák bàtsul ako̠' a̠'mi̠k	TENSE:PRF_REM;ASPECT:PFV	Ye' tö kàrroa ta̠'ku̠
+Ye' diö́köl bàtsul ako̠' a̠'mi̠k	Ye' diö́köl kë̀ ku̠'bak bàtsul ako̠' a̠'mi̠k	TYPE:NEG;TENSE:PRF_REM;ASPECT:PFV	Kë̀ ye' tö kàsra̠ku̠
+Ye' diö́köl bàtsul ako̠' a̠'mi̠k	Ye' diö́köl bàtsulur ako̠' a̠'mi̠k	ABSNUM:PL	Ie' tö kàrrale
+Ye' diö́köl bàtsul ako̠' a̠'mi̠k	Ye' diö́köl kë̀ ku̠ bàtsulur ako̠' a̠'mi̠k	TYPE:NEG;ABSNUM:PL	Kë̀ ye' tö kàrpa̠
+Ye' diö́köl bàtsul ako̠' a̠'mi̠k	Ye' diö́köl bák bàtsulur ako̠' a̠'mi̠k	TENSE:PRF_REM;ASPECT:PFV;ABSNUM:PL	Ye' tö kàrroa ta̠'ku̠ ñè̠
+Ye' diö́köl bàtsul ako̠' a̠'mi̠k	Ye' diö́köl kë̀ ku̠'bak bàtsulur ako̠' a̠'mi̠k	TYPE:NEG;TENSE:PRF_REM;ASPECT:PFV;ABSNUM:PL	Kë̀ ye' tö kàrule
+Ye'r i sú̠	Ye' kë̀ wa̠ i sù̠ne̠	TYPE:NEG	Kë̀ ie' kë̀ wa̠ ië'ta̠
+Ye'r i sú̠	Ye'r i sa̠wé̠	TENSE:PRF_REC	Ye' dör stsí
+Ye'r i sú̠	Ye kë̀ wa̠ i sù̠ne̠	TYPE:NEG;TENSE:PRF_REC	Ye' kë̀ wa̠ i síne̠
+Ye'r i sú̠	Ye'r i sa̠wè̠	TENSE:IPFV_REC;ASPECT:IPFV	Ye' dör siè
+Ye'r i sú̠	Kë̀ ye'r i sa̠we̠	TYPE:NEG;TENSE:IPFV_REC;ASPECT:IPFV	Kë̀ ie' dör siè
+Ye'r i sú̠	I sa̠ú̠	MODE:IMP;TENSE:IPFV_REC;ASPECT:IPFV;PERSON:NA	Ie' dö́r
+Ye'r i sú̠	Kë̀ be' tö i sa̠u̠k	TYPE:NEG;MODE:IMP;TENSE:IPFV_REC;ASPECT:IPFV;PERSON:2_SI	Be' kë̀ ku̠ i skö́
+Ye'r i sú̠	Kë̀ i sa̠wa̠r	TYPE:NEG;MODE:IMP;TENSE:IPFV_REC;ASPECT:IPFV;VOICE:MID;PERSON:3_SI	Ie' kë̀ ku̠ itsö́k
+Ye'r i sú̠	I sa̠ù̠ sö	MODE:EXH;TENSE:IPFV_REC;ASPECT:IPFV;PERSON:1_PL_INC	Se' tso iö́
+Ye'r i sú̠	Ye'r i sa̠wè̠râ	TENSE:FUT_CER;ASPECT:IPFV	Ye' dör sèrâ
+Ye'r i sú̠	Kë̀ ye'r i sa̠wè̠pa	TYPE:NEG;TENSE:FUT_CER;ASPECT:IPFV	Kë̀ ie' dör sièpa
+Ye'r i sú̠	Ye'r i sa̠wè̠ke̠	TENSE:IPFV_HAB;ASPECT:IPFV	Ye' dör sèke̠
+Ye'r i sú̠	Kë̀ ye'r i sa̠wè̠ku̠	TYPE:NEG;TENSE:IPFV_HAB;ASPECT:IPFV	Kë̀ ie' dör skè̠
+Ye'r i sú̠	Ye'r i sa̠wè̠mi̠	TENSE:FUT_POT;ASPECT:IPFV	Ye' dör ièmi̠
+Ye'r i sú̠	Kë̀ ye'r i sa̠u̠k	TYPE:NEG;TENSE:FUT_POT;ASPECT:IPFV	Kë̀ ie' dör iu̠
+Ye'r i sú̠	I sù̠ne̠	VOICE:MID;PERSON:3_SI	I síne̠
+Ye'r i sú̠	I sù̠ne̠rak	VOICE:MID;ABSNUM:PL;PERSON:3_PL	Ie'pa tsí ië'pa
+Ye' wa̠ sawë́ chka katárule	Ye' kë̀ wa̠ sawë́ chka katárule	TYPE:NEG	Kë̀ be' kë̀ wa̠ dar kë̀ne̠
+Ye' wa̠ sawë́ chka katárule	Sawë́ chka katárule	VOICE:MID;PERSON:NA	Iàroa̠kë̀ne̠
+Ye' stsë'	Ye' stsé	TENSE:PRF_REC	Ye' stsö
+Ye' stsë'	Ye' kë̀ stsë̀ne̠	TYPE:NEG	Kë̀ ye' shkö̀ne̠
+Ye' stsë'	Ye' kë̀ stsë̀ne̠	TYPE:NEG;TENSE:PRF_REC	Kë̀ ye' shkö̀
+Ye' stsë'	Stsë̀ne̠	VOICE:MID;ABSNUM:NI;PERSON:NA	Shkàne̠
+Ye' stsë'	Kë̀ stsë̀ne̠	TYPE:NEG;VOICE:MID;ABSNUM:NI;PERSON:NA	Kë̀ shkàne̠
+Ye' stsë'	Ie' stsö̀	TENSE:IPFV_REC;ASPECT:IPFV;PERSON:3_SI	Ie' shkö̀
+Ye' stsë'	Ie' kë̀ stsö	TYPE:NEG;TENSE:IPFV_REC;ASPECT:IPFV;PERSON:3_SI	Kë̀ ye' stsö
+Ye' stsë'	Ye' stsö̀	TENSE:IPFV_REC;ASPECT:IPFV	Ye' tö̀ shk
+Ye' stsë'	Ye' stsö̀râ	TENSE:FUT_CER;ASPECT:IPFV	Ye' tsö shkö̀râ
+Ye' stsë'	Kë̀ ye' stsö̀pa	TYPE:NEG;TENSE:FUT_CER;ASPECT:IPFV	Kë̀ ye' tsö kö̀pa
+Ye' stsë'	Ye' stsö̀ke̠	TENSE:IPFV_HAB;ASPECT:IPFV	Ye' tsö kö̀rke
+Ye' stsë'	Kë̀ ye' stsö̀ku̠	TYPE:NEG;TENSE:IPFV_HAB;ASPECT:IPFV	Kë̀ ye' tsö kuèku̠
+Ye' stsë'	Ye' stsö̀mi̠	TENSE:FUT_POT;ASPECT:IPFV	Ye' tsö kö̀mi̠
+Ye' stsë'	Kë̀ ye' stsök	TYPE:NEG;TENSE:FUT_POT;ASPECT:IPFV	Kë̀ ye' shkök
+Ye' stsë'	Ye' stsa'	MODE:ADVERS	Ye' shka'
+Ye' stsë'	Be' stsö́	MODE:IMP;TENSE:IPFV_REC;ASPECT:IPFV;PERSON:2_SI	Be' shkö́
+Ye' stsë'	Kë̀ be' stsök	TYPE:NEG;MODE:IMP;TENSE:IPFV_REC;ASPECT:IPFV;PERSON:2_SI	Kë̀ be' tsök
+Ye' stsë'	Kë̀ stsar	TYPE:NEG;MODE:IMP;TENSE:IPFV_REC;ASPECT:IPFV;VOICE:MID;ABSNUM:NI;PERSON:NA	Kë̀ shkar
+Ye' tö i búk	Ye' kë̀ wa̠ i bùne̠	TYPE:NEG	Ye' kë̀ wa̠ i síne̠
+Ye' tö i búk	Ye' tö i ppé	TENSE:PRF_REC	Ye' tö i ské
+Ye' tö i búk	Ye tö i ppè	TENSE:IPFV_REC;ASPECT:IPFV	Ye' tö i skè
+Ye' tö i búk	Ye' tso i ppö́k	TENSE:IPFV_PROG;ASPECT:IPFV	Ye' tso i skö́k
+Ye' tö i búk	Ye' kë̀ ku̠ i ppö́k	TYPE:NEG;TENSE:IPFV_PROG;ASPECT:IPFV	Ye' kë̀ ku̠ i skö́k
+Ye' tö i búk	Ye' bák i ppö́k	TENSE:PRF_PROG	Ye' bák i skö́k
+Ye' tö i búk	Ye' kë̀ ku̠'bak i ppö́k	TYPE:NEG;TENSE:PRF_PROG	Ye' kë̀ ku̠'bak i skö́k
+Ye' tö i búk	Ye' tö i ppèke̠	TENSE:IPFV_HAB;ASPECT:IPFV	Ye' tö i skèèke̠
+Ye' tö i búk	I ppö́	MODE:IMP;TENSE:IPFV_REC;ASPECT:IPFV;PERSON:NA	I ki' tak iö́
+Ye' tö i búk	Bùne̠	VOICE:MID;ABSNUM:NI;PERSON:NA	Síne̠
+Ye' tö i búk	Bùr	TENSE:IPFV_REC;ASPECT:IPFV;VOICE:MID;ABSNUM:NI;PERSON:NA	S sír
+Wé̠shke̠ alákölpaë̀ tso	Wé̠shke̠ alákölpaë̀ tká	TENSE:PRF_REC;ASPECT:PFV	Chìchi tö Po'tak ku̠
+Wé̠shke̠ alákölpaë̀ tso	Wé̠shke̠ alákölpaë̀ bák	TENSE:PRF_REM;ASPECT:PFV	Chìchi bák stsö́k
+Ye' tö ù sú̠	Be' tö ù sú̠	PERSON:2_SI	Be' bák i skö́k
+Ye' tö ù sú̠	Ie' tö ù sú̠	PERSON:3_SI	Ie' të́ i skö́k
+Ye' tö ù sú̠	Sa' tö ù sú̠	PERSON:1_PL_EXC	Sa' ta i skö́k
+Ye' tö ù sú̠	Se' tö ù sú̠	PERSON:1_PL_INC	Se' tö i skö́k
+Ye' tö ù sú̠	A' tö ù sú̠	PERSON:2_PL	A' tso i skö́k
+Ye' tö ù sú̠	Ie'pa tö ù sú̠	PERSON:3_PL	Ie'pa tö i skö́k
+Ye' tö ù sú̠	Ye' tö ù sa̠wé̠	TENSE:PRF_REC	Ye' tö i ské
+Ye' tö ù sú̠	Ye' tso ù sa̠u̠k	TENSE:IPFV_PROG;ASPECT:IPFV	Ye' tso i skö́k
+Ye' tö ù sú̠	Ù sù̠ne̠	VOICE:MID;PERSON:NA	Se' tsí bìne̠
+Ye' tö ù sú̠	Kë̀ ù sù̠ne̠	TYPE:NEG;VOICE:MID;PERSON:NA	I kë̀ wa̠ ië̀ne̠
+Ye' tö ù sú̠	Ù sù̠na̠	TENSE:PRF_REC;VOICE:MID;PERSON:NA	Se' tsí bìna̠
+Ye' tö ù sú̠	Ù sú̠r	TENSE:IPFV_REC;ASPECT:IPFV;VOICE:MID;PERSON:NA	Se' tsí iè
+Ye' tö ù sú̠	Kë̀ ù sú̠r	TYPE:NEG;TENSE:IPFV_REC;ASPECT:IPFV;VOICE:MID;PERSON:NA	I kë̀ i̠
+Ye' tö ù sú̠	Ye' kë̀ wa̠ ù sù̠ne̠	TYPE:NEG	Ye' kë̀ wa̠ i síne̠
+Ye' tö ù sú̠	Ù sú̠rule	TENSE:PAS_PLU;VOICE:MID;PERSON:NA	Se' tsí bárule
+Ye' tö ù sú̠	Ie'pa wa̠ ù sú̠rule	TENSE:PAS_PLU;PERSON:3_PL	Ie'pa bák ië́rule
+Ye' tö ù sú̠	Ie'pa kë̀ wa̠ ù sú̠rule	TYPE:NEG;TENSE:PAS_PLU;PERSON:3_PL	Ie'pa kë̀ wa̠ i sírule
+Ye' tö i kö́twa̠	Ye' tö i kö́tulur	ABSNUM:PL	Ie' tö i kë'pa
+Ye' tö i kö́twa̠	Ye' kë̀ wa̠ i kö̀te̠wa̠	TYPE:NEG	Ye' kë̀ wa̠ i síne̠
+Ye' tö i kö́twa̠	Ye' tö i ujtéwa̠	TENSE:PRF_REC	Ye' tö i ské
+Ye' tö i kö́twa̠	Ye' kë̀ wa̠ i kö̀te̠wa̠	TYPE:NEG;TENSE:PRF_REC	Ye' kë̀ wa̠ i skö́k
+Ye' tö i kö́twa̠	Ye' tö i ujtèwa̠	TENSE:IPFV_REC;ASPECT:IPFV	Ye' tö i skè
+Ye' tö i kö́twa̠	Ye' tö i ujtèulur	TENSE:IPFV_REC;ASPECT:IPFV;ABSNUM:PL	Ie' tö i kèmi̠
+Ye' tö i kö́twa̠	Ye' tso i ujtö́kwa̠	TENSE:IPFV_PROG;ASPECT:IPFV	Ye' tso i skö́k
+Ye' tö i kö́twa̠	Ye' kë̀ ku̠ i ujtö́kwa̠	TYPE:NEG;TENSE:IPFV_PROG;ASPECT:IPFV	Ye' kë̀ ku̠ i skö́k
+Ye' tö i kö́twa̠	Ye' bák i ujtö́kwa̠	TENSE:PRF_PROG	Ye' bák i skö́k
+Ye' tö i kö́twa̠	Ye' kë̀ ku̠'bak i ujtö́kwa̠	TYPE:NEG;TENSE:PRF_PROG	Ye' kë̀ ku̠'bak i skö́k
+Ye' tö i kö́twa̠	Kë̀ i ujtök	TYPE:NEG;MODE:IMP;TENSE:IPFV_REC;ASPECT:IPFV;PERSON:NA	Ie' kë̀ ku̠'bak i kö́k
+Ye' tö i kö́twa̠	Ye' é̠n a̠ i ujta'kwa̠	MODE:DES;TENSE:IPFV_REC;ASPECT:IPFV	Ye' é̠n a̠ i skö́k
+Ye' tö i kö́twa̠	Kë̀ ye' é̠n a̠ i ujta'kwa̠	TYPE:NEG;MODE:DES;TENSE:IPFV_REC;ASPECT:IPFV	Ye' kë̀ wa̠ i skö́k
+Ye' tö i kö́twa̠	Ye' tö i ujta'wa̠	MODE:ADVERS	Ye' wa̠ i ska'
+Ye' tö i kö́twa̠	Ye' tö i ujtèke̠wa̠	TENSE:IPFV_HAB;ASPECT:IPFV	Ye' tö i kèmè̠
+Ye' tö i kö́twa̠	Ye' tö i ujtèkè̠ulur	TENSE:IPFV_HAB;ASPECT:IPFV;ABSNUM:PL	Ie' tö i kèmi̠
+Ye' tö i kö́twa̠	Ye' tö i ujtèwa̠râ	TENSE:FUT_CER;ASPECT:IPFV	Ye' tö i skèrâ
+Ye' tö i kö́twa̠	Kë̀ ye' tö i ujtèpawa̠	TYPE:NEG;TENSE:FUT_CER;ASPECT:IPFV	Ye' kë̀ wa̠ i skö́k
+Ye' tö i kö́twa̠	Ye' a̠ i dawö	MODE:POT;TENSE:IPFV_REC;ASPECT:IPFV	Ye' a̠ i skö́k
+Ye' tö i kö́twa̠	I kö̀te̠wa̠	VOICE:MID;PERSON:3_SI	I síne̠
+Ye' tö i kö́twa̠	Kë̀ i kö̀te̠wa̠	TYPE:NEG;VOICE:MID;PERSON:3_SI	I kë̀ ku̠'bak ië́k
+Ye' tso' dawèie	Ye' kë̀ ku̠ dawèie	TYPE:NEG	Kë̀ ie' kë̀ wa̠ kë̀ne̠
+Ye' tso' dawèie	Ye' tchá dawèie	TENSE:PRF_REC;ASPECT:PFV	Ye' tö kéwa̠
+Ye' tso' dawèie	Ye' bák dawèie	TENSE:PRF_REM;ASPECT:PFV	Ie' tso bákrule
+Ye' tso' dawèie	Ye' kë̀ ku̠'bak dawèie	TYPE:NEG;TENSE:PRF_REM;ASPECT:PFV	Kë̀ ie' tsí bakwa̠
+Ye' tso' dawèie	Be' tso' dawèie	PERSON:2_SI	Be' útk dö́r
+Ye' tso' dawèie	Be' kë̀ ku̠ dawèie	TYPE:NEG;PERSON:2_SI	Kë̀ ie' tö kë̀ne̠
+Ye' tso' dawèie	Be' tchá dawèie	TENSE:PRF_REC;ASPECT:PFV;PERSON:2_SI	Be' dör ye'tak ku̠'
+Ye' tso' dawèie	Be' bák dawèie	TENSE:PRF_REM;ASPECT:PFV;PERSON:2_SI	Be' bák darö́k
+Ye' tso' dawèie	Be' kë̀ ku̠'bak dawèie	TYPE:NEG;TENSE:PRF_REM;ASPECT:PFV;PERSON:2_SI	Kë̀ ie' tsí bakwa̠
+Ye' tso' dawèie	Ie' tso' dawèie	PERSON:3_SI	Ie' ú̠k da'rë
+Ye' tso' dawèie	Ie' kë̀ ku̠ dawèie	TYPE:NEG;PERSON:3_SI	Kë̀ ie' tö kë̀ne̠
+Ye' tso' dawèie	Ie' tchá dawèie	TENSE:PRF_REC;ASPECT:PFV;PERSON:3_SI	Ie' tö kàsa̠
+Ye' tso' dawèie	Ie' bák dawèie	TENSE:PRF_REM;ASPECT:PFV;PERSON:3_SI	Ie' tso ba'ku̠
+Ye' tso' dawèie	Ie' kë̀ ku̠'bak dawèie	TYPE:NEG;TENSE:PRF_REM;ASPECT:PFV;PERSON:3_SI	Kë̀ ie' tsí bakwa̠
+Ye' tso' dawèie	Se' tso' dawèie	ABSNUM:PL;PERSON:1_PL_INC	Ie' tö kë'ra̠
+Ye' tso' dawèie	Se' kë̀ ku̠ dawèie	TYPE:NEG;ABSNUM:PL;PERSON:1_PL_INC	Kë̀ ie' tak iö̀ne̠
+Ye' tso' dawèie	Se' tchá dawèie	TENSE:PRF_REC;ASPECT:PFV;ABSNUM:PL;PERSON:1_PL_INC	Ie' tö kàsir
+Ye' tso' dawèie	Se' bák dawèie	TENSE:PRF_REM;ASPECT:PFV;ABSNUM:PL;PERSON:1_PL_INC	Ie' tso dawö́k
+Ye' tso' dawèie	Se' kë̀ ku̠'bak dawèie	TYPE:NEG;TENSE:PRF_REM;ASPECT:PFV;ABSNUM:PL;PERSON:1_PL_INC	Kë̀ ie' tsí biö́k
+Ye' tso' dawèie	Sa' tso' dawèie	ABSNUM:PL;PERSON:1_PL_EXC	Sa' ú̠n aë'rë
+Ye' tso' dawèie	Sa' kë̀ ku̠ dawèie	TYPE:NEG;ABSNUM:PL;PERSON:1_PL_EXC	Ia' kë̀ wa̠ ië'tak
+Ye' tso' dawèie	Sa' tchá dawèie	TENSE:PRF_REC;ASPECT:PFV;ABSNUM:PL;PERSON:1_PL_EXC	Sa' dar ye'tak ku̠
+Ye' tso' dawèie	Sa' bák dawèie	TENSE:PRF_REM;ASPECT:PFV;ABSNUM:PL;PERSON:1_PL_EXC	Sa' bák darö́k
+Ye' tso' dawèie	Sa' kë̀ ku̠'bak dawèie	TYPE:NEG;TENSE:PRF_REM;ASPECT:PFV;ABSNUM:PL;PERSON:1_PL_EXC	Ia' kë̀ wa̠ ië'tak
+Ye' tso' dawèie	A' tso' dawèie	ABSNUM:PL;PERSON:2_PL	A' ú̠' tkë'rë
+Ye' tso' dawèie	A' kë̀ ku̠ dawèie	TYPE:NEG;ABSNUM:PL;PERSON:2_PL	A' kë̀ wa̠ ië'tak
+Ye' tso' dawèie	A' tchá dawèie	TENSE:PRF_REC;ASPECT:PFV;ABSNUM:PL;PERSON:2_PL	A' dawóre'
+Ye' tso' dawèie	A' bák dawèie	TENSE:PRF_REM;ASPECT:PFV;ABSNUM:PL;PERSON:2_PL	A' bák darö́k
+Ye' tso' dawèie	A' kë̀ ku̠'bak dawèie	TYPE:NEG;TENSE:PRF_REM;ASPECT:PFV;ABSNUM:PL;PERSON:2_PL	A' kë̀ wa̠ ië'tak
+Ye' tso' dawèie	Ie'pa tso' dawèie	ABSNUM:PL;PERSON:3_PL	Ie'pa tö kë'pa
+Ye' tso' dawèie	Ie'pa kë̀ ku̠ dawèie	TYPE:NEG;ABSNUM:PL;PERSON:3_PL	Ie'pa kë̀ wa̠ ië'tak
+Ye' tso' dawèie	Ie'pa tchá dawèie	TENSE:PRF_REC;ASPECT:PFV;ABSNUM:PL;PERSON:3_PL	Ie'pa tö ka'ba̠
+Ye' tso' dawèie	Ie'pa bák dawèie	TENSE:PRF_REM;ASPECT:PFV;ABSNUM:PL;PERSON:3_PL	Ie'pa tö kë'ra̠
+Ye' tso' dawèie	Ie'pa kë̀ ku̠'bak dawèie	TYPE:NEG;TENSE:PRF_REM;ASPECT:PFV;ABSNUM:PL;PERSON:3_PL	Ie' kë̀ wa̠ ië'tak
+Ye' tö i̠ ña̠'wa	Ye' tö i̠ ña̠'alor	ABSNUM:PL	Ie' tö i kë'pa
+Ie' stsë' bua'	Ie' stsö̀ bua'	TENSE:IPFV_REC;ASPECT:IPFV	Ye' tö bi'
+Ie' stsë' bua'	Ie' kë̀ stsö bua'	TYPE:NEG;TENSE:IPFV_REC;ASPECT:IPFV	Kë̀ ye' tsí bie
+Chìchi dör bë̂rie	Chichi dör wî̠wî̠	ABSNUM:PL	Kë̀ wa̠ àrrosta̠ku̠
+Chìchi dör sarûrû	Chìchi dör sarûrû sarûrû	ABSNUM:PL	Kë̀ wa̠ àrrosta̠ku̠
+Ie'pa tö kàsir chka të'a	Ie'pa kë̀ wa̠ kàsir chka të̀nà̠ne̠	TYPE:NEG	Kë̀ ye' kë̀ wa̠ kàsir të̀ne̠
+Ie'pa tö kàsir chka të'a	Ie'pa tso kàsir chka tö́kök	TENSE:IPFV_PROG;ASPECT:IPFV	Ye' tso kàsir tö́k
+Ie'pa tö kàsir chka të'a	Ie'pa kë̀ ku̠ kàsir chka tö́kök	TYPE:NEG;TENSE:IPFV_PROG;ASPECT:IPFV	Ye' kë̀ ku̠ kàsir tö́k
+Ie'pa tö kàsir chka të'a	Ie'pa bák kàsir chka tö́kök	TENSE:PRF_PROG	Ye' bák kàsir tö́k
+Ie'pa tö kàsir chka të'a	Ie'pa kë̀ ku̠'bak kàsir chka tö́kök	TYPE:NEG;TENSE:PRF_PROG	Ye' kë̀ ku̠'bak kàsir tö́k
+Ie'pa tö kàsir chka të'a	Kàsir chka të̀nà̠ne̠	TENSE:PRF_REC;VOICE:MID;PERSON:NA	Kàsir të̀na̠
+Ie'pa tö kàsir chka të'a	Ie'pa tö kàsir chka tée	TENSE:PRF_REC	Ye' tö kàsir té
+Ie'pa tö kàsir chka të'a	Kàsir chka tö́ö	MODE:IMP;TENSE:IPFV_REC;ASPECT:IPFV;PERSON:NA	Kàsir tö́
+Ie'pa tö kàsir chka të'a	Kë̀ kàsir chka tökök	TYPE:NEG;MODE:IMP;TENSE:IPFV_REC;ASPECT:IPFV;PERSON:NA	Kë̀ kàsir tök
+Ye' tö dawà su'	Ye' kë̀ wa̠ dawà sùne̠	TYPE:NEG	Kë̀ ie' kë̀ wa̠ ië̀ne̠
+Ye' tö dawà su'	Ye' tö dawà su'mi̠	ASPECT:INC	Ye' tö ii'mi̠
+Ye' tö dawà su'	Ye' tö dawà sawé	TENSE:PRF_REC	Ye' tö ali'
+Ye' tö dawà su'	Ye' kë̀ wa̠ dawà sùne̠	TYPE:NEG;TENSE:PRF_REC	Kë̀ ye' tsí bìne̠
+Ye' tö dawà su'	Ye' tö dawà sawémi̠	TENSE:PRF_REC;ASPECT:INC	Ye' tö ia'mé̠
+Ye' tö dawà su'	Ye' tö dawà sawè	TENSE:IPFV_REC;ASPECT:IPFV	Ye' tö i kèm
+Ye' tö dawà su'	Kë̀ ye' tö dawà sawe	TYPE:NEG;TENSE:IPFV_REC;ASPECT:IPFV	Kë̀ ie' dör sir
+Ye' tö dawà su'	Ye' tso dawà sawö́k	TENSE:IPFV_PROG;ASPECT:IPFV	Ye' tso i sö́k
+Ye' tö dawà su'	Ye' kë̀ ku̠ dawà sawö́k	TYPE:NEG;TENSE:IPFV_PROG;ASPECT:IPFV	Ye' kë̀ ku̠ i sö́k
+Ye' tö dawà su'	Ye' bák dawà sawö́k	TENSE:PRF_PROG	Ye' bák iáskö́k
+Ye' tö dawà su'	Ye' kë̀ ku̠'bak dawà sawö́k	TYPE:NEG;TENSE:PRF_PROG	Ye' kë̀ ku̠'bak ië'bak ku̠
+Ye' tö dawà su'	Dawà sawö́	MODE:IMP;TENSE:IPFV_REC;ASPECT:IPFV;PERSON:NA	I kimú̠
+Ye' tö dawà su'	Kë̀ dawà sawök	TYPE:NEG;MODE:IMP;TENSE:IPFV_REC;ASPECT:IPFV;PERSON:NA	Kë̀ i kàsbak
+Ye' tö dawà su'	Kë̀ dawà sawar	TYPE:NEG;MODE:IMP;TENSE:IPFV_REC;ASPECT:IPFV;VOICE:MID;PERSON:NA	Kë̀ i síra̠
+Ye' tö dawà su'	Dawà sawö̀ sö	MODE:EXH;TENSE:IPFV_REC;ASPECT:IPFV;PERSON:1_PL_INC	I sir sö
+Ye' tö dawà su'	Ye' é̠n a̠ dawà sawa'ku̠	MODE:DES;TENSE:IPFV_REC;ASPECT:IPFV	Ye' é̠n a̠ ia'ku̠'ku̠
+Ye' tö dawà su'	Kë̀ ye' é̠n a̠ dawà sawa'ku̠	TYPE:NEG;MODE:DES;TENSE:IPFV_REC;ASPECT:IPFV	Kë̀ ie' é̠n a̠ ia'ku̠
+Ye' tö dawà su'	Ye' wa̠ dawà sawa'	MODE:ADVERS	Ye' wa̠ ia'a̠'
+Ye' tö dawà su'	Ye' tö dawà sawèke̠	TENSE:IPFV_HAB;ASPECT:IPFV	Ye' tö i kèmè̠
+Ye' tö dawà su'	Kë̀ ye' tö dawà sawèku̠	TYPE:NEG;TENSE:IPFV_HAB;ASPECT:IPFV	Kë̀ ie' tö ki'ku̠
+Ye' tö dawà su'	Ye' tö dawà sawèmi̠	TENSE:FUT_POT;ASPECT:IPFV	Ye' tö i sèmi̠
+Ye' tö dawà su'	Kë̀ ye' tö dawà sawök	TYPE:NEG;TENSE:FUT_POT;ASPECT:IPFV	Kë̀ ie' tö ki'mu̠k
+Ye' tö dawà su'	Ye' tö dawà sawèrâ	TENSE:FUT_CER;ASPECT:IPFV	Ye' tö i sèrâ
+Ye' tö dawà su'	Kë̀ ye' tö dawà sawèpa	TYPE:NEG;TENSE:FUT_CER;ASPECT:IPFV	Kë̀ ie' tö ki'pa
+Ye' tö dawà su'	Dawà sùne̠	VOICE:MID;PERSON:NA	Kàsir të̀ne̠
+Ye' tö dawà su'	Kë̀ dawà sùne̠	TYPE:NEG;VOICE:MID;PERSON:NA	Kë̀ i wáne̠
+Ye' tö dawà su'	Dawà sùna̠	TENSE:PRF_REC;VOICE:MID;PERSON:NA	I wámba̠
+Ye' tö dawà su'	Kë̀ dawà sùne̠	TYPE:NEG;TENSE:PRF_REC;VOICE:MID;PERSON:NA	Kë̀ i wa̠mb̠ne̠
+Ye' tö dawà su'	Dawà sùr	TENSE:IPFV_REC;ASPECT:IPFV;VOICE:MID;PERSON:NA	Kàsir të̀r
+Ye' tö dawà su'	Kë̀ dawà sur	TYPE:NEG;TENSE:IPFV_REC;ASPECT:IPFV;VOICE:MID;PERSON:NA	Kë̀ i wa̠rme̠
+Ye' tö dawà su'	Dawà sùrke̠	TENSE:IPFV_HAB;ASPECT:IPFV;VOICE:MID;PERSON:NA	Kàsir të̀rke̠
+Ye' tö dawà su'	Kë̀ dawà sùrku̠	TYPE:NEG;TENSE:IPFV_HAB;ASPECT:IPFV;VOICE:MID;PERSON:NA	Kë̀ i wa̠mbakrku̠
+Ye' tö dawà su'	Dawà sùrmi̠	TENSE:FUT_POT;ASPECT:IPFV;VOICE:MID;PERSON:NA	Kàsir të̀mi̠
+Ye' tö dawà su'	Kë̀ dawà sùnu̠k	TYPE:NEG;TENSE:FUT_POT;ASPECT:IPFV;VOICE:MID;PERSON:NA	Kë̀ i wa̠mi̠k
+Ye' tö dawà su'	Dawà sùrdâ	TENSE:FUT_CER;ASPECT:IPFV;VOICE:MID;PERSON:NA	Kàsir të̀rdâ
+Ye' tö dawà su'	Kë̀ dawà sùrpa	TYPE:NEG;TENSE:FUT_CER;ASPECT:IPFV;VOICE:MID;PERSON:NA	Kë̀ i wa̠mbapa
+Ye' tö dawà su'	Ye' wa̠ dawà súrule	TENSE:PAS_PLU	Ye' wa̠ iárosírule
+Ye' tö dawà su'	Ye' kë̀ wa̠ dawà súrule	TYPE:NEG;TENSE:PAS_PLU	Kë̀ ye' tsí bárule
+Ye' tö dawà su'	Ye' a̠ dawà súr	MODE:POT;TENSE:IPFV_REC;ASPECT:IPFV	Ye' a̠ i sír
+Ye' tö dawà su'	Kë̀ ye' a̠ dawà súr	TYPE:NEG;MODE:POT;TENSE:IPFV_REC;ASPECT:IPFV	Kë̀ ie' a̠ io'tak kur

@@ -1,0 +1,80 @@
+Source	Target	Change	Predicted Target
+Ore ndorombyai kuri	Ore rombyai kuri	TYPE:AFF	Ore romboi kui kuri
+Ore ndorombyai kuri	Ore ndorombyaita	TENSE:FUT_SIM	Ore ndoromboti’ãhína
+Ore ndorombyai kuri	Ñande nañambyai kuri	PERSON:1_PL_INC	Ñande ndomboiri kuri
+Ore ndorombyai kuri	Che nambyai kuri	PERSON:1_SI	Che ndamboi kui
+Ore ndorombyai kuri	Peẽ napembyai kuri	PERSON:2_PL	Nde remboi kui kuri
+Ore ndorombyai kuri	Nde nerembyai kuri	PERSON:2_SI	Nde remboi kuboi
+Peẽ napeñanga’uta	Peẽ peñanga’uta	TYPE:AFF	Peẽ  añeteta
+Peẽ napeñanga’uta	Ha’ekuéra ndoñanga’uta	PERSON:3_PL	Pe’e rereñeta
+Peẽ napeñanga’uta	Che nañanga’uta	PERSON:1_SI	Peẽ  añeaCoi ite’e
+Peẽ napeñanga’uta	Peẽ napeñanga’ui kuri	TENSE:PAS_REC	Peẽ  añererua ikue
+Peẽ napeñanga’uta	Peẽ napeñanga’ui	TENSE:PRE_SIM	Peẽ  añerereñetete
+Peẽ peñemongetami	Peẽ peñemongeta kuri	TENSE:PAS_REC	Peẽ natemina iiiiiiina
+Peẽ peñemongetami	Ñande ñañemongetami	PERSON:1_PL_INC	Ñanane nañemoini
+Peẽ peñemongetami	Ore roñemongetami	PERSON:1_PL_EXC	Ore naOroñemoini
+Peẽ peñemongetami	Peẽ peñemongetáta	TENSE:FUT_SIM	Peẽ otemota
+Peẽ peñemongetami	Peẽ napeñemongetaimi	TYPE:NEG	Peẽ natemoina
+Peẽ peñemongetami	Peẽ peñemongeta	TENSE:PRE_SIM	Peẽ natemoina
+Che ndahechái kuri peteĩ óga	Che ahechakuri peteĩ óga	TYPE:AFF	Che aikuái kuri kái kuri
+Che ndahechái kuri peteĩ óga	Che ndahecháihina kuri peteĩ óga	ASPECT:IPFV	Che aikuái kuri kái kuri
+Che ndahechái kuri peteĩ óga	Che ndahechái peteĩ óga	TENSE:PRE_SIM	Che aikuái kuri kái kuri
+Che ndahechái kuri peteĩ óga	Nde nderehechái peteĩ óga	PERSON:2_SI	Nde rereikuái riku kái kuri
+Ko’ã tembi’u ombojy jepe’a tatarendýpe	Ko’ã tembi’u ñambojy jepe’a tatarendýpe	PERSON:1_PL_INC	Ke mbojajuja ojajapy pende ape
+Ko’ã tembi’u ombojy jepe’a tatarendýpe	Ko’ã tembi’u rombojy jepe’a tatarendýpe	PERSON:1_PL_EXC	Ko mbe’ãjere ojajaje py pepekura
+Ko’ã tembi’u ombojy jepe’a tatarendýpe	Ko’ã tembi’u ndoñembojýi jepe’a tatarendýpe	TYPE:NEG	Ko te’ãmbojura kuri chíndope ape ape
+Ko’ã tembi’u ombojy jepe’a tatarendýpe	Ko’ã tembi’u oñembojýta jepe’a tatarendýpe	TENSE:FUT_SIM	Ko te’ỹ ombotape’ỹ ojape
+Ko’ã tembi’u ombojy jepe’a tatarendýpe	Ko’ã tembi’u oñembojýva’ekue jepe’a tatarendýpe	TENSE:PAS_PLU	Ku mbe’ãja ojajajapy pe’ỹ pe’e’e’e
+Peẽ napemongyrái kuri	Peẽ napemongyráita	TENSE:FUT_SIM	Peẽ najapy kuri kuri
+Peẽ napemongyrái kuri	Peẽ napemongyrá	TENSE:PRE_SIM	Peẽ nañemari ikuri
+Peẽ napemongyrái kuri	Ha’ekuéra nomongyrái kuri	PERSON:3_PL	Peẽ najapykuri kuri
+Peẽ napemongyrái kuri	Ñande nañamongyrái kuri	PERSON:1_PL_INC	Ñande ndañemi imi imi i
+Peẽ napemongyrái kuri	Ore noromongyrái kuri	PERSON:1_PL_EXC	Ore ndororoñemi ikuri
+Peẽ napemongyrái kuri	Peẽ pemongyra kuri	TYPE:AFF	Peẽ najapy kuri kuri
+Peteĩ ko’ẽme oñombohovai rakúma hikuái	Peteĩ ko’ẽme noñombohovai rakúma hikuái	TYPE:NEG	Peẽ nderombote ko’ûkuái kuri kuri kurara
+Peteĩ ko’ẽme oñombohovai rakúma hikuái	Peteĩ ko’ẽme nde reñombohovai rakúma	PERSON:2_PL	Peẽ rai ro’emi ko’ẽva ri uái rimbovararara
+Peteĩ ko’ẽme oñombohovai rakúma hikuái	Peteĩ ko’ẽme ñande ñañombohovai rakúma	PERSON:1_PL_INC	Ñande rombo’e ñaguái ko’ãguri ñarararara
+Peteĩ ko’ẽme oñombohovai rakúma hikuái	Peteĩ ko’ẽme ore roñombohovai rakúma	PERSON:1_PL_EXC	Ore rorombo’e ro’ẽi kovari kuái kurarara
+Ha’ekuéra osãmbyhy	Ha’ekuéra ndosãmbyhyi	TYPE:NEG	Ha’e ndororosykuri
+Ha’ekuéra osãmbyhy	Ha’ekuéra osãmbyhy hína	ASPECT:IPFV	Ha’e orapãgua’e ombohína
+Ha’ekuéra osãmbyhy	Ha’ekuéra osãmbyhyva’ekue	TENSE:PAS_PLU	Ha’e ora’e ora’ãáva
+Ha’ekuéra osãmbyhy	Ha’ekuéra osãmbyhy ikóni	ASPECT:INM	Ha’e orakuéra’e ombovy
+Ha’ekuéra osãmbyhy	Ñande ñasãmbyhy	PERSON:1_PL_INC	Ñande rajuéra’e ndosykuri
+Ha’ekuéra osãmbyhy	Ore rosãmbyhy	PERSON:1_PL_EXC	Ore rororoñembosy mbovy
+Ore norokúita	Ore rokúita	TYPE:AFF	Ore roroiku i
+Ore norokúita	Ñande nojakúita	PERSON:1_PL_INC	Ñande ndoirairiki
+Ore norokúita	Peẽ napekúirita	PERSON:2_PL	Ore roroiku i
+Ore norokúita	Nde nerekúirita	PERSON:2_SI	Nde reireiki
+Ore norokúita	Ore norokúita hína	ASPECT:IPFV	Ore ndoroiku i
+Ha’e omokañy kuri pene ñemu potavéva	Ha’e ndomokañýi kuri pene ñemu potavéva	TYPE:NEG	Ha’e ndomoñemoñari kumi kumi kuéra ararara
+Ha’e omokañy kuri pene ñemu potavéva	Nde remokañy kuri pene ñemu potavéva	PERSON:2_SI	Nde reimo’orei kumi umi kumi uérakuérarara
+Ha’e omokañy kuri pene ñemu potavéva	Peẽ pemokañy kuri pene ñemu potavéva	PERSON:2_PL	Peẽ ndai roñemoñaréraremonare
+Ha’e omokañy kuri pene ñemu potavéva	Che amokañy kuri pene ñemu potavéva	PERSON:1_SI	Che aimoñemoñemoñaréraremota are
+Ha’e omokañy kuri pene ñemu potavéva	Ha’e omokañyta pene ñemu potavéva	TENSE:FUT_SIM	Ha’e oñajuéra oñemota kuéra arararata
+Ha’e omokañy kuri pene ñemu potavéva	Ha’e omokañy kuri hína pene ñemu potavéva	ASPECT:IPFV	Ha’e oñajumonari kuri kumi uéra arara
+Ha’e noguerekómi	Ha’e oguerekómi	TYPE:AFF	Ha’e omoi kuri
+Ha’e noguerekómi	Ha’e noguerekói kuri	TENSE:PAS_REC	Ha’e ndokuri kuri
+Ha’e noguerekómi	Nde nereguerekómi	PERSON:2_SI	Nde rereikuri omi
+Ha’e noguerekómi	Che naguerekómi	PERSON:1_SI	Che ndaikui kuri
+Ha’e noguerekómi	Ñande nañaguerekómi	PERSON:1_PL_INC	Ñande ndaimi kuri
+Ha’e noguerekómi	Ha’e noguerekóita	TENSE:FUT_SIM	Ha’e omoi kuri
+Ha’e opovyvy kuri	Ha’e ndopovyvýi kuri	TYPE:NEG	Ha’e oikogua’ýri
+Ha’e opovyvy kuri	Ha’e opovyvy kuri hína	ASPECT:IPFV	Ha’e ojuri kuri
+Ha’e opovyvy kuri	Nde repovyvy kuri	PERSON:2_SI	Nde reire reikuri
+Ha’e opovyvy kuri	Che apovyvy kuri	PERSON:1_SI	Che ajuri kuri
+Ha’e opovyvy kuri	Ha’e opovyvyta	TENSE:FUT_SIM	Ha’e ojuri kuri
+Ha’e opovyvy kuri	Ha’e opovyvyva’ekue	TENSE:PAS_PLU	Ha’e ojuri kuri
+Ha’e opovyvy kuri	Ha’e opovyvymi	TENSE:PAS_IMP	Ha’e ojuri kuri
+Peẽ peko’õimi	Nde reko’õimi	PERSON:2_SI	Nde reimimi reimi
+Peẽ peko’õimi	Ha’e oko’õimi	PERSON:3_SI	Peẽ pei omi i imi
+Peẽ peko’õimi	Peẽ napeko’õimi	TYPE:NEG	Peẽ pei naimi imi
+Peẽ peko’õimi	Peẽ peko’õimi hína	ASPECT:IPFV	Peẽ pei omi i imi
+Peẽ peko’õimi	Peẽ peko’õimi ikóni	ASPECT:INM	Peẽ pei omi i imi
+Peẽ peko’õimi	Ore roko’õimi	PERSON:1_PL_EXC	Ore roroimi imi
+Peẽ peko’õimi	Che ako’õimi	PERSON:1_SI	Peẽ pei omi ikei
+Umi kuaaukahárakuéra oñemongeta kuri	Umi kuaaukahárakuéra noñemongetái kuri	TYPE:NEG	Umi reikuéra ndomohohondonde tare
+Umi kuaaukahárakuéra oñemongeta kuri	Pe kuaaukahára oñemongeta kuri	PERSON:3_SI	Umi reikuéra ota kuri kuri kuta kuérarara
+Umi kuaaukahárakuéra oñemongeta kuri	Umi kuaaukahárakuéra oñemongetáta	TENSE:FUT_SIM	Umbe ñaimota kuéta kuéra kuéra pymovarara
+Umi kuaaukahárakuéra oñemongeta kuri	Umi kuaaukahárakuéra oñemongeta kuri hína	ASPECT:IPFV	Umi reikuéra ohína kuri kuri tare
+Umi kuaaukahárakuéra oñemongeta kuri	Umi kuaaukahárakuéra oñemongetami	TENSE:PAS_IMP	Umi reikuéra omoha kuri kuéra nde
+Umi kuaaukahárakuéra oñemongeta kuri	Umi kuaaukahárakuéra oñemongeta ikóni kuri	ASPECT:INM	Umi reikuéra omoha kuri kuéra nde
