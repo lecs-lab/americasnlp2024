@@ -65,7 +65,7 @@ do
   # Move the folder so we only ever have one numbered version
   mv ./models/aug/2024americasnlp-$lang/version_0 ./models/aug/2024americasnlp-$lang/$arch
 
-  python ./scripts/copy-preds.py "./preds/aug/$method/$arch-$lang.tsv" "data/yoyodyne/$lang-dev.tsv"
+  python ./scripts/copy_preds.py "./preds/aug/$method/$arch-$lang.tsv" "data/yoyodyne/$lang-dev.tsv"
 
   python ./americasnlp2024/ST2_EducationalMaterials/baseline/evaluate.py "./preds/aug/$method/$arch-$lang.tsv" > "./preds/aug/$method/$arch-$lang-eval.out"
 
