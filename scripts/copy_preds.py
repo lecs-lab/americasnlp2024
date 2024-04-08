@@ -4,24 +4,26 @@ import argparse
 
 def copy_target_column(source_path, destination_path):
     # Load the source and destination files
-    source_df = pd.read_csv(source_path, sep='\t')
-    destination_df = pd.read_csv(destination_path, sep='\t')
+    source_df = pd.read_csv(source_path, sep='\t', header=None)
+    destination_df = pd.read_csv(destination_path, sep='\t', header=None)
 
-    # Check if the 'Target' column exists in the source
-    if 'Target' not in source_df.columns:
-        raise ValueError("'Target' column not found in the source file.")
+    source_df.columns = ['Source', 'Target', 'Change']
+    destination_df.columns = ['Source', 'Target', 'Change']
 
     # Replace or add the 'Target' column in the destination DataFrame
     destination_df['Predicted Target'] = source_df['Target']
 
     # Save the updated destination DataFrame to a new file
-    destination_df.to_csv(source_path, sep='\t', index=False)
+    destination_df.to_csv(source_path, sep='\t', index=False, header=False)
 
 
 def main():
-    parser = argparse.ArgumentParser(description='Copy "Target" column from a prediction TSV file to the full file.')
-    parser.add_argument('source_path', type=str, help='Path to the source TSV file.')
-    parser.add_argument('destination_path', type=str, help='Path to the destination TSV file.')
+    parser = argparse.ArgumentParser(
+        description='Copy "Target" column from a prediction TSV file to the full file.')
+    parser.add_argument('source_path', type=str,
+                        help='Path to the source TSV file.')
+    parser.add_argument('destination_path', type=str,
+                        help='Path to the destination TSV file.')
 
     args = parser.parse_args()
 
