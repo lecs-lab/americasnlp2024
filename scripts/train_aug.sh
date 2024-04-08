@@ -34,7 +34,7 @@ do
 
     yoyodyne-train \
       --experiment 2024americasnlp-$lang \
-      --model_dir models/aug \
+      --model_dir models/aug/$method \
       --train data/temp/$lang-train+$method.tsv \
       --val data/yoyodyne/$lang-dev.tsv \
       --features_col 3 \
@@ -45,16 +45,17 @@ do
       --scheduler lineardecay \
       --log_wandb \
       --seed 0 \
+      --no_save_best \
       --accelerator gpu \
 
 
-    ckpt_file=(./models/aug/2024americasnlp-$lang/version_0/checkpoints/*.ckpt)
+    ckpt_file=(./models/aug/$method/2024americasnlp-$lang/version_0/checkpoints/*.ckpt)
     ckpt_file=${ckpt_file[0]}
 
     echo Loading checkpoint file from $ckpt_file
 
     yoyodyne-predict \
-      --model_dir ./models/aug \
+      --model_dir ./models/aug/$method \
       --experiment 2024americasnlp-$lang \
       --checkpoint "$ckpt_file" \
       --predict "data/yoyodyne/$lang-dev.tsv" \
@@ -65,7 +66,7 @@ do
       --accelerator gpu \
 
     # Move the folder so we only ever have one numbered version
-    mv ./models/aug/2024americasnlp-$lang/version_0 ./models/aug/2024americasnlp-$lang/$arch
+    mv ./models/aug/$method/2024americasnlp-$lang/version_0 ./models/aug/$method/2024americasnlp-$lang/$arch
 
     python ./scripts/copy_preds.py "./preds/aug/$method/$arch-$lang.tsv" "data/yoyodyne/$lang-dev.tsv"
 
