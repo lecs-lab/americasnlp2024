@@ -1,0 +1,1044 @@
+	ID	Source	Change	Target	language	split	Formatted	Formatted_Covered	Predicted Target
+1160	Maya0066	Janalnajen tu k'íiwikil koonol	PERSON:1_PL	Janalnajo'on tu k'íiwikil koonol	maya	dev	"Id: Maya0066
+Source: Janalnajen tu k'íiwikil koonol
+Change: PERSON:1_PL
+Target: Janalnajo'on tu k'íiwikil koonol"	"Id: Maya0066
+Source: Janalnajen tu k'íiwikil koonol
+Change: PERSON:1_PL
+Target: "	Janalo'on tu k'íiwikil koonol
+1161	Maya0067	Janalnajen tu k'íiwikil koonol	PERSON:2_PL	Janalnaje'ex tu k'íiwikil koonol	maya	dev	"Id: Maya0067
+Source: Janalnajen tu k'íiwikil koonol
+Change: PERSON:2_PL
+Target: Janalnaje'ex tu k'íiwikil koonol"	"Id: Maya0067
+Source: Janalnajen tu k'íiwikil koonol
+Change: PERSON:2_PL
+Target: "	Janale'ex tu k'íiwikil koonol
+1162	Maya0068	Janalnajen tu k'íiwikil koonol	PERSON:2_SI	J-Jaanech tu k'íiwikil koonol	maya	dev	"Id: Maya0068
+Source: Janalnajen tu k'íiwikil koonol
+Change: PERSON:2_SI
+Target: J-Jaanech tu k'íiwikil koonol"	"Id: Maya0068
+Source: Janalnajen tu k'íiwikil koonol
+Change: PERSON:2_SI
+Target: "	Janalech tu k'íiwikil koonol
+1163	Maya0622	Táan ek bin ich kool	TYPE:NEG	Ma' táan ek bin ich kooli'	maya	dev	"Id: Maya0622
+Source: Táan ek bin ich kool
+Change: TYPE:NEG
+Target: Ma' táan ek bin ich kooli'"	"Id: Maya0622
+Source: Táan ek bin ich kool
+Change: TYPE:NEG
+Target: "	Ma' táan ek bin ich kooli'
+1164	Maya0623	Táan ek bin ich kool	SUBTYPE:INT	Táan wáaj ek bin ich kool	maya	dev	"Id: Maya0623
+Source: Táan ek bin ich kool
+Change: SUBTYPE:INT
+Target: Táan wáaj ek bin ich kool"	"Id: Maya0623
+Source: Táan ek bin ich kool
+Change: SUBTYPE:INT
+Target: "	Táan wáaj ek bin ich kool
+1165	Maya0605	Teche' ka bin xíimbal tu najil	TYPE:NEG	Teche' ma' ta bin xíimbal tu najil	maya	dev	"Id: Maya0605
+Source: Teche' ka bin xíimbal tu najil
+Change: TYPE:NEG
+Target: Teche' ma' ta bin xíimbal tu najil"	"Id: Maya0605
+Source: Teche' ka bin xíimbal tu najil
+Change: TYPE:NEG
+Target: "	Ma' teche' ka bin xíimbal tu najili'
+1166	Maya0606	Teche' ka bin xíimbal tu najil	SUBTYPE:INT	Teche' ka bin xíimbal tu najil wáaj	maya	dev	"Id: Maya0606
+Source: Teche' ka bin xíimbal tu najil
+Change: SUBTYPE:INT
+Target: Teche' ka bin xíimbal tu najil wáaj"	"Id: Maya0606
+Source: Teche' ka bin xíimbal tu najil
+Change: SUBTYPE:INT
+Target: "	Teche' wáaj ka bin xíimbal tu najil
+1167	Maya0127	Te'exe' táan a bine'ex koonol tu k'íiwikil koonol	TYPE:NEG	Ma' táan a bine'ex koonol tu k'íiwikil koonoli'	maya	dev	"Id: Maya0127
+Source: Te'exe' táan a bine'ex koonol tu k'íiwikil koonol
+Change: TYPE:NEG
+Target: Ma' táan a bine'ex koonol tu k'íiwikil koonoli'"	"Id: Maya0127
+Source: Te'exe' táan a bine'ex koonol tu k'íiwikil koonol
+Change: TYPE:NEG
+Target: "	Ma' te'exe' táan a bine'ex koonol tu k'íiwikil koonoli'
+1168	Maya0128	Te'exe' táan a bine'ex koonol tu k'íiwikil koonol	SUBTYPE:INT	Táan wáaj a bine'ex koonol tu k'íiwikil koonol	maya	dev	"Id: Maya0128
+Source: Te'exe' táan a bine'ex koonol tu k'íiwikil koonol
+Change: SUBTYPE:INT
+Target: Táan wáaj a bine'ex koonol tu k'íiwikil koonol"	"Id: Maya0128
+Source: Te'exe' táan a bine'ex koonol tu k'íiwikil koonol
+Change: SUBTYPE:INT
+Target: "	Te'exe' wáaj táan a bine'ex koonol tu k'íiwikil koonol
+1169	Maya0259	Táan in míistik a wotoch	PERSON:2_SI	Táan a míistik a wotoch	maya	dev	"Id: Maya0259
+Source: Táan in míistik a wotoch
+Change: PERSON:2_SI
+Target: Táan a míistik a wotoch"	"Id: Maya0259
+Source: Táan in míistik a wotoch
+Change: PERSON:2_SI
+Target: "	Táan a míistik a wotoch
+1170	Maya0160	Ma' jach k'a'abéet in bin merkaadoi'	PERSON:3_SI	Ma' jach k'a'abéet u bin merkaadoi'	maya	dev	"Id: Maya0160
+Source: Ma' jach k'a'abéet in bin merkaadoi'
+Change: PERSON:3_SI
+Target: Ma' jach k'a'abéet u bin merkaadoi'"	"Id: Maya0160
+Source: Ma' jach k'a'abéet in bin merkaadoi'
+Change: PERSON:3_SI
+Target: "	Ma' jach k'a'abéet u bin merkaadoi'
+1171	Maya0161	Ma' jach k'a'abéet in bin merkaadoi'	PERSON:3_PL	Ma' jach k'a'abéet u bino'ob merkaadoi'	maya	dev	"Id: Maya0161
+Source: Ma' jach k'a'abéet in bin merkaadoi'
+Change: PERSON:3_PL
+Target: Ma' jach k'a'abéet u bino'ob merkaadoi'"	"Id: Maya0161
+Source: Ma' jach k'a'abéet in bin merkaadoi'
+Change: PERSON:3_PL
+Target: "	Ma' jach k'a'abéet u bino'ob merkaadoi'
+1172	Maya0162	Ma' jach k'a'abéet in bin merkaadoi'	PERSON:2_PL	Ma' jach k'a'abéet a bine'ex merkaadoi'	maya	dev	"Id: Maya0162
+Source: Ma' jach k'a'abéet in bin merkaadoi'
+Change: PERSON:2_PL
+Target: Ma' jach k'a'abéet a bine'ex merkaadoi'"	"Id: Maya0162
+Source: Ma' jach k'a'abéet in bin merkaadoi'
+Change: PERSON:2_PL
+Target: "	Ma' jach k'a'abéet a bine'ex merkaadoi'
+1173	Maya0188	Ba'ax k'iin a bin merkaado	PERSON:2_PL	Ba'ax k'iin a bine'ex merkaado	maya	dev	"Id: Maya0188
+Source: Ba'ax k'iin a bin merkaado
+Change: PERSON:2_PL
+Target: Ba'ax k'iin a bine'ex merkaado"	"Id: Maya0188
+Source: Ba'ax k'iin a bin merkaado
+Change: PERSON:2_PL
+Target: "	Ba'ax k'iin a bine'ex merkaado
+1174	Maya0189	Ba'ax k'iin a bin merkaado	PERSON:3_PL	Ba'ax k'iin u bino'ob merkaado	maya	dev	"Id: Maya0189
+Source: Ba'ax k'iin a bin merkaado
+Change: PERSON:3_PL
+Target: Ba'ax k'iin u bino'ob merkaado"	"Id: Maya0189
+Source: Ba'ax k'iin a bin merkaado
+Change: PERSON:3_PL
+Target: "	Ba'ax k'iin a bino'ob merkaado
+1175	Maya0245	Táan in meyaj tin wotoch	PERSON:2_SI	Táan a meyaj ta wotoch	maya	dev	"Id: Maya0245
+Source: Táan in meyaj tin wotoch
+Change: PERSON:2_SI
+Target: Táan a meyaj ta wotoch"	"Id: Maya0245
+Source: Táan in meyaj tin wotoch
+Change: PERSON:2_SI
+Target: "	Táan a meyaj ta wotoch
+1176	Maya0246	Táan in meyaj tin wotoch	PERSON:3_SI	Táan u meyaj tu yotoch	maya	dev	"Id: Maya0246
+Source: Táan in meyaj tin wotoch
+Change: PERSON:3_SI
+Target: Táan u meyaj tu yotoch"	"Id: Maya0246
+Source: Táan in meyaj tin wotoch
+Change: PERSON:3_SI
+Target: "	Táan u meyaj a wotoch
+1177	Maya0247	Táan in meyaj tin wotoch	PERSON:3_PL	Leti'obe' táan u meyajo'ob tin wotoch	maya	dev	"Id: Maya0247
+Source: Táan in meyaj tin wotoch
+Change: PERSON:3_PL
+Target: Leti'obe' táan u meyajo'ob tin wotoch"	"Id: Maya0247
+Source: Táan in meyaj tin wotoch
+Change: PERSON:3_PL
+Target: "	Táan u meyajo'ob a wotoch
+1178	Maya0248	Táan in meyaj tin wotoch	PERSON:2_PL	Te'exe' táan a meyaje'ex tin wotoch	maya	dev	"Id: Maya0248
+Source: Táan in meyaj tin wotoch
+Change: PERSON:2_PL
+Target: Te'exe' táan a meyaje'ex tin wotoch"	"Id: Maya0248
+Source: Táan in meyaj tin wotoch
+Change: PERSON:2_PL
+Target: "	Táan a meyaje'ex ta wotoch
+1179	Maya0249	Táan in meyaj tin wotoch	PERSON:1_PL	Táan ek meyaj tin wotoch	maya	dev	"Id: Maya0249
+Source: Táan in meyaj tin wotoch
+Change: PERSON:1_PL
+Target: Táan ek meyaj tin wotoch"	"Id: Maya0249
+Source: Táan in meyaj tin wotoch
+Change: PERSON:1_PL
+Target: "	Táan ek meyaj ta wotoch
+1180	Maya0650	Tan in k'íilkab	SUBTYPE:INT	Tan in k'íilkab wáaj	maya	dev	"Id: Maya0650
+Source: Tan in k'íilkab
+Change: SUBTYPE:INT
+Target: Tan in k'íilkab wáaj"	"Id: Maya0650
+Source: Tan in k'íilkab
+Change: SUBTYPE:INT
+Target: "	Tan wáaj k'íilkab
+1181	Maya0651	Tan in k'íilkab	TYPE:NEG	Ma' tan in k'íilkabi'	maya	dev	"Id: Maya0651
+Source: Tan in k'íilkab
+Change: TYPE:NEG
+Target: Ma' tan in k'íilkabi'"	"Id: Maya0651
+Source: Tan in k'íilkab
+Change: TYPE:NEG
+Target: "	Ma' tan k'íilkabi'
+1182	Maya0308	Ba'ax k'iin a bin ich kool	PERSON:3_SI	Ba'ax k'iin u bin tu kool	maya	dev	"Id: Maya0308
+Source: Ba'ax k'iin a bin ich kool
+Change: PERSON:3_SI
+Target: Ba'ax k'iin u bin tu kool"	"Id: Maya0308
+Source: Ba'ax k'iin a bin ich kool
+Change: PERSON:3_SI
+Target: "	Ba'ax k'iin u bin ich kool
+1183	Maya0309	Ba'ax k'iin a bin ich kool	PERSON:2_PL	Ba'ax k'iin a bine'ex ta koole'ex	maya	dev	"Id: Maya0309
+Source: Ba'ax k'iin a bin ich kool
+Change: PERSON:2_PL
+Target: Ba'ax k'iin a bine'ex ta koole'ex"	"Id: Maya0309
+Source: Ba'ax k'iin a bin ich kool
+Change: PERSON:2_PL
+Target: "	Ba'ax k'iin a bine'ex ich kool
+1184	Maya0310	Ba'ax k'iin a bin ich kool	PERSON:3_PL	Ba'ax k'iin u bino'ob tu koolo'ob	maya	dev	"Id: Maya0310
+Source: Ba'ax k'iin a bin ich kool
+Change: PERSON:3_PL
+Target: Ba'ax k'iin u bino'ob tu koolo'ob"	"Id: Maya0310
+Source: Ba'ax k'iin a bin ich kool
+Change: PERSON:3_PL
+Target: "	Ba'ax k'iin u bino'ob ich kool
+1185	Maya0268	Tin manaj in najil	PERSON:2_SI	Ta manaj a najil	maya	dev	"Id: Maya0268
+Source: Tin manaj in najil
+Change: PERSON:2_SI
+Target: Ta manaj a najil"	"Id: Maya0268
+Source: Tin manaj in najil
+Change: PERSON:2_SI
+Target: "	Ta manaj a najil
+1186	Maya0129	Táan k bin koonol tu k'íiwikil koonol	TYPE:NEG	Ma' táan k bin koonol tu k'íiwikil koonoli'	maya	dev	"Id: Maya0129
+Source: Táan k bin koonol tu k'íiwikil koonol
+Change: TYPE:NEG
+Target: Ma' táan k bin koonol tu k'íiwikil koonoli'"	"Id: Maya0129
+Source: Táan k bin koonol tu k'íiwikil koonol
+Change: TYPE:NEG
+Target: "	Ma' táan k bin koonol tu k'íiwikil koonoli'
+1187	Maya0130	Táan k bin koonol tu k'íiwikil koonol	SUBTYPE:INT	Táan wáaj k bin koonol tu k'íiwikil koonol	maya	dev	"Id: Maya0130
+Source: Táan k bin koonol tu k'íiwikil koonol
+Change: SUBTYPE:INT
+Target: Táan wáaj k bin koonol tu k'íiwikil koonol"	"Id: Maya0130
+Source: Táan k bin koonol tu k'íiwikil koonol
+Change: SUBTYPE:INT
+Target: "	Táan wáaj k bin koonol tu k'íiwikil koonol
+1188	Maya0683	Tene' in wojel u ja'abili'	TYPE:NEG	Ma' in wojel u ja'abili'	maya	dev	"Id: Maya0683
+Source: Tene' in wojel u ja'abili'
+Change: TYPE:NEG
+Target: Ma' in wojel u ja'abili'"	"Id: Maya0683
+Source: Tene' in wojel u ja'abili'
+Change: TYPE:NEG
+Target: "	Ma' in wojel u ja'
+1189	Maya0684	Tene' in wojel u ja'abili'	SUBTYPE:INT	Tene' in wojel u ja'abili' wáaj	maya	dev	"Id: Maya0684
+Source: Tene' in wojel u ja'abili'
+Change: SUBTYPE:INT
+Target: Tene' in wojel u ja'abili' wáaj"	"Id: Maya0684
+Source: Tene' in wojel u ja'abili'
+Change: SUBTYPE:INT
+Target: "	Tene' in wojel wáaj u ja'abili'
+1190	Maya0527	Tin wa'alaj ka'ap'éel in k'aaba'	PERSON:2_SI	Ta wa'alaj ka'ap'éel a k'aaba'	maya	dev	"Id: Maya0527
+Source: Tin wa'alaj ka'ap'éel in k'aaba'
+Change: PERSON:2_SI
+Target: Ta wa'alaj ka'ap'éel a k'aaba'"	"Id: Maya0527
+Source: Tin wa'alaj ka'ap'éel in k'aaba'
+Change: PERSON:2_SI
+Target: "	Tan a wa'alaj ka'ap'éel a k'aaba'
+1191	Maya0528	Tin wa'alaj ka'ap'éel in k'aaba'	PERSON:3_SI	Tu ya'alaj ka'ap'éel u k'aaba'	maya	dev	"Id: Maya0528
+Source: Tin wa'alaj ka'ap'éel in k'aaba'
+Change: PERSON:3_SI
+Target: Tu ya'alaj ka'ap'éel u k'aaba'"	"Id: Maya0528
+Source: Tin wa'alaj ka'ap'éel in k'aaba'
+Change: PERSON:3_SI
+Target: "	Tan u wa'alaj ka'ap'éel u k'aaba'
+1192	Maya0529	Tin wa'alaj ka'ap'éel in k'aaba'	PERSON:1_PL	Tek a'alaj ka'ap'éel k k'aaba'	maya	dev	"Id: Maya0529
+Source: Tin wa'alaj ka'ap'éel in k'aaba'
+Change: PERSON:1_PL
+Target: Tek a'alaj ka'ap'éel k k'aaba'"	"Id: Maya0529
+Source: Tin wa'alaj ka'ap'éel in k'aaba'
+Change: PERSON:1_PL
+Target: "	Tan k wa'alaj ka'ap'éel k k'aaba'
+1193	Maya0530	Tin wa'alaj ka'ap'éel in k'aaba'	PERSON:3_PL	Ta wa'alaje'ex ka'ap'éel a k'aaba'ex	maya	dev	"Id: Maya0530
+Source: Tin wa'alaj ka'ap'éel in k'aaba'
+Change: PERSON:3_PL
+Target: Ta wa'alaje'ex ka'ap'éel a k'aaba'ex"	"Id: Maya0530
+Source: Tin wa'alaj ka'ap'éel in k'aaba'
+Change: PERSON:3_PL
+Target: "	Tan u wa'alajo'ob ka'ap'éel u k'aaba'
+1194	Maya0531	Tin wa'alaj ka'ap'éel in k'aaba'	PERSON:3_PL	Tu ya'alajo'ob ka'ap'éel u k'aaba'ob	maya	dev	"Id: Maya0531
+Source: Tin wa'alaj ka'ap'éel in k'aaba'
+Change: PERSON:3_PL
+Target: Tu ya'alajo'ob ka'ap'éel u k'aaba'ob"	"Id: Maya0531
+Source: Tin wa'alaj ka'ap'éel in k'aaba'
+Change: PERSON:3_PL
+Target: "	Tan u wa'alajo'ob ka'ap'éel u k'aaba'
+1195	Maya0657	Tu yilaj u sáastal tu kaajal	TYPE:NEG	Ma' tu yilaj u sáastal tu kaajali'	maya	dev	"Id: Maya0657
+Source: Tu yilaj u sáastal tu kaajal
+Change: TYPE:NEG
+Target: Ma' tu yilaj u sáastal tu kaajali'"	"Id: Maya0657
+Source: Tu yilaj u sáastal tu kaajal
+Change: TYPE:NEG
+Target: "	Ma' tu yilaj u sáastal tu kaajali'
+1196	Maya0658	Tu yilaj u sáastal tu kaajal	SUBTYPE:INT	Tu yilaj wáaj u sáastal tu kaajal	maya	dev	"Id: Maya0658
+Source: Tu yilaj u sáastal tu kaajal
+Change: SUBTYPE:INT
+Target: Tu yilaj wáaj u sáastal tu kaajal"	"Id: Maya0658
+Source: Tu yilaj u sáastal tu kaajal
+Change: SUBTYPE:INT
+Target: "	Tu yilaj wáaj u sáastal tu kaajal
+1197	Maya0331	Tin manaj u k'áaxil uti'al in beetik in kool	PERSON:2_SI	Ta manaj u k'áaxil a beetik a kool	maya	dev	"Id: Maya0331
+Source: Tin manaj u k'áaxil uti'al in beetik in kool
+Change: PERSON:2_SI
+Target: Ta manaj u k'áaxil a beetik a kool"	"Id: Maya0331
+Source: Tin manaj u k'áaxil uti'al in beetik in kool
+Change: PERSON:2_SI
+Target: "	Ta manaj a k'áaxil a najil
+1198	Maya0279	Táan in bin ich kool	PERSON:2_SI	Táan a bin ich kool	maya	dev	"Id: Maya0279
+Source: Táan in bin ich kool
+Change: PERSON:2_SI
+Target: Táan a bin ich kool"	"Id: Maya0279
+Source: Táan in bin ich kool
+Change: PERSON:2_SI
+Target: "	Táan a bin ich kool
+1199	Maya0280	Táan in bin ich kool	PERSON:3_SI	Táan u bin tu kool	maya	dev	"Id: Maya0280
+Source: Táan in bin ich kool
+Change: PERSON:3_SI
+Target: Táan u bin tu kool"	"Id: Maya0280
+Source: Táan in bin ich kool
+Change: PERSON:3_SI
+Target: "	Táan u bin ich kool
+1200	Maya0281	Táan in bin ich kool	PERSON:3_PL	Táan u bino'ob ich kool	maya	dev	"Id: Maya0281
+Source: Táan in bin ich kool
+Change: PERSON:3_PL
+Target: Táan u bino'ob ich kool"	"Id: Maya0281
+Source: Táan in bin ich kool
+Change: PERSON:3_PL
+Target: "	Táan u bino'ob ich kool
+1201	Maya0282	Táan in bin ich kool	PERSON:2_PL	Táan a bine'ex ich kool	maya	dev	"Id: Maya0282
+Source: Táan in bin ich kool
+Change: PERSON:2_PL
+Target: Táan a bine'ex ich kool"	"Id: Maya0282
+Source: Táan in bin ich kool
+Change: PERSON:2_PL
+Target: "	Táan a bine'ex ich kool
+1202	Maya0283	Táan in bin ich kool	PERSON:1_PL	Táan ek bin ich kool	maya	dev	"Id: Maya0283
+Source: Táan in bin ich kool
+Change: PERSON:1_PL
+Target: Táan ek bin ich kool"	"Id: Maya0283
+Source: Táan in bin ich kool
+Change: PERSON:1_PL
+Target: "	Táan ek bin ich kool
+1203	Maya0110	Táan in bin koonol tu k'íiwikil koonol	TYPE:NEG	Ma' táan in bin koonol tu k'íiwikil koonol	maya	dev	"Id: Maya0110
+Source: Táan in bin koonol tu k'íiwikil koonol
+Change: TYPE:NEG
+Target: Ma' táan in bin koonol tu k'íiwikil koonol"	"Id: Maya0110
+Source: Táan in bin koonol tu k'íiwikil koonol
+Change: TYPE:NEG
+Target: "	Ma' táan in bin koonol tu k'íiwikil koonoli'
+1204	Maya0111	Táan in bin koonol tu k'íiwikil koonol	SUBTYPE:INT	Táan in bin koonol tu k'íiwikil koonol wáaj	maya	dev	"Id: Maya0111
+Source: Táan in bin koonol tu k'íiwikil koonol
+Change: SUBTYPE:INT
+Target: Táan in bin koonol tu k'íiwikil koonol wáaj"	"Id: Maya0111
+Source: Táan in bin koonol tu k'íiwikil koonol
+Change: SUBTYPE:INT
+Target: "	Táan wáaj in bin koonol tu k'íiwikil koonol
+1205	Maya0688	Teche' ti' kajakbalech tu yotoche'	TYPE:NEG	Ma' kajakbalech tu wotochi'	maya	dev	"Id: Maya0688
+Source: Teche' ti' kajakbalech tu yotoche'
+Change: TYPE:NEG
+Target: Ma' kajakbalech tu wotochi'"	"Id: Maya0688
+Source: Teche' ti' kajakbalech tu yotoche'
+Change: TYPE:NEG
+Target: "	
+1206	Maya0689	Teche' ti' kajakbalech tu yotoche'	TYPE:NEG	Ma' wáaj kajakbalech tu yotochi'	maya	dev	"Id: Maya0689
+Source: Teche' ti' kajakbalech tu yotoche'
+Change: TYPE:NEG
+Target: Ma' wáaj kajakbalech tu yotochi'"	"Id: Maya0689
+Source: Teche' ti' kajakbalech tu yotoche'
+Change: TYPE:NEG
+Target: "	
+1207	Maya0196	Te'exe' áak'ab ka bine'ex tu k'íiwikil koonol	SUBTYPE:INT	Te'exe' áak'ab wáaj ka bine'ex tu k'íiwikil koonol	maya	dev	"Id: Maya0196
+Source: Te'exe' áak'ab ka bine'ex tu k'íiwikil koonol
+Change: SUBTYPE:INT
+Target: Te'exe' áak'ab wáaj ka bine'ex tu k'íiwikil koonol"	"Id: Maya0196
+Source: Te'exe' áak'ab ka bine'ex tu k'íiwikil koonol
+Change: SUBTYPE:INT
+Target: "	
+1208	Maya0197	Te'exe' áak'ab ka bine'ex tu k'íiwikil koonol	TYPE:NEG, SUBTYPE:INT	Te'exe' ma' áak'ab wáaj ka bine'ex tu k'íiwikil koonoli'	maya	dev	"Id: Maya0197
+Source: Te'exe' áak'ab ka bine'ex tu k'íiwikil koonol
+Change: TYPE:NEG, SUBTYPE:INT
+Target: Te'exe' ma' áak'ab wáaj ka bine'ex tu k'íiwikil koonoli'"	"Id: Maya0197
+Source: Te'exe' áak'ab ka bine'ex tu k'íiwikil koonol
+Change: TYPE:NEG, SUBTYPE:INT
+Target: "	
+1209	Maya0614	Táan a bin ich kool	TYPE:NEG	Ma' táan a bin ich kooli'	maya	dev	"Id: Maya0614
+Source: Táan a bin ich kool
+Change: TYPE:NEG
+Target: Ma' táan a bin ich kooli'"	"Id: Maya0614
+Source: Táan a bin ich kool
+Change: TYPE:NEG
+Target: "	
+1210	Maya0615	Táan a bin ich kool	SUBTYPE:INT, PERSON:1_SI	Táan wáaj a bin ich kool	maya	dev	"Id: Maya0615
+Source: Táan a bin ich kool
+Change: SUBTYPE:INT, PERSON:1_SI
+Target: Táan wáaj a bin ich kool"	"Id: Maya0615
+Source: Táan a bin ich kool
+Change: SUBTYPE:INT, PERSON:1_SI
+Target: "	
+1211	Maya0132	Teche' áak'ab ka bin tu k'íiwikil koonol	SUBTYPE:INT	Teche' áak'ab wáaj ka bin tu k'íiwikil koonol	maya	dev	"Id: Maya0132
+Source: Teche' áak'ab ka bin tu k'íiwikil koonol
+Change: SUBTYPE:INT
+Target: Teche' áak'ab wáaj ka bin tu k'íiwikil koonol"	"Id: Maya0132
+Source: Teche' áak'ab ka bin tu k'íiwikil koonol
+Change: SUBTYPE:INT
+Target: "	
+1212	Maya0133	Teche' áak'ab ka bin tu k'íiwikil koonol	TYPE:NEG, SUBTYPE:INT	Teche' ma' áak'ab wáaj ka bin tu k'íiwikil koonoli'	maya	dev	"Id: Maya0133
+Source: Teche' áak'ab ka bin tu k'íiwikil koonol
+Change: TYPE:NEG, SUBTYPE:INT
+Target: Teche' ma' áak'ab wáaj ka bin tu k'íiwikil koonoli'"	"Id: Maya0133
+Source: Teche' áak'ab ka bin tu k'íiwikil koonol
+Change: TYPE:NEG, SUBTYPE:INT
+Target: "	
+1213	Maya0544	Ma' wáaj in chuk u ja'abili'	PERSON:2_SI	Ma' wáaj a chuk u ja'abili'	maya	dev	"Id: Maya0544
+Source: Ma' wáaj in chuk u ja'abili'
+Change: PERSON:2_SI
+Target: Ma' wáaj a chuk u ja'abili'"	"Id: Maya0544
+Source: Ma' wáaj in chuk u ja'abili'
+Change: PERSON:2_SI
+Target: "	
+1214	Maya0545	Ma' wáaj in chuk u ja'abili'	PERSON:3_SI	Ma' wáaj u chuk u ja'abili'	maya	dev	"Id: Maya0545
+Source: Ma' wáaj in chuk u ja'abili'
+Change: PERSON:3_SI
+Target: Ma' wáaj u chuk u ja'abili'"	"Id: Maya0545
+Source: Ma' wáaj in chuk u ja'abili'
+Change: PERSON:3_SI
+Target: "	
+1215	Maya0546	Ma' wáaj in chuk u ja'abili'	PERSON:1_PL	Ma' wáaj k chuk u ja'abili'	maya	dev	"Id: Maya0546
+Source: Ma' wáaj in chuk u ja'abili'
+Change: PERSON:1_PL
+Target: Ma' wáaj k chuk u ja'abili'"	"Id: Maya0546
+Source: Ma' wáaj in chuk u ja'abili'
+Change: PERSON:1_PL
+Target: "	
+1216	Maya0547	Ma' wáaj in chuk u ja'abili'	PERSON:2_PL	Ma' wáaj a chuke'ex u ja'abili'	maya	dev	"Id: Maya0547
+Source: Ma' wáaj in chuk u ja'abili'
+Change: PERSON:2_PL
+Target: Ma' wáaj a chuke'ex u ja'abili'"	"Id: Maya0547
+Source: Ma' wáaj in chuk u ja'abili'
+Change: PERSON:2_PL
+Target: "	
+1217	Maya0548	Ma' wáaj in chuk u ja'abili'	PERSON:3_PL	Ma' wáaj u chuko'ob u ja'abili'	maya	dev	"Id: Maya0548
+Source: Ma' wáaj in chuk u ja'abili'
+Change: PERSON:3_PL
+Target: Ma' wáaj u chuko'ob u ja'abili'"	"Id: Maya0548
+Source: Ma' wáaj in chuk u ja'abili'
+Change: PERSON:3_PL
+Target: "	
+1218	Maya0507	Tene' ma' ts'oka'an in beeli'	PERSON:2_SI	Teche' ma' ts'oka'an a beeli'	maya	dev	"Id: Maya0507
+Source: Tene' ma' ts'oka'an in beeli'
+Change: PERSON:2_SI
+Target: Teche' ma' ts'oka'an a beeli'"	"Id: Maya0507
+Source: Tene' ma' ts'oka'an in beeli'
+Change: PERSON:2_SI
+Target: "	
+1219	Maya0508	Tene' ma' ts'oka'an in beeli'	PERSON:3_SI	Leti'e' ma' ts'oka'an u beeli'	maya	dev	"Id: Maya0508
+Source: Tene' ma' ts'oka'an in beeli'
+Change: PERSON:3_SI
+Target: Leti'e' ma' ts'oka'an u beeli'"	"Id: Maya0508
+Source: Tene' ma' ts'oka'an in beeli'
+Change: PERSON:3_SI
+Target: "	
+1220	Maya0509	Tene' ma' ts'oka'an in beeli'	PERSON:1_PL	To'one' ma' ts'oka'an k beeli'	maya	dev	"Id: Maya0509
+Source: Tene' ma' ts'oka'an in beeli'
+Change: PERSON:1_PL
+Target: To'one' ma' ts'oka'an k beeli'"	"Id: Maya0509
+Source: Tene' ma' ts'oka'an in beeli'
+Change: PERSON:1_PL
+Target: "	
+1221	Maya0510	Tene' ma' ts'oka'an in beeli'	PERSON:2_PL	Te'exe' ma' ts'oka'an a beele'exi'	maya	dev	"Id: Maya0510
+Source: Tene' ma' ts'oka'an in beeli'
+Change: PERSON:2_PL
+Target: Te'exe' ma' ts'oka'an a beele'exi'"	"Id: Maya0510
+Source: Tene' ma' ts'oka'an in beeli'
+Change: PERSON:2_PL
+Target: "	
+1222	Maya0511	Tene' ma' ts'oka'an in beeli'	PERSON:3_PL	Leti'obe' ma' ts'oka'an u beelo'obi'	maya	dev	"Id: Maya0511
+Source: Tene' ma' ts'oka'an in beeli'
+Change: PERSON:3_PL
+Target: Leti'obe' ma' ts'oka'an u beelo'obi'"	"Id: Maya0511
+Source: Tene' ma' ts'oka'an in beeli'
+Change: PERSON:3_PL
+Target: "	
+1223	Maya0472	Teche' jbúulech wáaj	PERSON:3_SI	Leti'e' jbúul wáaj	maya	dev	"Id: Maya0472
+Source: Teche' jbúulech wáaj
+Change: PERSON:3_SI
+Target: Leti'e' jbúul wáaj"	"Id: Maya0472
+Source: Teche' jbúulech wáaj
+Change: PERSON:3_SI
+Target: "	
+1224	Maya0473	Teche' jbúulech wáaj	PERSON:1_PL	To'one' jbúulo'on wáaj	maya	dev	"Id: Maya0473
+Source: Teche' jbúulech wáaj
+Change: PERSON:1_PL
+Target: To'one' jbúulo'on wáaj"	"Id: Maya0473
+Source: Teche' jbúulech wáaj
+Change: PERSON:1_PL
+Target: "	
+1225	Maya0474	Teche' jbúulech wáaj	PERSON:2_PL	Te'exe' jbúule'ex wáaj	maya	dev	"Id: Maya0474
+Source: Teche' jbúulech wáaj
+Change: PERSON:2_PL
+Target: Te'exe' jbúule'ex wáaj"	"Id: Maya0474
+Source: Teche' jbúulech wáaj
+Change: PERSON:2_PL
+Target: "	
+1226	Maya0671	Leti'e' u k'aaba'e'	SUBTYPE:INT	Bix u k'aaba'	maya	dev	"Id: Maya0671
+Source: Leti'e' u k'aaba'e'
+Change: SUBTYPE:INT
+Target: Bix u k'aaba'"	"Id: Maya0671
+Source: Leti'e' u k'aaba'e'
+Change: SUBTYPE:INT
+Target: "	
+1227	Maya0672	Leti'e' u k'aaba'e'	TYPE:NEG, ASPECT:NA	Ma' u k'aaba'i'	maya	dev	"Id: Maya0672
+Source: Leti'e' u k'aaba'e'
+Change: TYPE:NEG, ASPECT:NA
+Target: Ma' u k'aaba'i'"	"Id: Maya0672
+Source: Leti'e' u k'aaba'e'
+Change: TYPE:NEG, ASPECT:NA
+Target: "	
+1228	Maya0263	Ma' tin kaxtaj a wotochi'	PERSON:3_SI	Ma' tu kaxtaj a wotochi'	maya	dev	"Id: Maya0263
+Source: Ma' tin kaxtaj a wotochi'
+Change: PERSON:3_SI
+Target: Ma' tu kaxtaj a wotochi'"	"Id: Maya0263
+Source: Ma' tin kaxtaj a wotochi'
+Change: PERSON:3_SI
+Target: "	
+1229	Maya0125	Leti'obe' táan u bino'ob koonol tu k'íiwikil koonol	TYPE:NEG	Ma' táan u bino'ob koonol tu k'íiwikil koonoli'	maya	dev	"Id: Maya0125
+Source: Leti'obe' táan u bino'ob koonol tu k'íiwikil koonol
+Change: TYPE:NEG
+Target: Ma' táan u bino'ob koonol tu k'íiwikil koonoli'"	"Id: Maya0125
+Source: Leti'obe' táan u bino'ob koonol tu k'íiwikil koonol
+Change: TYPE:NEG
+Target: "	
+1230	Maya0126	Leti'obe' táan u bino'ob koonol tu k'íiwikil koonol	SUBTYPE:INT	Táan wáaj u bino'ob koonol tu k'íiwikil koonol	maya	dev	"Id: Maya0126
+Source: Leti'obe' táan u bino'ob koonol tu k'íiwikil koonol
+Change: SUBTYPE:INT
+Target: Táan wáaj u bino'ob koonol tu k'íiwikil koonol"	"Id: Maya0126
+Source: Leti'obe' táan u bino'ob koonol tu k'íiwikil koonol
+Change: SUBTYPE:INT
+Target: "	
+1231	Maya0422	Yaan wáaj a boon tu naajil xook	PERSON:3_SI	Yaan wáaj u boon tu naajil xook	maya	dev	"Id: Maya0422
+Source: Yaan wáaj a boon tu naajil xook
+Change: PERSON:3_SI
+Target: Yaan wáaj u boon tu naajil xook"	"Id: Maya0422
+Source: Yaan wáaj a boon tu naajil xook
+Change: PERSON:3_SI
+Target: "	
+1232	Maya0423	Yaan wáaj a boon tu naajil xook	PERSON:1_PL	Yaan wáaj k boon tu naajil xook	maya	dev	"Id: Maya0423
+Source: Yaan wáaj a boon tu naajil xook
+Change: PERSON:1_PL
+Target: Yaan wáaj k boon tu naajil xook"	"Id: Maya0423
+Source: Yaan wáaj a boon tu naajil xook
+Change: PERSON:1_PL
+Target: "	
+1233	Maya0424	Yaan wáaj a boon tu naajil xook	PERSON:2_PL	Yaan wáaj a boone'ex xook tu naajil xook	maya	dev	"Id: Maya0424
+Source: Yaan wáaj a boon tu naajil xook
+Change: PERSON:2_PL
+Target: Yaan wáaj a boone'ex xook tu naajil xook"	"Id: Maya0424
+Source: Yaan wáaj a boon tu naajil xook
+Change: PERSON:2_PL
+Target: "	
+1234	Maya0425	Yaan wáaj a boon tu naajil xook	PERSON:3_PL	Yaan wáaj u boono'ob tu naajil xook	maya	dev	"Id: Maya0425
+Source: Yaan wáaj a boon tu naajil xook
+Change: PERSON:3_PL
+Target: Yaan wáaj u boono'ob tu naajil xook"	"Id: Maya0425
+Source: Yaan wáaj a boon tu naajil xook
+Change: PERSON:3_PL
+Target: "	
+1235	Maya0336	Tene' kin pak'ik nal tin kool	PERSON:2_SI	Teche' ka pak'ik nal ta kool	maya	dev	"Id: Maya0336
+Source: Tene' kin pak'ik nal tin kool
+Change: PERSON:2_SI
+Target: Teche' ka pak'ik nal ta kool"	"Id: Maya0336
+Source: Tene' kin pak'ik nal tin kool
+Change: PERSON:2_SI
+Target: "	
+1236	Maya0337	Tene' kin pak'ik nal tin kool	PERSON:3_SI	Leti'e' ku pak'ik nal tu kool	maya	dev	"Id: Maya0337
+Source: Tene' kin pak'ik nal tin kool
+Change: PERSON:3_SI
+Target: Leti'e' ku pak'ik nal tu kool"	"Id: Maya0337
+Source: Tene' kin pak'ik nal tin kool
+Change: PERSON:3_SI
+Target: "	
+1237	Maya0338	Tene' kin pak'ik nal tin kool	PERSON:1_PL	To'one' kek pak'ik nal tek kool	maya	dev	"Id: Maya0338
+Source: Tene' kin pak'ik nal tin kool
+Change: PERSON:1_PL
+Target: To'one' kek pak'ik nal tek kool"	"Id: Maya0338
+Source: Tene' kin pak'ik nal tin kool
+Change: PERSON:1_PL
+Target: "	
+1238	Maya0339	Tene' kin pak'ik nal tin kool	PERSON:2_PL	Te'exe' ka pak'ike'ex nal ta koole'ex	maya	dev	"Id: Maya0339
+Source: Tene' kin pak'ik nal tin kool
+Change: PERSON:2_PL
+Target: Te'exe' ka pak'ike'ex nal ta koole'ex"	"Id: Maya0339
+Source: Tene' kin pak'ik nal tin kool
+Change: PERSON:2_PL
+Target: "	
+1239	Maya0340	Tene' kin pak'ik nal tin kool	PERSON:3_PL	Leti'obe' ku pak'iko'ob nal tu koolo'ob	maya	dev	"Id: Maya0340
+Source: Tene' kin pak'ik nal tin kool
+Change: PERSON:3_PL
+Target: Leti'obe' ku pak'iko'ob nal tu koolo'ob"	"Id: Maya0340
+Source: Tene' kin pak'ik nal tin kool
+Change: PERSON:3_PL
+Target: "	
+1240	Maya0633	Jach k'a'abéet a bine'ex ta koole'ex	TYPE:NEG	Ma' jach k'a'abéet a bine'ex ta koole'exi'	maya	dev	"Id: Maya0633
+Source: Jach k'a'abéet a bine'ex ta koole'ex
+Change: TYPE:NEG
+Target: Ma' jach k'a'abéet a bine'ex ta koole'exi'"	"Id: Maya0633
+Source: Jach k'a'abéet a bine'ex ta koole'ex
+Change: TYPE:NEG
+Target: "	Ma' jach k'a'abéet a bine'ex ta koole'exi'
+1241	Maya0634	Jach k'a'abéet a bine'ex ta koole'ex	TYPE:NEG, SUBTYPE:INT	Ma' wáaj jach k'a'abéet a bine'ex ta koole'exi'	maya	dev	"Id: Maya0634
+Source: Jach k'a'abéet a bine'ex ta koole'ex
+Change: TYPE:NEG, SUBTYPE:INT
+Target: Ma' wáaj jach k'a'abéet a bine'ex ta koole'exi'"	"Id: Maya0634
+Source: Jach k'a'abéet a bine'ex ta koole'ex
+Change: TYPE:NEG, SUBTYPE:INT
+Target: "	Ma' wáaj jach k'a'abéet a bine'ex ta koole'exi'
+1242	Maya0060	Kin wilikech tu k'íiwikil koonol	PERSON:2_SI	Ka wiliken tu k'íiwikil koonol	maya	dev	"Id: Maya0060
+Source: Kin wilikech tu k'íiwikil koonol
+Change: PERSON:2_SI
+Target: Ka wiliken tu k'íiwikil koonol"	"Id: Maya0060
+Source: Kin wilikech tu k'íiwikil koonol
+Change: PERSON:2_SI
+Target: "	Ka wiliken tu k'íiwikil koonol
+1243	Maya0061	Kin wilikech tu k'íiwikil koonol	PERSON:1_PL	Kak ilikabáaj tu k'íiwikil koonol	maya	dev	"Id: Maya0061
+Source: Kin wilikech tu k'íiwikil koonol
+Change: PERSON:1_PL
+Target: Kak ilikabáaj tu k'íiwikil koonol"	"Id: Maya0061
+Source: Kin wilikech tu k'íiwikil koonol
+Change: PERSON:1_PL
+Target: "	Kin wilike'ex tu k'íiwikil koonol
+1244	Maya0532	Jayp'éel ja'ab yaanten	PERSON:3_SI	Jayp'éel ja'ab yaanti'	maya	dev	"Id: Maya0532
+Source: Jayp'éel ja'ab yaanten
+Change: PERSON:3_SI
+Target: Jayp'éel ja'ab yaanti'"	"Id: Maya0532
+Source: Jayp'éel ja'ab yaanten
+Change: PERSON:3_SI
+Target: "	Jayp'éel ja'ab u yaanten
+1245	Maya0533	Jayp'éel ja'ab yaanten	PERSON:1_PL	Jayp'éel ja'ab yaanto'on	maya	dev	"Id: Maya0533
+Source: Jayp'éel ja'ab yaanten
+Change: PERSON:1_PL
+Target: Jayp'éel ja'ab yaanto'on"	"Id: Maya0533
+Source: Jayp'éel ja'ab yaanten
+Change: PERSON:1_PL
+Target: "	Jayp'éel ja'ab k yaanten
+1246	Maya0534	Jayp'éel ja'ab yaanten	PERSON:2_PL	Jayp'éel ja'ab yaante'ex	maya	dev	"Id: Maya0534
+Source: Jayp'éel ja'ab yaanten
+Change: PERSON:2_PL
+Target: Jayp'éel ja'ab yaante'ex"	"Id: Maya0534
+Source: Jayp'éel ja'ab yaanten
+Change: PERSON:2_PL
+Target: "	Jayp'éel ja'ab a yaante'ex
+1247	Maya0535	Jayp'éel ja'ab yaanten	PERSON:3_PL	Jayp'éel ja'ab yaanti'ob	maya	dev	"Id: Maya0535
+Source: Jayp'éel ja'ab yaanten
+Change: PERSON:3_PL
+Target: Jayp'éel ja'ab yaanti'ob"	"Id: Maya0535
+Source: Jayp'éel ja'ab yaanten
+Change: PERSON:3_PL
+Target: "	Jayp'éel ja'ab u yaanto'ob
+1248	Maya0694	To'one' ti' k taali'	TYPE:NEG	Ma' ti' k taali'	maya	dev	"Id: Maya0694
+Source: To'one' ti' k taali'
+Change: TYPE:NEG
+Target: Ma' ti' k taali'"	"Id: Maya0694
+Source: To'one' ti' k taali'
+Change: TYPE:NEG
+Target: "	Ma' ti' k taali'i'
+1249	Maya0695	To'one' ti' k taali'	SUBTYPE:INT	Ti' wáaj k taali'	maya	dev	"Id: Maya0695
+Source: To'one' ti' k taali'
+Change: SUBTYPE:INT
+Target: Ti' wáaj k taali'"	"Id: Maya0695
+Source: To'one' ti' k taali'
+Change: SUBTYPE:INT
+Target: "	Ti' wáaj k taali'
+1250	Maya0303	Jach k'a'abéet wáaj a bin ich kool	PERSON:1_SI	Jach k'a'abéet wáaj in bin ich kool	maya	dev	"Id: Maya0303
+Source: Jach k'a'abéet wáaj a bin ich kool
+Change: PERSON:1_SI
+Target: Jach k'a'abéet wáaj in bin ich kool"	"Id: Maya0303
+Source: Jach k'a'abéet wáaj a bin ich kool
+Change: PERSON:1_SI
+Target: "	Jach k'a'abéet wáaj in bin ich kool
+1251	Maya0304	Jach k'a'abéet wáaj a bin ich kool	PERSON:3_SI	Jach k'a'abéet wáaj u bin ich kool	maya	dev	"Id: Maya0304
+Source: Jach k'a'abéet wáaj a bin ich kool
+Change: PERSON:3_SI
+Target: Jach k'a'abéet wáaj u bin ich kool"	"Id: Maya0304
+Source: Jach k'a'abéet wáaj a bin ich kool
+Change: PERSON:3_SI
+Target: "	Jach k'a'abéet wáaj u bin ich kool
+1252	Maya0305	Jach k'a'abéet wáaj a bin ich kool	PERSON:3_PL	Jach k'a'abéet wáaj u bino'ob tu koolo'obi'	maya	dev	"Id: Maya0305
+Source: Jach k'a'abéet wáaj a bin ich kool
+Change: PERSON:3_PL
+Target: Jach k'a'abéet wáaj u bino'ob tu koolo'obi'"	"Id: Maya0305
+Source: Jach k'a'abéet wáaj a bin ich kool
+Change: PERSON:3_PL
+Target: "	Jach k'a'abéet wáaj u bino'ob ich kool
+1253	Maya0306	Jach k'a'abéet wáaj a bin ich kool	PERSON:2_PL	Jach k'a'abéet wáaj a bine'ex ta koole'ex	maya	dev	"Id: Maya0306
+Source: Jach k'a'abéet wáaj a bin ich kool
+Change: PERSON:2_PL
+Target: Jach k'a'abéet wáaj a bine'ex ta koole'ex"	"Id: Maya0306
+Source: Jach k'a'abéet wáaj a bin ich kool
+Change: PERSON:2_PL
+Target: "	Jach k'a'abéet wáaj a bine'ex ich kool
+1254	Maya0056	Tene' ma' áak'ab kin bin tu k'íiwikil koonoli'	PERSON:2_SI	Teche' ma' áak'ab ka bin tu k'íiwikil koonoli'	maya	dev	"Id: Maya0056
+Source: Tene' ma' áak'ab kin bin tu k'íiwikil koonoli'
+Change: PERSON:2_SI
+Target: Teche' ma' áak'ab ka bin tu k'íiwikil koonoli'"	"Id: Maya0056
+Source: Tene' ma' áak'ab kin bin tu k'íiwikil koonoli'
+Change: PERSON:2_SI
+Target: "	Teche' ma' áak'ab ka bin tu k'íiwikil koonoli'
+1255	Maya0057	Tene' ma' áak'ab kin bin tu k'íiwikil koonoli'	PERSON:2_SI	Leti'e' ma' áak'ab ku bin tu k'íiwikil koonoli'	maya	dev	"Id: Maya0057
+Source: Tene' ma' áak'ab kin bin tu k'íiwikil koonoli'
+Change: PERSON:2_SI
+Target: Leti'e' ma' áak'ab ku bin tu k'íiwikil koonoli'"	"Id: Maya0057
+Source: Tene' ma' áak'ab kin bin tu k'íiwikil koonoli'
+Change: PERSON:2_SI
+Target: "	Teche' ma' áak'ab ka bin tu k'íiwikil koonoli'
+1256	Maya0058	Tene' ma' áak'ab kin bin tu k'íiwikil koonoli'	PERSON:1_PL	To'one' ma' áak'ab k bin tu k'íiwikil koonoli'	maya	dev	"Id: Maya0058
+Source: Tene' ma' áak'ab kin bin tu k'íiwikil koonoli'
+Change: PERSON:1_PL
+Target: To'one' ma' áak'ab k bin tu k'íiwikil koonoli'"	"Id: Maya0058
+Source: Tene' ma' áak'ab kin bin tu k'íiwikil koonoli'
+Change: PERSON:1_PL
+Target: "	To'one' ma' áak'ab kek bin tu k'íiwikil koonoli'
+1257	Maya0059	Tene' ma' áak'ab kin bin tu k'íiwikil koonoli'	PERSON:2_PL	Te'exe' ma' áak'ab ka bine'ex tu k'íiwikil koonoli'	maya	dev	"Id: Maya0059
+Source: Tene' ma' áak'ab kin bin tu k'íiwikil koonoli'
+Change: PERSON:2_PL
+Target: Te'exe' ma' áak'ab ka bine'ex tu k'íiwikil koonoli'"	"Id: Maya0059
+Source: Tene' ma' áak'ab kin bin tu k'íiwikil koonoli'
+Change: PERSON:2_PL
+Target: "	Te'exe' ma' áak'ab ka bine'ex tu k'íiwikil koonoli'
+1258	Maya0630	Jach k'a'abéet u bino'ob tu koolo'ob	SUBTYPE:INT	Jach k'a'abéet wáaj u bino'ob tu koolo'obi'	maya	dev	"Id: Maya0630
+Source: Jach k'a'abéet u bino'ob tu koolo'ob
+Change: SUBTYPE:INT
+Target: Jach k'a'abéet wáaj u bino'ob tu koolo'obi'"	"Id: Maya0630
+Source: Jach k'a'abéet u bino'ob tu koolo'ob
+Change: SUBTYPE:INT
+Target: "	Jach k'a'abéet wáaj u bino'ob tu koolo'ob
+1259	Maya0631	Jach k'a'abéet u bino'ob tu koolo'ob	TYPE:NEG, SUBTYPE:INT	Ma' wáaj jach k'a'abéet u bino'ob tu koolo'obi'	maya	dev	"Id: Maya0631
+Source: Jach k'a'abéet u bino'ob tu koolo'ob
+Change: TYPE:NEG, SUBTYPE:INT
+Target: Ma' wáaj jach k'a'abéet u bino'ob tu koolo'obi'"	"Id: Maya0631
+Source: Jach k'a'abéet u bino'ob tu koolo'ob
+Change: TYPE:NEG, SUBTYPE:INT
+Target: "	Ma' wáaj jach k'a'abéet u bino'ob tu koolo'obi'
+1260	Maya0632	Jach k'a'abéet u bino'ob tu koolo'ob	TYPE:NEG	Ma' jach k'a'abéet u bino'ob tu koolo'obi'	maya	dev	"Id: Maya0632
+Source: Jach k'a'abéet u bino'ob tu koolo'ob
+Change: TYPE:NEG
+Target: Ma' jach k'a'abéet u bino'ob tu koolo'obi'"	"Id: Maya0632
+Source: Jach k'a'abéet u bino'ob tu koolo'ob
+Change: TYPE:NEG
+Target: "	Ma' jach k'a'abéet u bino'ob tu koolo'obi'
+1261	Maya0084	Jweenen tu k'íiwikil koonol	PERSON:2_SI	Jweenech tu k'íiwikil koonol	maya	dev	"Id: Maya0084
+Source: Jweenen tu k'íiwikil koonol
+Change: PERSON:2_SI
+Target: Jweenech tu k'íiwikil koonol"	"Id: Maya0084
+Source: Jweenen tu k'íiwikil koonol
+Change: PERSON:2_SI
+Target: "	Jweenech tu k'íiwikil koonol
+1262	Maya0085	Jweenen tu k'íiwikil koonol	PERSON:3_PL	Jweeno'ob tu k'íiwikil koonol	maya	dev	"Id: Maya0085
+Source: Jweenen tu k'íiwikil koonol
+Change: PERSON:3_PL
+Target: Jweeno'ob tu k'íiwikil koonol"	"Id: Maya0085
+Source: Jweenen tu k'íiwikil koonol
+Change: PERSON:3_PL
+Target: "	Jweeno'ob tu k'íiwikil koonol
+1263	Maya0086	Jweenen tu k'íiwikil koonol	PERSON:2_PL	Jweene'ex tu k'íiwikil koonol	maya	dev	"Id: Maya0086
+Source: Jweenen tu k'íiwikil koonol
+Change: PERSON:2_PL
+Target: Jweene'ex tu k'íiwikil koonol"	"Id: Maya0086
+Source: Jweenen tu k'íiwikil koonol
+Change: PERSON:2_PL
+Target: "	Jweene'ex tu k'íiwikil koonol
+1264	Maya0690	Te'exe' ti' kajakbale'ex tu yotoche'	TYPE:NEG	Ma' kajakbale'ex tu wotochi'	maya	dev	"Id: Maya0690
+Source: Te'exe' ti' kajakbale'ex tu yotoche'
+Change: TYPE:NEG
+Target: Ma' kajakbale'ex tu wotochi'"	"Id: Maya0690
+Source: Te'exe' ti' kajakbale'ex tu yotoche'
+Change: TYPE:NEG
+Target: "	Ma' te'exe' ti' kajakbale'ex tu yotoche'i'
+1265	Maya0691	Te'exe' ti' kajakbale'ex tu yotoche'	TYPE:NEG, SUBTYPE:INT	Ma' wáaj kajakbale'ex tu yotochi'	maya	dev	"Id: Maya0691
+Source: Te'exe' ti' kajakbale'ex tu yotoche'
+Change: TYPE:NEG, SUBTYPE:INT
+Target: Ma' wáaj kajakbale'ex tu yotochi'"	"Id: Maya0691
+Source: Te'exe' ti' kajakbale'ex tu yotoche'
+Change: TYPE:NEG, SUBTYPE:INT
+Target: "	Ma' wáaj te'exe' ti' kajakbale'ex tu yotoche'i'
+1266	Maya0078	Ma' táan wáaj  a bin tu k'íiwikil koonol	PERSON:2_PL	Ma' táan wáaj  a bine'ex tu k'íiwikil koonol	maya	dev	"Id: Maya0078
+Source: Ma' táan wáaj  a bin tu k'íiwikil koonol
+Change: PERSON:2_PL
+Target: Ma' táan wáaj  a bine'ex tu k'íiwikil koonol"	"Id: Maya0078
+Source: Ma' táan wáaj  a bin tu k'íiwikil koonol
+Change: PERSON:2_PL
+Target: "	Ma' táan wáaj a bine'ex tu k'íiwikil koonoli'
+1267	Maya0079	Ma' táan wáaj  a bin tu k'íiwikil koonol	PERSON:3_PL	Ma' táan wáaj  u bino'ob tu k'íiwikil koonol	maya	dev	"Id: Maya0079
+Source: Ma' táan wáaj  a bin tu k'íiwikil koonol
+Change: PERSON:3_PL
+Target: Ma' táan wáaj  u bino'ob tu k'íiwikil koonol"	"Id: Maya0079
+Source: Ma' táan wáaj  a bin tu k'íiwikil koonol
+Change: PERSON:3_PL
+Target: "	Ma' táan wáaj u bino'ob tu k'íiwikil koonoli'
+1268	Maya0202	Jsa'atech te' tu kúuchil báaxalo'	SUBTYPE:INT	Jsa'atech wáaj te' tu kúuchil báaxalo'	maya	dev	"Id: Maya0202
+Source: Jsa'atech te' tu kúuchil báaxalo'
+Change: SUBTYPE:INT
+Target: Jsa'atech wáaj te' tu kúuchil báaxalo'"	"Id: Maya0202
+Source: Jsa'atech te' tu kúuchil báaxalo'
+Change: SUBTYPE:INT
+Target: "	Jsa'atech wáaj te' tu kúuchil báaxalo'
+1269	Maya0300	Jach k'a'abéet a bin ich kool	PERSON:3_SI	Jach k'a'abéet u bin tu kool	maya	dev	"Id: Maya0300
+Source: Jach k'a'abéet a bin ich kool
+Change: PERSON:3_SI
+Target: Jach k'a'abéet u bin tu kool"	"Id: Maya0300
+Source: Jach k'a'abéet a bin ich kool
+Change: PERSON:3_SI
+Target: "	Jach k'a'abéet u bin ich kool
+1270	Maya0301	Jach k'a'abéet a bin ich kool	PERSON:3_PL	Jach k'a'abéet u bino'ob tu koolo'ob	maya	dev	"Id: Maya0301
+Source: Jach k'a'abéet a bin ich kool
+Change: PERSON:3_PL
+Target: Jach k'a'abéet u bino'ob tu koolo'ob"	"Id: Maya0301
+Source: Jach k'a'abéet a bin ich kool
+Change: PERSON:3_PL
+Target: "	Jach k'a'abéet u bino'ob ich kool
+1271	Maya0302	Jach k'a'abéet a bin ich kool	PERSON:2_PL	Jach k'a'abéet a bine'ex ta koole'ex	maya	dev	"Id: Maya0302
+Source: Jach k'a'abéet a bin ich kool
+Change: PERSON:2_PL
+Target: Jach k'a'abéet a bine'ex ta koole'ex"	"Id: Maya0302
+Source: Jach k'a'abéet a bin ich kool
+Change: PERSON:2_PL
+Target: "	Jach k'a'abéet a bine'ex ich kool
+1272	Maya0589	Máax yéetel kajakbalen	PERSON:2_SI	Máax yéetel kajakbalech	maya	dev	"Id: Maya0589
+Source: Máax yéetel kajakbalen
+Change: PERSON:2_SI
+Target: Máax yéetel kajakbalech"	"Id: Maya0589
+Source: Máax yéetel kajakbalen
+Change: PERSON:2_SI
+Target: "	Máax yéetel kajakbalech
+1273	Maya0590	Máax yéetel kajakbalen	PERSON:3_SI	Máax yéetel kajakbal	maya	dev	"Id: Maya0590
+Source: Máax yéetel kajakbalen
+Change: PERSON:3_SI
+Target: Máax yéetel kajakbal"	"Id: Maya0590
+Source: Máax yéetel kajakbalen
+Change: PERSON:3_SI
+Target: "	Máax yéetel kajakbal
+1274	Maya0591	Máax yéetel kajakbalen	PERSON:1_PL	Máax yéetel kajakbalo'on	maya	dev	"Id: Maya0591
+Source: Máax yéetel kajakbalen
+Change: PERSON:1_PL
+Target: Máax yéetel kajakbalo'on"	"Id: Maya0591
+Source: Máax yéetel kajakbalen
+Change: PERSON:1_PL
+Target: "	Máax yéetel kajakbalo'on
+1275	Maya0592	Máax yéetel kajakbalen	PERSON:2_PL	Máax yéetel kajakbale'ex	maya	dev	"Id: Maya0592
+Source: Máax yéetel kajakbalen
+Change: PERSON:2_PL
+Target: Máax yéetel kajakbale'ex"	"Id: Maya0592
+Source: Máax yéetel kajakbalen
+Change: PERSON:2_PL
+Target: "	Máax yéetel kajakbale'ex
+1276	Maya0593	Máax yéetel kajakbalen	PERSON:3_PL	Máax yéetel kajakbalo'ob	maya	dev	"Id: Maya0593
+Source: Máax yéetel kajakbalen
+Change: PERSON:3_PL
+Target: Máax yéetel kajakbalo'ob"	"Id: Maya0593
+Source: Máax yéetel kajakbalen
+Change: PERSON:3_PL
+Target: "	Máax yéetel kajakbalo'ob
+1277	Maya0478	Tin wilaj u sáastal tin kaajal	PERSON:2_SI	Ta wilaj u sáastal ta kaajal	maya	dev	"Id: Maya0478
+Source: Tin wilaj u sáastal tin kaajal
+Change: PERSON:2_SI
+Target: Ta wilaj u sáastal ta kaajal"	"Id: Maya0478
+Source: Tin wilaj u sáastal tin kaajal
+Change: PERSON:2_SI
+Target: "	Ta wiliken u sáastal ta kaajal
+1278	Maya0479	Tin wilaj u sáastal tin kaajal	PERSON:3_SI	Tu yilaj u sáastal tu kaajal	maya	dev	"Id: Maya0479
+Source: Tin wilaj u sáastal tin kaajal
+Change: PERSON:3_SI
+Target: Tu yilaj u sáastal tu kaajal"	"Id: Maya0479
+Source: Tin wilaj u sáastal tin kaajal
+Change: PERSON:3_SI
+Target: "	Tu yilaj u sáastal tu kaajal
+1279	Maya0480	Tin wilaj u sáastal tin kaajal	PERSON:1_PL	k ilaj u sáastal k kaajal	maya	dev	"Id: Maya0480
+Source: Tin wilaj u sáastal tin kaajal
+Change: PERSON:1_PL
+Target: k ilaj u sáastal k kaajal"	"Id: Maya0480
+Source: Tin wilaj u sáastal tin kaajal
+Change: PERSON:1_PL
+Target: "	k ilaj u sáastal k kaajal
+1280	Maya0481	Tin wilaj u sáastal tin kaajal	PERSON:3_PL	Tu yilo'ob u sáastal tu kaajalo'ob	maya	dev	"Id: Maya0481
+Source: Tin wilaj u sáastal tin kaajal
+Change: PERSON:3_PL
+Target: Tu yilo'ob u sáastal tu kaajalo'ob"	"Id: Maya0481
+Source: Tin wilaj u sáastal tin kaajal
+Change: PERSON:3_PL
+Target: "	Tu yilo'ob u sáastal tu kaajalo'ob
+1281	Maya0482	Tin wilaj u sáastal tin kaajal	PERSON:2_PL	Ta wile'ex u sáastal ta kaajale'ex	maya	dev	"Id: Maya0482
+Source: Tin wilaj u sáastal tin kaajal
+Change: PERSON:2_PL
+Target: Ta wile'ex u sáastal ta kaajale'ex"	"Id: Maya0482
+Source: Tin wilaj u sáastal tin kaajal
+Change: PERSON:2_PL
+Target: "	Ta wile'ex u sáastal ta kaajale'ex
+1282	Maya0080	Sáansamal kin bin tu k'íiwikil koonol	PERSON:2_SI	Sáansamal ka bin tu k'íiwikil koonol	maya	dev	"Id: Maya0080
+Source: Sáansamal kin bin tu k'íiwikil koonol
+Change: PERSON:2_SI
+Target: Sáansamal ka bin tu k'íiwikil koonol"	"Id: Maya0080
+Source: Sáansamal kin bin tu k'íiwikil koonol
+Change: PERSON:2_SI
+Target: "	Sáansamal ka bin tu k'íiwikil koonol
+1283	Maya0081	Sáansamal kin bin tu k'íiwikil koonol	PERSON:3_SI	Sáansamal ku bin tu k'íiwikil koonol	maya	dev	"Id: Maya0081
+Source: Sáansamal kin bin tu k'íiwikil koonol
+Change: PERSON:3_SI
+Target: Sáansamal ku bin tu k'íiwikil koonol"	"Id: Maya0081
+Source: Sáansamal kin bin tu k'íiwikil koonol
+Change: PERSON:3_SI
+Target: "	Sáansamal ku bin tu k'íiwikil koonol
+1284	Maya0082	Sáansamal kin bin tu k'íiwikil koonol	PERSON:3_PL	Sáansamal ku bino'ob tu k'íiwikil koonol	maya	dev	"Id: Maya0082
+Source: Sáansamal kin bin tu k'íiwikil koonol
+Change: PERSON:3_PL
+Target: Sáansamal ku bino'ob tu k'íiwikil koonol"	"Id: Maya0082
+Source: Sáansamal kin bin tu k'íiwikil koonol
+Change: PERSON:3_PL
+Target: "	Sáansamal ku bino'ob tu k'íiwikil koonol
+1285	Maya0083	Sáansamal kin bin tu k'íiwikil koonol	PERSON:2_PL	Sáansamal ka bine'ex tu k'íiwikil koonol	maya	dev	"Id: Maya0083
+Source: Sáansamal kin bin tu k'íiwikil koonol
+Change: PERSON:2_PL
+Target: Sáansamal ka bine'ex tu k'íiwikil koonol"	"Id: Maya0083
+Source: Sáansamal kin bin tu k'íiwikil koonol
+Change: PERSON:2_PL
+Target: "	Sáansamal ka bine'ex tu k'íiwikil koonol
+1286	Maya0264	Tene' kin bin xíimbal tu najil	PERSON:2_SI	Teche' ka bin xíimbal tu najil	maya	dev	"Id: Maya0264
+Source: Tene' kin bin xíimbal tu najil
+Change: PERSON:2_SI
+Target: Teche' ka bin xíimbal tu najil"	"Id: Maya0264
+Source: Tene' kin bin xíimbal tu najil
+Change: PERSON:2_SI
+Target: "	Teche' ka bin xíimbal tu najil
+1287	Maya0265	Tene' kin bin xíimbal tu najil	PERSON:3_SI	Leti'e' ku bin xíimbal ta najil	maya	dev	"Id: Maya0265
+Source: Tene' kin bin xíimbal tu najil
+Change: PERSON:3_SI
+Target: Leti'e' ku bin xíimbal ta najil"	"Id: Maya0265
+Source: Tene' kin bin xíimbal tu najil
+Change: PERSON:3_SI
+Target: "	Leti'e' ku bin xíimbal tu najil
+1288	Maya0266	Tene' kin bin xíimbal tu najil	PERSON:1_PL	To'one' k bin xíimbal ta najil	maya	dev	"Id: Maya0266
+Source: Tene' kin bin xíimbal tu najil
+Change: PERSON:1_PL
+Target: To'one' k bin xíimbal ta najil"	"Id: Maya0266
+Source: Tene' kin bin xíimbal tu najil
+Change: PERSON:1_PL
+Target: "	To'one' k bin xíimbal tu najil
+1289	Maya0267	Tene' kin bin xíimbal tu najil	PERSON:2_PL	Te'exe' ka bine'ex xíimbal tu najil	maya	dev	"Id: Maya0267
+Source: Tene' kin bin xíimbal tu najil
+Change: PERSON:2_PL
+Target: Te'exe' ka bine'ex xíimbal tu najil"	"Id: Maya0267
+Source: Tene' kin bin xíimbal tu najil
+Change: PERSON:2_PL
+Target: "	Te'exe' ka bine'ex xíimbal tu najil
+1290	Maya0237	Jbinen xook te' paarkéeo'	SUBTYPE:INT, PERSON:2_SI	Jbinech wáaj xook te' paarkéeo'	maya	dev	"Id: Maya0237
+Source: Jbinen xook te' paarkéeo'
+Change: SUBTYPE:INT, PERSON:2_SI
+Target: Jbinech wáaj xook te' paarkéeo'"	"Id: Maya0237
+Source: Jbinen xook te' paarkéeo'
+Change: SUBTYPE:INT, PERSON:2_SI
+Target: "	Jbinech wáaj xook te' paarkéeo'
+1291	Maya0238	Jbinen xook te' paarkéeo'	PERSON:3_SI	Leti'e' jbin xook te' paarkéeo'	maya	dev	"Id: Maya0238
+Source: Jbinen xook te' paarkéeo'
+Change: PERSON:3_SI
+Target: Leti'e' jbin xook te' paarkéeo'"	"Id: Maya0238
+Source: Jbinen xook te' paarkéeo'
+Change: PERSON:3_SI
+Target: "	Leti'e' bin xook te' paarkéeo'
+1292	Maya0239	Jbinen xook te' paarkéeo'	PERSON:2_PL	Te'exe' jbine'ex xook te' paarkéeo'	maya	dev	"Id: Maya0239
+Source: Jbinen xook te' paarkéeo'
+Change: PERSON:2_PL
+Target: Te'exe' jbine'ex xook te' paarkéeo'"	"Id: Maya0239
+Source: Jbinen xook te' paarkéeo'
+Change: PERSON:2_PL
+Target: "	Te'exe' bine'ex xook te' paarkéeo'
+1293	Maya0240	Jbinen xook te' paarkéeo'	PERSON:1_PL	To'one' jbino'on xook te' paarkéeo'	maya	dev	"Id: Maya0240
+Source: Jbinen xook te' paarkéeo'
+Change: PERSON:1_PL
+Target: To'one' jbino'on xook te' paarkéeo'"	"Id: Maya0240
+Source: Jbinen xook te' paarkéeo'
+Change: PERSON:1_PL
+Target: "	To'one' bino'on xook te' paarkéeo'
+1294	Maya0241	Jbinen xook te' paarkéeo'	PERSON:3_PL	Leti'o'obe' jbino'ob xook te' paarkéeo'	maya	dev	"Id: Maya0241
+Source: Jbinen xook te' paarkéeo'
+Change: PERSON:3_PL
+Target: Leti'o'obe' jbino'ob xook te' paarkéeo'"	"Id: Maya0241
+Source: Jbinen xook te' paarkéeo'
+Change: PERSON:3_PL
+Target: "	Let
+1295	Maya0250	Tin meentik janal tin wotoch	PERSON:2_SI	Ta meentik janal tin wotoch	maya	dev	"Id: Maya0250
+Source: Tin meentik janal tin wotoch
+Change: PERSON:2_SI
+Target: Ta meentik janal tin wotoch"	"Id: Maya0250
+Source: Tin meentik janal tin wotoch
+Change: PERSON:2_SI
+Target: "	Ta meentik janal ta wotoch
+1296	Maya0251	Tin meentik janal tin wotoch	PERSON:3_SI	Tu meentik janal tin wotoch	maya	dev	"Id: Maya0251
+Source: Tin meentik janal tin wotoch
+Change: PERSON:3_SI
+Target: Tu meentik janal tin wotoch"	"Id: Maya0251
+Source: Tin meentik janal tin wotoch
+Change: PERSON:3_SI
+Target: "	Tu meentik janal tu wotoch
+1297	Maya0252	Tin meentik janal tin wotoch	PERSON:3_PL	Leti'obe' tu meentiko'ob janal tin wotoch	maya	dev	"Id: Maya0252
+Source: Tin meentik janal tin wotoch
+Change: PERSON:3_PL
+Target: Leti'obe' tu meentiko'ob janal tin wotoch"	"Id: Maya0252
+Source: Tin meentik janal tin wotoch
+Change: PERSON:3_PL
+Target: "	Tu meentiko'ob janal tu wotoch
+1298	Maya0253	Tin meentik janal tin wotoch	PERSON:2_PL	Te'exe' ta meentike'ex janal tin wotoch	maya	dev	"Id: Maya0253
+Source: Tin meentik janal tin wotoch
+Change: PERSON:2_PL
+Target: Te'exe' ta meentike'ex janal tin wotoch"	"Id: Maya0253
+Source: Tin meentik janal tin wotoch
+Change: PERSON:2_PL
+Target: "	Ta meentike'ex janal ta wotoch
+1299	Maya0269	Yaan wáaj a manik a najil	PERSON:3_SI	Yaan wáaj u manik u najil	maya	dev	"Id: Maya0269
+Source: Yaan wáaj a manik a najil
+Change: PERSON:3_SI
+Target: Yaan wáaj u manik u najil"	"Id: Maya0269
+Source: Yaan wáaj a manik a najil
+Change: PERSON:3_SI
+Target: "	Yaan wáaj u manik u najil
+1300	Maya0741	Ba'atelnaj te' tu kúuchil báaxalo'	STATUS:ICM, ASPECT:PRG, TENSE:PRE_SIM	Táan u ba'atel te' tu kúuchil báaxalo'	maya	dev	"Id: Maya0741
+Source: Ba'atelnaj te' tu kúuchil báaxalo'
+Change: STATUS:ICM, ASPECT:PRG, TENSE:PRE_SIM
+Target: Táan u ba'atel te' tu kúuchil báaxalo'"	"Id: Maya0741
+Source: Ba'atelnaj te' tu kúuchil báaxalo'
+Change: STATUS:ICM, ASPECT:PRG, TENSE:PRE_SIM
+Target: "	Ba'atelnaj táan a bin koonol tu kúuchil báaxalo'
+1301	Maya0072	Ba'ax k'iin a bin tu k'íiwikil koonol	PERSON:3_SI	Ba'ax k'iin u bin tu k'íiwikil koonol	maya	dev	"Id: Maya0072
+Source: Ba'ax k'iin a bin tu k'íiwikil koonol
+Change: PERSON:3_SI
+Target: Ba'ax k'iin u bin tu k'íiwikil koonol"	"Id: Maya0072
+Source: Ba'ax k'iin a bin tu k'íiwikil koonol
+Change: PERSON:3_SI
+Target: "	Ba'ax k'iin u bin tu k'íiwikil koonol
+1302	Maya0073	Ba'ax k'iin a bin tu k'íiwikil koonol	PERSON:2_PL	Ba'ax k'iin a bine'ex k'íiwikil koonol	maya	dev	"Id: Maya0073
+Source: Ba'ax k'iin a bin tu k'íiwikil koonol
+Change: PERSON:2_PL
+Target: Ba'ax k'iin a bine'ex k'íiwikil koonol"	"Id: Maya0073
+Source: Ba'ax k'iin a bin tu k'íiwikil koonol
+Change: PERSON:2_PL
+Target: "	Ba'ax k'iin a bine'ex tu k'íiwikil koonol
+1303	Maya0074	Ba'ax k'iin a bin tu k'íiwikil koonol	PERSON:3_PL	Ba'ax k'iin u bino'ob k'íiwikil koonol	maya	dev	"Id: Maya0074
+Source: Ba'ax k'iin a bin tu k'íiwikil koonol
+Change: PERSON:3_PL
+Target: Ba'ax k'iin u bino'ob k'íiwikil koonol"	"Id: Maya0074
+Source: Ba'ax k'iin a bin tu k'íiwikil koonol
+Change: PERSON:3_PL
+Target: "	Ba'ax k'iin u bino'ob tu k'íiwikil koonol
+1304	Maya0355	jaanajen tu naajil xook	PERSON:1_PL	jaanajo'on tu naajil xook	maya	dev	"Id: Maya0355
+Source: jaanajen tu naajil xook
+Change: PERSON:1_PL
+Target: jaanajo'on tu naajil xook"	"Id: Maya0355
+Source: jaanajen tu naajil xook
+Change: PERSON:1_PL
+Target: "	J-jaano'on tu naajil xook
+1305	Maya0356	jaanajen tu naajil xook	PERSON:2_PL	jaanaje'ex tu naajil xook	maya	dev	"Id: Maya0356
+Source: jaanajen tu naajil xook
+Change: PERSON:2_PL
+Target: jaanaje'ex tu naajil xook"	"Id: Maya0356
+Source: jaanajen tu naajil xook
+Change: PERSON:2_PL
+Target: "	J-jaane'ex tu naajil xook
+1306	Maya0357	jaanajen tu naajil xook	PERSON:2_SI	janech tu naajil xook	maya	dev	"Id: Maya0357
+Source: jaanajen tu naajil xook
+Change: PERSON:2_SI
+Target: janech tu naajil xook"	"Id: Maya0357
+Source: jaanajen tu naajil xook
+Change: PERSON:2_SI
+Target: "	J-jaanech tu naajil xook
+1307	Maya0679	Ta'aytak a chukik u ja'abil	TYPE:NEG, MODE:SUB, ADVTENSE:NA, PERSON:3_SI	Ma' u chuk u ja'abili'	maya	dev	"Id: Maya0679
+Source: Ta'aytak a chukik u ja'abil
+Change: TYPE:NEG, MODE:SUB, ADVTENSE:NA, PERSON:3_SI
+Target: Ma' u chuk u ja'abili'"	"Id: Maya0679
+Source: Ta'aytak a chukik u ja'abil
+Change: TYPE:NEG, MODE:SUB, ADVTENSE:NA, PERSON:3_SI
+Target: "	Ma' u chukik u ja'abili'
+1308	Maya0680	Ta'aytak a chukik u ja'abil	TYPE:NEG, SUBTYPE:INT, MODE:SUB, ADVTENSE:NA, PERSON:3_SI	Ma' wáaj u chuk u ja'abili'	maya	dev	"Id: Maya0680
+Source: Ta'aytak a chukik u ja'abil
+Change: TYPE:NEG, SUBTYPE:INT, MODE:SUB, ADVTENSE:NA, PERSON:3_SI
+Target: Ma' wáaj u chuk u ja'abili'"	"Id: Maya0680
+Source: Ta'aytak a chukik u ja'abil
+Change: TYPE:NEG, SUBTYPE:INT, MODE:SUB, ADVTENSE:NA, PERSON:3_SI
+Target: "	Ma' wáaj u chukik u ja'abili'
