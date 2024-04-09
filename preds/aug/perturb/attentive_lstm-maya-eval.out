@@ -1,0 +1,1 @@
+./preds/aug/perturb/attentive_lstm-maya.tsv: Accuracy=46.31, BLEU=71.60, ChrF=86.90

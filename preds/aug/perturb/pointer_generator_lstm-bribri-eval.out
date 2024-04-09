@@ -1,0 +1,1 @@
+./preds/aug/perturb/pointer_generator_lstm-bribri.tsv: Accuracy=1.42, BLEU=22.49, ChrF=40.54

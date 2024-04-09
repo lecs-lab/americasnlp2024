@@ -1,0 +1,1 @@
+./preds/aug/perturb/attentive_lstm-bribri.tsv: Accuracy=5.19, BLEU=21.64, ChrF=41.08

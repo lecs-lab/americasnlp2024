@@ -1,0 +1,1 @@
+./preds/aug/identity+lateral/attentive_lstm-guarani.tsv: Accuracy=27.85, BLEU=45.00, ChrF=77.28

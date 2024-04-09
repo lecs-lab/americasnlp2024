@@ -1,0 +1,1 @@
+./preds/aug/lateral/pointer_generator_lstm-bribri.tsv: Accuracy=4.25, BLEU=18.60, ChrF=35.34

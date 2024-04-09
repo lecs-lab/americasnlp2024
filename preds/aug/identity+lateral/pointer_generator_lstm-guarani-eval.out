@@ -1,0 +1,1 @@
+./preds/aug/identity+lateral/pointer_generator_lstm-guarani.tsv: Accuracy=22.78, BLEU=30.87, ChrF=72.49

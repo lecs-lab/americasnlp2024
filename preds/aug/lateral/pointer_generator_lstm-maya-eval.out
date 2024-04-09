@@ -1,0 +1,1 @@
+./preds/aug/lateral/pointer_generator_lstm-maya.tsv: Accuracy=38.26, BLEU=63.42, ChrF=83.38
