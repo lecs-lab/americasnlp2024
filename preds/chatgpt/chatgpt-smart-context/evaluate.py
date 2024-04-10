@@ -33,7 +33,7 @@ def calc_chrf(y_trues,y_preds):
         y_true = y_trues[i]
         y_pred = y_preds[i]
         bs = sentence_chrf(y_true.split(), y_pred.split())
-        #print(y_true,"|", y_pred, "|", bs)
+        print(y_true,"|", y_pred, "|", bs)
         chrf_scores.append(bs)
 
     return sum(chrf_scores) / len(chrf_scores) 
