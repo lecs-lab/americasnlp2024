@@ -1,0 +1,6624 @@
+
+
+PROMPT:
+Below are examples of a sentence in Guarani, the linguistic change, and the target sentence after applying the change.
+        
+        Id: Guarani0194
+Source: Peẽ napejapómi ogyke pokã
+Change: TYPE:AFF
+Target: Peẽ pejapomi ogyke pokã
+
+Id: Guarani0099
+Source: Pohanohára akãguapy ndombovuta
+Change: TYPE:AFF
+Target: Pohanohára akãguapy ombovuta
+
+Id: Guarani0149
+Source: Chéngo ndaikuaái upévape.
+Change: TYPE:AFF
+Target: Chéngo aikuaá upévape.
+
+Id: Guarani0161
+Source: Ha’ekuéra naiñemoñaréi kuri
+Change: TYPE:AFF
+Target: Ha’ekuéra oñemoñaréi kuri
+
+Id: Guarani0089
+Source: Che nañemoingeta
+Change: TYPE:AFF
+Target: Che añemoingeta
+
+Id: Guarani0227
+Source: Ijuru ñeimo’ã’ỹva ndojurata che aovevekuéra - Ijuru ñeimo’ã’ỹva ndojuramo’ãi che aovevekuéra
+Change: TYPE:AFF
+Target: Ijuru ñeimo’ã’ỹva ojurata che aovevekuéra
+
+Id: Guarani0114
+Source: Ore ndorokuave’ẽi umi tembi’ukuéra pytagua
+Change: TYPE:AFF
+Target: Ore rokuave’ẽ umi tembi’ukuéra pytagua
+
+Id: Guarani0222
+Source: Ha’e ndombojaruita
+Change: TYPE:AFF
+Target: Ha’e ombojaruita
+
+Id: Guarani0063
+Source: Nde nderemoheñói
+Change: TYPE:AFF
+Target: Nde remoheñói
+
+Id: Guarani0121
+Source: Ha’e nombotujaimi che ogyke - Ha’e ndombyaimi che ogyke
+Change: TYPE:AFF
+Target: Ha’e ombotujaimi che ogyke - Ha’e ombyaimi che ogyke
+
+Id: Guarani0017
+Source: Nde nderejapói
+Change: TYPE:AFF
+Target: Nde rejapo
+
+        Below is a similar example, where the source sentence and linguistic change are given, and the output sentence is not known. For this example, please output only the id and target sentence values, as in
+
+        ID: some id
+        Target: sentence after applying the change
+
+
+        Do not output any additional text, and do not output the Source or Change fields. This is very important, take your time and do not mess up or I will lose my job.
+
+        
+
+Id: Guarani0232
+Source: Ore ndorombyai kuri
+Change: TYPE:AFF
+Target: 
+        
+RESPONSE:
+ID: Guarani0232
+Target: Ore rombyai kuri
+
+PROMPT:
+Below are examples of a sentence in Guarani, the linguistic change, and the target sentence after applying the change.
+        
+        Id: Guarani0200
+Source: Mombe’ukuéra omboty kuri pende arete
+Change: TENSE:FUT_SIM
+Target: Mombe’ukuéra ombotyta pende arete
+
+Id: Guarani0060
+Source: Ko po ojupi
+Change: TENSE:FUT_SIM
+Target: Ko po ojupíta
+
+Id: Guarani0107
+Source: Ku mbói oñorairõ
+Change: TENSE:FUT_SIM
+Target: Ku mbói oñorairõta
+
+Id: Guarani0084
+Source: Temirendukuéra omongakuaa
+Change: TENSE:FUT_SIM
+Target: Temirendukuéra omongakuaata
+
+Id: Guarani0112
+Source: Ha’e ombojára kuri mbovy apekuéra
+Change: TENSE:FUT_SIM
+Target: Ha’e ombojárata mbovy apekuéra
+
+Id: Guarani0162
+Source: Ha’ekuéra naiñemoñaréi kuri
+Change: TENSE:FUT_SIM
+Target: Ha’ekuéra naiñemoñaréita
+
+Id: Guarani0055
+Source: Apurahéi kuri
+Change: TENSE:FUT_SIM
+Target: Apurahéitta
+
+Id: Guarani0130
+Source: Che ajavými iñeikotevẽva akuápe
+Change: TENSE:FUT_SIM
+Target: Che ajavýta iñeikotevẽva akuápe
+
+Id: Guarani0255
+Source: Nde reñembosarái hína
+Change: TENSE:FUT_SIM
+Target: Nde reñembosaráita hína
+
+Id: Guarani0219
+Source: Amo ñemuha osapukái kuri
+Change: TENSE:FUT_SIM
+Target: Amo ñemuha osapukáita
+
+Id: Guarani0004
+Source: Jaguarete katu itáicha okirirĩ.
+Change: TENSE:FUT_SIM
+Target: Jaguarete katu itáicha okirirĩta.
+
+Id: Guarani0207
+Source: Ha’e ojupi kuri
+Change: TENSE:FUT_SIM
+Target: Ha’e ojupita
+
+Id: Guarani0009
+Source: Che mba’éma ko ykua
+Change: TENSE:FUT_SIM
+Target: Che mba’éta ko ykua
+
+Id: Guarani0031
+Source: Ha’e oguapy
+Change: TENSE:FUT_SIM
+Target: Ha’e oguapýta
+
+Id: Guarani0125
+Source: Ha’e nombotujaimi che ogyke - Ha’e ndombyaimi che ogyke
+Change: TENSE:FUT_SIM
+Target: Ha’e ombotujáta che ogyke - Ha’e ombyaíta che ogyke
+
+Id: Guarani0148
+Source: Oipuru hikuái ka’a ha ho’u terere.
+Change: TENSE:FUT_SIM
+Target: Oipuruta hikuái ka’a ha ho’uta terere.
+
+Id: Guarani0159
+Source: Ko mombe’upy ohenduká kuri chéve che ru.
+Change: TENSE:FUT_SIM
+Target: Ko mombe’upy ohendukáta chéve che ru.
+
+Id: Guarani0035
+Source: Upérö (che) añani hína kuri
+Change: TENSE:FUT_SIM
+Target: Upérõ (che) añanita hína
+
+Id: Guarani0079
+Source: Okũmbymi hikuái
+Change: TENSE:FUT_SIM
+Target: Okũmbyta hikuái.
+
+Id: Guarani0188
+Source: Ore temimbo’e tie’ỹ ojapopami
+Change: TENSE:FUT_SIM
+Target: Ore temimbo’e tie’ỹ ojapopata
+
+        Below is a similar example, where the source sentence and linguistic change are given, and the output sentence is not known. For this example, please output only the id and target sentence values, as in
+
+        ID: some id
+        Target: sentence after applying the change
+
+
+        Do not output any additional text, and do not output the Source or Change fields. This is very important, take your time and do not mess up or I will lose my job.
+
+        
+
+Id: Guarani0233
+Source: Ore ndorombyai kuri
+Change: TENSE:FUT_SIM
+Target: 
+        
+RESPONSE:
+ID: Guarani0233
+Target: Ore ndorombyaita
+
+PROMPT:
+Below are examples of a sentence in Guarani, the linguistic change, and the target sentence after applying the change.
+        
+        Id: Guarani0190
+Source: Peẽ napejapómi ogyke pokã
+Change: PERSON:1_PL_INC
+Target: Ñande najajapómi ogyke pokã
+
+Id: Guarani0163
+Source: Ha’ekuéra naiñemoñaréi kuri
+Change: PERSON:1_PL_INC
+Target: Ñande naiñañemoñaréi kuri
+
+Id: Guarani0118
+Source: Ore ndorokuave’ẽi umi tembi’ukuéra pytagua
+Change: PERSON:1_PL_INC
+Target: Ñande ndañakuave’ẽi umi tembi’ukuéra pytagua
+
+Id: Guarani0204
+Source: Ha’e ojupi kuri
+Change: PERSON:1_PL_INC
+Target: Ñande jajupi kuri
+
+Id: Guarani0065
+Source: Nde nderemoheñói
+Change: PERSON:1_PL_INC
+Target: Ñande ndañamoheñói
+
+Id: Guarani0124
+Source: Ha’e nombotujaimi che ogyke - Ha’e ndombyaimi che ogyke
+Change: PERSON:1_PL_INC
+Target: Ñande ndañambotujáimi che ogyke - Ñande ndañambyaimi che ogyke
+
+Id: Guarani0145
+Source: Oipuru hikuái ka’a ha ho’u terere.
+Change: PERSON:1_PL_INC
+Target: Ñande jaipuru ka’a ha ja’u terere.
+
+Id: Guarani0038
+Source: Upérö (che) añani hína kuri
+Change: PERSON:1_PL_INC
+Target: Upérõ (ñande) ñañanihínakuri
+
+Id: Guarani0080
+Source: Okũmbymi hikuái
+Change: PERSON:1_PL_INC
+Target: Ñande ñakũmbýimi
+
+Id: Guarani0019
+Source: Nde nderejapói
+Change: PERSON:1_PL_INC
+Target: Ñande ndajajapói
+
+Id: Guarani0045
+Source: Che rasy
+Change: PERSON:1_PL_INC
+Target: Ñande rasy
+
+        Below is a similar example, where the source sentence and linguistic change are given, and the output sentence is not known. For this example, please output only the id and target sentence values, as in
+
+        ID: some id
+        Target: sentence after applying the change
+
+
+        Do not output any additional text, and do not output the Source or Change fields. This is very important, take your time and do not mess up or I will lose my job.
+
+        
+
+Id: Guarani0234
+Source: Ore ndorombyai kuri
+Change: PERSON:1_PL_INC
+Target: 
+        
+RESPONSE:
+ID: Guarani0234
+Target: Ñande ndañambyai kuri
+
+PROMPT:
+Below are examples of a sentence in Guarani, the linguistic change, and the target sentence after applying the change.
+        
+        Id: Guarani0111
+Source: Ha’e ombojára kuri mbovy apekuéra
+Change: PERSON:1_SI
+Target: Che ambojára kuri mbovy apekuéra
+
+Id: Guarani0014
+Source: He’i ka’i ruvicha ta’ýra kuérape
+Change: PERSON:1_SI
+Target: Che, ka’i ruvicha, ha’e che ta’yrakuérape
+
+Id: Guarani0119
+Source: Ore ndorokuave’ẽi umi tembi’ukuéra pytagua
+Change: PERSON:1_SI
+Target: Che ndaikuave’ẽi umi tembi’ukuéra pytagua
+
+Id: Guarani0253
+Source: Nde reñembosarái hína
+Change: PERSON:1_SI
+Target: Che añembosarái hína
+
+Id: Guarani0001
+Source: Jaguarete katu itáicha okirirĩ.
+Change: PERSON:1_SI
+Target: Che katu itáicha akirirĩ.
+
+Id: Guarani0144
+Source: Pakova roguépe omo’â hembi’ukuéra.
+Change: PERSON:1_SI
+Target: Pakova roguépe amo’â cherembi’ukuéra.
+
+Id: Guarani0203
+Source: Ha’e ojupi kuri
+Change: PERSON:1_SI
+Target: Che ajupi kuri
+
+Id: Guarani0226
+Source: Ha’e ndombojaruita
+Change: PERSON:1_SI
+Target: Che ndambojaruita
+
+Id: Guarani0028
+Source: Ha’e oguapy
+Change: PERSON:1_SI
+Target: Che aguapy
+
+Id: Guarani0155
+Source: Ama oikomi ka’aguy hovy’ûvare
+Change: PERSON:1_SI
+Target: Che aikomi ka’aguy hovy’ûvare
+
+Id: Guarani0081
+Source: Okũmbymi hikuái
+Change: PERSON:1_SI
+Target: Che akũmbymi
+
+        Below is a similar example, where the source sentence and linguistic change are given, and the output sentence is not known. For this example, please output only the id and target sentence values, as in
+
+        ID: some id
+        Target: sentence after applying the change
+
+
+        Do not output any additional text, and do not output the Source or Change fields. This is very important, take your time and do not mess up or I will lose my job.
+
+        
+
+Id: Guarani0235
+Source: Ore ndorombyai kuri
+Change: PERSON:1_SI
+Target: 
+        
+RESPONSE:
+ID: Guarani0235
+Target: Che ndorombyai kuri
+
+PROMPT:
+Below are examples of a sentence in Guarani, the linguistic change, and the target sentence after applying the change.
+        
+        Id: Guarani0165
+Source: Ha’ekuéra naiñemoñaréi kuri
+Change: PERSON:2_PL
+Target: Peë naipeñemoñaréi kuri
+
+Id: Guarani0132
+Source: Che ajavými iñeikotevẽva akuápe
+Change: PERSON:2_PL
+Target: Nde rejavýimi iñeikotevẽva akuápe
+
+Id: Guarani0120
+Source: Ore ndorokuave’ẽi umi tembi’ukuéra pytagua
+Change: PERSON:2_PL
+Target: Nde ndereikuave’ẽi umi tembi’ukuéra pytagua
+
+Id: Guarani0142
+Source: Pakova roguépe omo’â hembi’ukuéra.
+Change: PERSON:2_PL
+Target: Pakova roguépe pemo’â penderembi’ukuéra.
+
+Id: Guarani0030
+Source: Ha’e oguapy
+Change: PERSON:2_PL
+Target: Peẽ peguapy
+
+Id: Guarani0158
+Source: Ko mombe’upy ohenduká kuri chéve che ru.
+Change: PERSON:2_PL
+Target: Ko mombe’upy pemohenduká kuri chéve peê.
+
+Id: Guarani0047
+Source: Che rasy
+Change: PERSON:2_PL
+Target: Peê penderasy
+
+        Below is a similar example, where the source sentence and linguistic change are given, and the output sentence is not known. For this example, please output only the id and target sentence values, as in
+
+        ID: some id
+        Target: sentence after applying the change
+
+
+        Do not output any additional text, and do not output the Source or Change fields. This is very important, take your time and do not mess up or I will lose my job.
+
+        
+
+Id: Guarani0236
+Source: Ore ndorombyai kuri
+Change: PERSON:2_PL
+Target: 
+        
+RESPONSE:
+ID: Guarani0236
+Target: Nde ndereikombýi kuri
+
+PROMPT:
+Below are examples of a sentence in Guarani, the linguistic change, and the target sentence after applying the change.
+        
+        Id: Guarani0057
+Source: Ha’e ombojerekuri umi kutuhakuéra poro’o
+Change: PERSON:2_SI
+Target: Nde rembojerekuri umi kutuhakuéra tuicháva
+
+Id: Guarani0196
+Source: Peẽ napejapómi ogyke pokã
+Change: PERSON:2_SI
+Target: Nde nderejapómi ogyke pokã
+
+Id: Guarani0110
+Source: Ha’e ombojára kuri mbovy apekuéra
+Change: PERSON:2_SI
+Target: Nde rembojára kuri mbovy apekuéra
+
+Id: Guarani0151
+Source: Chéngo ndaikuaái upévape.
+Change: PERSON:2_SI
+Target: Ndéngo ndereikuaái upévape.
+
+Id: Guarani0015
+Source: He’i ka’i ruvicha ta’ýra kuérape
+Change: PERSON:2_SI
+Target: Nde, ka’i ruvicha ere nde ta’yrakuérape
+
+Id: Guarani0091
+Source: Che nañemoingeta
+Change: PERSON:2_SI
+Target: Nde nareñemoingeta
+
+Id: Guarani0002
+Source: Jaguarete katu itáicha okirirĩ.
+Change: PERSON:2_SI
+Target: Nde katu itáicha rekirirĩ.
+
+Id: Guarani0143
+Source: Pakova roguépe omo’â hembi’ukuéra.
+Change: PERSON:2_SI
+Target: Pakova roguépe remo’â nderembi’ukuéra.
+
+Id: Guarani0208
+Source: Ha’e ojupi kuri
+Change: PERSON:2_SI
+Target: Nde rejupi kuri
+
+Id: Guarani0005
+Source: Che mba’éma ko ykua
+Change: PERSON:2_SI
+Target: Nde mba’e ko ykua
+
+Id: Guarani0223
+Source: Ha’e ndombojaruita
+Change: PERSON:2_SI
+Target: Nde nderembojarui mo’ãi
+
+Id: Guarani0029
+Source: Ha’e oguapy
+Change: PERSON:2_SI
+Target: Nde reguapy
+
+Id: Guarani0123
+Source: Ha’e nombotujaimi che ogyke - Ha’e ndombyaimi che ogyke
+Change: PERSON:2_SI
+Target: Nde nderembotujáimi che ogyke - Nde nerembyaimi che ogyke
+
+Id: Guarani0152
+Source: Ama oikomi ka’aguy hovy’ûvare
+Change: PERSON:2_SI
+Target: Nde reikomi ka’aguy hovy’ûvare
+
+Id: Guarani0147
+Source: Oipuru hikuái ka’a ha ho’u terere.
+Change: PERSON:2_SI
+Target: Nde reipuru ka’a ha re’u terere.
+
+Id: Guarani0157
+Source: Ko mombe’upy ohenduká kuri chéve che ru.
+Change: PERSON:2_SI
+Target: Ko mombe’upy emohenduká kuri chéve nde.
+
+Id: Guarani0037
+Source: Upérö (che) añani hína kuri
+Change: PERSON:2_SI
+Target: Upérõ (nde) reñanihínakuri
+
+Id: Guarani0043
+Source: Che rasy
+Change: PERSON:2_SI
+Target: Nde nderasy
+
+        Below is a similar example, where the source sentence and linguistic change are given, and the output sentence is not known. For this example, please output only the id and target sentence values, as in
+
+        ID: some id
+        Target: sentence after applying the change
+
+
+        Do not output any additional text, and do not output the Source or Change fields. This is very important, take your time and do not mess up or I will lose my job.
+
+        
+
+Id: Guarani0237
+Source: Ore ndorombyai kuri
+Change: PERSON:2_SI
+Target: 
+        
+RESPONSE:
+ID: Guarani0237
+Target: Nde ndereombyai kuri
+
+PROMPT:
+Below are examples of a sentence in Guarani, the linguistic change, and the target sentence after applying the change.
+        
+        Id: Guarani0194
+Source: Peẽ napejapómi ogyke pokã
+Change: TYPE:AFF
+Target: Peẽ pejapomi ogyke pokã
+
+Id: Guarani0099
+Source: Pohanohára akãguapy ndombovuta
+Change: TYPE:AFF
+Target: Pohanohára akãguapy ombovuta
+
+Id: Guarani0149
+Source: Chéngo ndaikuaái upévape.
+Change: TYPE:AFF
+Target: Chéngo aikuaá upévape.
+
+Id: Guarani0161
+Source: Ha’ekuéra naiñemoñaréi kuri
+Change: TYPE:AFF
+Target: Ha’ekuéra oñemoñaréi kuri
+
+Id: Guarani0089
+Source: Che nañemoingeta
+Change: TYPE:AFF
+Target: Che añemoingeta
+
+Id: Guarani0227
+Source: Ijuru ñeimo’ã’ỹva ndojurata che aovevekuéra - Ijuru ñeimo’ã’ỹva ndojuramo’ãi che aovevekuéra
+Change: TYPE:AFF
+Target: Ijuru ñeimo’ã’ỹva ojurata che aovevekuéra
+
+Id: Guarani0114
+Source: Ore ndorokuave’ẽi umi tembi’ukuéra pytagua
+Change: TYPE:AFF
+Target: Ore rokuave’ẽ umi tembi’ukuéra pytagua
+
+Id: Guarani0222
+Source: Ha’e ndombojaruita
+Change: TYPE:AFF
+Target: Ha’e ombojaruita
+
+Id: Guarani0063
+Source: Nde nderemoheñói
+Change: TYPE:AFF
+Target: Nde remoheñói
+
+Id: Guarani0121
+Source: Ha’e nombotujaimi che ogyke - Ha’e ndombyaimi che ogyke
+Change: TYPE:AFF
+Target: Ha’e ombotujaimi che ogyke - Ha’e ombyaimi che ogyke
+
+Id: Guarani0017
+Source: Nde nderejapói
+Change: TYPE:AFF
+Target: Nde rejapo
+
+        Below is a similar example, where the source sentence and linguistic change are given, and the output sentence is not known. For this example, please output only the id and target sentence values, as in
+
+        ID: some id
+        Target: sentence after applying the change
+
+
+        Do not output any additional text, and do not output the Source or Change fields. This is very important, take your time and do not mess up or I will lose my job.
+
+        
+
+Id: Guarani0073
+Source: Peẽ napeñanga’uta
+Change: TYPE:AFF
+Target: 
+        
+RESPONSE:
+ID: Guarani0073
+Target: Peẽ peñanga’uta
+
+PROMPT:
+Below are examples of a sentence in Guarani, the linguistic change, and the target sentence after applying the change.
+        
+        Id: Guarani0195
+Source: Peẽ napejapómi ogyke pokã
+Change: PERSON:3_PL
+Target: Ha’ekuéra nojapómi ogyke pokã
+
+Id: Guarani0105
+Source: Ku mbói oñorairõ
+Change: PERSON:3_PL
+Target: Umi mbóikuera oñorairõ
+
+Id: Guarani0101
+Source: Pohanohára akãguapy ndombovuta
+Change: PERSON:3_PL
+Target: Pohanohárakuera akãguapy ndombovúita
+
+Id: Guarani0056
+Source: Apurahéi kuri
+Change: PERSON:3_PL
+Target: Ha’ekuéra opurahéikuri
+
+Id: Guarani0257
+Source: Nde reñembosarái hína
+Change: PERSON:3_PL
+Target: Ha’ekuéra oñembosarái hína
+
+Id: Guarani0218
+Source: Amo ñemuha osapukái kuri
+Change: PERSON:3_PL
+Target: Umíva ñemuhakuéra osapukái kuri
+
+Id: Guarani0026
+Source: Ha’e oguapy
+Change: PERSON:3_PL
+Target: Hikuái oguapy
+
+Id: Guarani0066
+Source: Nde nderemoheñói
+Change: PERSON:3_PL
+Target: Ha’ekuéra ndomoheñoi
+
+Id: Guarani0020
+Source: Nde nderejapói
+Change: PERSON:3_PL
+Target: Ha’ekuéra ndojapói
+
+Id: Guarani0186
+Source: Ore temimbo’e tie’ỹ ojapopami
+Change: PERSON:3_PL
+Target: Ore temimbo’ekuéra tie’ỹ ojapopami
+
+        Below is a similar example, where the source sentence and linguistic change are given, and the output sentence is not known. For this example, please output only the id and target sentence values, as in
+
+        ID: some id
+        Target: sentence after applying the change
+
+
+        Do not output any additional text, and do not output the Source or Change fields. This is very important, take your time and do not mess up or I will lose my job.
+
+        
+
+Id: Guarani0074
+Source: Peẽ napeñanga’uta
+Change: PERSON:3_PL
+Target: 
+        
+RESPONSE:
+ID: Guarani0074
+Target: Ha’ekuéra noñanga’uta
+
+PROMPT:
+Below are examples of a sentence in Guarani, the linguistic change, and the target sentence after applying the change.
+        
+        Id: Guarani0111
+Source: Ha’e ombojára kuri mbovy apekuéra
+Change: PERSON:1_SI
+Target: Che ambojára kuri mbovy apekuéra
+
+Id: Guarani0014
+Source: He’i ka’i ruvicha ta’ýra kuérape
+Change: PERSON:1_SI
+Target: Che, ka’i ruvicha, ha’e che ta’yrakuérape
+
+Id: Guarani0119
+Source: Ore ndorokuave’ẽi umi tembi’ukuéra pytagua
+Change: PERSON:1_SI
+Target: Che ndaikuave’ẽi umi tembi’ukuéra pytagua
+
+Id: Guarani0253
+Source: Nde reñembosarái hína
+Change: PERSON:1_SI
+Target: Che añembosarái hína
+
+Id: Guarani0001
+Source: Jaguarete katu itáicha okirirĩ.
+Change: PERSON:1_SI
+Target: Che katu itáicha akirirĩ.
+
+Id: Guarani0144
+Source: Pakova roguépe omo’â hembi’ukuéra.
+Change: PERSON:1_SI
+Target: Pakova roguépe amo’â cherembi’ukuéra.
+
+Id: Guarani0203
+Source: Ha’e ojupi kuri
+Change: PERSON:1_SI
+Target: Che ajupi kuri
+
+Id: Guarani0226
+Source: Ha’e ndombojaruita
+Change: PERSON:1_SI
+Target: Che ndambojaruita
+
+Id: Guarani0028
+Source: Ha’e oguapy
+Change: PERSON:1_SI
+Target: Che aguapy
+
+Id: Guarani0155
+Source: Ama oikomi ka’aguy hovy’ûvare
+Change: PERSON:1_SI
+Target: Che aikomi ka’aguy hovy’ûvare
+
+Id: Guarani0081
+Source: Okũmbymi hikuái
+Change: PERSON:1_SI
+Target: Che akũmbymi
+
+        Below is a similar example, where the source sentence and linguistic change are given, and the output sentence is not known. For this example, please output only the id and target sentence values, as in
+
+        ID: some id
+        Target: sentence after applying the change
+
+
+        Do not output any additional text, and do not output the Source or Change fields. This is very important, take your time and do not mess up or I will lose my job.
+
+        
+
+Id: Guarani0075
+Source: Peẽ napeñanga’uta
+Change: PERSON:1_SI
+Target: 
+        
+RESPONSE:
+ID: Guarani0075
+Target: Che napeñanga’ui
+
+PROMPT:
+Below are examples of a sentence in Guarani, the linguistic change, and the target sentence after applying the change.
+        
+        Id: Guarani0192
+Source: Peẽ napejapómi ogyke pokã
+Change: TENSE:PAS_REC
+Target: Peẽ napejapói kuri ogyke pokã
+
+Id: Guarani0100
+Source: Pohanohára akãguapy ndombovuta
+Change: TENSE:PAS_REC
+Target: Pohanohára akãguapy ndombovúi kuri
+
+Id: Guarani0150
+Source: Chéngo ndaikuaái upévape.
+Change: TENSE:PAS_REC
+Target: Chéngo ndaikuaái kuri hina upévape.
+
+Id: Guarani0228
+Source: Ijuru ñeimo’ã’ỹva ndojurata che aovevekuéra - Ijuru ñeimo’ã’ỹva ndojuramo’ãi che aovevekuéra
+Change: TENSE:PAS_REC
+Target: Ijuru ñeimo’ã’ỹva ndojurai kuri che aovevekuéra
+
+Id: Guarani0256
+Source: Nde reñembosarái hína
+Change: TENSE:PAS_REC
+Target: Nde reñembosarái kuri hína
+
+Id: Guarani0224
+Source: Ha’e ndombojaruita
+Change: TENSE:PAS_REC
+Target: Ha’e ndombojarui kuri
+
+Id: Guarani0033
+Source: Ha’e oguapy
+Change: TENSE:PAS_REC
+Target: Ha’e oguapýkuri
+
+Id: Guarani0122
+Source: Ha’e nombotujaimi che ogyke - Ha’e ndombyaimi che ogyke
+Change: TENSE:PAS_REC
+Target: Ha’e ndombotujaikuri hina che ogyke - Ha’e ndombyaikuri hina che ogyke
+
+Id: Guarani0078
+Source: Okũmbymi hikuái
+Change: TENSE:PAS_REC
+Target: Okũmby kuri hikuái.
+
+Id: Guarani0039
+Source: Che rasy
+Change: TENSE:PAS_REC
+Target: Che cherasy kuri
+
+        Below is a similar example, where the source sentence and linguistic change are given, and the output sentence is not known. For this example, please output only the id and target sentence values, as in
+
+        ID: some id
+        Target: sentence after applying the change
+
+
+        Do not output any additional text, and do not output the Source or Change fields. This is very important, take your time and do not mess up or I will lose my job.
+
+        
+
+Id: Guarani0076
+Source: Peẽ napeñanga’uta
+Change: TENSE:PAS_REC
+Target: 
+        
+RESPONSE:
+ID: Guarani0076
+Target: Peẽ napeñanga’u kuri
+
+PROMPT:
+Below are examples of a sentence in Guarani, the linguistic change, and the target sentence after applying the change.
+        
+        Id: Guarani0202
+Source: Mombe’ukuéra omboty kuri pende arete
+Change: TENSE:PRE_SIM
+Target: Mombe’ukuéra omboty pende arete
+
+Id: Guarani0193
+Source: Peẽ napejapómi ogyke pokã
+Change: TENSE:PRE_SIM
+Target: Peẽ napejapói ogyke pokã
+
+Id: Guarani0098
+Source: Pohanohára akãguapy ndombovuta
+Change: TENSE:PRE_SIM
+Target: Pohanohára akãguapy ndombovúi
+
+Id: Guarani0166
+Source: Ha’ekuéra naiñemoñaréi kuri
+Change: TENSE:PRE_SIM
+Target: Ha’ekuéra ndoñemoñaréi
+
+Id: Guarani0088
+Source: Che nañemoingeta
+Change: TENSE:PRE_SIM
+Target: Che nañemoingei
+
+Id: Guarani0231
+Source: Ijuru ñeimo’ã’ỹva ndojurata che aovevekuéra - Ijuru ñeimo’ã’ỹva ndojuramo’ãi che aovevekuéra
+Change: TENSE:PRE_SIM
+Target: Ijuru ñeimo’ã’ỹva ndojurai che aovevekuéra
+
+Id: Guarani0131
+Source: Che ajavými iñeikotevẽva akuápe
+Change: TENSE:PRE_SIM
+Target: Che ajavy iñeikotevẽva akuápe
+
+Id: Guarani0154
+Source: Ama oikomi ka’aguy hovy’ûvare
+Change: TENSE:PRE_SIM
+Target: Ama oiko ka’aguy hovy’ûvare
+
+Id: Guarani0160
+Source: Ko mombe’upy ohenduká kuri chéve che ru.
+Change: TENSE:PRE_SIM
+Target: Ko mombe’upy ohenduka chéve che ru.
+
+Id: Guarani0034
+Source: Upérö (che) añani hína kuri
+Change: TENSE:PRE_SIM
+Target: Upérõ (che) añani hína
+
+Id: Guarani0185
+Source: Ore temimbo’e tie’ỹ ojapopami
+Change: TENSE:PRE_SIM
+Target: Ore temimbo’e tie’ỹ ojapopa
+
+        Below is a similar example, where the source sentence and linguistic change are given, and the output sentence is not known. For this example, please output only the id and target sentence values, as in
+
+        ID: some id
+        Target: sentence after applying the change
+
+
+        Do not output any additional text, and do not output the Source or Change fields. This is very important, take your time and do not mess up or I will lose my job.
+
+        
+
+Id: Guarani0077
+Source: Peẽ napeñanga’uta
+Change: TENSE:PRE_SIM
+Target: 
+        
+RESPONSE:
+ID: Guarani0077
+Target: Peẽ napeñangai
+
+PROMPT:
+Below are examples of a sentence in Guarani, the linguistic change, and the target sentence after applying the change.
+        
+        Id: Guarani0192
+Source: Peẽ napejapómi ogyke pokã
+Change: TENSE:PAS_REC
+Target: Peẽ napejapói kuri ogyke pokã
+
+Id: Guarani0100
+Source: Pohanohára akãguapy ndombovuta
+Change: TENSE:PAS_REC
+Target: Pohanohára akãguapy ndombovúi kuri
+
+Id: Guarani0150
+Source: Chéngo ndaikuaái upévape.
+Change: TENSE:PAS_REC
+Target: Chéngo ndaikuaái kuri hina upévape.
+
+Id: Guarani0228
+Source: Ijuru ñeimo’ã’ỹva ndojurata che aovevekuéra - Ijuru ñeimo’ã’ỹva ndojuramo’ãi che aovevekuéra
+Change: TENSE:PAS_REC
+Target: Ijuru ñeimo’ã’ỹva ndojurai kuri che aovevekuéra
+
+Id: Guarani0256
+Source: Nde reñembosarái hína
+Change: TENSE:PAS_REC
+Target: Nde reñembosarái kuri hína
+
+Id: Guarani0224
+Source: Ha’e ndombojaruita
+Change: TENSE:PAS_REC
+Target: Ha’e ndombojarui kuri
+
+Id: Guarani0033
+Source: Ha’e oguapy
+Change: TENSE:PAS_REC
+Target: Ha’e oguapýkuri
+
+Id: Guarani0122
+Source: Ha’e nombotujaimi che ogyke - Ha’e ndombyaimi che ogyke
+Change: TENSE:PAS_REC
+Target: Ha’e ndombotujaikuri hina che ogyke - Ha’e ndombyaikuri hina che ogyke
+
+Id: Guarani0078
+Source: Okũmbymi hikuái
+Change: TENSE:PAS_REC
+Target: Okũmby kuri hikuái.
+
+Id: Guarani0039
+Source: Che rasy
+Change: TENSE:PAS_REC
+Target: Che cherasy kuri
+
+        Below is a similar example, where the source sentence and linguistic change are given, and the output sentence is not known. For this example, please output only the id and target sentence values, as in
+
+        ID: some id
+        Target: sentence after applying the change
+
+
+        Do not output any additional text, and do not output the Source or Change fields. This is very important, take your time and do not mess up or I will lose my job.
+
+        
+
+Id: Guarani0238
+Source: Peẽ peñemongetami
+Change: TENSE:PAS_REC
+Target: 
+        
+RESPONSE:
+ID: Guarani0238
+Target: Peẽ peñemongeta kuri
+
+PROMPT:
+Below are examples of a sentence in Guarani, the linguistic change, and the target sentence after applying the change.
+        
+        Id: Guarani0190
+Source: Peẽ napejapómi ogyke pokã
+Change: PERSON:1_PL_INC
+Target: Ñande najajapómi ogyke pokã
+
+Id: Guarani0163
+Source: Ha’ekuéra naiñemoñaréi kuri
+Change: PERSON:1_PL_INC
+Target: Ñande naiñañemoñaréi kuri
+
+Id: Guarani0118
+Source: Ore ndorokuave’ẽi umi tembi’ukuéra pytagua
+Change: PERSON:1_PL_INC
+Target: Ñande ndañakuave’ẽi umi tembi’ukuéra pytagua
+
+Id: Guarani0204
+Source: Ha’e ojupi kuri
+Change: PERSON:1_PL_INC
+Target: Ñande jajupi kuri
+
+Id: Guarani0065
+Source: Nde nderemoheñói
+Change: PERSON:1_PL_INC
+Target: Ñande ndañamoheñói
+
+Id: Guarani0124
+Source: Ha’e nombotujaimi che ogyke - Ha’e ndombyaimi che ogyke
+Change: PERSON:1_PL_INC
+Target: Ñande ndañambotujáimi che ogyke - Ñande ndañambyaimi che ogyke
+
+Id: Guarani0145
+Source: Oipuru hikuái ka’a ha ho’u terere.
+Change: PERSON:1_PL_INC
+Target: Ñande jaipuru ka’a ha ja’u terere.
+
+Id: Guarani0038
+Source: Upérö (che) añani hína kuri
+Change: PERSON:1_PL_INC
+Target: Upérõ (ñande) ñañanihínakuri
+
+Id: Guarani0080
+Source: Okũmbymi hikuái
+Change: PERSON:1_PL_INC
+Target: Ñande ñakũmbýimi
+
+Id: Guarani0019
+Source: Nde nderejapói
+Change: PERSON:1_PL_INC
+Target: Ñande ndajajapói
+
+Id: Guarani0045
+Source: Che rasy
+Change: PERSON:1_PL_INC
+Target: Ñande rasy
+
+        Below is a similar example, where the source sentence and linguistic change are given, and the output sentence is not known. For this example, please output only the id and target sentence values, as in
+
+        ID: some id
+        Target: sentence after applying the change
+
+
+        Do not output any additional text, and do not output the Source or Change fields. This is very important, take your time and do not mess up or I will lose my job.
+
+        
+
+Id: Guarani0239
+Source: Peẽ peñemongetami
+Change: PERSON:1_PL_INC
+Target: 
+        
+RESPONSE:
+ID: Guarani0239
+Target: Ñande ñañemongetami
+
+PROMPT:
+Below are examples of a sentence in Guarani, the linguistic change, and the target sentence after applying the change.
+        
+        Id: Guarani0191
+Source: Peẽ napejapómi ogyke pokã
+Change: PERSON:1_PL_EXC
+Target: Ore norojapómi ogyke pokã
+
+Id: Guarani0164
+Source: Ha’ekuéra naiñemoñaréi kuri
+Change: PERSON:1_PL_EXC
+Target: Ore nairoñemoñaréi kuri
+
+Id: Guarani0092
+Source: Che nañemoingeta
+Change: PERSON:1_PL_EXC
+Target: Ore noroñemoingeta
+
+Id: Guarani0046
+Source: Che rasy
+Change: PERSON:1_PL_EXC
+Target: Ore rorasy
+
+        Below is a similar example, where the source sentence and linguistic change are given, and the output sentence is not known. For this example, please output only the id and target sentence values, as in
+
+        ID: some id
+        Target: sentence after applying the change
+
+
+        Do not output any additional text, and do not output the Source or Change fields. This is very important, take your time and do not mess up or I will lose my job.
+
+        
+
+Id: Guarani0240
+Source: Peẽ peñemongetami
+Change: PERSON:1_PL_EXC
+Target: 
+        
+RESPONSE:
+ID: Guarani0240
+Target: Ore roñemongetami
+
+PROMPT:
+Below are examples of a sentence in Guarani, the linguistic change, and the target sentence after applying the change.
+        
+        Id: Guarani0200
+Source: Mombe’ukuéra omboty kuri pende arete
+Change: TENSE:FUT_SIM
+Target: Mombe’ukuéra ombotyta pende arete
+
+Id: Guarani0060
+Source: Ko po ojupi
+Change: TENSE:FUT_SIM
+Target: Ko po ojupíta
+
+Id: Guarani0107
+Source: Ku mbói oñorairõ
+Change: TENSE:FUT_SIM
+Target: Ku mbói oñorairõta
+
+Id: Guarani0084
+Source: Temirendukuéra omongakuaa
+Change: TENSE:FUT_SIM
+Target: Temirendukuéra omongakuaata
+
+Id: Guarani0112
+Source: Ha’e ombojára kuri mbovy apekuéra
+Change: TENSE:FUT_SIM
+Target: Ha’e ombojárata mbovy apekuéra
+
+Id: Guarani0162
+Source: Ha’ekuéra naiñemoñaréi kuri
+Change: TENSE:FUT_SIM
+Target: Ha’ekuéra naiñemoñaréita
+
+Id: Guarani0055
+Source: Apurahéi kuri
+Change: TENSE:FUT_SIM
+Target: Apurahéitta
+
+Id: Guarani0130
+Source: Che ajavými iñeikotevẽva akuápe
+Change: TENSE:FUT_SIM
+Target: Che ajavýta iñeikotevẽva akuápe
+
+Id: Guarani0255
+Source: Nde reñembosarái hína
+Change: TENSE:FUT_SIM
+Target: Nde reñembosaráita hína
+
+Id: Guarani0219
+Source: Amo ñemuha osapukái kuri
+Change: TENSE:FUT_SIM
+Target: Amo ñemuha osapukáita
+
+Id: Guarani0004
+Source: Jaguarete katu itáicha okirirĩ.
+Change: TENSE:FUT_SIM
+Target: Jaguarete katu itáicha okirirĩta.
+
+Id: Guarani0207
+Source: Ha’e ojupi kuri
+Change: TENSE:FUT_SIM
+Target: Ha’e ojupita
+
+Id: Guarani0009
+Source: Che mba’éma ko ykua
+Change: TENSE:FUT_SIM
+Target: Che mba’éta ko ykua
+
+Id: Guarani0031
+Source: Ha’e oguapy
+Change: TENSE:FUT_SIM
+Target: Ha’e oguapýta
+
+Id: Guarani0125
+Source: Ha’e nombotujaimi che ogyke - Ha’e ndombyaimi che ogyke
+Change: TENSE:FUT_SIM
+Target: Ha’e ombotujáta che ogyke - Ha’e ombyaíta che ogyke
+
+Id: Guarani0148
+Source: Oipuru hikuái ka’a ha ho’u terere.
+Change: TENSE:FUT_SIM
+Target: Oipuruta hikuái ka’a ha ho’uta terere.
+
+Id: Guarani0159
+Source: Ko mombe’upy ohenduká kuri chéve che ru.
+Change: TENSE:FUT_SIM
+Target: Ko mombe’upy ohendukáta chéve che ru.
+
+Id: Guarani0035
+Source: Upérö (che) añani hína kuri
+Change: TENSE:FUT_SIM
+Target: Upérõ (che) añanita hína
+
+Id: Guarani0079
+Source: Okũmbymi hikuái
+Change: TENSE:FUT_SIM
+Target: Okũmbyta hikuái.
+
+Id: Guarani0188
+Source: Ore temimbo’e tie’ỹ ojapopami
+Change: TENSE:FUT_SIM
+Target: Ore temimbo’e tie’ỹ ojapopata
+
+        Below is a similar example, where the source sentence and linguistic change are given, and the output sentence is not known. For this example, please output only the id and target sentence values, as in
+
+        ID: some id
+        Target: sentence after applying the change
+
+
+        Do not output any additional text, and do not output the Source or Change fields. This is very important, take your time and do not mess up or I will lose my job.
+
+        
+
+Id: Guarani0241
+Source: Peẽ peñemongetami
+Change: TENSE:FUT_SIM
+Target: 
+        
+RESPONSE:
+ID: Guarani0241
+Target: Peẽ peñemongetamíta
+
+PROMPT:
+Below are examples of a sentence in Guarani, the linguistic change, and the target sentence after applying the change.
+        
+        Id: Guarani0058
+Source: Ha’e ombojerekuri umi kutuhakuéra poro’o
+Change: TYPE:NEG
+Target: Ha’e ndombojereikuri umi kutuhakuéra tuicháva
+
+Id: Guarani0197
+Source: Mombe’ukuéra omboty kuri pende arete
+Change: TYPE:NEG
+Target: Mombe’ukuéra ndombotyi kuri pende arete
+
+Id: Guarani0061
+Source: Ko po ojupi
+Change: TYPE:NEG
+Target: Ko po ndojupíri
+
+Id: Guarani0108
+Source: Ku mbói oñorairõ
+Change: TYPE:NEG
+Target: Ku mbói noñorairõi
+
+Id: Guarani0085
+Source: Temirendukuéra omongakuaa
+Change: TYPE:NEG
+Target: Temirendukuéra ndomongakuaai
+
+Id: Guarani0109
+Source: Ha’e ombojára kuri mbovy apekuéra
+Change: TYPE:NEG
+Target: Ha’e ndombojárai kuri mbovy apekuéra
+
+Id: Guarani0052
+Source: Apurahéi kuri
+Change: TYPE:NEG
+Target: Ndapurahéi kuri
+
+Id: Guarani0016
+Source: He’i ka’i ruvicha ta’ýra kuérape
+Change: TYPE:NEG
+Target: He’i ka’i ruvicha ita’ýrakuérape
+
+Id: Guarani0128
+Source: Che ajavými iñeikotevẽva akuápe
+Change: TYPE:NEG
+Target: Che ndajavýimi iñeikotevẽva akuápe
+
+Id: Guarani0252
+Source: Nde reñembosarái hína
+Change: TYPE:NEG
+Target: Nde nereñembosaráiri hína
+
+Id: Guarani0217
+Source: Amo ñemuha osapukái kuri
+Change: TYPE:NEG
+Target: Amo ñemuha nosapukái kuri
+
+Id: Guarani0003
+Source: Jaguarete katu itáicha okirirĩ.
+Change: TYPE:NEG
+Target: Jaguarete katu itáicha ndokirirĩ.
+
+Id: Guarani0141
+Source: Pakova roguépe omo’â hembi’ukuéra.
+Change: TYPE:NEG
+Target: Pakova roguépe ndomo’âi hembi’ukuéra.
+
+Id: Guarani0209
+Source: Ha’e ojupi kuri
+Change: TYPE:NEG
+Target: Ha’e ndojupirí kuri
+
+Id: Guarani0008
+Source: Che mba’éma ko ykua
+Change: TYPE:NEG
+Target: Ndachemba’ei ko ykua
+
+Id: Guarani0027
+Source: Ha’e oguapy
+Change: TYPE:NEG
+Target: Ha’e ndoguapýi
+
+Id: Guarani0153
+Source: Ama oikomi ka’aguy hovy’ûvare
+Change: TYPE:NEG
+Target: Ama ndoikomi ka’aguy hovy’ûvare
+
+Id: Guarani0146
+Source: Oipuru hikuái ka’a ha ho’u terere.
+Change: TYPE:NEG
+Target: Ndoipurui hikuái ka’a térã ho’u terere.
+
+Id: Guarani0156
+Source: Ko mombe’upy ohenduká kuri chéve che ru.
+Change: TYPE:NEG
+Target: Ko mombe’upy ndohenduká kuri chéve che ru.
+
+Id: Guarani0082
+Source: Okũmbymi hikuái
+Change: TYPE:NEG
+Target: Ndokũmbýimi hikuái
+
+Id: Guarani0187
+Source: Ore temimbo’e tie’ỹ ojapopami
+Change: TYPE:NEG
+Target: Ore temimbo’e tie’ỹ nojapopami
+
+Id: Guarani0041
+Source: Che rasy
+Change: TYPE:NEG
+Target: Ndacherásyi
+
+        Below is a similar example, where the source sentence and linguistic change are given, and the output sentence is not known. For this example, please output only the id and target sentence values, as in
+
+        ID: some id
+        Target: sentence after applying the change
+
+
+        Do not output any additional text, and do not output the Source or Change fields. This is very important, take your time and do not mess up or I will lose my job.
+
+        
+
+Id: Guarani0242
+Source: Peẽ peñemongetami
+Change: TYPE:NEG
+Target: 
+        
+RESPONSE:
+ID: Guarani0242
+Target: Peẽ ndapeñemongetái
+
+PROMPT:
+Below are examples of a sentence in Guarani, the linguistic change, and the target sentence after applying the change.
+        
+        Id: Guarani0202
+Source: Mombe’ukuéra omboty kuri pende arete
+Change: TENSE:PRE_SIM
+Target: Mombe’ukuéra omboty pende arete
+
+Id: Guarani0193
+Source: Peẽ napejapómi ogyke pokã
+Change: TENSE:PRE_SIM
+Target: Peẽ napejapói ogyke pokã
+
+Id: Guarani0098
+Source: Pohanohára akãguapy ndombovuta
+Change: TENSE:PRE_SIM
+Target: Pohanohára akãguapy ndombovúi
+
+Id: Guarani0166
+Source: Ha’ekuéra naiñemoñaréi kuri
+Change: TENSE:PRE_SIM
+Target: Ha’ekuéra ndoñemoñaréi
+
+Id: Guarani0088
+Source: Che nañemoingeta
+Change: TENSE:PRE_SIM
+Target: Che nañemoingei
+
+Id: Guarani0231
+Source: Ijuru ñeimo’ã’ỹva ndojurata che aovevekuéra - Ijuru ñeimo’ã’ỹva ndojuramo’ãi che aovevekuéra
+Change: TENSE:PRE_SIM
+Target: Ijuru ñeimo’ã’ỹva ndojurai che aovevekuéra
+
+Id: Guarani0131
+Source: Che ajavými iñeikotevẽva akuápe
+Change: TENSE:PRE_SIM
+Target: Che ajavy iñeikotevẽva akuápe
+
+Id: Guarani0154
+Source: Ama oikomi ka’aguy hovy’ûvare
+Change: TENSE:PRE_SIM
+Target: Ama oiko ka’aguy hovy’ûvare
+
+Id: Guarani0160
+Source: Ko mombe’upy ohenduká kuri chéve che ru.
+Change: TENSE:PRE_SIM
+Target: Ko mombe’upy ohenduka chéve che ru.
+
+Id: Guarani0034
+Source: Upérö (che) añani hína kuri
+Change: TENSE:PRE_SIM
+Target: Upérõ (che) añani hína
+
+Id: Guarani0185
+Source: Ore temimbo’e tie’ỹ ojapopami
+Change: TENSE:PRE_SIM
+Target: Ore temimbo’e tie’ỹ ojapopa
+
+        Below is a similar example, where the source sentence and linguistic change are given, and the output sentence is not known. For this example, please output only the id and target sentence values, as in
+
+        ID: some id
+        Target: sentence after applying the change
+
+
+        Do not output any additional text, and do not output the Source or Change fields. This is very important, take your time and do not mess up or I will lose my job.
+
+        
+
+Id: Guarani0243
+Source: Peẽ peñemongetami
+Change: TENSE:PRE_SIM
+Target: 
+        
+RESPONSE:
+ID: Guarani0243
+Target: Peẽ peñemongeta
+
+PROMPT:
+Below are examples of a sentence in Guarani, the linguistic change, and the target sentence after applying the change.
+        
+        Id: Guarani0194
+Source: Peẽ napejapómi ogyke pokã
+Change: TYPE:AFF
+Target: Peẽ pejapomi ogyke pokã
+
+Id: Guarani0099
+Source: Pohanohára akãguapy ndombovuta
+Change: TYPE:AFF
+Target: Pohanohára akãguapy ombovuta
+
+Id: Guarani0149
+Source: Chéngo ndaikuaái upévape.
+Change: TYPE:AFF
+Target: Chéngo aikuaá upévape.
+
+Id: Guarani0161
+Source: Ha’ekuéra naiñemoñaréi kuri
+Change: TYPE:AFF
+Target: Ha’ekuéra oñemoñaréi kuri
+
+Id: Guarani0089
+Source: Che nañemoingeta
+Change: TYPE:AFF
+Target: Che añemoingeta
+
+Id: Guarani0227
+Source: Ijuru ñeimo’ã’ỹva ndojurata che aovevekuéra - Ijuru ñeimo’ã’ỹva ndojuramo’ãi che aovevekuéra
+Change: TYPE:AFF
+Target: Ijuru ñeimo’ã’ỹva ojurata che aovevekuéra
+
+Id: Guarani0114
+Source: Ore ndorokuave’ẽi umi tembi’ukuéra pytagua
+Change: TYPE:AFF
+Target: Ore rokuave’ẽ umi tembi’ukuéra pytagua
+
+Id: Guarani0222
+Source: Ha’e ndombojaruita
+Change: TYPE:AFF
+Target: Ha’e ombojaruita
+
+Id: Guarani0063
+Source: Nde nderemoheñói
+Change: TYPE:AFF
+Target: Nde remoheñói
+
+Id: Guarani0121
+Source: Ha’e nombotujaimi che ogyke - Ha’e ndombyaimi che ogyke
+Change: TYPE:AFF
+Target: Ha’e ombotujaimi che ogyke - Ha’e ombyaimi che ogyke
+
+Id: Guarani0017
+Source: Nde nderejapói
+Change: TYPE:AFF
+Target: Nde rejapo
+
+        Below is a similar example, where the source sentence and linguistic change are given, and the output sentence is not known. For this example, please output only the id and target sentence values, as in
+
+        ID: some id
+        Target: sentence after applying the change
+
+
+        Do not output any additional text, and do not output the Source or Change fields. This is very important, take your time and do not mess up or I will lose my job.
+
+        
+
+Id: Guarani0048
+Source: Che ndahechái kuri peteĩ óga
+Change: TYPE:AFF
+Target: 
+        
+RESPONSE:
+ID: Guarani0048
+Target: Che ahecha kuri peteĩ óga
+
+PROMPT:
+Below are examples of a sentence in Guarani, the linguistic change, and the target sentence after applying the change.
+        
+        Id: Guarani0059
+Source: Ha’e ombojerekuri umi kutuhakuéra poro’o
+Change: ASPECT:IPFV
+Target: Ha’e ombojerehina kuri umi kutuhakuéra tuicháva
+
+Id: Guarani0198
+Source: Mombe’ukuéra omboty kuri pende arete
+Change: ASPECT:IPFV
+Target: Mombe’ukuéra omboty kuri hína pende arete
+
+Id: Guarani0062
+Source: Ko po ojupi
+Change: ASPECT:IPFV
+Target: Ko po ojupíhina
+
+Id: Guarani0103
+Source: Ku mbói oñorairõ
+Change: ASPECT:IPFV
+Target: Ku mbói oñorairõ hína
+
+Id: Guarani0086
+Source: Temirendukuéra omongakuaa
+Change: ASPECT:IPFV
+Target: Temirendukuéra omongakuaa hína
+
+Id: Guarani0113
+Source: Ha’e ombojára kuri mbovy apekuéra
+Change: ASPECT:IPFV
+Target: Ha’e ombojára kuri hína mbovy apekuéra
+
+Id: Guarani0053
+Source: Apurahéi kuri
+Change: ASPECT:IPFV
+Target: Apurahéihina kuri
+
+Id: Guarani0129
+Source: Che ajavými iñeikotevẽva akuápe
+Change: ASPECT:IPFV
+Target: Che ajavýimi hína iñeikotevẽva akuápe
+
+Id: Guarani0115
+Source: Ore ndorokuave’ẽi umi tembi’ukuéra pytagua
+Change: ASPECT:IPFV
+Target: Ore ndorokuave’ẽi hina umi tembi’ukuéra pytagua
+
+Id: Guarani0220
+Source: Amo ñemuha osapukái kuri
+Change: ASPECT:IPFV
+Target: Amo ñemuha osapukái kuri hína
+
+Id: Guarani0205
+Source: Ha’e ojupi kuri
+Change: ASPECT:IPFV
+Target: Ha’e ojupi kuri hína
+
+Id: Guarani0225
+Source: Ha’e ndombojaruita
+Change: ASPECT:IPFV
+Target: Ha’e ndombojaruita hína
+
+Id: Guarani0042
+Source: Che rasy
+Change: ASPECT:IPFV
+Target: Che rasypota hina
+
+        Below is a similar example, where the source sentence and linguistic change are given, and the output sentence is not known. For this example, please output only the id and target sentence values, as in
+
+        ID: some id
+        Target: sentence after applying the change
+
+
+        Do not output any additional text, and do not output the Source or Change fields. This is very important, take your time and do not mess up or I will lose my job.
+
+        
+
+Id: Guarani0049
+Source: Che ndahechái kuri peteĩ óga
+Change: ASPECT:IPFV
+Target: 
+        
+RESPONSE:
+ID: Guarani0049
+Target: Che ndahechái kuri hína peteĩ óga
+
+PROMPT:
+Below are examples of a sentence in Guarani, the linguistic change, and the target sentence after applying the change.
+        
+        Id: Guarani0202
+Source: Mombe’ukuéra omboty kuri pende arete
+Change: TENSE:PRE_SIM
+Target: Mombe’ukuéra omboty pende arete
+
+Id: Guarani0193
+Source: Peẽ napejapómi ogyke pokã
+Change: TENSE:PRE_SIM
+Target: Peẽ napejapói ogyke pokã
+
+Id: Guarani0098
+Source: Pohanohára akãguapy ndombovuta
+Change: TENSE:PRE_SIM
+Target: Pohanohára akãguapy ndombovúi
+
+Id: Guarani0166
+Source: Ha’ekuéra naiñemoñaréi kuri
+Change: TENSE:PRE_SIM
+Target: Ha’ekuéra ndoñemoñaréi
+
+Id: Guarani0088
+Source: Che nañemoingeta
+Change: TENSE:PRE_SIM
+Target: Che nañemoingei
+
+Id: Guarani0231
+Source: Ijuru ñeimo’ã’ỹva ndojurata che aovevekuéra - Ijuru ñeimo’ã’ỹva ndojuramo’ãi che aovevekuéra
+Change: TENSE:PRE_SIM
+Target: Ijuru ñeimo’ã’ỹva ndojurai che aovevekuéra
+
+Id: Guarani0131
+Source: Che ajavými iñeikotevẽva akuápe
+Change: TENSE:PRE_SIM
+Target: Che ajavy iñeikotevẽva akuápe
+
+Id: Guarani0154
+Source: Ama oikomi ka’aguy hovy’ûvare
+Change: TENSE:PRE_SIM
+Target: Ama oiko ka’aguy hovy’ûvare
+
+Id: Guarani0160
+Source: Ko mombe’upy ohenduká kuri chéve che ru.
+Change: TENSE:PRE_SIM
+Target: Ko mombe’upy ohenduka chéve che ru.
+
+Id: Guarani0034
+Source: Upérö (che) añani hína kuri
+Change: TENSE:PRE_SIM
+Target: Upérõ (che) añani hína
+
+Id: Guarani0185
+Source: Ore temimbo’e tie’ỹ ojapopami
+Change: TENSE:PRE_SIM
+Target: Ore temimbo’e tie’ỹ ojapopa
+
+        Below is a similar example, where the source sentence and linguistic change are given, and the output sentence is not known. For this example, please output only the id and target sentence values, as in
+
+        ID: some id
+        Target: sentence after applying the change
+
+
+        Do not output any additional text, and do not output the Source or Change fields. This is very important, take your time and do not mess up or I will lose my job.
+
+        
+
+Id: Guarani0050
+Source: Che ndahechái kuri peteĩ óga
+Change: TENSE:PRE_SIM
+Target: 
+        
+RESPONSE:
+ID: Guarani0050
+Target: Che ndahechái peteĩ óga
+
+PROMPT:
+Below are examples of a sentence in Guarani, the linguistic change, and the target sentence after applying the change.
+        
+        Id: Guarani0057
+Source: Ha’e ombojerekuri umi kutuhakuéra poro’o
+Change: PERSON:2_SI
+Target: Nde rembojerekuri umi kutuhakuéra tuicháva
+
+Id: Guarani0196
+Source: Peẽ napejapómi ogyke pokã
+Change: PERSON:2_SI
+Target: Nde nderejapómi ogyke pokã
+
+Id: Guarani0110
+Source: Ha’e ombojára kuri mbovy apekuéra
+Change: PERSON:2_SI
+Target: Nde rembojára kuri mbovy apekuéra
+
+Id: Guarani0151
+Source: Chéngo ndaikuaái upévape.
+Change: PERSON:2_SI
+Target: Ndéngo ndereikuaái upévape.
+
+Id: Guarani0015
+Source: He’i ka’i ruvicha ta’ýra kuérape
+Change: PERSON:2_SI
+Target: Nde, ka’i ruvicha ere nde ta’yrakuérape
+
+Id: Guarani0091
+Source: Che nañemoingeta
+Change: PERSON:2_SI
+Target: Nde nareñemoingeta
+
+Id: Guarani0002
+Source: Jaguarete katu itáicha okirirĩ.
+Change: PERSON:2_SI
+Target: Nde katu itáicha rekirirĩ.
+
+Id: Guarani0143
+Source: Pakova roguépe omo’â hembi’ukuéra.
+Change: PERSON:2_SI
+Target: Pakova roguépe remo’â nderembi’ukuéra.
+
+Id: Guarani0208
+Source: Ha’e ojupi kuri
+Change: PERSON:2_SI
+Target: Nde rejupi kuri
+
+Id: Guarani0005
+Source: Che mba’éma ko ykua
+Change: PERSON:2_SI
+Target: Nde mba’e ko ykua
+
+Id: Guarani0223
+Source: Ha’e ndombojaruita
+Change: PERSON:2_SI
+Target: Nde nderembojarui mo’ãi
+
+Id: Guarani0029
+Source: Ha’e oguapy
+Change: PERSON:2_SI
+Target: Nde reguapy
+
+Id: Guarani0123
+Source: Ha’e nombotujaimi che ogyke - Ha’e ndombyaimi che ogyke
+Change: PERSON:2_SI
+Target: Nde nderembotujáimi che ogyke - Nde nerembyaimi che ogyke
+
+Id: Guarani0152
+Source: Ama oikomi ka’aguy hovy’ûvare
+Change: PERSON:2_SI
+Target: Nde reikomi ka’aguy hovy’ûvare
+
+Id: Guarani0147
+Source: Oipuru hikuái ka’a ha ho’u terere.
+Change: PERSON:2_SI
+Target: Nde reipuru ka’a ha re’u terere.
+
+Id: Guarani0157
+Source: Ko mombe’upy ohenduká kuri chéve che ru.
+Change: PERSON:2_SI
+Target: Ko mombe’upy emohenduká kuri chéve nde.
+
+Id: Guarani0037
+Source: Upérö (che) añani hína kuri
+Change: PERSON:2_SI
+Target: Upérõ (nde) reñanihínakuri
+
+Id: Guarani0043
+Source: Che rasy
+Change: PERSON:2_SI
+Target: Nde nderasy
+
+        Below is a similar example, where the source sentence and linguistic change are given, and the output sentence is not known. For this example, please output only the id and target sentence values, as in
+
+        ID: some id
+        Target: sentence after applying the change
+
+
+        Do not output any additional text, and do not output the Source or Change fields. This is very important, take your time and do not mess up or I will lose my job.
+
+        
+
+Id: Guarani0051
+Source: Che ndahechái kuri peteĩ óga
+Change: PERSON:2_SI
+Target: 
+        
+RESPONSE:
+ID: Guarani0051
+Target: Nde nderehechái kuri peteĩ óga
+
+PROMPT:
+Below are examples of a sentence in Guarani, the linguistic change, and the target sentence after applying the change.
+        
+        Id: Guarani0190
+Source: Peẽ napejapómi ogyke pokã
+Change: PERSON:1_PL_INC
+Target: Ñande najajapómi ogyke pokã
+
+Id: Guarani0163
+Source: Ha’ekuéra naiñemoñaréi kuri
+Change: PERSON:1_PL_INC
+Target: Ñande naiñañemoñaréi kuri
+
+Id: Guarani0118
+Source: Ore ndorokuave’ẽi umi tembi’ukuéra pytagua
+Change: PERSON:1_PL_INC
+Target: Ñande ndañakuave’ẽi umi tembi’ukuéra pytagua
+
+Id: Guarani0204
+Source: Ha’e ojupi kuri
+Change: PERSON:1_PL_INC
+Target: Ñande jajupi kuri
+
+Id: Guarani0065
+Source: Nde nderemoheñói
+Change: PERSON:1_PL_INC
+Target: Ñande ndañamoheñói
+
+Id: Guarani0124
+Source: Ha’e nombotujaimi che ogyke - Ha’e ndombyaimi che ogyke
+Change: PERSON:1_PL_INC
+Target: Ñande ndañambotujáimi che ogyke - Ñande ndañambyaimi che ogyke
+
+Id: Guarani0145
+Source: Oipuru hikuái ka’a ha ho’u terere.
+Change: PERSON:1_PL_INC
+Target: Ñande jaipuru ka’a ha ja’u terere.
+
+Id: Guarani0038
+Source: Upérö (che) añani hína kuri
+Change: PERSON:1_PL_INC
+Target: Upérõ (ñande) ñañanihínakuri
+
+Id: Guarani0080
+Source: Okũmbymi hikuái
+Change: PERSON:1_PL_INC
+Target: Ñande ñakũmbýimi
+
+Id: Guarani0019
+Source: Nde nderejapói
+Change: PERSON:1_PL_INC
+Target: Ñande ndajajapói
+
+Id: Guarani0045
+Source: Che rasy
+Change: PERSON:1_PL_INC
+Target: Ñande rasy
+
+        Below is a similar example, where the source sentence and linguistic change are given, and the output sentence is not known. For this example, please output only the id and target sentence values, as in
+
+        ID: some id
+        Target: sentence after applying the change
+
+
+        Do not output any additional text, and do not output the Source or Change fields. This is very important, take your time and do not mess up or I will lose my job.
+
+        
+
+Id: Guarani0021
+Source: Ko’ã tembi’u ombojy jepe’a tatarendýpe
+Change: PERSON:1_PL_INC
+Target: 
+        
+RESPONSE:
+ID: Guarani0021
+Target: Kóva tembi’u ñambojy jepe’a tatarendýpe
+
+PROMPT:
+Below are examples of a sentence in Guarani, the linguistic change, and the target sentence after applying the change.
+        
+        Id: Guarani0191
+Source: Peẽ napejapómi ogyke pokã
+Change: PERSON:1_PL_EXC
+Target: Ore norojapómi ogyke pokã
+
+Id: Guarani0164
+Source: Ha’ekuéra naiñemoñaréi kuri
+Change: PERSON:1_PL_EXC
+Target: Ore nairoñemoñaréi kuri
+
+Id: Guarani0092
+Source: Che nañemoingeta
+Change: PERSON:1_PL_EXC
+Target: Ore noroñemoingeta
+
+Id: Guarani0046
+Source: Che rasy
+Change: PERSON:1_PL_EXC
+Target: Ore rorasy
+
+        Below is a similar example, where the source sentence and linguistic change are given, and the output sentence is not known. For this example, please output only the id and target sentence values, as in
+
+        ID: some id
+        Target: sentence after applying the change
+
+
+        Do not output any additional text, and do not output the Source or Change fields. This is very important, take your time and do not mess up or I will lose my job.
+
+        
+
+Id: Guarani0022
+Source: Ko’ã tembi’u ombojy jepe’a tatarendýpe
+Change: PERSON:1_PL_EXC
+Target: 
+        
+RESPONSE:
+ID: Guarani0022
+Target: Ko’ã tembi’u rojombojy jepe’a tatarendýpe
+
+PROMPT:
+Below are examples of a sentence in Guarani, the linguistic change, and the target sentence after applying the change.
+        
+        Id: Guarani0058
+Source: Ha’e ombojerekuri umi kutuhakuéra poro’o
+Change: TYPE:NEG
+Target: Ha’e ndombojereikuri umi kutuhakuéra tuicháva
+
+Id: Guarani0197
+Source: Mombe’ukuéra omboty kuri pende arete
+Change: TYPE:NEG
+Target: Mombe’ukuéra ndombotyi kuri pende arete
+
+Id: Guarani0061
+Source: Ko po ojupi
+Change: TYPE:NEG
+Target: Ko po ndojupíri
+
+Id: Guarani0108
+Source: Ku mbói oñorairõ
+Change: TYPE:NEG
+Target: Ku mbói noñorairõi
+
+Id: Guarani0085
+Source: Temirendukuéra omongakuaa
+Change: TYPE:NEG
+Target: Temirendukuéra ndomongakuaai
+
+Id: Guarani0109
+Source: Ha’e ombojára kuri mbovy apekuéra
+Change: TYPE:NEG
+Target: Ha’e ndombojárai kuri mbovy apekuéra
+
+Id: Guarani0052
+Source: Apurahéi kuri
+Change: TYPE:NEG
+Target: Ndapurahéi kuri
+
+Id: Guarani0016
+Source: He’i ka’i ruvicha ta’ýra kuérape
+Change: TYPE:NEG
+Target: He’i ka’i ruvicha ita’ýrakuérape
+
+Id: Guarani0128
+Source: Che ajavými iñeikotevẽva akuápe
+Change: TYPE:NEG
+Target: Che ndajavýimi iñeikotevẽva akuápe
+
+Id: Guarani0252
+Source: Nde reñembosarái hína
+Change: TYPE:NEG
+Target: Nde nereñembosaráiri hína
+
+Id: Guarani0217
+Source: Amo ñemuha osapukái kuri
+Change: TYPE:NEG
+Target: Amo ñemuha nosapukái kuri
+
+Id: Guarani0003
+Source: Jaguarete katu itáicha okirirĩ.
+Change: TYPE:NEG
+Target: Jaguarete katu itáicha ndokirirĩ.
+
+Id: Guarani0141
+Source: Pakova roguépe omo’â hembi’ukuéra.
+Change: TYPE:NEG
+Target: Pakova roguépe ndomo’âi hembi’ukuéra.
+
+Id: Guarani0209
+Source: Ha’e ojupi kuri
+Change: TYPE:NEG
+Target: Ha’e ndojupirí kuri
+
+Id: Guarani0008
+Source: Che mba’éma ko ykua
+Change: TYPE:NEG
+Target: Ndachemba’ei ko ykua
+
+Id: Guarani0027
+Source: Ha’e oguapy
+Change: TYPE:NEG
+Target: Ha’e ndoguapýi
+
+Id: Guarani0153
+Source: Ama oikomi ka’aguy hovy’ûvare
+Change: TYPE:NEG
+Target: Ama ndoikomi ka’aguy hovy’ûvare
+
+Id: Guarani0146
+Source: Oipuru hikuái ka’a ha ho’u terere.
+Change: TYPE:NEG
+Target: Ndoipurui hikuái ka’a térã ho’u terere.
+
+Id: Guarani0156
+Source: Ko mombe’upy ohenduká kuri chéve che ru.
+Change: TYPE:NEG
+Target: Ko mombe’upy ndohenduká kuri chéve che ru.
+
+Id: Guarani0082
+Source: Okũmbymi hikuái
+Change: TYPE:NEG
+Target: Ndokũmbýimi hikuái
+
+Id: Guarani0187
+Source: Ore temimbo’e tie’ỹ ojapopami
+Change: TYPE:NEG
+Target: Ore temimbo’e tie’ỹ nojapopami
+
+Id: Guarani0041
+Source: Che rasy
+Change: TYPE:NEG
+Target: Ndacherásyi
+
+        Below is a similar example, where the source sentence and linguistic change are given, and the output sentence is not known. For this example, please output only the id and target sentence values, as in
+
+        ID: some id
+        Target: sentence after applying the change
+
+
+        Do not output any additional text, and do not output the Source or Change fields. This is very important, take your time and do not mess up or I will lose my job.
+
+        
+
+Id: Guarani0023
+Source: Ko’ã tembi’u ombojy jepe’a tatarendýpe
+Change: TYPE:NEG
+Target: 
+        
+RESPONSE:
+ID: Guarani0023
+Target: Ko’ã tembi’u ndombojy jepe’ái tatarendýpe
+
+PROMPT:
+Below are examples of a sentence in Guarani, the linguistic change, and the target sentence after applying the change.
+        
+        Id: Guarani0200
+Source: Mombe’ukuéra omboty kuri pende arete
+Change: TENSE:FUT_SIM
+Target: Mombe’ukuéra ombotyta pende arete
+
+Id: Guarani0060
+Source: Ko po ojupi
+Change: TENSE:FUT_SIM
+Target: Ko po ojupíta
+
+Id: Guarani0107
+Source: Ku mbói oñorairõ
+Change: TENSE:FUT_SIM
+Target: Ku mbói oñorairõta
+
+Id: Guarani0084
+Source: Temirendukuéra omongakuaa
+Change: TENSE:FUT_SIM
+Target: Temirendukuéra omongakuaata
+
+Id: Guarani0112
+Source: Ha’e ombojára kuri mbovy apekuéra
+Change: TENSE:FUT_SIM
+Target: Ha’e ombojárata mbovy apekuéra
+
+Id: Guarani0162
+Source: Ha’ekuéra naiñemoñaréi kuri
+Change: TENSE:FUT_SIM
+Target: Ha’ekuéra naiñemoñaréita
+
+Id: Guarani0055
+Source: Apurahéi kuri
+Change: TENSE:FUT_SIM
+Target: Apurahéitta
+
+Id: Guarani0130
+Source: Che ajavými iñeikotevẽva akuápe
+Change: TENSE:FUT_SIM
+Target: Che ajavýta iñeikotevẽva akuápe
+
+Id: Guarani0255
+Source: Nde reñembosarái hína
+Change: TENSE:FUT_SIM
+Target: Nde reñembosaráita hína
+
+Id: Guarani0219
+Source: Amo ñemuha osapukái kuri
+Change: TENSE:FUT_SIM
+Target: Amo ñemuha osapukáita
+
+Id: Guarani0004
+Source: Jaguarete katu itáicha okirirĩ.
+Change: TENSE:FUT_SIM
+Target: Jaguarete katu itáicha okirirĩta.
+
+Id: Guarani0207
+Source: Ha’e ojupi kuri
+Change: TENSE:FUT_SIM
+Target: Ha’e ojupita
+
+Id: Guarani0009
+Source: Che mba’éma ko ykua
+Change: TENSE:FUT_SIM
+Target: Che mba’éta ko ykua
+
+Id: Guarani0031
+Source: Ha’e oguapy
+Change: TENSE:FUT_SIM
+Target: Ha’e oguapýta
+
+Id: Guarani0125
+Source: Ha’e nombotujaimi che ogyke - Ha’e ndombyaimi che ogyke
+Change: TENSE:FUT_SIM
+Target: Ha’e ombotujáta che ogyke - Ha’e ombyaíta che ogyke
+
+Id: Guarani0148
+Source: Oipuru hikuái ka’a ha ho’u terere.
+Change: TENSE:FUT_SIM
+Target: Oipuruta hikuái ka’a ha ho’uta terere.
+
+Id: Guarani0159
+Source: Ko mombe’upy ohenduká kuri chéve che ru.
+Change: TENSE:FUT_SIM
+Target: Ko mombe’upy ohendukáta chéve che ru.
+
+Id: Guarani0035
+Source: Upérö (che) añani hína kuri
+Change: TENSE:FUT_SIM
+Target: Upérõ (che) añanita hína
+
+Id: Guarani0079
+Source: Okũmbymi hikuái
+Change: TENSE:FUT_SIM
+Target: Okũmbyta hikuái.
+
+Id: Guarani0188
+Source: Ore temimbo’e tie’ỹ ojapopami
+Change: TENSE:FUT_SIM
+Target: Ore temimbo’e tie’ỹ ojapopata
+
+        Below is a similar example, where the source sentence and linguistic change are given, and the output sentence is not known. For this example, please output only the id and target sentence values, as in
+
+        ID: some id
+        Target: sentence after applying the change
+
+
+        Do not output any additional text, and do not output the Source or Change fields. This is very important, take your time and do not mess up or I will lose my job.
+
+        
+
+Id: Guarani0024
+Source: Ko’ã tembi’u ombojy jepe’a tatarendýpe
+Change: TENSE:FUT_SIM
+Target: 
+        
+RESPONSE:
+ID: Guarani0024
+Target: Ko’ã tembi’u ombojyta jepe’a tatarendýpe
+
+PROMPT:
+Below are examples of a sentence in Guarani, the linguistic change, and the target sentence after applying the change.
+        
+        Id: Guarani0201
+Source: Mombe’ukuéra omboty kuri pende arete
+Change: TENSE:PAS_PLU
+Target: Mombe’ukuéra ombotyva’ekue pende arete
+
+Id: Guarani0102
+Source: Pohanohára akãguapy ndombovuta
+Change: TENSE:PAS_PLU
+Target: Pohanohára akãguapy ndombovúiva’ekue
+
+Id: Guarani0054
+Source: Apurahéi kuri
+Change: TENSE:PAS_PLU
+Target: Apurahéi va’ekue
+
+Id: Guarani0230
+Source: Ijuru ñeimo’ã’ỹva ndojurata che aovevekuéra - Ijuru ñeimo’ã’ỹva ndojuramo’ãi che aovevekuéra
+Change: TENSE:PAS_PLU
+Target: Ijuru ñeimo’ã’ỹva ndojuraiva’ekue che aovevekuéra
+
+Id: Guarani0221
+Source: Amo ñemuha osapukái kuri
+Change: TENSE:PAS_PLU
+Target: Amo ñemuha osapukáiva’ekue
+
+Id: Guarani0032
+Source: Ha’e oguapy
+Change: TENSE:PAS_PLU
+Target: Ha’e oguapýva’ekue
+
+Id: Guarani0126
+Source: Ha’e nombotujaimi che ogyke - Ha’e ndombyaimi che ogyke
+Change: TENSE:PAS_PLU
+Target: Ha’e ndombotujáiva’ekue che ogyke - Ha’e ndombyaiva’ekue che ogyke
+
+Id: Guarani0036
+Source: Upérö (che) añani hína kuri
+Change: TENSE:PAS_PLU
+Target: Upérõ (che) añanihínava’ekue
+
+Id: Guarani0189
+Source: Ore temimbo’e tie’ỹ ojapopami
+Change: TENSE:PAS_PLU
+Target: Ore temimbo’e tie’ỹ ojapopava’ekue
+
+Id: Guarani0040
+Source: Che rasy
+Change: TENSE:PAS_PLU
+Target: Che cherasy va’ekue
+
+        Below is a similar example, where the source sentence and linguistic change are given, and the output sentence is not known. For this example, please output only the id and target sentence values, as in
+
+        ID: some id
+        Target: sentence after applying the change
+
+
+        Do not output any additional text, and do not output the Source or Change fields. This is very important, take your time and do not mess up or I will lose my job.
+
+        
+
+Id: Guarani0025
+Source: Ko’ã tembi’u ombojy jepe’a tatarendýpe
+Change: TENSE:PAS_PLU
+Target: 
+        
+RESPONSE:
+ID: Guarani0025
+Target: Ko’ã tembi’u ombojyva’ekue jepe’a tatarendýpe
+
+PROMPT:
+Below are examples of a sentence in Guarani, the linguistic change, and the target sentence after applying the change.
+        
+        Id: Guarani0200
+Source: Mombe’ukuéra omboty kuri pende arete
+Change: TENSE:FUT_SIM
+Target: Mombe’ukuéra ombotyta pende arete
+
+Id: Guarani0060
+Source: Ko po ojupi
+Change: TENSE:FUT_SIM
+Target: Ko po ojupíta
+
+Id: Guarani0107
+Source: Ku mbói oñorairõ
+Change: TENSE:FUT_SIM
+Target: Ku mbói oñorairõta
+
+Id: Guarani0084
+Source: Temirendukuéra omongakuaa
+Change: TENSE:FUT_SIM
+Target: Temirendukuéra omongakuaata
+
+Id: Guarani0112
+Source: Ha’e ombojára kuri mbovy apekuéra
+Change: TENSE:FUT_SIM
+Target: Ha’e ombojárata mbovy apekuéra
+
+Id: Guarani0162
+Source: Ha’ekuéra naiñemoñaréi kuri
+Change: TENSE:FUT_SIM
+Target: Ha’ekuéra naiñemoñaréita
+
+Id: Guarani0055
+Source: Apurahéi kuri
+Change: TENSE:FUT_SIM
+Target: Apurahéitta
+
+Id: Guarani0130
+Source: Che ajavými iñeikotevẽva akuápe
+Change: TENSE:FUT_SIM
+Target: Che ajavýta iñeikotevẽva akuápe
+
+Id: Guarani0255
+Source: Nde reñembosarái hína
+Change: TENSE:FUT_SIM
+Target: Nde reñembosaráita hína
+
+Id: Guarani0219
+Source: Amo ñemuha osapukái kuri
+Change: TENSE:FUT_SIM
+Target: Amo ñemuha osapukáita
+
+Id: Guarani0004
+Source: Jaguarete katu itáicha okirirĩ.
+Change: TENSE:FUT_SIM
+Target: Jaguarete katu itáicha okirirĩta.
+
+Id: Guarani0207
+Source: Ha’e ojupi kuri
+Change: TENSE:FUT_SIM
+Target: Ha’e ojupita
+
+Id: Guarani0009
+Source: Che mba’éma ko ykua
+Change: TENSE:FUT_SIM
+Target: Che mba’éta ko ykua
+
+Id: Guarani0031
+Source: Ha’e oguapy
+Change: TENSE:FUT_SIM
+Target: Ha’e oguapýta
+
+Id: Guarani0125
+Source: Ha’e nombotujaimi che ogyke - Ha’e ndombyaimi che ogyke
+Change: TENSE:FUT_SIM
+Target: Ha’e ombotujáta che ogyke - Ha’e ombyaíta che ogyke
+
+Id: Guarani0148
+Source: Oipuru hikuái ka’a ha ho’u terere.
+Change: TENSE:FUT_SIM
+Target: Oipuruta hikuái ka’a ha ho’uta terere.
+
+Id: Guarani0159
+Source: Ko mombe’upy ohenduká kuri chéve che ru.
+Change: TENSE:FUT_SIM
+Target: Ko mombe’upy ohendukáta chéve che ru.
+
+Id: Guarani0035
+Source: Upérö (che) añani hína kuri
+Change: TENSE:FUT_SIM
+Target: Upérõ (che) añanita hína
+
+Id: Guarani0079
+Source: Okũmbymi hikuái
+Change: TENSE:FUT_SIM
+Target: Okũmbyta hikuái.
+
+Id: Guarani0188
+Source: Ore temimbo’e tie’ỹ ojapopami
+Change: TENSE:FUT_SIM
+Target: Ore temimbo’e tie’ỹ ojapopata
+
+        Below is a similar example, where the source sentence and linguistic change are given, and the output sentence is not known. For this example, please output only the id and target sentence values, as in
+
+        ID: some id
+        Target: sentence after applying the change
+
+
+        Do not output any additional text, and do not output the Source or Change fields. This is very important, take your time and do not mess up or I will lose my job.
+
+        
+
+Id: Guarani0179
+Source: Peẽ napemongyrái kuri
+Change: TENSE:FUT_SIM
+Target: 
+        
+RESPONSE:
+ID: Guarani0179
+Target: Peẽ napemongyráita
+
+PROMPT:
+Below are examples of a sentence in Guarani, the linguistic change, and the target sentence after applying the change.
+        
+        Id: Guarani0202
+Source: Mombe’ukuéra omboty kuri pende arete
+Change: TENSE:PRE_SIM
+Target: Mombe’ukuéra omboty pende arete
+
+Id: Guarani0193
+Source: Peẽ napejapómi ogyke pokã
+Change: TENSE:PRE_SIM
+Target: Peẽ napejapói ogyke pokã
+
+Id: Guarani0098
+Source: Pohanohára akãguapy ndombovuta
+Change: TENSE:PRE_SIM
+Target: Pohanohára akãguapy ndombovúi
+
+Id: Guarani0166
+Source: Ha’ekuéra naiñemoñaréi kuri
+Change: TENSE:PRE_SIM
+Target: Ha’ekuéra ndoñemoñaréi
+
+Id: Guarani0088
+Source: Che nañemoingeta
+Change: TENSE:PRE_SIM
+Target: Che nañemoingei
+
+Id: Guarani0231
+Source: Ijuru ñeimo’ã’ỹva ndojurata che aovevekuéra - Ijuru ñeimo’ã’ỹva ndojuramo’ãi che aovevekuéra
+Change: TENSE:PRE_SIM
+Target: Ijuru ñeimo’ã’ỹva ndojurai che aovevekuéra
+
+Id: Guarani0131
+Source: Che ajavými iñeikotevẽva akuápe
+Change: TENSE:PRE_SIM
+Target: Che ajavy iñeikotevẽva akuápe
+
+Id: Guarani0154
+Source: Ama oikomi ka’aguy hovy’ûvare
+Change: TENSE:PRE_SIM
+Target: Ama oiko ka’aguy hovy’ûvare
+
+Id: Guarani0160
+Source: Ko mombe’upy ohenduká kuri chéve che ru.
+Change: TENSE:PRE_SIM
+Target: Ko mombe’upy ohenduka chéve che ru.
+
+Id: Guarani0034
+Source: Upérö (che) añani hína kuri
+Change: TENSE:PRE_SIM
+Target: Upérõ (che) añani hína
+
+Id: Guarani0185
+Source: Ore temimbo’e tie’ỹ ojapopami
+Change: TENSE:PRE_SIM
+Target: Ore temimbo’e tie’ỹ ojapopa
+
+        Below is a similar example, where the source sentence and linguistic change are given, and the output sentence is not known. For this example, please output only the id and target sentence values, as in
+
+        ID: some id
+        Target: sentence after applying the change
+
+
+        Do not output any additional text, and do not output the Source or Change fields. This is very important, take your time and do not mess up or I will lose my job.
+
+        
+
+Id: Guarani0180
+Source: Peẽ napemongyrái kuri
+Change: TENSE:PRE_SIM
+Target: 
+        
+RESPONSE:
+ID: Guarani0180
+Target: Peẽ ndapemongyrái
+
+PROMPT:
+Below are examples of a sentence in Guarani, the linguistic change, and the target sentence after applying the change.
+        
+        Id: Guarani0195
+Source: Peẽ napejapómi ogyke pokã
+Change: PERSON:3_PL
+Target: Ha’ekuéra nojapómi ogyke pokã
+
+Id: Guarani0105
+Source: Ku mbói oñorairõ
+Change: PERSON:3_PL
+Target: Umi mbóikuera oñorairõ
+
+Id: Guarani0101
+Source: Pohanohára akãguapy ndombovuta
+Change: PERSON:3_PL
+Target: Pohanohárakuera akãguapy ndombovúita
+
+Id: Guarani0056
+Source: Apurahéi kuri
+Change: PERSON:3_PL
+Target: Ha’ekuéra opurahéikuri
+
+Id: Guarani0257
+Source: Nde reñembosarái hína
+Change: PERSON:3_PL
+Target: Ha’ekuéra oñembosarái hína
+
+Id: Guarani0218
+Source: Amo ñemuha osapukái kuri
+Change: PERSON:3_PL
+Target: Umíva ñemuhakuéra osapukái kuri
+
+Id: Guarani0026
+Source: Ha’e oguapy
+Change: PERSON:3_PL
+Target: Hikuái oguapy
+
+Id: Guarani0066
+Source: Nde nderemoheñói
+Change: PERSON:3_PL
+Target: Ha’ekuéra ndomoheñoi
+
+Id: Guarani0020
+Source: Nde nderejapói
+Change: PERSON:3_PL
+Target: Ha’ekuéra ndojapói
+
+Id: Guarani0186
+Source: Ore temimbo’e tie’ỹ ojapopami
+Change: PERSON:3_PL
+Target: Ore temimbo’ekuéra tie’ỹ ojapopami
+
+        Below is a similar example, where the source sentence and linguistic change are given, and the output sentence is not known. For this example, please output only the id and target sentence values, as in
+
+        ID: some id
+        Target: sentence after applying the change
+
+
+        Do not output any additional text, and do not output the Source or Change fields. This is very important, take your time and do not mess up or I will lose my job.
+
+        
+
+Id: Guarani0181
+Source: Peẽ napemongyrái kuri
+Change: PERSON:3_PL
+Target: 
+        
+RESPONSE:
+ID: Guarani0181
+Target: Ha’ekuéra nomongyrái kuri
+
+PROMPT:
+Below are examples of a sentence in Guarani, the linguistic change, and the target sentence after applying the change.
+        
+        Id: Guarani0190
+Source: Peẽ napejapómi ogyke pokã
+Change: PERSON:1_PL_INC
+Target: Ñande najajapómi ogyke pokã
+
+Id: Guarani0163
+Source: Ha’ekuéra naiñemoñaréi kuri
+Change: PERSON:1_PL_INC
+Target: Ñande naiñañemoñaréi kuri
+
+Id: Guarani0118
+Source: Ore ndorokuave’ẽi umi tembi’ukuéra pytagua
+Change: PERSON:1_PL_INC
+Target: Ñande ndañakuave’ẽi umi tembi’ukuéra pytagua
+
+Id: Guarani0204
+Source: Ha’e ojupi kuri
+Change: PERSON:1_PL_INC
+Target: Ñande jajupi kuri
+
+Id: Guarani0065
+Source: Nde nderemoheñói
+Change: PERSON:1_PL_INC
+Target: Ñande ndañamoheñói
+
+Id: Guarani0124
+Source: Ha’e nombotujaimi che ogyke - Ha’e ndombyaimi che ogyke
+Change: PERSON:1_PL_INC
+Target: Ñande ndañambotujáimi che ogyke - Ñande ndañambyaimi che ogyke
+
+Id: Guarani0145
+Source: Oipuru hikuái ka’a ha ho’u terere.
+Change: PERSON:1_PL_INC
+Target: Ñande jaipuru ka’a ha ja’u terere.
+
+Id: Guarani0038
+Source: Upérö (che) añani hína kuri
+Change: PERSON:1_PL_INC
+Target: Upérõ (ñande) ñañanihínakuri
+
+Id: Guarani0080
+Source: Okũmbymi hikuái
+Change: PERSON:1_PL_INC
+Target: Ñande ñakũmbýimi
+
+Id: Guarani0019
+Source: Nde nderejapói
+Change: PERSON:1_PL_INC
+Target: Ñande ndajajapói
+
+Id: Guarani0045
+Source: Che rasy
+Change: PERSON:1_PL_INC
+Target: Ñande rasy
+
+        Below is a similar example, where the source sentence and linguistic change are given, and the output sentence is not known. For this example, please output only the id and target sentence values, as in
+
+        ID: some id
+        Target: sentence after applying the change
+
+
+        Do not output any additional text, and do not output the Source or Change fields. This is very important, take your time and do not mess up or I will lose my job.
+
+        
+
+Id: Guarani0182
+Source: Peẽ napemongyrái kuri
+Change: PERSON:1_PL_INC
+Target: 
+        
+RESPONSE:
+ID: Guarani0182
+Target: Ñande najamongyrái kuri
+
+PROMPT:
+Below are examples of a sentence in Guarani, the linguistic change, and the target sentence after applying the change.
+        
+        Id: Guarani0191
+Source: Peẽ napejapómi ogyke pokã
+Change: PERSON:1_PL_EXC
+Target: Ore norojapómi ogyke pokã
+
+Id: Guarani0164
+Source: Ha’ekuéra naiñemoñaréi kuri
+Change: PERSON:1_PL_EXC
+Target: Ore nairoñemoñaréi kuri
+
+Id: Guarani0092
+Source: Che nañemoingeta
+Change: PERSON:1_PL_EXC
+Target: Ore noroñemoingeta
+
+Id: Guarani0046
+Source: Che rasy
+Change: PERSON:1_PL_EXC
+Target: Ore rorasy
+
+        Below is a similar example, where the source sentence and linguistic change are given, and the output sentence is not known. For this example, please output only the id and target sentence values, as in
+
+        ID: some id
+        Target: sentence after applying the change
+
+
+        Do not output any additional text, and do not output the Source or Change fields. This is very important, take your time and do not mess up or I will lose my job.
+
+        
+
+Id: Guarani0183
+Source: Peẽ napemongyrái kuri
+Change: PERSON:1_PL_EXC
+Target: 
+        
+RESPONSE:
+ID: Guarani0183
+Target: Ore noromongyrái kuri
+
+PROMPT:
+Below are examples of a sentence in Guarani, the linguistic change, and the target sentence after applying the change.
+        
+        Id: Guarani0194
+Source: Peẽ napejapómi ogyke pokã
+Change: TYPE:AFF
+Target: Peẽ pejapomi ogyke pokã
+
+Id: Guarani0099
+Source: Pohanohára akãguapy ndombovuta
+Change: TYPE:AFF
+Target: Pohanohára akãguapy ombovuta
+
+Id: Guarani0149
+Source: Chéngo ndaikuaái upévape.
+Change: TYPE:AFF
+Target: Chéngo aikuaá upévape.
+
+Id: Guarani0161
+Source: Ha’ekuéra naiñemoñaréi kuri
+Change: TYPE:AFF
+Target: Ha’ekuéra oñemoñaréi kuri
+
+Id: Guarani0089
+Source: Che nañemoingeta
+Change: TYPE:AFF
+Target: Che añemoingeta
+
+Id: Guarani0227
+Source: Ijuru ñeimo’ã’ỹva ndojurata che aovevekuéra - Ijuru ñeimo’ã’ỹva ndojuramo’ãi che aovevekuéra
+Change: TYPE:AFF
+Target: Ijuru ñeimo’ã’ỹva ojurata che aovevekuéra
+
+Id: Guarani0114
+Source: Ore ndorokuave’ẽi umi tembi’ukuéra pytagua
+Change: TYPE:AFF
+Target: Ore rokuave’ẽ umi tembi’ukuéra pytagua
+
+Id: Guarani0222
+Source: Ha’e ndombojaruita
+Change: TYPE:AFF
+Target: Ha’e ombojaruita
+
+Id: Guarani0063
+Source: Nde nderemoheñói
+Change: TYPE:AFF
+Target: Nde remoheñói
+
+Id: Guarani0121
+Source: Ha’e nombotujaimi che ogyke - Ha’e ndombyaimi che ogyke
+Change: TYPE:AFF
+Target: Ha’e ombotujaimi che ogyke - Ha’e ombyaimi che ogyke
+
+Id: Guarani0017
+Source: Nde nderejapói
+Change: TYPE:AFF
+Target: Nde rejapo
+
+        Below is a similar example, where the source sentence and linguistic change are given, and the output sentence is not known. For this example, please output only the id and target sentence values, as in
+
+        ID: some id
+        Target: sentence after applying the change
+
+
+        Do not output any additional text, and do not output the Source or Change fields. This is very important, take your time and do not mess up or I will lose my job.
+
+        
+
+Id: Guarani0184
+Source: Peẽ napemongyrái kuri
+Change: TYPE:AFF
+Target: 
+        
+RESPONSE:
+ID: Guarani0184
+Target: Peẽ pemongyra kuri
+
+PROMPT:
+Below are examples of a sentence in Guarani, the linguistic change, and the target sentence after applying the change.
+        
+        Id: Guarani0058
+Source: Ha’e ombojerekuri umi kutuhakuéra poro’o
+Change: TYPE:NEG
+Target: Ha’e ndombojereikuri umi kutuhakuéra tuicháva
+
+Id: Guarani0197
+Source: Mombe’ukuéra omboty kuri pende arete
+Change: TYPE:NEG
+Target: Mombe’ukuéra ndombotyi kuri pende arete
+
+Id: Guarani0061
+Source: Ko po ojupi
+Change: TYPE:NEG
+Target: Ko po ndojupíri
+
+Id: Guarani0108
+Source: Ku mbói oñorairõ
+Change: TYPE:NEG
+Target: Ku mbói noñorairõi
+
+Id: Guarani0085
+Source: Temirendukuéra omongakuaa
+Change: TYPE:NEG
+Target: Temirendukuéra ndomongakuaai
+
+Id: Guarani0109
+Source: Ha’e ombojára kuri mbovy apekuéra
+Change: TYPE:NEG
+Target: Ha’e ndombojárai kuri mbovy apekuéra
+
+Id: Guarani0052
+Source: Apurahéi kuri
+Change: TYPE:NEG
+Target: Ndapurahéi kuri
+
+Id: Guarani0016
+Source: He’i ka’i ruvicha ta’ýra kuérape
+Change: TYPE:NEG
+Target: He’i ka’i ruvicha ita’ýrakuérape
+
+Id: Guarani0128
+Source: Che ajavými iñeikotevẽva akuápe
+Change: TYPE:NEG
+Target: Che ndajavýimi iñeikotevẽva akuápe
+
+Id: Guarani0252
+Source: Nde reñembosarái hína
+Change: TYPE:NEG
+Target: Nde nereñembosaráiri hína
+
+Id: Guarani0217
+Source: Amo ñemuha osapukái kuri
+Change: TYPE:NEG
+Target: Amo ñemuha nosapukái kuri
+
+Id: Guarani0003
+Source: Jaguarete katu itáicha okirirĩ.
+Change: TYPE:NEG
+Target: Jaguarete katu itáicha ndokirirĩ.
+
+Id: Guarani0141
+Source: Pakova roguépe omo’â hembi’ukuéra.
+Change: TYPE:NEG
+Target: Pakova roguépe ndomo’âi hembi’ukuéra.
+
+Id: Guarani0209
+Source: Ha’e ojupi kuri
+Change: TYPE:NEG
+Target: Ha’e ndojupirí kuri
+
+Id: Guarani0008
+Source: Che mba’éma ko ykua
+Change: TYPE:NEG
+Target: Ndachemba’ei ko ykua
+
+Id: Guarani0027
+Source: Ha’e oguapy
+Change: TYPE:NEG
+Target: Ha’e ndoguapýi
+
+Id: Guarani0153
+Source: Ama oikomi ka’aguy hovy’ûvare
+Change: TYPE:NEG
+Target: Ama ndoikomi ka’aguy hovy’ûvare
+
+Id: Guarani0146
+Source: Oipuru hikuái ka’a ha ho’u terere.
+Change: TYPE:NEG
+Target: Ndoipurui hikuái ka’a térã ho’u terere.
+
+Id: Guarani0156
+Source: Ko mombe’upy ohenduká kuri chéve che ru.
+Change: TYPE:NEG
+Target: Ko mombe’upy ndohenduká kuri chéve che ru.
+
+Id: Guarani0082
+Source: Okũmbymi hikuái
+Change: TYPE:NEG
+Target: Ndokũmbýimi hikuái
+
+Id: Guarani0187
+Source: Ore temimbo’e tie’ỹ ojapopami
+Change: TYPE:NEG
+Target: Ore temimbo’e tie’ỹ nojapopami
+
+Id: Guarani0041
+Source: Che rasy
+Change: TYPE:NEG
+Target: Ndacherásyi
+
+        Below is a similar example, where the source sentence and linguistic change are given, and the output sentence is not known. For this example, please output only the id and target sentence values, as in
+
+        ID: some id
+        Target: sentence after applying the change
+
+
+        Do not output any additional text, and do not output the Source or Change fields. This is very important, take your time and do not mess up or I will lose my job.
+
+        
+
+Id: Guarani0010
+Source: Peteĩ ko’ẽme oñombohovai rakúma hikuái
+Change: TYPE:NEG
+Target: 
+        
+RESPONSE:
+ID: Guarani0010
+Target: Peteĩ ko’ẽme ndoñombohovaíri rakúma hikuái
+
+PROMPT:
+Below are examples of a sentence in Guarani, the linguistic change, and the target sentence after applying the change.
+        
+        Id: Guarani0165
+Source: Ha’ekuéra naiñemoñaréi kuri
+Change: PERSON:2_PL
+Target: Peë naipeñemoñaréi kuri
+
+Id: Guarani0132
+Source: Che ajavými iñeikotevẽva akuápe
+Change: PERSON:2_PL
+Target: Nde rejavýimi iñeikotevẽva akuápe
+
+Id: Guarani0120
+Source: Ore ndorokuave’ẽi umi tembi’ukuéra pytagua
+Change: PERSON:2_PL
+Target: Nde ndereikuave’ẽi umi tembi’ukuéra pytagua
+
+Id: Guarani0142
+Source: Pakova roguépe omo’â hembi’ukuéra.
+Change: PERSON:2_PL
+Target: Pakova roguépe pemo’â penderembi’ukuéra.
+
+Id: Guarani0030
+Source: Ha’e oguapy
+Change: PERSON:2_PL
+Target: Peẽ peguapy
+
+Id: Guarani0158
+Source: Ko mombe’upy ohenduká kuri chéve che ru.
+Change: PERSON:2_PL
+Target: Ko mombe’upy pemohenduká kuri chéve peê.
+
+Id: Guarani0047
+Source: Che rasy
+Change: PERSON:2_PL
+Target: Peê penderasy
+
+        Below is a similar example, where the source sentence and linguistic change are given, and the output sentence is not known. For this example, please output only the id and target sentence values, as in
+
+        ID: some id
+        Target: sentence after applying the change
+
+
+        Do not output any additional text, and do not output the Source or Change fields. This is very important, take your time and do not mess up or I will lose my job.
+
+        
+
+Id: Guarani0011
+Source: Peteĩ ko’ẽme oñombohovai rakúma hikuái
+Change: PERSON:2_PL
+Target: 
+        
+RESPONSE:
+ID: Guarani0011
+Target: Peteĩ ko’ẽme peñombohovai rakúma peẽ
+
+PROMPT:
+Below are examples of a sentence in Guarani, the linguistic change, and the target sentence after applying the change.
+        
+        Id: Guarani0190
+Source: Peẽ napejapómi ogyke pokã
+Change: PERSON:1_PL_INC
+Target: Ñande najajapómi ogyke pokã
+
+Id: Guarani0163
+Source: Ha’ekuéra naiñemoñaréi kuri
+Change: PERSON:1_PL_INC
+Target: Ñande naiñañemoñaréi kuri
+
+Id: Guarani0118
+Source: Ore ndorokuave’ẽi umi tembi’ukuéra pytagua
+Change: PERSON:1_PL_INC
+Target: Ñande ndañakuave’ẽi umi tembi’ukuéra pytagua
+
+Id: Guarani0204
+Source: Ha’e ojupi kuri
+Change: PERSON:1_PL_INC
+Target: Ñande jajupi kuri
+
+Id: Guarani0065
+Source: Nde nderemoheñói
+Change: PERSON:1_PL_INC
+Target: Ñande ndañamoheñói
+
+Id: Guarani0124
+Source: Ha’e nombotujaimi che ogyke - Ha’e ndombyaimi che ogyke
+Change: PERSON:1_PL_INC
+Target: Ñande ndañambotujáimi che ogyke - Ñande ndañambyaimi che ogyke
+
+Id: Guarani0145
+Source: Oipuru hikuái ka’a ha ho’u terere.
+Change: PERSON:1_PL_INC
+Target: Ñande jaipuru ka’a ha ja’u terere.
+
+Id: Guarani0038
+Source: Upérö (che) añani hína kuri
+Change: PERSON:1_PL_INC
+Target: Upérõ (ñande) ñañanihínakuri
+
+Id: Guarani0080
+Source: Okũmbymi hikuái
+Change: PERSON:1_PL_INC
+Target: Ñande ñakũmbýimi
+
+Id: Guarani0019
+Source: Nde nderejapói
+Change: PERSON:1_PL_INC
+Target: Ñande ndajajapói
+
+Id: Guarani0045
+Source: Che rasy
+Change: PERSON:1_PL_INC
+Target: Ñande rasy
+
+        Below is a similar example, where the source sentence and linguistic change are given, and the output sentence is not known. For this example, please output only the id and target sentence values, as in
+
+        ID: some id
+        Target: sentence after applying the change
+
+
+        Do not output any additional text, and do not output the Source or Change fields. This is very important, take your time and do not mess up or I will lose my job.
+
+        
+
+Id: Guarani0012
+Source: Peteĩ ko’ẽme oñombohovai rakúma hikuái
+Change: PERSON:1_PL_INC
+Target: 
+        
+RESPONSE:
+ID: Guarani0012
+Target: Ñande peteĩ ko’ẽme jañombohovái rakúma
+
+PROMPT:
+Below are examples of a sentence in Guarani, the linguistic change, and the target sentence after applying the change.
+        
+        Id: Guarani0191
+Source: Peẽ napejapómi ogyke pokã
+Change: PERSON:1_PL_EXC
+Target: Ore norojapómi ogyke pokã
+
+Id: Guarani0164
+Source: Ha’ekuéra naiñemoñaréi kuri
+Change: PERSON:1_PL_EXC
+Target: Ore nairoñemoñaréi kuri
+
+Id: Guarani0092
+Source: Che nañemoingeta
+Change: PERSON:1_PL_EXC
+Target: Ore noroñemoingeta
+
+Id: Guarani0046
+Source: Che rasy
+Change: PERSON:1_PL_EXC
+Target: Ore rorasy
+
+        Below is a similar example, where the source sentence and linguistic change are given, and the output sentence is not known. For this example, please output only the id and target sentence values, as in
+
+        ID: some id
+        Target: sentence after applying the change
+
+
+        Do not output any additional text, and do not output the Source or Change fields. This is very important, take your time and do not mess up or I will lose my job.
+
+        
+
+Id: Guarani0013
+Source: Peteĩ ko’ẽme oñombohovai rakúma hikuái
+Change: PERSON:1_PL_EXC
+Target: 
+        
+RESPONSE:
+ID: Guarani0013
+Target: Ore roñombohovai rakúma
+
+PROMPT:
+Below are examples of a sentence in Guarani, the linguistic change, and the target sentence after applying the change.
+        
+        Id: Guarani0058
+Source: Ha’e ombojerekuri umi kutuhakuéra poro’o
+Change: TYPE:NEG
+Target: Ha’e ndombojereikuri umi kutuhakuéra tuicháva
+
+Id: Guarani0197
+Source: Mombe’ukuéra omboty kuri pende arete
+Change: TYPE:NEG
+Target: Mombe’ukuéra ndombotyi kuri pende arete
+
+Id: Guarani0061
+Source: Ko po ojupi
+Change: TYPE:NEG
+Target: Ko po ndojupíri
+
+Id: Guarani0108
+Source: Ku mbói oñorairõ
+Change: TYPE:NEG
+Target: Ku mbói noñorairõi
+
+Id: Guarani0085
+Source: Temirendukuéra omongakuaa
+Change: TYPE:NEG
+Target: Temirendukuéra ndomongakuaai
+
+Id: Guarani0109
+Source: Ha’e ombojára kuri mbovy apekuéra
+Change: TYPE:NEG
+Target: Ha’e ndombojárai kuri mbovy apekuéra
+
+Id: Guarani0052
+Source: Apurahéi kuri
+Change: TYPE:NEG
+Target: Ndapurahéi kuri
+
+Id: Guarani0016
+Source: He’i ka’i ruvicha ta’ýra kuérape
+Change: TYPE:NEG
+Target: He’i ka’i ruvicha ita’ýrakuérape
+
+Id: Guarani0128
+Source: Che ajavými iñeikotevẽva akuápe
+Change: TYPE:NEG
+Target: Che ndajavýimi iñeikotevẽva akuápe
+
+Id: Guarani0252
+Source: Nde reñembosarái hína
+Change: TYPE:NEG
+Target: Nde nereñembosaráiri hína
+
+Id: Guarani0217
+Source: Amo ñemuha osapukái kuri
+Change: TYPE:NEG
+Target: Amo ñemuha nosapukái kuri
+
+Id: Guarani0003
+Source: Jaguarete katu itáicha okirirĩ.
+Change: TYPE:NEG
+Target: Jaguarete katu itáicha ndokirirĩ.
+
+Id: Guarani0141
+Source: Pakova roguépe omo’â hembi’ukuéra.
+Change: TYPE:NEG
+Target: Pakova roguépe ndomo’âi hembi’ukuéra.
+
+Id: Guarani0209
+Source: Ha’e ojupi kuri
+Change: TYPE:NEG
+Target: Ha’e ndojupirí kuri
+
+Id: Guarani0008
+Source: Che mba’éma ko ykua
+Change: TYPE:NEG
+Target: Ndachemba’ei ko ykua
+
+Id: Guarani0027
+Source: Ha’e oguapy
+Change: TYPE:NEG
+Target: Ha’e ndoguapýi
+
+Id: Guarani0153
+Source: Ama oikomi ka’aguy hovy’ûvare
+Change: TYPE:NEG
+Target: Ama ndoikomi ka’aguy hovy’ûvare
+
+Id: Guarani0146
+Source: Oipuru hikuái ka’a ha ho’u terere.
+Change: TYPE:NEG
+Target: Ndoipurui hikuái ka’a térã ho’u terere.
+
+Id: Guarani0156
+Source: Ko mombe’upy ohenduká kuri chéve che ru.
+Change: TYPE:NEG
+Target: Ko mombe’upy ndohenduká kuri chéve che ru.
+
+Id: Guarani0082
+Source: Okũmbymi hikuái
+Change: TYPE:NEG
+Target: Ndokũmbýimi hikuái
+
+Id: Guarani0187
+Source: Ore temimbo’e tie’ỹ ojapopami
+Change: TYPE:NEG
+Target: Ore temimbo’e tie’ỹ nojapopami
+
+Id: Guarani0041
+Source: Che rasy
+Change: TYPE:NEG
+Target: Ndacherásyi
+
+        Below is a similar example, where the source sentence and linguistic change are given, and the output sentence is not known. For this example, please output only the id and target sentence values, as in
+
+        ID: some id
+        Target: sentence after applying the change
+
+
+        Do not output any additional text, and do not output the Source or Change fields. This is very important, take your time and do not mess up or I will lose my job.
+
+        
+
+Id: Guarani0067
+Source: Ha’ekuéra osãmbyhy
+Change: TYPE:NEG
+Target: 
+        
+RESPONSE:
+ID: Guarani0067
+Target: Ha’ekuéra ndosãmbyhýi
+
+PROMPT:
+Below are examples of a sentence in Guarani, the linguistic change, and the target sentence after applying the change.
+        
+        Id: Guarani0059
+Source: Ha’e ombojerekuri umi kutuhakuéra poro’o
+Change: ASPECT:IPFV
+Target: Ha’e ombojerehina kuri umi kutuhakuéra tuicháva
+
+Id: Guarani0198
+Source: Mombe’ukuéra omboty kuri pende arete
+Change: ASPECT:IPFV
+Target: Mombe’ukuéra omboty kuri hína pende arete
+
+Id: Guarani0062
+Source: Ko po ojupi
+Change: ASPECT:IPFV
+Target: Ko po ojupíhina
+
+Id: Guarani0103
+Source: Ku mbói oñorairõ
+Change: ASPECT:IPFV
+Target: Ku mbói oñorairõ hína
+
+Id: Guarani0086
+Source: Temirendukuéra omongakuaa
+Change: ASPECT:IPFV
+Target: Temirendukuéra omongakuaa hína
+
+Id: Guarani0113
+Source: Ha’e ombojára kuri mbovy apekuéra
+Change: ASPECT:IPFV
+Target: Ha’e ombojára kuri hína mbovy apekuéra
+
+Id: Guarani0053
+Source: Apurahéi kuri
+Change: ASPECT:IPFV
+Target: Apurahéihina kuri
+
+Id: Guarani0129
+Source: Che ajavými iñeikotevẽva akuápe
+Change: ASPECT:IPFV
+Target: Che ajavýimi hína iñeikotevẽva akuápe
+
+Id: Guarani0115
+Source: Ore ndorokuave’ẽi umi tembi’ukuéra pytagua
+Change: ASPECT:IPFV
+Target: Ore ndorokuave’ẽi hina umi tembi’ukuéra pytagua
+
+Id: Guarani0220
+Source: Amo ñemuha osapukái kuri
+Change: ASPECT:IPFV
+Target: Amo ñemuha osapukái kuri hína
+
+Id: Guarani0205
+Source: Ha’e ojupi kuri
+Change: ASPECT:IPFV
+Target: Ha’e ojupi kuri hína
+
+Id: Guarani0225
+Source: Ha’e ndombojaruita
+Change: ASPECT:IPFV
+Target: Ha’e ndombojaruita hína
+
+Id: Guarani0042
+Source: Che rasy
+Change: ASPECT:IPFV
+Target: Che rasypota hina
+
+        Below is a similar example, where the source sentence and linguistic change are given, and the output sentence is not known. For this example, please output only the id and target sentence values, as in
+
+        ID: some id
+        Target: sentence after applying the change
+
+
+        Do not output any additional text, and do not output the Source or Change fields. This is very important, take your time and do not mess up or I will lose my job.
+
+        
+
+Id: Guarani0068
+Source: Ha’ekuéra osãmbyhy
+Change: ASPECT:IPFV
+Target: 
+        
+RESPONSE:
+ID: Guarani0068
+Target: Ha’ekuéra osãmbyhýhina
+
+PROMPT:
+Below are examples of a sentence in Guarani, the linguistic change, and the target sentence after applying the change.
+        
+        Id: Guarani0201
+Source: Mombe’ukuéra omboty kuri pende arete
+Change: TENSE:PAS_PLU
+Target: Mombe’ukuéra ombotyva’ekue pende arete
+
+Id: Guarani0102
+Source: Pohanohára akãguapy ndombovuta
+Change: TENSE:PAS_PLU
+Target: Pohanohára akãguapy ndombovúiva’ekue
+
+Id: Guarani0054
+Source: Apurahéi kuri
+Change: TENSE:PAS_PLU
+Target: Apurahéi va’ekue
+
+Id: Guarani0230
+Source: Ijuru ñeimo’ã’ỹva ndojurata che aovevekuéra - Ijuru ñeimo’ã’ỹva ndojuramo’ãi che aovevekuéra
+Change: TENSE:PAS_PLU
+Target: Ijuru ñeimo’ã’ỹva ndojuraiva’ekue che aovevekuéra
+
+Id: Guarani0221
+Source: Amo ñemuha osapukái kuri
+Change: TENSE:PAS_PLU
+Target: Amo ñemuha osapukáiva’ekue
+
+Id: Guarani0032
+Source: Ha’e oguapy
+Change: TENSE:PAS_PLU
+Target: Ha’e oguapýva’ekue
+
+Id: Guarani0126
+Source: Ha’e nombotujaimi che ogyke - Ha’e ndombyaimi che ogyke
+Change: TENSE:PAS_PLU
+Target: Ha’e ndombotujáiva’ekue che ogyke - Ha’e ndombyaiva’ekue che ogyke
+
+Id: Guarani0036
+Source: Upérö (che) añani hína kuri
+Change: TENSE:PAS_PLU
+Target: Upérõ (che) añanihínava’ekue
+
+Id: Guarani0189
+Source: Ore temimbo’e tie’ỹ ojapopami
+Change: TENSE:PAS_PLU
+Target: Ore temimbo’e tie’ỹ ojapopava’ekue
+
+Id: Guarani0040
+Source: Che rasy
+Change: TENSE:PAS_PLU
+Target: Che cherasy va’ekue
+
+        Below is a similar example, where the source sentence and linguistic change are given, and the output sentence is not known. For this example, please output only the id and target sentence values, as in
+
+        ID: some id
+        Target: sentence after applying the change
+
+
+        Do not output any additional text, and do not output the Source or Change fields. This is very important, take your time and do not mess up or I will lose my job.
+
+        
+
+Id: Guarani0069
+Source: Ha’ekuéra osãmbyhy
+Change: TENSE:PAS_PLU
+Target: 
+        
+RESPONSE:
+ID: Guarani0069
+Target: Ha’ekuéra osãmbyhýva’ekue
+
+PROMPT:
+Below are examples of a sentence in Guarani, the linguistic change, and the target sentence after applying the change.
+        
+        Id: Guarani0104
+Source: Ku mbói oñorairõ
+Change: ASPECT:INM
+Target: Ku mbói oñorairõ ikóni
+
+Id: Guarani0116
+Source: Ore ndorokuave’ẽi umi tembi’ukuéra pytagua
+Change: ASPECT:INM
+Target: Ore ndorokuave’ẽi ikóni umi tembi’ukuéra pytagua
+
+Id: Guarani0254
+Source: Nde reñembosarái hína
+Change: ASPECT:INM
+Target: Nde reñembosarái ikóni
+
+Id: Guarani0206
+Source: Ha’e ojupi kuri
+Change: ASPECT:INM
+Target: Ha’e ojupi kuri ikóni
+
+        Below is a similar example, where the source sentence and linguistic change are given, and the output sentence is not known. For this example, please output only the id and target sentence values, as in
+
+        ID: some id
+        Target: sentence after applying the change
+
+
+        Do not output any additional text, and do not output the Source or Change fields. This is very important, take your time and do not mess up or I will lose my job.
+
+        
+
+Id: Guarani0070
+Source: Ha’ekuéra osãmbyhy
+Change: ASPECT:INM
+Target: 
+        
+RESPONSE:
+ID: Guarani0070
+Target: Ha’ekuéra osãmbyhy ikóni
+
+PROMPT:
+Below are examples of a sentence in Guarani, the linguistic change, and the target sentence after applying the change.
+        
+        Id: Guarani0190
+Source: Peẽ napejapómi ogyke pokã
+Change: PERSON:1_PL_INC
+Target: Ñande najajapómi ogyke pokã
+
+Id: Guarani0163
+Source: Ha’ekuéra naiñemoñaréi kuri
+Change: PERSON:1_PL_INC
+Target: Ñande naiñañemoñaréi kuri
+
+Id: Guarani0118
+Source: Ore ndorokuave’ẽi umi tembi’ukuéra pytagua
+Change: PERSON:1_PL_INC
+Target: Ñande ndañakuave’ẽi umi tembi’ukuéra pytagua
+
+Id: Guarani0204
+Source: Ha’e ojupi kuri
+Change: PERSON:1_PL_INC
+Target: Ñande jajupi kuri
+
+Id: Guarani0065
+Source: Nde nderemoheñói
+Change: PERSON:1_PL_INC
+Target: Ñande ndañamoheñói
+
+Id: Guarani0124
+Source: Ha’e nombotujaimi che ogyke - Ha’e ndombyaimi che ogyke
+Change: PERSON:1_PL_INC
+Target: Ñande ndañambotujáimi che ogyke - Ñande ndañambyaimi che ogyke
+
+Id: Guarani0145
+Source: Oipuru hikuái ka’a ha ho’u terere.
+Change: PERSON:1_PL_INC
+Target: Ñande jaipuru ka’a ha ja’u terere.
+
+Id: Guarani0038
+Source: Upérö (che) añani hína kuri
+Change: PERSON:1_PL_INC
+Target: Upérõ (ñande) ñañanihínakuri
+
+Id: Guarani0080
+Source: Okũmbymi hikuái
+Change: PERSON:1_PL_INC
+Target: Ñande ñakũmbýimi
+
+Id: Guarani0019
+Source: Nde nderejapói
+Change: PERSON:1_PL_INC
+Target: Ñande ndajajapói
+
+Id: Guarani0045
+Source: Che rasy
+Change: PERSON:1_PL_INC
+Target: Ñande rasy
+
+        Below is a similar example, where the source sentence and linguistic change are given, and the output sentence is not known. For this example, please output only the id and target sentence values, as in
+
+        ID: some id
+        Target: sentence after applying the change
+
+
+        Do not output any additional text, and do not output the Source or Change fields. This is very important, take your time and do not mess up or I will lose my job.
+
+        
+
+Id: Guarani0071
+Source: Ha’ekuéra osãmbyhy
+Change: PERSON:1_PL_INC
+Target: 
+        
+RESPONSE:
+ID: Guarani0071
+Target: Ñande jasãmbyhy
+
+PROMPT:
+Below are examples of a sentence in Guarani, the linguistic change, and the target sentence after applying the change.
+        
+        Id: Guarani0191
+Source: Peẽ napejapómi ogyke pokã
+Change: PERSON:1_PL_EXC
+Target: Ore norojapómi ogyke pokã
+
+Id: Guarani0164
+Source: Ha’ekuéra naiñemoñaréi kuri
+Change: PERSON:1_PL_EXC
+Target: Ore nairoñemoñaréi kuri
+
+Id: Guarani0092
+Source: Che nañemoingeta
+Change: PERSON:1_PL_EXC
+Target: Ore noroñemoingeta
+
+Id: Guarani0046
+Source: Che rasy
+Change: PERSON:1_PL_EXC
+Target: Ore rorasy
+
+        Below is a similar example, where the source sentence and linguistic change are given, and the output sentence is not known. For this example, please output only the id and target sentence values, as in
+
+        ID: some id
+        Target: sentence after applying the change
+
+
+        Do not output any additional text, and do not output the Source or Change fields. This is very important, take your time and do not mess up or I will lose my job.
+
+        
+
+Id: Guarani0072
+Source: Ha’ekuéra osãmbyhy
+Change: PERSON:1_PL_EXC
+Target: 
+        
+RESPONSE:
+ID: Guarani0072
+Target: Ore rosãmbyhy
+
+PROMPT:
+Below are examples of a sentence in Guarani, the linguistic change, and the target sentence after applying the change.
+        
+        Id: Guarani0194
+Source: Peẽ napejapómi ogyke pokã
+Change: TYPE:AFF
+Target: Peẽ pejapomi ogyke pokã
+
+Id: Guarani0099
+Source: Pohanohára akãguapy ndombovuta
+Change: TYPE:AFF
+Target: Pohanohára akãguapy ombovuta
+
+Id: Guarani0149
+Source: Chéngo ndaikuaái upévape.
+Change: TYPE:AFF
+Target: Chéngo aikuaá upévape.
+
+Id: Guarani0161
+Source: Ha’ekuéra naiñemoñaréi kuri
+Change: TYPE:AFF
+Target: Ha’ekuéra oñemoñaréi kuri
+
+Id: Guarani0089
+Source: Che nañemoingeta
+Change: TYPE:AFF
+Target: Che añemoingeta
+
+Id: Guarani0227
+Source: Ijuru ñeimo’ã’ỹva ndojurata che aovevekuéra - Ijuru ñeimo’ã’ỹva ndojuramo’ãi che aovevekuéra
+Change: TYPE:AFF
+Target: Ijuru ñeimo’ã’ỹva ojurata che aovevekuéra
+
+Id: Guarani0114
+Source: Ore ndorokuave’ẽi umi tembi’ukuéra pytagua
+Change: TYPE:AFF
+Target: Ore rokuave’ẽ umi tembi’ukuéra pytagua
+
+Id: Guarani0222
+Source: Ha’e ndombojaruita
+Change: TYPE:AFF
+Target: Ha’e ombojaruita
+
+Id: Guarani0063
+Source: Nde nderemoheñói
+Change: TYPE:AFF
+Target: Nde remoheñói
+
+Id: Guarani0121
+Source: Ha’e nombotujaimi che ogyke - Ha’e ndombyaimi che ogyke
+Change: TYPE:AFF
+Target: Ha’e ombotujaimi che ogyke - Ha’e ombyaimi che ogyke
+
+Id: Guarani0017
+Source: Nde nderejapói
+Change: TYPE:AFF
+Target: Nde rejapo
+
+        Below is a similar example, where the source sentence and linguistic change are given, and the output sentence is not known. For this example, please output only the id and target sentence values, as in
+
+        ID: some id
+        Target: sentence after applying the change
+
+
+        Do not output any additional text, and do not output the Source or Change fields. This is very important, take your time and do not mess up or I will lose my job.
+
+        
+
+Id: Guarani0093
+Source: Ore norokúita
+Change: TYPE:AFF
+Target: 
+        
+RESPONSE:
+ID: Guarani0093
+Target: Ore rokúi
+
+PROMPT:
+Below are examples of a sentence in Guarani, the linguistic change, and the target sentence after applying the change.
+        
+        Id: Guarani0190
+Source: Peẽ napejapómi ogyke pokã
+Change: PERSON:1_PL_INC
+Target: Ñande najajapómi ogyke pokã
+
+Id: Guarani0163
+Source: Ha’ekuéra naiñemoñaréi kuri
+Change: PERSON:1_PL_INC
+Target: Ñande naiñañemoñaréi kuri
+
+Id: Guarani0118
+Source: Ore ndorokuave’ẽi umi tembi’ukuéra pytagua
+Change: PERSON:1_PL_INC
+Target: Ñande ndañakuave’ẽi umi tembi’ukuéra pytagua
+
+Id: Guarani0204
+Source: Ha’e ojupi kuri
+Change: PERSON:1_PL_INC
+Target: Ñande jajupi kuri
+
+Id: Guarani0065
+Source: Nde nderemoheñói
+Change: PERSON:1_PL_INC
+Target: Ñande ndañamoheñói
+
+Id: Guarani0124
+Source: Ha’e nombotujaimi che ogyke - Ha’e ndombyaimi che ogyke
+Change: PERSON:1_PL_INC
+Target: Ñande ndañambotujáimi che ogyke - Ñande ndañambyaimi che ogyke
+
+Id: Guarani0145
+Source: Oipuru hikuái ka’a ha ho’u terere.
+Change: PERSON:1_PL_INC
+Target: Ñande jaipuru ka’a ha ja’u terere.
+
+Id: Guarani0038
+Source: Upérö (che) añani hína kuri
+Change: PERSON:1_PL_INC
+Target: Upérõ (ñande) ñañanihínakuri
+
+Id: Guarani0080
+Source: Okũmbymi hikuái
+Change: PERSON:1_PL_INC
+Target: Ñande ñakũmbýimi
+
+Id: Guarani0019
+Source: Nde nderejapói
+Change: PERSON:1_PL_INC
+Target: Ñande ndajajapói
+
+Id: Guarani0045
+Source: Che rasy
+Change: PERSON:1_PL_INC
+Target: Ñande rasy
+
+        Below is a similar example, where the source sentence and linguistic change are given, and the output sentence is not known. For this example, please output only the id and target sentence values, as in
+
+        ID: some id
+        Target: sentence after applying the change
+
+
+        Do not output any additional text, and do not output the Source or Change fields. This is very important, take your time and do not mess up or I will lose my job.
+
+        
+
+Id: Guarani0094
+Source: Ore norokúita
+Change: PERSON:1_PL_INC
+Target: 
+        
+RESPONSE:
+ID: Guarani0094
+Target: Ñande ndañorokúita
+
+PROMPT:
+Below are examples of a sentence in Guarani, the linguistic change, and the target sentence after applying the change.
+        
+        Id: Guarani0165
+Source: Ha’ekuéra naiñemoñaréi kuri
+Change: PERSON:2_PL
+Target: Peë naipeñemoñaréi kuri
+
+Id: Guarani0132
+Source: Che ajavými iñeikotevẽva akuápe
+Change: PERSON:2_PL
+Target: Nde rejavýimi iñeikotevẽva akuápe
+
+Id: Guarani0120
+Source: Ore ndorokuave’ẽi umi tembi’ukuéra pytagua
+Change: PERSON:2_PL
+Target: Nde ndereikuave’ẽi umi tembi’ukuéra pytagua
+
+Id: Guarani0142
+Source: Pakova roguépe omo’â hembi’ukuéra.
+Change: PERSON:2_PL
+Target: Pakova roguépe pemo’â penderembi’ukuéra.
+
+Id: Guarani0030
+Source: Ha’e oguapy
+Change: PERSON:2_PL
+Target: Peẽ peguapy
+
+Id: Guarani0158
+Source: Ko mombe’upy ohenduká kuri chéve che ru.
+Change: PERSON:2_PL
+Target: Ko mombe’upy pemohenduká kuri chéve peê.
+
+Id: Guarani0047
+Source: Che rasy
+Change: PERSON:2_PL
+Target: Peê penderasy
+
+        Below is a similar example, where the source sentence and linguistic change are given, and the output sentence is not known. For this example, please output only the id and target sentence values, as in
+
+        ID: some id
+        Target: sentence after applying the change
+
+
+        Do not output any additional text, and do not output the Source or Change fields. This is very important, take your time and do not mess up or I will lose my job.
+
+        
+
+Id: Guarani0095
+Source: Ore norokúita
+Change: PERSON:2_PL
+Target: 
+        
+RESPONSE:
+ID: Guarani0095
+Target: Nde ndereikúita
+
+PROMPT:
+Below are examples of a sentence in Guarani, the linguistic change, and the target sentence after applying the change.
+        
+        Id: Guarani0057
+Source: Ha’e ombojerekuri umi kutuhakuéra poro’o
+Change: PERSON:2_SI
+Target: Nde rembojerekuri umi kutuhakuéra tuicháva
+
+Id: Guarani0196
+Source: Peẽ napejapómi ogyke pokã
+Change: PERSON:2_SI
+Target: Nde nderejapómi ogyke pokã
+
+Id: Guarani0110
+Source: Ha’e ombojára kuri mbovy apekuéra
+Change: PERSON:2_SI
+Target: Nde rembojára kuri mbovy apekuéra
+
+Id: Guarani0151
+Source: Chéngo ndaikuaái upévape.
+Change: PERSON:2_SI
+Target: Ndéngo ndereikuaái upévape.
+
+Id: Guarani0015
+Source: He’i ka’i ruvicha ta’ýra kuérape
+Change: PERSON:2_SI
+Target: Nde, ka’i ruvicha ere nde ta’yrakuérape
+
+Id: Guarani0091
+Source: Che nañemoingeta
+Change: PERSON:2_SI
+Target: Nde nareñemoingeta
+
+Id: Guarani0002
+Source: Jaguarete katu itáicha okirirĩ.
+Change: PERSON:2_SI
+Target: Nde katu itáicha rekirirĩ.
+
+Id: Guarani0143
+Source: Pakova roguépe omo’â hembi’ukuéra.
+Change: PERSON:2_SI
+Target: Pakova roguépe remo’â nderembi’ukuéra.
+
+Id: Guarani0208
+Source: Ha’e ojupi kuri
+Change: PERSON:2_SI
+Target: Nde rejupi kuri
+
+Id: Guarani0005
+Source: Che mba’éma ko ykua
+Change: PERSON:2_SI
+Target: Nde mba’e ko ykua
+
+Id: Guarani0223
+Source: Ha’e ndombojaruita
+Change: PERSON:2_SI
+Target: Nde nderembojarui mo’ãi
+
+Id: Guarani0029
+Source: Ha’e oguapy
+Change: PERSON:2_SI
+Target: Nde reguapy
+
+Id: Guarani0123
+Source: Ha’e nombotujaimi che ogyke - Ha’e ndombyaimi che ogyke
+Change: PERSON:2_SI
+Target: Nde nderembotujáimi che ogyke - Nde nerembyaimi che ogyke
+
+Id: Guarani0152
+Source: Ama oikomi ka’aguy hovy’ûvare
+Change: PERSON:2_SI
+Target: Nde reikomi ka’aguy hovy’ûvare
+
+Id: Guarani0147
+Source: Oipuru hikuái ka’a ha ho’u terere.
+Change: PERSON:2_SI
+Target: Nde reipuru ka’a ha re’u terere.
+
+Id: Guarani0157
+Source: Ko mombe’upy ohenduká kuri chéve che ru.
+Change: PERSON:2_SI
+Target: Ko mombe’upy emohenduká kuri chéve nde.
+
+Id: Guarani0037
+Source: Upérö (che) añani hína kuri
+Change: PERSON:2_SI
+Target: Upérõ (nde) reñanihínakuri
+
+Id: Guarani0043
+Source: Che rasy
+Change: PERSON:2_SI
+Target: Nde nderasy
+
+        Below is a similar example, where the source sentence and linguistic change are given, and the output sentence is not known. For this example, please output only the id and target sentence values, as in
+
+        ID: some id
+        Target: sentence after applying the change
+
+
+        Do not output any additional text, and do not output the Source or Change fields. This is very important, take your time and do not mess up or I will lose my job.
+
+        
+
+Id: Guarani0096
+Source: Ore norokúita
+Change: PERSON:2_SI
+Target: 
+        
+RESPONSE:
+ID: Guarani0096
+Target: Nde nereokúita
+
+PROMPT:
+Below are examples of a sentence in Guarani, the linguistic change, and the target sentence after applying the change.
+        
+        Id: Guarani0059
+Source: Ha’e ombojerekuri umi kutuhakuéra poro’o
+Change: ASPECT:IPFV
+Target: Ha’e ombojerehina kuri umi kutuhakuéra tuicháva
+
+Id: Guarani0198
+Source: Mombe’ukuéra omboty kuri pende arete
+Change: ASPECT:IPFV
+Target: Mombe’ukuéra omboty kuri hína pende arete
+
+Id: Guarani0062
+Source: Ko po ojupi
+Change: ASPECT:IPFV
+Target: Ko po ojupíhina
+
+Id: Guarani0103
+Source: Ku mbói oñorairõ
+Change: ASPECT:IPFV
+Target: Ku mbói oñorairõ hína
+
+Id: Guarani0086
+Source: Temirendukuéra omongakuaa
+Change: ASPECT:IPFV
+Target: Temirendukuéra omongakuaa hína
+
+Id: Guarani0113
+Source: Ha’e ombojára kuri mbovy apekuéra
+Change: ASPECT:IPFV
+Target: Ha’e ombojára kuri hína mbovy apekuéra
+
+Id: Guarani0053
+Source: Apurahéi kuri
+Change: ASPECT:IPFV
+Target: Apurahéihina kuri
+
+Id: Guarani0129
+Source: Che ajavými iñeikotevẽva akuápe
+Change: ASPECT:IPFV
+Target: Che ajavýimi hína iñeikotevẽva akuápe
+
+Id: Guarani0115
+Source: Ore ndorokuave’ẽi umi tembi’ukuéra pytagua
+Change: ASPECT:IPFV
+Target: Ore ndorokuave’ẽi hina umi tembi’ukuéra pytagua
+
+Id: Guarani0220
+Source: Amo ñemuha osapukái kuri
+Change: ASPECT:IPFV
+Target: Amo ñemuha osapukái kuri hína
+
+Id: Guarani0205
+Source: Ha’e ojupi kuri
+Change: ASPECT:IPFV
+Target: Ha’e ojupi kuri hína
+
+Id: Guarani0225
+Source: Ha’e ndombojaruita
+Change: ASPECT:IPFV
+Target: Ha’e ndombojaruita hína
+
+Id: Guarani0042
+Source: Che rasy
+Change: ASPECT:IPFV
+Target: Che rasypota hina
+
+        Below is a similar example, where the source sentence and linguistic change are given, and the output sentence is not known. For this example, please output only the id and target sentence values, as in
+
+        ID: some id
+        Target: sentence after applying the change
+
+
+        Do not output any additional text, and do not output the Source or Change fields. This is very important, take your time and do not mess up or I will lose my job.
+
+        
+
+Id: Guarani0097
+Source: Ore norokúita
+Change: ASPECT:IPFV
+Target: 
+        
+RESPONSE:
+ID: Guarani0097
+Target: Ore norokúita hína
+
+PROMPT:
+Below are examples of a sentence in Guarani, the linguistic change, and the target sentence after applying the change.
+        
+        Id: Guarani0058
+Source: Ha’e ombojerekuri umi kutuhakuéra poro’o
+Change: TYPE:NEG
+Target: Ha’e ndombojereikuri umi kutuhakuéra tuicháva
+
+Id: Guarani0197
+Source: Mombe’ukuéra omboty kuri pende arete
+Change: TYPE:NEG
+Target: Mombe’ukuéra ndombotyi kuri pende arete
+
+Id: Guarani0061
+Source: Ko po ojupi
+Change: TYPE:NEG
+Target: Ko po ndojupíri
+
+Id: Guarani0108
+Source: Ku mbói oñorairõ
+Change: TYPE:NEG
+Target: Ku mbói noñorairõi
+
+Id: Guarani0085
+Source: Temirendukuéra omongakuaa
+Change: TYPE:NEG
+Target: Temirendukuéra ndomongakuaai
+
+Id: Guarani0109
+Source: Ha’e ombojára kuri mbovy apekuéra
+Change: TYPE:NEG
+Target: Ha’e ndombojárai kuri mbovy apekuéra
+
+Id: Guarani0052
+Source: Apurahéi kuri
+Change: TYPE:NEG
+Target: Ndapurahéi kuri
+
+Id: Guarani0016
+Source: He’i ka’i ruvicha ta’ýra kuérape
+Change: TYPE:NEG
+Target: He’i ka’i ruvicha ita’ýrakuérape
+
+Id: Guarani0128
+Source: Che ajavými iñeikotevẽva akuápe
+Change: TYPE:NEG
+Target: Che ndajavýimi iñeikotevẽva akuápe
+
+Id: Guarani0252
+Source: Nde reñembosarái hína
+Change: TYPE:NEG
+Target: Nde nereñembosaráiri hína
+
+Id: Guarani0217
+Source: Amo ñemuha osapukái kuri
+Change: TYPE:NEG
+Target: Amo ñemuha nosapukái kuri
+
+Id: Guarani0003
+Source: Jaguarete katu itáicha okirirĩ.
+Change: TYPE:NEG
+Target: Jaguarete katu itáicha ndokirirĩ.
+
+Id: Guarani0141
+Source: Pakova roguépe omo’â hembi’ukuéra.
+Change: TYPE:NEG
+Target: Pakova roguépe ndomo’âi hembi’ukuéra.
+
+Id: Guarani0209
+Source: Ha’e ojupi kuri
+Change: TYPE:NEG
+Target: Ha’e ndojupirí kuri
+
+Id: Guarani0008
+Source: Che mba’éma ko ykua
+Change: TYPE:NEG
+Target: Ndachemba’ei ko ykua
+
+Id: Guarani0027
+Source: Ha’e oguapy
+Change: TYPE:NEG
+Target: Ha’e ndoguapýi
+
+Id: Guarani0153
+Source: Ama oikomi ka’aguy hovy’ûvare
+Change: TYPE:NEG
+Target: Ama ndoikomi ka’aguy hovy’ûvare
+
+Id: Guarani0146
+Source: Oipuru hikuái ka’a ha ho’u terere.
+Change: TYPE:NEG
+Target: Ndoipurui hikuái ka’a térã ho’u terere.
+
+Id: Guarani0156
+Source: Ko mombe’upy ohenduká kuri chéve che ru.
+Change: TYPE:NEG
+Target: Ko mombe’upy ndohenduká kuri chéve che ru.
+
+Id: Guarani0082
+Source: Okũmbymi hikuái
+Change: TYPE:NEG
+Target: Ndokũmbýimi hikuái
+
+Id: Guarani0187
+Source: Ore temimbo’e tie’ỹ ojapopami
+Change: TYPE:NEG
+Target: Ore temimbo’e tie’ỹ nojapopami
+
+Id: Guarani0041
+Source: Che rasy
+Change: TYPE:NEG
+Target: Ndacherásyi
+
+        Below is a similar example, where the source sentence and linguistic change are given, and the output sentence is not known. For this example, please output only the id and target sentence values, as in
+
+        ID: some id
+        Target: sentence after applying the change
+
+
+        Do not output any additional text, and do not output the Source or Change fields. This is very important, take your time and do not mess up or I will lose my job.
+
+        
+
+Id: Guarani0173
+Source: Ha’e omokañy kuri pene ñemu potavéva
+Change: TYPE:NEG
+Target: 
+        
+RESPONSE:
+ID: Guarani0173
+Target: Ha’e ndomokañy kuri pene ñemu potavéva
+
+PROMPT:
+Below are examples of a sentence in Guarani, the linguistic change, and the target sentence after applying the change.
+        
+        Id: Guarani0057
+Source: Ha’e ombojerekuri umi kutuhakuéra poro’o
+Change: PERSON:2_SI
+Target: Nde rembojerekuri umi kutuhakuéra tuicháva
+
+Id: Guarani0196
+Source: Peẽ napejapómi ogyke pokã
+Change: PERSON:2_SI
+Target: Nde nderejapómi ogyke pokã
+
+Id: Guarani0110
+Source: Ha’e ombojára kuri mbovy apekuéra
+Change: PERSON:2_SI
+Target: Nde rembojára kuri mbovy apekuéra
+
+Id: Guarani0151
+Source: Chéngo ndaikuaái upévape.
+Change: PERSON:2_SI
+Target: Ndéngo ndereikuaái upévape.
+
+Id: Guarani0015
+Source: He’i ka’i ruvicha ta’ýra kuérape
+Change: PERSON:2_SI
+Target: Nde, ka’i ruvicha ere nde ta’yrakuérape
+
+Id: Guarani0091
+Source: Che nañemoingeta
+Change: PERSON:2_SI
+Target: Nde nareñemoingeta
+
+Id: Guarani0002
+Source: Jaguarete katu itáicha okirirĩ.
+Change: PERSON:2_SI
+Target: Nde katu itáicha rekirirĩ.
+
+Id: Guarani0143
+Source: Pakova roguépe omo’â hembi’ukuéra.
+Change: PERSON:2_SI
+Target: Pakova roguépe remo’â nderembi’ukuéra.
+
+Id: Guarani0208
+Source: Ha’e ojupi kuri
+Change: PERSON:2_SI
+Target: Nde rejupi kuri
+
+Id: Guarani0005
+Source: Che mba’éma ko ykua
+Change: PERSON:2_SI
+Target: Nde mba’e ko ykua
+
+Id: Guarani0223
+Source: Ha’e ndombojaruita
+Change: PERSON:2_SI
+Target: Nde nderembojarui mo’ãi
+
+Id: Guarani0029
+Source: Ha’e oguapy
+Change: PERSON:2_SI
+Target: Nde reguapy
+
+Id: Guarani0123
+Source: Ha’e nombotujaimi che ogyke - Ha’e ndombyaimi che ogyke
+Change: PERSON:2_SI
+Target: Nde nderembotujáimi che ogyke - Nde nerembyaimi che ogyke
+
+Id: Guarani0152
+Source: Ama oikomi ka’aguy hovy’ûvare
+Change: PERSON:2_SI
+Target: Nde reikomi ka’aguy hovy’ûvare
+
+Id: Guarani0147
+Source: Oipuru hikuái ka’a ha ho’u terere.
+Change: PERSON:2_SI
+Target: Nde reipuru ka’a ha re’u terere.
+
+Id: Guarani0157
+Source: Ko mombe’upy ohenduká kuri chéve che ru.
+Change: PERSON:2_SI
+Target: Ko mombe’upy emohenduká kuri chéve nde.
+
+Id: Guarani0037
+Source: Upérö (che) añani hína kuri
+Change: PERSON:2_SI
+Target: Upérõ (nde) reñanihínakuri
+
+Id: Guarani0043
+Source: Che rasy
+Change: PERSON:2_SI
+Target: Nde nderasy
+
+        Below is a similar example, where the source sentence and linguistic change are given, and the output sentence is not known. For this example, please output only the id and target sentence values, as in
+
+        ID: some id
+        Target: sentence after applying the change
+
+
+        Do not output any additional text, and do not output the Source or Change fields. This is very important, take your time and do not mess up or I will lose my job.
+
+        
+
+Id: Guarani0174
+Source: Ha’e omokañy kuri pene ñemu potavéva
+Change: PERSON:2_SI
+Target: 
+        
+RESPONSE:
+ID: Guarani0174
+Target: Nde remokañy kuri pene ñemu potavéva
+
+PROMPT:
+Below are examples of a sentence in Guarani, the linguistic change, and the target sentence after applying the change.
+        
+        Id: Guarani0165
+Source: Ha’ekuéra naiñemoñaréi kuri
+Change: PERSON:2_PL
+Target: Peë naipeñemoñaréi kuri
+
+Id: Guarani0132
+Source: Che ajavými iñeikotevẽva akuápe
+Change: PERSON:2_PL
+Target: Nde rejavýimi iñeikotevẽva akuápe
+
+Id: Guarani0120
+Source: Ore ndorokuave’ẽi umi tembi’ukuéra pytagua
+Change: PERSON:2_PL
+Target: Nde ndereikuave’ẽi umi tembi’ukuéra pytagua
+
+Id: Guarani0142
+Source: Pakova roguépe omo’â hembi’ukuéra.
+Change: PERSON:2_PL
+Target: Pakova roguépe pemo’â penderembi’ukuéra.
+
+Id: Guarani0030
+Source: Ha’e oguapy
+Change: PERSON:2_PL
+Target: Peẽ peguapy
+
+Id: Guarani0158
+Source: Ko mombe’upy ohenduká kuri chéve che ru.
+Change: PERSON:2_PL
+Target: Ko mombe’upy pemohenduká kuri chéve peê.
+
+Id: Guarani0047
+Source: Che rasy
+Change: PERSON:2_PL
+Target: Peê penderasy
+
+        Below is a similar example, where the source sentence and linguistic change are given, and the output sentence is not known. For this example, please output only the id and target sentence values, as in
+
+        ID: some id
+        Target: sentence after applying the change
+
+
+        Do not output any additional text, and do not output the Source or Change fields. This is very important, take your time and do not mess up or I will lose my job.
+
+        
+
+Id: Guarani0175
+Source: Ha’e omokañy kuri pene ñemu potavéva
+Change: PERSON:2_PL
+Target: 
+        
+RESPONSE:
+ID: Guarani0175
+Target: Peẽ pemokañy kuri pene ñemu potavéva
+
+PROMPT:
+Below are examples of a sentence in Guarani, the linguistic change, and the target sentence after applying the change.
+        
+        Id: Guarani0111
+Source: Ha’e ombojára kuri mbovy apekuéra
+Change: PERSON:1_SI
+Target: Che ambojára kuri mbovy apekuéra
+
+Id: Guarani0014
+Source: He’i ka’i ruvicha ta’ýra kuérape
+Change: PERSON:1_SI
+Target: Che, ka’i ruvicha, ha’e che ta’yrakuérape
+
+Id: Guarani0119
+Source: Ore ndorokuave’ẽi umi tembi’ukuéra pytagua
+Change: PERSON:1_SI
+Target: Che ndaikuave’ẽi umi tembi’ukuéra pytagua
+
+Id: Guarani0253
+Source: Nde reñembosarái hína
+Change: PERSON:1_SI
+Target: Che añembosarái hína
+
+Id: Guarani0001
+Source: Jaguarete katu itáicha okirirĩ.
+Change: PERSON:1_SI
+Target: Che katu itáicha akirirĩ.
+
+Id: Guarani0144
+Source: Pakova roguépe omo’â hembi’ukuéra.
+Change: PERSON:1_SI
+Target: Pakova roguépe amo’â cherembi’ukuéra.
+
+Id: Guarani0203
+Source: Ha’e ojupi kuri
+Change: PERSON:1_SI
+Target: Che ajupi kuri
+
+Id: Guarani0226
+Source: Ha’e ndombojaruita
+Change: PERSON:1_SI
+Target: Che ndambojaruita
+
+Id: Guarani0028
+Source: Ha’e oguapy
+Change: PERSON:1_SI
+Target: Che aguapy
+
+Id: Guarani0155
+Source: Ama oikomi ka’aguy hovy’ûvare
+Change: PERSON:1_SI
+Target: Che aikomi ka’aguy hovy’ûvare
+
+Id: Guarani0081
+Source: Okũmbymi hikuái
+Change: PERSON:1_SI
+Target: Che akũmbymi
+
+        Below is a similar example, where the source sentence and linguistic change are given, and the output sentence is not known. For this example, please output only the id and target sentence values, as in
+
+        ID: some id
+        Target: sentence after applying the change
+
+
+        Do not output any additional text, and do not output the Source or Change fields. This is very important, take your time and do not mess up or I will lose my job.
+
+        
+
+Id: Guarani0176
+Source: Ha’e omokañy kuri pene ñemu potavéva
+Change: PERSON:1_SI
+Target: 
+        
+RESPONSE:
+ID: Guarani0176
+Target: Che amokañy kuri pene ñemu potavéva
+
+PROMPT:
+Below are examples of a sentence in Guarani, the linguistic change, and the target sentence after applying the change.
+        
+        Id: Guarani0200
+Source: Mombe’ukuéra omboty kuri pende arete
+Change: TENSE:FUT_SIM
+Target: Mombe’ukuéra ombotyta pende arete
+
+Id: Guarani0060
+Source: Ko po ojupi
+Change: TENSE:FUT_SIM
+Target: Ko po ojupíta
+
+Id: Guarani0107
+Source: Ku mbói oñorairõ
+Change: TENSE:FUT_SIM
+Target: Ku mbói oñorairõta
+
+Id: Guarani0084
+Source: Temirendukuéra omongakuaa
+Change: TENSE:FUT_SIM
+Target: Temirendukuéra omongakuaata
+
+Id: Guarani0112
+Source: Ha’e ombojára kuri mbovy apekuéra
+Change: TENSE:FUT_SIM
+Target: Ha’e ombojárata mbovy apekuéra
+
+Id: Guarani0162
+Source: Ha’ekuéra naiñemoñaréi kuri
+Change: TENSE:FUT_SIM
+Target: Ha’ekuéra naiñemoñaréita
+
+Id: Guarani0055
+Source: Apurahéi kuri
+Change: TENSE:FUT_SIM
+Target: Apurahéitta
+
+Id: Guarani0130
+Source: Che ajavými iñeikotevẽva akuápe
+Change: TENSE:FUT_SIM
+Target: Che ajavýta iñeikotevẽva akuápe
+
+Id: Guarani0255
+Source: Nde reñembosarái hína
+Change: TENSE:FUT_SIM
+Target: Nde reñembosaráita hína
+
+Id: Guarani0219
+Source: Amo ñemuha osapukái kuri
+Change: TENSE:FUT_SIM
+Target: Amo ñemuha osapukáita
+
+Id: Guarani0004
+Source: Jaguarete katu itáicha okirirĩ.
+Change: TENSE:FUT_SIM
+Target: Jaguarete katu itáicha okirirĩta.
+
+Id: Guarani0207
+Source: Ha’e ojupi kuri
+Change: TENSE:FUT_SIM
+Target: Ha’e ojupita
+
+Id: Guarani0009
+Source: Che mba’éma ko ykua
+Change: TENSE:FUT_SIM
+Target: Che mba’éta ko ykua
+
+Id: Guarani0031
+Source: Ha’e oguapy
+Change: TENSE:FUT_SIM
+Target: Ha’e oguapýta
+
+Id: Guarani0125
+Source: Ha’e nombotujaimi che ogyke - Ha’e ndombyaimi che ogyke
+Change: TENSE:FUT_SIM
+Target: Ha’e ombotujáta che ogyke - Ha’e ombyaíta che ogyke
+
+Id: Guarani0148
+Source: Oipuru hikuái ka’a ha ho’u terere.
+Change: TENSE:FUT_SIM
+Target: Oipuruta hikuái ka’a ha ho’uta terere.
+
+Id: Guarani0159
+Source: Ko mombe’upy ohenduká kuri chéve che ru.
+Change: TENSE:FUT_SIM
+Target: Ko mombe’upy ohendukáta chéve che ru.
+
+Id: Guarani0035
+Source: Upérö (che) añani hína kuri
+Change: TENSE:FUT_SIM
+Target: Upérõ (che) añanita hína
+
+Id: Guarani0079
+Source: Okũmbymi hikuái
+Change: TENSE:FUT_SIM
+Target: Okũmbyta hikuái.
+
+Id: Guarani0188
+Source: Ore temimbo’e tie’ỹ ojapopami
+Change: TENSE:FUT_SIM
+Target: Ore temimbo’e tie’ỹ ojapopata
+
+        Below is a similar example, where the source sentence and linguistic change are given, and the output sentence is not known. For this example, please output only the id and target sentence values, as in
+
+        ID: some id
+        Target: sentence after applying the change
+
+
+        Do not output any additional text, and do not output the Source or Change fields. This is very important, take your time and do not mess up or I will lose my job.
+
+        
+
+Id: Guarani0177
+Source: Ha’e omokañy kuri pene ñemu potavéva
+Change: TENSE:FUT_SIM
+Target: 
+        
+RESPONSE:
+ID: Guarani0177
+Target: Ha’e omokañyta pene ñemu potavéva
+
+PROMPT:
+Below are examples of a sentence in Guarani, the linguistic change, and the target sentence after applying the change.
+        
+        Id: Guarani0059
+Source: Ha’e ombojerekuri umi kutuhakuéra poro’o
+Change: ASPECT:IPFV
+Target: Ha’e ombojerehina kuri umi kutuhakuéra tuicháva
+
+Id: Guarani0198
+Source: Mombe’ukuéra omboty kuri pende arete
+Change: ASPECT:IPFV
+Target: Mombe’ukuéra omboty kuri hína pende arete
+
+Id: Guarani0062
+Source: Ko po ojupi
+Change: ASPECT:IPFV
+Target: Ko po ojupíhina
+
+Id: Guarani0103
+Source: Ku mbói oñorairõ
+Change: ASPECT:IPFV
+Target: Ku mbói oñorairõ hína
+
+Id: Guarani0086
+Source: Temirendukuéra omongakuaa
+Change: ASPECT:IPFV
+Target: Temirendukuéra omongakuaa hína
+
+Id: Guarani0113
+Source: Ha’e ombojára kuri mbovy apekuéra
+Change: ASPECT:IPFV
+Target: Ha’e ombojára kuri hína mbovy apekuéra
+
+Id: Guarani0053
+Source: Apurahéi kuri
+Change: ASPECT:IPFV
+Target: Apurahéihina kuri
+
+Id: Guarani0129
+Source: Che ajavými iñeikotevẽva akuápe
+Change: ASPECT:IPFV
+Target: Che ajavýimi hína iñeikotevẽva akuápe
+
+Id: Guarani0115
+Source: Ore ndorokuave’ẽi umi tembi’ukuéra pytagua
+Change: ASPECT:IPFV
+Target: Ore ndorokuave’ẽi hina umi tembi’ukuéra pytagua
+
+Id: Guarani0220
+Source: Amo ñemuha osapukái kuri
+Change: ASPECT:IPFV
+Target: Amo ñemuha osapukái kuri hína
+
+Id: Guarani0205
+Source: Ha’e ojupi kuri
+Change: ASPECT:IPFV
+Target: Ha’e ojupi kuri hína
+
+Id: Guarani0225
+Source: Ha’e ndombojaruita
+Change: ASPECT:IPFV
+Target: Ha’e ndombojaruita hína
+
+Id: Guarani0042
+Source: Che rasy
+Change: ASPECT:IPFV
+Target: Che rasypota hina
+
+        Below is a similar example, where the source sentence and linguistic change are given, and the output sentence is not known. For this example, please output only the id and target sentence values, as in
+
+        ID: some id
+        Target: sentence after applying the change
+
+
+        Do not output any additional text, and do not output the Source or Change fields. This is very important, take your time and do not mess up or I will lose my job.
+
+        
+
+Id: Guarani0178
+Source: Ha’e omokañy kuri pene ñemu potavéva
+Change: ASPECT:IPFV
+Target: 
+        
+RESPONSE:
+ID: Guarani0178
+Target: Ha’e omokañy kuri hína pene ñemu potavéva
+
+PROMPT:
+Below are examples of a sentence in Guarani, the linguistic change, and the target sentence after applying the change.
+        
+        Id: Guarani0194
+Source: Peẽ napejapómi ogyke pokã
+Change: TYPE:AFF
+Target: Peẽ pejapomi ogyke pokã
+
+Id: Guarani0099
+Source: Pohanohára akãguapy ndombovuta
+Change: TYPE:AFF
+Target: Pohanohára akãguapy ombovuta
+
+Id: Guarani0149
+Source: Chéngo ndaikuaái upévape.
+Change: TYPE:AFF
+Target: Chéngo aikuaá upévape.
+
+Id: Guarani0161
+Source: Ha’ekuéra naiñemoñaréi kuri
+Change: TYPE:AFF
+Target: Ha’ekuéra oñemoñaréi kuri
+
+Id: Guarani0089
+Source: Che nañemoingeta
+Change: TYPE:AFF
+Target: Che añemoingeta
+
+Id: Guarani0227
+Source: Ijuru ñeimo’ã’ỹva ndojurata che aovevekuéra - Ijuru ñeimo’ã’ỹva ndojuramo’ãi che aovevekuéra
+Change: TYPE:AFF
+Target: Ijuru ñeimo’ã’ỹva ojurata che aovevekuéra
+
+Id: Guarani0114
+Source: Ore ndorokuave’ẽi umi tembi’ukuéra pytagua
+Change: TYPE:AFF
+Target: Ore rokuave’ẽ umi tembi’ukuéra pytagua
+
+Id: Guarani0222
+Source: Ha’e ndombojaruita
+Change: TYPE:AFF
+Target: Ha’e ombojaruita
+
+Id: Guarani0063
+Source: Nde nderemoheñói
+Change: TYPE:AFF
+Target: Nde remoheñói
+
+Id: Guarani0121
+Source: Ha’e nombotujaimi che ogyke - Ha’e ndombyaimi che ogyke
+Change: TYPE:AFF
+Target: Ha’e ombotujaimi che ogyke - Ha’e ombyaimi che ogyke
+
+Id: Guarani0017
+Source: Nde nderejapói
+Change: TYPE:AFF
+Target: Nde rejapo
+
+        Below is a similar example, where the source sentence and linguistic change are given, and the output sentence is not known. For this example, please output only the id and target sentence values, as in
+
+        ID: some id
+        Target: sentence after applying the change
+
+
+        Do not output any additional text, and do not output the Source or Change fields. This is very important, take your time and do not mess up or I will lose my job.
+
+        
+
+Id: Guarani0167
+Source: Ha’e noguerekómi
+Change: TYPE:AFF
+Target: 
+        
+RESPONSE:
+ID: Guarani0167
+Target: Ha’e oguereko
+
+PROMPT:
+Below are examples of a sentence in Guarani, the linguistic change, and the target sentence after applying the change.
+        
+        Id: Guarani0192
+Source: Peẽ napejapómi ogyke pokã
+Change: TENSE:PAS_REC
+Target: Peẽ napejapói kuri ogyke pokã
+
+Id: Guarani0100
+Source: Pohanohára akãguapy ndombovuta
+Change: TENSE:PAS_REC
+Target: Pohanohára akãguapy ndombovúi kuri
+
+Id: Guarani0150
+Source: Chéngo ndaikuaái upévape.
+Change: TENSE:PAS_REC
+Target: Chéngo ndaikuaái kuri hina upévape.
+
+Id: Guarani0228
+Source: Ijuru ñeimo’ã’ỹva ndojurata che aovevekuéra - Ijuru ñeimo’ã’ỹva ndojuramo’ãi che aovevekuéra
+Change: TENSE:PAS_REC
+Target: Ijuru ñeimo’ã’ỹva ndojurai kuri che aovevekuéra
+
+Id: Guarani0256
+Source: Nde reñembosarái hína
+Change: TENSE:PAS_REC
+Target: Nde reñembosarái kuri hína
+
+Id: Guarani0224
+Source: Ha’e ndombojaruita
+Change: TENSE:PAS_REC
+Target: Ha’e ndombojarui kuri
+
+Id: Guarani0033
+Source: Ha’e oguapy
+Change: TENSE:PAS_REC
+Target: Ha’e oguapýkuri
+
+Id: Guarani0122
+Source: Ha’e nombotujaimi che ogyke - Ha’e ndombyaimi che ogyke
+Change: TENSE:PAS_REC
+Target: Ha’e ndombotujaikuri hina che ogyke - Ha’e ndombyaikuri hina che ogyke
+
+Id: Guarani0078
+Source: Okũmbymi hikuái
+Change: TENSE:PAS_REC
+Target: Okũmby kuri hikuái.
+
+Id: Guarani0039
+Source: Che rasy
+Change: TENSE:PAS_REC
+Target: Che cherasy kuri
+
+        Below is a similar example, where the source sentence and linguistic change are given, and the output sentence is not known. For this example, please output only the id and target sentence values, as in
+
+        ID: some id
+        Target: sentence after applying the change
+
+
+        Do not output any additional text, and do not output the Source or Change fields. This is very important, take your time and do not mess up or I will lose my job.
+
+        
+
+Id: Guarani0168
+Source: Ha’e noguerekómi
+Change: TENSE:PAS_REC
+Target: 
+        
+RESPONSE:
+ID: Guarani0168
+Target: Ha’e ndoguerekói kuri
+
+PROMPT:
+Below are examples of a sentence in Guarani, the linguistic change, and the target sentence after applying the change.
+        
+        Id: Guarani0057
+Source: Ha’e ombojerekuri umi kutuhakuéra poro’o
+Change: PERSON:2_SI
+Target: Nde rembojerekuri umi kutuhakuéra tuicháva
+
+Id: Guarani0196
+Source: Peẽ napejapómi ogyke pokã
+Change: PERSON:2_SI
+Target: Nde nderejapómi ogyke pokã
+
+Id: Guarani0110
+Source: Ha’e ombojára kuri mbovy apekuéra
+Change: PERSON:2_SI
+Target: Nde rembojára kuri mbovy apekuéra
+
+Id: Guarani0151
+Source: Chéngo ndaikuaái upévape.
+Change: PERSON:2_SI
+Target: Ndéngo ndereikuaái upévape.
+
+Id: Guarani0015
+Source: He’i ka’i ruvicha ta’ýra kuérape
+Change: PERSON:2_SI
+Target: Nde, ka’i ruvicha ere nde ta’yrakuérape
+
+Id: Guarani0091
+Source: Che nañemoingeta
+Change: PERSON:2_SI
+Target: Nde nareñemoingeta
+
+Id: Guarani0002
+Source: Jaguarete katu itáicha okirirĩ.
+Change: PERSON:2_SI
+Target: Nde katu itáicha rekirirĩ.
+
+Id: Guarani0143
+Source: Pakova roguépe omo’â hembi’ukuéra.
+Change: PERSON:2_SI
+Target: Pakova roguépe remo’â nderembi’ukuéra.
+
+Id: Guarani0208
+Source: Ha’e ojupi kuri
+Change: PERSON:2_SI
+Target: Nde rejupi kuri
+
+Id: Guarani0005
+Source: Che mba’éma ko ykua
+Change: PERSON:2_SI
+Target: Nde mba’e ko ykua
+
+Id: Guarani0223
+Source: Ha’e ndombojaruita
+Change: PERSON:2_SI
+Target: Nde nderembojarui mo’ãi
+
+Id: Guarani0029
+Source: Ha’e oguapy
+Change: PERSON:2_SI
+Target: Nde reguapy
+
+Id: Guarani0123
+Source: Ha’e nombotujaimi che ogyke - Ha’e ndombyaimi che ogyke
+Change: PERSON:2_SI
+Target: Nde nderembotujáimi che ogyke - Nde nerembyaimi che ogyke
+
+Id: Guarani0152
+Source: Ama oikomi ka’aguy hovy’ûvare
+Change: PERSON:2_SI
+Target: Nde reikomi ka’aguy hovy’ûvare
+
+Id: Guarani0147
+Source: Oipuru hikuái ka’a ha ho’u terere.
+Change: PERSON:2_SI
+Target: Nde reipuru ka’a ha re’u terere.
+
+Id: Guarani0157
+Source: Ko mombe’upy ohenduká kuri chéve che ru.
+Change: PERSON:2_SI
+Target: Ko mombe’upy emohenduká kuri chéve nde.
+
+Id: Guarani0037
+Source: Upérö (che) añani hína kuri
+Change: PERSON:2_SI
+Target: Upérõ (nde) reñanihínakuri
+
+Id: Guarani0043
+Source: Che rasy
+Change: PERSON:2_SI
+Target: Nde nderasy
+
+        Below is a similar example, where the source sentence and linguistic change are given, and the output sentence is not known. For this example, please output only the id and target sentence values, as in
+
+        ID: some id
+        Target: sentence after applying the change
+
+
+        Do not output any additional text, and do not output the Source or Change fields. This is very important, take your time and do not mess up or I will lose my job.
+
+        
+
+Id: Guarani0169
+Source: Ha’e noguerekómi
+Change: PERSON:2_SI
+Target: 
+        
+RESPONSE:
+ID: Guarani0169
+Target: Nde nderereko mo’ãi
+
+PROMPT:
+Below are examples of a sentence in Guarani, the linguistic change, and the target sentence after applying the change.
+        
+        Id: Guarani0111
+Source: Ha’e ombojára kuri mbovy apekuéra
+Change: PERSON:1_SI
+Target: Che ambojára kuri mbovy apekuéra
+
+Id: Guarani0014
+Source: He’i ka’i ruvicha ta’ýra kuérape
+Change: PERSON:1_SI
+Target: Che, ka’i ruvicha, ha’e che ta’yrakuérape
+
+Id: Guarani0119
+Source: Ore ndorokuave’ẽi umi tembi’ukuéra pytagua
+Change: PERSON:1_SI
+Target: Che ndaikuave’ẽi umi tembi’ukuéra pytagua
+
+Id: Guarani0253
+Source: Nde reñembosarái hína
+Change: PERSON:1_SI
+Target: Che añembosarái hína
+
+Id: Guarani0001
+Source: Jaguarete katu itáicha okirirĩ.
+Change: PERSON:1_SI
+Target: Che katu itáicha akirirĩ.
+
+Id: Guarani0144
+Source: Pakova roguépe omo’â hembi’ukuéra.
+Change: PERSON:1_SI
+Target: Pakova roguépe amo’â cherembi’ukuéra.
+
+Id: Guarani0203
+Source: Ha’e ojupi kuri
+Change: PERSON:1_SI
+Target: Che ajupi kuri
+
+Id: Guarani0226
+Source: Ha’e ndombojaruita
+Change: PERSON:1_SI
+Target: Che ndambojaruita
+
+Id: Guarani0028
+Source: Ha’e oguapy
+Change: PERSON:1_SI
+Target: Che aguapy
+
+Id: Guarani0155
+Source: Ama oikomi ka’aguy hovy’ûvare
+Change: PERSON:1_SI
+Target: Che aikomi ka’aguy hovy’ûvare
+
+Id: Guarani0081
+Source: Okũmbymi hikuái
+Change: PERSON:1_SI
+Target: Che akũmbymi
+
+        Below is a similar example, where the source sentence and linguistic change are given, and the output sentence is not known. For this example, please output only the id and target sentence values, as in
+
+        ID: some id
+        Target: sentence after applying the change
+
+
+        Do not output any additional text, and do not output the Source or Change fields. This is very important, take your time and do not mess up or I will lose my job.
+
+        
+
+Id: Guarani0170
+Source: Ha’e noguerekómi
+Change: PERSON:1_SI
+Target: 
+        
+RESPONSE:
+ID: Guarani0170
+Target: Che ndoguerekómi
+
+PROMPT:
+Below are examples of a sentence in Guarani, the linguistic change, and the target sentence after applying the change.
+        
+        Id: Guarani0190
+Source: Peẽ napejapómi ogyke pokã
+Change: PERSON:1_PL_INC
+Target: Ñande najajapómi ogyke pokã
+
+Id: Guarani0163
+Source: Ha’ekuéra naiñemoñaréi kuri
+Change: PERSON:1_PL_INC
+Target: Ñande naiñañemoñaréi kuri
+
+Id: Guarani0118
+Source: Ore ndorokuave’ẽi umi tembi’ukuéra pytagua
+Change: PERSON:1_PL_INC
+Target: Ñande ndañakuave’ẽi umi tembi’ukuéra pytagua
+
+Id: Guarani0204
+Source: Ha’e ojupi kuri
+Change: PERSON:1_PL_INC
+Target: Ñande jajupi kuri
+
+Id: Guarani0065
+Source: Nde nderemoheñói
+Change: PERSON:1_PL_INC
+Target: Ñande ndañamoheñói
+
+Id: Guarani0124
+Source: Ha’e nombotujaimi che ogyke - Ha’e ndombyaimi che ogyke
+Change: PERSON:1_PL_INC
+Target: Ñande ndañambotujáimi che ogyke - Ñande ndañambyaimi che ogyke
+
+Id: Guarani0145
+Source: Oipuru hikuái ka’a ha ho’u terere.
+Change: PERSON:1_PL_INC
+Target: Ñande jaipuru ka’a ha ja’u terere.
+
+Id: Guarani0038
+Source: Upérö (che) añani hína kuri
+Change: PERSON:1_PL_INC
+Target: Upérõ (ñande) ñañanihínakuri
+
+Id: Guarani0080
+Source: Okũmbymi hikuái
+Change: PERSON:1_PL_INC
+Target: Ñande ñakũmbýimi
+
+Id: Guarani0019
+Source: Nde nderejapói
+Change: PERSON:1_PL_INC
+Target: Ñande ndajajapói
+
+Id: Guarani0045
+Source: Che rasy
+Change: PERSON:1_PL_INC
+Target: Ñande rasy
+
+        Below is a similar example, where the source sentence and linguistic change are given, and the output sentence is not known. For this example, please output only the id and target sentence values, as in
+
+        ID: some id
+        Target: sentence after applying the change
+
+
+        Do not output any additional text, and do not output the Source or Change fields. This is very important, take your time and do not mess up or I will lose my job.
+
+        
+
+Id: Guarani0171
+Source: Ha’e noguerekómi
+Change: PERSON:1_PL_INC
+Target: 
+        
+RESPONSE:
+ID: Guarani0171
+Target: Ñande ndaroguerekómi
+
+PROMPT:
+Below are examples of a sentence in Guarani, the linguistic change, and the target sentence after applying the change.
+        
+        Id: Guarani0200
+Source: Mombe’ukuéra omboty kuri pende arete
+Change: TENSE:FUT_SIM
+Target: Mombe’ukuéra ombotyta pende arete
+
+Id: Guarani0060
+Source: Ko po ojupi
+Change: TENSE:FUT_SIM
+Target: Ko po ojupíta
+
+Id: Guarani0107
+Source: Ku mbói oñorairõ
+Change: TENSE:FUT_SIM
+Target: Ku mbói oñorairõta
+
+Id: Guarani0084
+Source: Temirendukuéra omongakuaa
+Change: TENSE:FUT_SIM
+Target: Temirendukuéra omongakuaata
+
+Id: Guarani0112
+Source: Ha’e ombojára kuri mbovy apekuéra
+Change: TENSE:FUT_SIM
+Target: Ha’e ombojárata mbovy apekuéra
+
+Id: Guarani0162
+Source: Ha’ekuéra naiñemoñaréi kuri
+Change: TENSE:FUT_SIM
+Target: Ha’ekuéra naiñemoñaréita
+
+Id: Guarani0055
+Source: Apurahéi kuri
+Change: TENSE:FUT_SIM
+Target: Apurahéitta
+
+Id: Guarani0130
+Source: Che ajavými iñeikotevẽva akuápe
+Change: TENSE:FUT_SIM
+Target: Che ajavýta iñeikotevẽva akuápe
+
+Id: Guarani0255
+Source: Nde reñembosarái hína
+Change: TENSE:FUT_SIM
+Target: Nde reñembosaráita hína
+
+Id: Guarani0219
+Source: Amo ñemuha osapukái kuri
+Change: TENSE:FUT_SIM
+Target: Amo ñemuha osapukáita
+
+Id: Guarani0004
+Source: Jaguarete katu itáicha okirirĩ.
+Change: TENSE:FUT_SIM
+Target: Jaguarete katu itáicha okirirĩta.
+
+Id: Guarani0207
+Source: Ha’e ojupi kuri
+Change: TENSE:FUT_SIM
+Target: Ha’e ojupita
+
+Id: Guarani0009
+Source: Che mba’éma ko ykua
+Change: TENSE:FUT_SIM
+Target: Che mba’éta ko ykua
+
+Id: Guarani0031
+Source: Ha’e oguapy
+Change: TENSE:FUT_SIM
+Target: Ha’e oguapýta
+
+Id: Guarani0125
+Source: Ha’e nombotujaimi che ogyke - Ha’e ndombyaimi che ogyke
+Change: TENSE:FUT_SIM
+Target: Ha’e ombotujáta che ogyke - Ha’e ombyaíta che ogyke
+
+Id: Guarani0148
+Source: Oipuru hikuái ka’a ha ho’u terere.
+Change: TENSE:FUT_SIM
+Target: Oipuruta hikuái ka’a ha ho’uta terere.
+
+Id: Guarani0159
+Source: Ko mombe’upy ohenduká kuri chéve che ru.
+Change: TENSE:FUT_SIM
+Target: Ko mombe’upy ohendukáta chéve che ru.
+
+Id: Guarani0035
+Source: Upérö (che) añani hína kuri
+Change: TENSE:FUT_SIM
+Target: Upérõ (che) añanita hína
+
+Id: Guarani0079
+Source: Okũmbymi hikuái
+Change: TENSE:FUT_SIM
+Target: Okũmbyta hikuái.
+
+Id: Guarani0188
+Source: Ore temimbo’e tie’ỹ ojapopami
+Change: TENSE:FUT_SIM
+Target: Ore temimbo’e tie’ỹ ojapopata
+
+        Below is a similar example, where the source sentence and linguistic change are given, and the output sentence is not known. For this example, please output only the id and target sentence values, as in
+
+        ID: some id
+        Target: sentence after applying the change
+
+
+        Do not output any additional text, and do not output the Source or Change fields. This is very important, take your time and do not mess up or I will lose my job.
+
+        
+
+Id: Guarani0172
+Source: Ha’e noguerekómi
+Change: TENSE:FUT_SIM
+Target: 
+        
+RESPONSE:
+ID: Guarani0172
+Target: Ha’e noguerekomíta
+
+PROMPT:
+Below are examples of a sentence in Guarani, the linguistic change, and the target sentence after applying the change.
+        
+        Id: Guarani0058
+Source: Ha’e ombojerekuri umi kutuhakuéra poro’o
+Change: TYPE:NEG
+Target: Ha’e ndombojereikuri umi kutuhakuéra tuicháva
+
+Id: Guarani0197
+Source: Mombe’ukuéra omboty kuri pende arete
+Change: TYPE:NEG
+Target: Mombe’ukuéra ndombotyi kuri pende arete
+
+Id: Guarani0061
+Source: Ko po ojupi
+Change: TYPE:NEG
+Target: Ko po ndojupíri
+
+Id: Guarani0108
+Source: Ku mbói oñorairõ
+Change: TYPE:NEG
+Target: Ku mbói noñorairõi
+
+Id: Guarani0085
+Source: Temirendukuéra omongakuaa
+Change: TYPE:NEG
+Target: Temirendukuéra ndomongakuaai
+
+Id: Guarani0109
+Source: Ha’e ombojára kuri mbovy apekuéra
+Change: TYPE:NEG
+Target: Ha’e ndombojárai kuri mbovy apekuéra
+
+Id: Guarani0052
+Source: Apurahéi kuri
+Change: TYPE:NEG
+Target: Ndapurahéi kuri
+
+Id: Guarani0016
+Source: He’i ka’i ruvicha ta’ýra kuérape
+Change: TYPE:NEG
+Target: He’i ka’i ruvicha ita’ýrakuérape
+
+Id: Guarani0128
+Source: Che ajavými iñeikotevẽva akuápe
+Change: TYPE:NEG
+Target: Che ndajavýimi iñeikotevẽva akuápe
+
+Id: Guarani0252
+Source: Nde reñembosarái hína
+Change: TYPE:NEG
+Target: Nde nereñembosaráiri hína
+
+Id: Guarani0217
+Source: Amo ñemuha osapukái kuri
+Change: TYPE:NEG
+Target: Amo ñemuha nosapukái kuri
+
+Id: Guarani0003
+Source: Jaguarete katu itáicha okirirĩ.
+Change: TYPE:NEG
+Target: Jaguarete katu itáicha ndokirirĩ.
+
+Id: Guarani0141
+Source: Pakova roguépe omo’â hembi’ukuéra.
+Change: TYPE:NEG
+Target: Pakova roguépe ndomo’âi hembi’ukuéra.
+
+Id: Guarani0209
+Source: Ha’e ojupi kuri
+Change: TYPE:NEG
+Target: Ha’e ndojupirí kuri
+
+Id: Guarani0008
+Source: Che mba’éma ko ykua
+Change: TYPE:NEG
+Target: Ndachemba’ei ko ykua
+
+Id: Guarani0027
+Source: Ha’e oguapy
+Change: TYPE:NEG
+Target: Ha’e ndoguapýi
+
+Id: Guarani0153
+Source: Ama oikomi ka’aguy hovy’ûvare
+Change: TYPE:NEG
+Target: Ama ndoikomi ka’aguy hovy’ûvare
+
+Id: Guarani0146
+Source: Oipuru hikuái ka’a ha ho’u terere.
+Change: TYPE:NEG
+Target: Ndoipurui hikuái ka’a térã ho’u terere.
+
+Id: Guarani0156
+Source: Ko mombe’upy ohenduká kuri chéve che ru.
+Change: TYPE:NEG
+Target: Ko mombe’upy ndohenduká kuri chéve che ru.
+
+Id: Guarani0082
+Source: Okũmbymi hikuái
+Change: TYPE:NEG
+Target: Ndokũmbýimi hikuái
+
+Id: Guarani0187
+Source: Ore temimbo’e tie’ỹ ojapopami
+Change: TYPE:NEG
+Target: Ore temimbo’e tie’ỹ nojapopami
+
+Id: Guarani0041
+Source: Che rasy
+Change: TYPE:NEG
+Target: Ndacherásyi
+
+        Below is a similar example, where the source sentence and linguistic change are given, and the output sentence is not known. For this example, please output only the id and target sentence values, as in
+
+        ID: some id
+        Target: sentence after applying the change
+
+
+        Do not output any additional text, and do not output the Source or Change fields. This is very important, take your time and do not mess up or I will lose my job.
+
+        
+
+Id: Guarani0244
+Source: Ha’e opovyvy kuri
+Change: TYPE:NEG
+Target: 
+        
+RESPONSE:
+ID: Guarani0244
+Target: Ha’e ndopovyvýi kuri
+
+PROMPT:
+Below are examples of a sentence in Guarani, the linguistic change, and the target sentence after applying the change.
+        
+        Id: Guarani0059
+Source: Ha’e ombojerekuri umi kutuhakuéra poro’o
+Change: ASPECT:IPFV
+Target: Ha’e ombojerehina kuri umi kutuhakuéra tuicháva
+
+Id: Guarani0198
+Source: Mombe’ukuéra omboty kuri pende arete
+Change: ASPECT:IPFV
+Target: Mombe’ukuéra omboty kuri hína pende arete
+
+Id: Guarani0062
+Source: Ko po ojupi
+Change: ASPECT:IPFV
+Target: Ko po ojupíhina
+
+Id: Guarani0103
+Source: Ku mbói oñorairõ
+Change: ASPECT:IPFV
+Target: Ku mbói oñorairõ hína
+
+Id: Guarani0086
+Source: Temirendukuéra omongakuaa
+Change: ASPECT:IPFV
+Target: Temirendukuéra omongakuaa hína
+
+Id: Guarani0113
+Source: Ha’e ombojára kuri mbovy apekuéra
+Change: ASPECT:IPFV
+Target: Ha’e ombojára kuri hína mbovy apekuéra
+
+Id: Guarani0053
+Source: Apurahéi kuri
+Change: ASPECT:IPFV
+Target: Apurahéihina kuri
+
+Id: Guarani0129
+Source: Che ajavými iñeikotevẽva akuápe
+Change: ASPECT:IPFV
+Target: Che ajavýimi hína iñeikotevẽva akuápe
+
+Id: Guarani0115
+Source: Ore ndorokuave’ẽi umi tembi’ukuéra pytagua
+Change: ASPECT:IPFV
+Target: Ore ndorokuave’ẽi hina umi tembi’ukuéra pytagua
+
+Id: Guarani0220
+Source: Amo ñemuha osapukái kuri
+Change: ASPECT:IPFV
+Target: Amo ñemuha osapukái kuri hína
+
+Id: Guarani0205
+Source: Ha’e ojupi kuri
+Change: ASPECT:IPFV
+Target: Ha’e ojupi kuri hína
+
+Id: Guarani0225
+Source: Ha’e ndombojaruita
+Change: ASPECT:IPFV
+Target: Ha’e ndombojaruita hína
+
+Id: Guarani0042
+Source: Che rasy
+Change: ASPECT:IPFV
+Target: Che rasypota hina
+
+        Below is a similar example, where the source sentence and linguistic change are given, and the output sentence is not known. For this example, please output only the id and target sentence values, as in
+
+        ID: some id
+        Target: sentence after applying the change
+
+
+        Do not output any additional text, and do not output the Source or Change fields. This is very important, take your time and do not mess up or I will lose my job.
+
+        
+
+Id: Guarani0245
+Source: Ha’e opovyvy kuri
+Change: ASPECT:IPFV
+Target: 
+        
+RESPONSE:
+ID: Guarani0245
+Target: Ha’e opovyvy kuri hína
+
+PROMPT:
+Below are examples of a sentence in Guarani, the linguistic change, and the target sentence after applying the change.
+        
+        Id: Guarani0057
+Source: Ha’e ombojerekuri umi kutuhakuéra poro’o
+Change: PERSON:2_SI
+Target: Nde rembojerekuri umi kutuhakuéra tuicháva
+
+Id: Guarani0196
+Source: Peẽ napejapómi ogyke pokã
+Change: PERSON:2_SI
+Target: Nde nderejapómi ogyke pokã
+
+Id: Guarani0110
+Source: Ha’e ombojára kuri mbovy apekuéra
+Change: PERSON:2_SI
+Target: Nde rembojára kuri mbovy apekuéra
+
+Id: Guarani0151
+Source: Chéngo ndaikuaái upévape.
+Change: PERSON:2_SI
+Target: Ndéngo ndereikuaái upévape.
+
+Id: Guarani0015
+Source: He’i ka’i ruvicha ta’ýra kuérape
+Change: PERSON:2_SI
+Target: Nde, ka’i ruvicha ere nde ta’yrakuérape
+
+Id: Guarani0091
+Source: Che nañemoingeta
+Change: PERSON:2_SI
+Target: Nde nareñemoingeta
+
+Id: Guarani0002
+Source: Jaguarete katu itáicha okirirĩ.
+Change: PERSON:2_SI
+Target: Nde katu itáicha rekirirĩ.
+
+Id: Guarani0143
+Source: Pakova roguépe omo’â hembi’ukuéra.
+Change: PERSON:2_SI
+Target: Pakova roguépe remo’â nderembi’ukuéra.
+
+Id: Guarani0208
+Source: Ha’e ojupi kuri
+Change: PERSON:2_SI
+Target: Nde rejupi kuri
+
+Id: Guarani0005
+Source: Che mba’éma ko ykua
+Change: PERSON:2_SI
+Target: Nde mba’e ko ykua
+
+Id: Guarani0223
+Source: Ha’e ndombojaruita
+Change: PERSON:2_SI
+Target: Nde nderembojarui mo’ãi
+
+Id: Guarani0029
+Source: Ha’e oguapy
+Change: PERSON:2_SI
+Target: Nde reguapy
+
+Id: Guarani0123
+Source: Ha’e nombotujaimi che ogyke - Ha’e ndombyaimi che ogyke
+Change: PERSON:2_SI
+Target: Nde nderembotujáimi che ogyke - Nde nerembyaimi che ogyke
+
+Id: Guarani0152
+Source: Ama oikomi ka’aguy hovy’ûvare
+Change: PERSON:2_SI
+Target: Nde reikomi ka’aguy hovy’ûvare
+
+Id: Guarani0147
+Source: Oipuru hikuái ka’a ha ho’u terere.
+Change: PERSON:2_SI
+Target: Nde reipuru ka’a ha re’u terere.
+
+Id: Guarani0157
+Source: Ko mombe’upy ohenduká kuri chéve che ru.
+Change: PERSON:2_SI
+Target: Ko mombe’upy emohenduká kuri chéve nde.
+
+Id: Guarani0037
+Source: Upérö (che) añani hína kuri
+Change: PERSON:2_SI
+Target: Upérõ (nde) reñanihínakuri
+
+Id: Guarani0043
+Source: Che rasy
+Change: PERSON:2_SI
+Target: Nde nderasy
+
+        Below is a similar example, where the source sentence and linguistic change are given, and the output sentence is not known. For this example, please output only the id and target sentence values, as in
+
+        ID: some id
+        Target: sentence after applying the change
+
+
+        Do not output any additional text, and do not output the Source or Change fields. This is very important, take your time and do not mess up or I will lose my job.
+
+        
+
+Id: Guarani0246
+Source: Ha’e opovyvy kuri
+Change: PERSON:2_SI
+Target: 
+        
+RESPONSE:
+ID: Guarani0246
+Target: Nde repovyvy kuri
+
+PROMPT:
+Below are examples of a sentence in Guarani, the linguistic change, and the target sentence after applying the change.
+        
+        Id: Guarani0111
+Source: Ha’e ombojára kuri mbovy apekuéra
+Change: PERSON:1_SI
+Target: Che ambojára kuri mbovy apekuéra
+
+Id: Guarani0014
+Source: He’i ka’i ruvicha ta’ýra kuérape
+Change: PERSON:1_SI
+Target: Che, ka’i ruvicha, ha’e che ta’yrakuérape
+
+Id: Guarani0119
+Source: Ore ndorokuave’ẽi umi tembi’ukuéra pytagua
+Change: PERSON:1_SI
+Target: Che ndaikuave’ẽi umi tembi’ukuéra pytagua
+
+Id: Guarani0253
+Source: Nde reñembosarái hína
+Change: PERSON:1_SI
+Target: Che añembosarái hína
+
+Id: Guarani0001
+Source: Jaguarete katu itáicha okirirĩ.
+Change: PERSON:1_SI
+Target: Che katu itáicha akirirĩ.
+
+Id: Guarani0144
+Source: Pakova roguépe omo’â hembi’ukuéra.
+Change: PERSON:1_SI
+Target: Pakova roguépe amo’â cherembi’ukuéra.
+
+Id: Guarani0203
+Source: Ha’e ojupi kuri
+Change: PERSON:1_SI
+Target: Che ajupi kuri
+
+Id: Guarani0226
+Source: Ha’e ndombojaruita
+Change: PERSON:1_SI
+Target: Che ndambojaruita
+
+Id: Guarani0028
+Source: Ha’e oguapy
+Change: PERSON:1_SI
+Target: Che aguapy
+
+Id: Guarani0155
+Source: Ama oikomi ka’aguy hovy’ûvare
+Change: PERSON:1_SI
+Target: Che aikomi ka’aguy hovy’ûvare
+
+Id: Guarani0081
+Source: Okũmbymi hikuái
+Change: PERSON:1_SI
+Target: Che akũmbymi
+
+        Below is a similar example, where the source sentence and linguistic change are given, and the output sentence is not known. For this example, please output only the id and target sentence values, as in
+
+        ID: some id
+        Target: sentence after applying the change
+
+
+        Do not output any additional text, and do not output the Source or Change fields. This is very important, take your time and do not mess up or I will lose my job.
+
+        
+
+Id: Guarani0247
+Source: Ha’e opovyvy kuri
+Change: PERSON:1_SI
+Target: 
+        
+RESPONSE:
+ID: Guarani0247
+Target: Che apovyvy kuri
+
+PROMPT:
+Below are examples of a sentence in Guarani, the linguistic change, and the target sentence after applying the change.
+        
+        Id: Guarani0200
+Source: Mombe’ukuéra omboty kuri pende arete
+Change: TENSE:FUT_SIM
+Target: Mombe’ukuéra ombotyta pende arete
+
+Id: Guarani0060
+Source: Ko po ojupi
+Change: TENSE:FUT_SIM
+Target: Ko po ojupíta
+
+Id: Guarani0107
+Source: Ku mbói oñorairõ
+Change: TENSE:FUT_SIM
+Target: Ku mbói oñorairõta
+
+Id: Guarani0084
+Source: Temirendukuéra omongakuaa
+Change: TENSE:FUT_SIM
+Target: Temirendukuéra omongakuaata
+
+Id: Guarani0112
+Source: Ha’e ombojára kuri mbovy apekuéra
+Change: TENSE:FUT_SIM
+Target: Ha’e ombojárata mbovy apekuéra
+
+Id: Guarani0162
+Source: Ha’ekuéra naiñemoñaréi kuri
+Change: TENSE:FUT_SIM
+Target: Ha’ekuéra naiñemoñaréita
+
+Id: Guarani0055
+Source: Apurahéi kuri
+Change: TENSE:FUT_SIM
+Target: Apurahéitta
+
+Id: Guarani0130
+Source: Che ajavými iñeikotevẽva akuápe
+Change: TENSE:FUT_SIM
+Target: Che ajavýta iñeikotevẽva akuápe
+
+Id: Guarani0255
+Source: Nde reñembosarái hína
+Change: TENSE:FUT_SIM
+Target: Nde reñembosaráita hína
+
+Id: Guarani0219
+Source: Amo ñemuha osapukái kuri
+Change: TENSE:FUT_SIM
+Target: Amo ñemuha osapukáita
+
+Id: Guarani0004
+Source: Jaguarete katu itáicha okirirĩ.
+Change: TENSE:FUT_SIM
+Target: Jaguarete katu itáicha okirirĩta.
+
+Id: Guarani0207
+Source: Ha’e ojupi kuri
+Change: TENSE:FUT_SIM
+Target: Ha’e ojupita
+
+Id: Guarani0009
+Source: Che mba’éma ko ykua
+Change: TENSE:FUT_SIM
+Target: Che mba’éta ko ykua
+
+Id: Guarani0031
+Source: Ha’e oguapy
+Change: TENSE:FUT_SIM
+Target: Ha’e oguapýta
+
+Id: Guarani0125
+Source: Ha’e nombotujaimi che ogyke - Ha’e ndombyaimi che ogyke
+Change: TENSE:FUT_SIM
+Target: Ha’e ombotujáta che ogyke - Ha’e ombyaíta che ogyke
+
+Id: Guarani0148
+Source: Oipuru hikuái ka’a ha ho’u terere.
+Change: TENSE:FUT_SIM
+Target: Oipuruta hikuái ka’a ha ho’uta terere.
+
+Id: Guarani0159
+Source: Ko mombe’upy ohenduká kuri chéve che ru.
+Change: TENSE:FUT_SIM
+Target: Ko mombe’upy ohendukáta chéve che ru.
+
+Id: Guarani0035
+Source: Upérö (che) añani hína kuri
+Change: TENSE:FUT_SIM
+Target: Upérõ (che) añanita hína
+
+Id: Guarani0079
+Source: Okũmbymi hikuái
+Change: TENSE:FUT_SIM
+Target: Okũmbyta hikuái.
+
+Id: Guarani0188
+Source: Ore temimbo’e tie’ỹ ojapopami
+Change: TENSE:FUT_SIM
+Target: Ore temimbo’e tie’ỹ ojapopata
+
+        Below is a similar example, where the source sentence and linguistic change are given, and the output sentence is not known. For this example, please output only the id and target sentence values, as in
+
+        ID: some id
+        Target: sentence after applying the change
+
+
+        Do not output any additional text, and do not output the Source or Change fields. This is very important, take your time and do not mess up or I will lose my job.
+
+        
+
+Id: Guarani0248
+Source: Ha’e opovyvy kuri
+Change: TENSE:FUT_SIM
+Target: 
+        
+RESPONSE:
+ID: Guarani0248
+Target: Ha’e opovyvyta
+
+PROMPT:
+Below are examples of a sentence in Guarani, the linguistic change, and the target sentence after applying the change.
+        
+        Id: Guarani0201
+Source: Mombe’ukuéra omboty kuri pende arete
+Change: TENSE:PAS_PLU
+Target: Mombe’ukuéra ombotyva’ekue pende arete
+
+Id: Guarani0102
+Source: Pohanohára akãguapy ndombovuta
+Change: TENSE:PAS_PLU
+Target: Pohanohára akãguapy ndombovúiva’ekue
+
+Id: Guarani0054
+Source: Apurahéi kuri
+Change: TENSE:PAS_PLU
+Target: Apurahéi va’ekue
+
+Id: Guarani0230
+Source: Ijuru ñeimo’ã’ỹva ndojurata che aovevekuéra - Ijuru ñeimo’ã’ỹva ndojuramo’ãi che aovevekuéra
+Change: TENSE:PAS_PLU
+Target: Ijuru ñeimo’ã’ỹva ndojuraiva’ekue che aovevekuéra
+
+Id: Guarani0221
+Source: Amo ñemuha osapukái kuri
+Change: TENSE:PAS_PLU
+Target: Amo ñemuha osapukáiva’ekue
+
+Id: Guarani0032
+Source: Ha’e oguapy
+Change: TENSE:PAS_PLU
+Target: Ha’e oguapýva’ekue
+
+Id: Guarani0126
+Source: Ha’e nombotujaimi che ogyke - Ha’e ndombyaimi che ogyke
+Change: TENSE:PAS_PLU
+Target: Ha’e ndombotujáiva’ekue che ogyke - Ha’e ndombyaiva’ekue che ogyke
+
+Id: Guarani0036
+Source: Upérö (che) añani hína kuri
+Change: TENSE:PAS_PLU
+Target: Upérõ (che) añanihínava’ekue
+
+Id: Guarani0189
+Source: Ore temimbo’e tie’ỹ ojapopami
+Change: TENSE:PAS_PLU
+Target: Ore temimbo’e tie’ỹ ojapopava’ekue
+
+Id: Guarani0040
+Source: Che rasy
+Change: TENSE:PAS_PLU
+Target: Che cherasy va’ekue
+
+        Below is a similar example, where the source sentence and linguistic change are given, and the output sentence is not known. For this example, please output only the id and target sentence values, as in
+
+        ID: some id
+        Target: sentence after applying the change
+
+
+        Do not output any additional text, and do not output the Source or Change fields. This is very important, take your time and do not mess up or I will lose my job.
+
+        
+
+Id: Guarani0249
+Source: Ha’e opovyvy kuri
+Change: TENSE:PAS_PLU
+Target: 
+        
+RESPONSE:
+ID: Guarani0249
+Target: Ha’e opovyvýva’ekue
+
+PROMPT:
+Below are examples of a sentence in Guarani, the linguistic change, and the target sentence after applying the change.
+        
+        Id: Guarani0106
+Source: Ku mbói oñorairõ
+Change: TENSE:PAS_IMP
+Target: Ku mbói oñorairõmi
+
+Id: Guarani0087
+Source: Temirendukuéra omongakuaa
+Change: TENSE:PAS_IMP
+Target: Temirendukuéra omongakuaami
+
+Id: Guarani0090
+Source: Che nañemoingeta
+Change: TENSE:PAS_IMP
+Target: Che nañemoingeimi
+
+Id: Guarani0229
+Source: Ijuru ñeimo’ã’ỹva ndojurata che aovevekuéra - Ijuru ñeimo’ã’ỹva ndojuramo’ãi che aovevekuéra
+Change: TENSE:PAS_IMP
+Target: Ijuru ñeimo’ã’ỹva ndojuraimi che aovevekuéra
+
+Id: Guarani0117
+Source: Ore ndorokuave’ẽi umi tembi’ukuéra pytagua
+Change: TENSE:PAS_IMP
+Target: Ore ndorokuave’ẽimi umi tembi’ukuéra pytagua
+
+        Below is a similar example, where the source sentence and linguistic change are given, and the output sentence is not known. For this example, please output only the id and target sentence values, as in
+
+        ID: some id
+        Target: sentence after applying the change
+
+
+        Do not output any additional text, and do not output the Source or Change fields. This is very important, take your time and do not mess up or I will lose my job.
+
+        
+
+Id: Guarani0250
+Source: Ha’e opovyvy kuri
+Change: TENSE:PAS_IMP
+Target: 
+        
+RESPONSE:
+ID: Guarani0250
+Target: Ha'e opovyvymi kuri
+
+PROMPT:
+Below are examples of a sentence in Guarani, the linguistic change, and the target sentence after applying the change.
+        
+        Id: Guarani0057
+Source: Ha’e ombojerekuri umi kutuhakuéra poro’o
+Change: PERSON:2_SI
+Target: Nde rembojerekuri umi kutuhakuéra tuicháva
+
+Id: Guarani0196
+Source: Peẽ napejapómi ogyke pokã
+Change: PERSON:2_SI
+Target: Nde nderejapómi ogyke pokã
+
+Id: Guarani0110
+Source: Ha’e ombojára kuri mbovy apekuéra
+Change: PERSON:2_SI
+Target: Nde rembojára kuri mbovy apekuéra
+
+Id: Guarani0151
+Source: Chéngo ndaikuaái upévape.
+Change: PERSON:2_SI
+Target: Ndéngo ndereikuaái upévape.
+
+Id: Guarani0015
+Source: He’i ka’i ruvicha ta’ýra kuérape
+Change: PERSON:2_SI
+Target: Nde, ka’i ruvicha ere nde ta’yrakuérape
+
+Id: Guarani0091
+Source: Che nañemoingeta
+Change: PERSON:2_SI
+Target: Nde nareñemoingeta
+
+Id: Guarani0002
+Source: Jaguarete katu itáicha okirirĩ.
+Change: PERSON:2_SI
+Target: Nde katu itáicha rekirirĩ.
+
+Id: Guarani0143
+Source: Pakova roguépe omo’â hembi’ukuéra.
+Change: PERSON:2_SI
+Target: Pakova roguépe remo’â nderembi’ukuéra.
+
+Id: Guarani0208
+Source: Ha’e ojupi kuri
+Change: PERSON:2_SI
+Target: Nde rejupi kuri
+
+Id: Guarani0005
+Source: Che mba’éma ko ykua
+Change: PERSON:2_SI
+Target: Nde mba’e ko ykua
+
+Id: Guarani0223
+Source: Ha’e ndombojaruita
+Change: PERSON:2_SI
+Target: Nde nderembojarui mo’ãi
+
+Id: Guarani0029
+Source: Ha’e oguapy
+Change: PERSON:2_SI
+Target: Nde reguapy
+
+Id: Guarani0123
+Source: Ha’e nombotujaimi che ogyke - Ha’e ndombyaimi che ogyke
+Change: PERSON:2_SI
+Target: Nde nderembotujáimi che ogyke - Nde nerembyaimi che ogyke
+
+Id: Guarani0152
+Source: Ama oikomi ka’aguy hovy’ûvare
+Change: PERSON:2_SI
+Target: Nde reikomi ka’aguy hovy’ûvare
+
+Id: Guarani0147
+Source: Oipuru hikuái ka’a ha ho’u terere.
+Change: PERSON:2_SI
+Target: Nde reipuru ka’a ha re’u terere.
+
+Id: Guarani0157
+Source: Ko mombe’upy ohenduká kuri chéve che ru.
+Change: PERSON:2_SI
+Target: Ko mombe’upy emohenduká kuri chéve nde.
+
+Id: Guarani0037
+Source: Upérö (che) añani hína kuri
+Change: PERSON:2_SI
+Target: Upérõ (nde) reñanihínakuri
+
+Id: Guarani0043
+Source: Che rasy
+Change: PERSON:2_SI
+Target: Nde nderasy
+
+        Below is a similar example, where the source sentence and linguistic change are given, and the output sentence is not known. For this example, please output only the id and target sentence values, as in
+
+        ID: some id
+        Target: sentence after applying the change
+
+
+        Do not output any additional text, and do not output the Source or Change fields. This is very important, take your time and do not mess up or I will lose my job.
+
+        
+
+Id: Guarani0210
+Source: Peẽ peko’õimi
+Change: PERSON:2_SI
+Target: 
+        
+RESPONSE:
+ID: Guarani0210
+Target: Nde reko’õimi
+
+PROMPT:
+Below are examples of a sentence in Guarani, the linguistic change, and the target sentence after applying the change.
+        
+        Id: Guarani0199
+Source: Mombe’ukuéra omboty kuri pende arete
+Change: PERSON:3_SI
+Target: Mombe’u omboty kuri pende arete
+
+Id: Guarani0083
+Source: Temirendukuéra omongakuaa
+Change: PERSON:3_SI
+Target: Temirendu omongakuaa
+
+Id: Guarani0044
+Source: Che rasy
+Change: PERSON:3_SI
+Target: Ha’e hasy
+
+        Below is a similar example, where the source sentence and linguistic change are given, and the output sentence is not known. For this example, please output only the id and target sentence values, as in
+
+        ID: some id
+        Target: sentence after applying the change
+
+
+        Do not output any additional text, and do not output the Source or Change fields. This is very important, take your time and do not mess up or I will lose my job.
+
+        
+
+Id: Guarani0211
+Source: Peẽ peko’õimi
+Change: PERSON:3_SI
+Target: 
+        
+RESPONSE:
+ID: Guarani0211
+Target: Ha’e oiko’õimi
+
+PROMPT:
+Below are examples of a sentence in Guarani, the linguistic change, and the target sentence after applying the change.
+        
+        Id: Guarani0058
+Source: Ha’e ombojerekuri umi kutuhakuéra poro’o
+Change: TYPE:NEG
+Target: Ha’e ndombojereikuri umi kutuhakuéra tuicháva
+
+Id: Guarani0197
+Source: Mombe’ukuéra omboty kuri pende arete
+Change: TYPE:NEG
+Target: Mombe’ukuéra ndombotyi kuri pende arete
+
+Id: Guarani0061
+Source: Ko po ojupi
+Change: TYPE:NEG
+Target: Ko po ndojupíri
+
+Id: Guarani0108
+Source: Ku mbói oñorairõ
+Change: TYPE:NEG
+Target: Ku mbói noñorairõi
+
+Id: Guarani0085
+Source: Temirendukuéra omongakuaa
+Change: TYPE:NEG
+Target: Temirendukuéra ndomongakuaai
+
+Id: Guarani0109
+Source: Ha’e ombojára kuri mbovy apekuéra
+Change: TYPE:NEG
+Target: Ha’e ndombojárai kuri mbovy apekuéra
+
+Id: Guarani0052
+Source: Apurahéi kuri
+Change: TYPE:NEG
+Target: Ndapurahéi kuri
+
+Id: Guarani0016
+Source: He’i ka’i ruvicha ta’ýra kuérape
+Change: TYPE:NEG
+Target: He’i ka’i ruvicha ita’ýrakuérape
+
+Id: Guarani0128
+Source: Che ajavými iñeikotevẽva akuápe
+Change: TYPE:NEG
+Target: Che ndajavýimi iñeikotevẽva akuápe
+
+Id: Guarani0252
+Source: Nde reñembosarái hína
+Change: TYPE:NEG
+Target: Nde nereñembosaráiri hína
+
+Id: Guarani0217
+Source: Amo ñemuha osapukái kuri
+Change: TYPE:NEG
+Target: Amo ñemuha nosapukái kuri
+
+Id: Guarani0003
+Source: Jaguarete katu itáicha okirirĩ.
+Change: TYPE:NEG
+Target: Jaguarete katu itáicha ndokirirĩ.
+
+Id: Guarani0141
+Source: Pakova roguépe omo’â hembi’ukuéra.
+Change: TYPE:NEG
+Target: Pakova roguépe ndomo’âi hembi’ukuéra.
+
+Id: Guarani0209
+Source: Ha’e ojupi kuri
+Change: TYPE:NEG
+Target: Ha’e ndojupirí kuri
+
+Id: Guarani0008
+Source: Che mba’éma ko ykua
+Change: TYPE:NEG
+Target: Ndachemba’ei ko ykua
+
+Id: Guarani0027
+Source: Ha’e oguapy
+Change: TYPE:NEG
+Target: Ha’e ndoguapýi
+
+Id: Guarani0153
+Source: Ama oikomi ka’aguy hovy’ûvare
+Change: TYPE:NEG
+Target: Ama ndoikomi ka’aguy hovy’ûvare
+
+Id: Guarani0146
+Source: Oipuru hikuái ka’a ha ho’u terere.
+Change: TYPE:NEG
+Target: Ndoipurui hikuái ka’a térã ho’u terere.
+
+Id: Guarani0156
+Source: Ko mombe’upy ohenduká kuri chéve che ru.
+Change: TYPE:NEG
+Target: Ko mombe’upy ndohenduká kuri chéve che ru.
+
+Id: Guarani0082
+Source: Okũmbymi hikuái
+Change: TYPE:NEG
+Target: Ndokũmbýimi hikuái
+
+Id: Guarani0187
+Source: Ore temimbo’e tie’ỹ ojapopami
+Change: TYPE:NEG
+Target: Ore temimbo’e tie’ỹ nojapopami
+
+Id: Guarani0041
+Source: Che rasy
+Change: TYPE:NEG
+Target: Ndacherásyi
+
+        Below is a similar example, where the source sentence and linguistic change are given, and the output sentence is not known. For this example, please output only the id and target sentence values, as in
+
+        ID: some id
+        Target: sentence after applying the change
+
+
+        Do not output any additional text, and do not output the Source or Change fields. This is very important, take your time and do not mess up or I will lose my job.
+
+        
+
+Id: Guarani0212
+Source: Peẽ peko’õimi
+Change: TYPE:NEG
+Target: 
+        
+RESPONSE:
+ID: Guarani0212
+Target: Peẽ ndapeko’õirĩi
+
+PROMPT:
+Below are examples of a sentence in Guarani, the linguistic change, and the target sentence after applying the change.
+        
+        Id: Guarani0059
+Source: Ha’e ombojerekuri umi kutuhakuéra poro’o
+Change: ASPECT:IPFV
+Target: Ha’e ombojerehina kuri umi kutuhakuéra tuicháva
+
+Id: Guarani0198
+Source: Mombe’ukuéra omboty kuri pende arete
+Change: ASPECT:IPFV
+Target: Mombe’ukuéra omboty kuri hína pende arete
+
+Id: Guarani0062
+Source: Ko po ojupi
+Change: ASPECT:IPFV
+Target: Ko po ojupíhina
+
+Id: Guarani0103
+Source: Ku mbói oñorairõ
+Change: ASPECT:IPFV
+Target: Ku mbói oñorairõ hína
+
+Id: Guarani0086
+Source: Temirendukuéra omongakuaa
+Change: ASPECT:IPFV
+Target: Temirendukuéra omongakuaa hína
+
+Id: Guarani0113
+Source: Ha’e ombojára kuri mbovy apekuéra
+Change: ASPECT:IPFV
+Target: Ha’e ombojára kuri hína mbovy apekuéra
+
+Id: Guarani0053
+Source: Apurahéi kuri
+Change: ASPECT:IPFV
+Target: Apurahéihina kuri
+
+Id: Guarani0129
+Source: Che ajavými iñeikotevẽva akuápe
+Change: ASPECT:IPFV
+Target: Che ajavýimi hína iñeikotevẽva akuápe
+
+Id: Guarani0115
+Source: Ore ndorokuave’ẽi umi tembi’ukuéra pytagua
+Change: ASPECT:IPFV
+Target: Ore ndorokuave’ẽi hina umi tembi’ukuéra pytagua
+
+Id: Guarani0220
+Source: Amo ñemuha osapukái kuri
+Change: ASPECT:IPFV
+Target: Amo ñemuha osapukái kuri hína
+
+Id: Guarani0205
+Source: Ha’e ojupi kuri
+Change: ASPECT:IPFV
+Target: Ha’e ojupi kuri hína
+
+Id: Guarani0225
+Source: Ha’e ndombojaruita
+Change: ASPECT:IPFV
+Target: Ha’e ndombojaruita hína
+
+Id: Guarani0042
+Source: Che rasy
+Change: ASPECT:IPFV
+Target: Che rasypota hina
+
+        Below is a similar example, where the source sentence and linguistic change are given, and the output sentence is not known. For this example, please output only the id and target sentence values, as in
+
+        ID: some id
+        Target: sentence after applying the change
+
+
+        Do not output any additional text, and do not output the Source or Change fields. This is very important, take your time and do not mess up or I will lose my job.
+
+        
+
+Id: Guarani0213
+Source: Peẽ peko’õimi
+Change: ASPECT:IPFV
+Target: 
+        
+RESPONSE:
+ID: Guarani0213
+Target: Peẽ peko’õimi hína
+
+PROMPT:
+Below are examples of a sentence in Guarani, the linguistic change, and the target sentence after applying the change.
+        
+        Id: Guarani0104
+Source: Ku mbói oñorairõ
+Change: ASPECT:INM
+Target: Ku mbói oñorairõ ikóni
+
+Id: Guarani0116
+Source: Ore ndorokuave’ẽi umi tembi’ukuéra pytagua
+Change: ASPECT:INM
+Target: Ore ndorokuave’ẽi ikóni umi tembi’ukuéra pytagua
+
+Id: Guarani0254
+Source: Nde reñembosarái hína
+Change: ASPECT:INM
+Target: Nde reñembosarái ikóni
+
+Id: Guarani0206
+Source: Ha’e ojupi kuri
+Change: ASPECT:INM
+Target: Ha’e ojupi kuri ikóni
+
+        Below is a similar example, where the source sentence and linguistic change are given, and the output sentence is not known. For this example, please output only the id and target sentence values, as in
+
+        ID: some id
+        Target: sentence after applying the change
+
+
+        Do not output any additional text, and do not output the Source or Change fields. This is very important, take your time and do not mess up or I will lose my job.
+
+        
+
+Id: Guarani0214
+Source: Peẽ peko’õimi
+Change: ASPECT:INM
+Target: 
+        
+RESPONSE:
+ID: Guarani0214
+Target: Peẽ peko’õimi ikóni
+
+PROMPT:
+Below are examples of a sentence in Guarani, the linguistic change, and the target sentence after applying the change.
+        
+        Id: Guarani0191
+Source: Peẽ napejapómi ogyke pokã
+Change: PERSON:1_PL_EXC
+Target: Ore norojapómi ogyke pokã
+
+Id: Guarani0164
+Source: Ha’ekuéra naiñemoñaréi kuri
+Change: PERSON:1_PL_EXC
+Target: Ore nairoñemoñaréi kuri
+
+Id: Guarani0092
+Source: Che nañemoingeta
+Change: PERSON:1_PL_EXC
+Target: Ore noroñemoingeta
+
+Id: Guarani0046
+Source: Che rasy
+Change: PERSON:1_PL_EXC
+Target: Ore rorasy
+
+        Below is a similar example, where the source sentence and linguistic change are given, and the output sentence is not known. For this example, please output only the id and target sentence values, as in
+
+        ID: some id
+        Target: sentence after applying the change
+
+
+        Do not output any additional text, and do not output the Source or Change fields. This is very important, take your time and do not mess up or I will lose my job.
+
+        
+
+Id: Guarani0215
+Source: Peẽ peko’õimi
+Change: PERSON:1_PL_EXC
+Target: 
+        
+RESPONSE:
+ID: Guarani0215
+Target: Ore roko’õimi
+
+PROMPT:
+Below are examples of a sentence in Guarani, the linguistic change, and the target sentence after applying the change.
+        
+        Id: Guarani0111
+Source: Ha’e ombojára kuri mbovy apekuéra
+Change: PERSON:1_SI
+Target: Che ambojára kuri mbovy apekuéra
+
+Id: Guarani0014
+Source: He’i ka’i ruvicha ta’ýra kuérape
+Change: PERSON:1_SI
+Target: Che, ka’i ruvicha, ha’e che ta’yrakuérape
+
+Id: Guarani0119
+Source: Ore ndorokuave’ẽi umi tembi’ukuéra pytagua
+Change: PERSON:1_SI
+Target: Che ndaikuave’ẽi umi tembi’ukuéra pytagua
+
+Id: Guarani0253
+Source: Nde reñembosarái hína
+Change: PERSON:1_SI
+Target: Che añembosarái hína
+
+Id: Guarani0001
+Source: Jaguarete katu itáicha okirirĩ.
+Change: PERSON:1_SI
+Target: Che katu itáicha akirirĩ.
+
+Id: Guarani0144
+Source: Pakova roguépe omo’â hembi’ukuéra.
+Change: PERSON:1_SI
+Target: Pakova roguépe amo’â cherembi’ukuéra.
+
+Id: Guarani0203
+Source: Ha’e ojupi kuri
+Change: PERSON:1_SI
+Target: Che ajupi kuri
+
+Id: Guarani0226
+Source: Ha’e ndombojaruita
+Change: PERSON:1_SI
+Target: Che ndambojaruita
+
+Id: Guarani0028
+Source: Ha’e oguapy
+Change: PERSON:1_SI
+Target: Che aguapy
+
+Id: Guarani0155
+Source: Ama oikomi ka’aguy hovy’ûvare
+Change: PERSON:1_SI
+Target: Che aikomi ka’aguy hovy’ûvare
+
+Id: Guarani0081
+Source: Okũmbymi hikuái
+Change: PERSON:1_SI
+Target: Che akũmbymi
+
+        Below is a similar example, where the source sentence and linguistic change are given, and the output sentence is not known. For this example, please output only the id and target sentence values, as in
+
+        ID: some id
+        Target: sentence after applying the change
+
+
+        Do not output any additional text, and do not output the Source or Change fields. This is very important, take your time and do not mess up or I will lose my job.
+
+        
+
+Id: Guarani0216
+Source: Peẽ peko’õimi
+Change: PERSON:1_SI
+Target: 
+        
+RESPONSE:
+ID: Guarani0216
+Target: Che ako’õimi
+
+PROMPT:
+Below are examples of a sentence in Guarani, the linguistic change, and the target sentence after applying the change.
+        
+        Id: Guarani0058
+Source: Ha’e ombojerekuri umi kutuhakuéra poro’o
+Change: TYPE:NEG
+Target: Ha’e ndombojereikuri umi kutuhakuéra tuicháva
+
+Id: Guarani0197
+Source: Mombe’ukuéra omboty kuri pende arete
+Change: TYPE:NEG
+Target: Mombe’ukuéra ndombotyi kuri pende arete
+
+Id: Guarani0061
+Source: Ko po ojupi
+Change: TYPE:NEG
+Target: Ko po ndojupíri
+
+Id: Guarani0108
+Source: Ku mbói oñorairõ
+Change: TYPE:NEG
+Target: Ku mbói noñorairõi
+
+Id: Guarani0085
+Source: Temirendukuéra omongakuaa
+Change: TYPE:NEG
+Target: Temirendukuéra ndomongakuaai
+
+Id: Guarani0109
+Source: Ha’e ombojára kuri mbovy apekuéra
+Change: TYPE:NEG
+Target: Ha’e ndombojárai kuri mbovy apekuéra
+
+Id: Guarani0052
+Source: Apurahéi kuri
+Change: TYPE:NEG
+Target: Ndapurahéi kuri
+
+Id: Guarani0016
+Source: He’i ka’i ruvicha ta’ýra kuérape
+Change: TYPE:NEG
+Target: He’i ka’i ruvicha ita’ýrakuérape
+
+Id: Guarani0128
+Source: Che ajavými iñeikotevẽva akuápe
+Change: TYPE:NEG
+Target: Che ndajavýimi iñeikotevẽva akuápe
+
+Id: Guarani0252
+Source: Nde reñembosarái hína
+Change: TYPE:NEG
+Target: Nde nereñembosaráiri hína
+
+Id: Guarani0217
+Source: Amo ñemuha osapukái kuri
+Change: TYPE:NEG
+Target: Amo ñemuha nosapukái kuri
+
+Id: Guarani0003
+Source: Jaguarete katu itáicha okirirĩ.
+Change: TYPE:NEG
+Target: Jaguarete katu itáicha ndokirirĩ.
+
+Id: Guarani0141
+Source: Pakova roguépe omo’â hembi’ukuéra.
+Change: TYPE:NEG
+Target: Pakova roguépe ndomo’âi hembi’ukuéra.
+
+Id: Guarani0209
+Source: Ha’e ojupi kuri
+Change: TYPE:NEG
+Target: Ha’e ndojupirí kuri
+
+Id: Guarani0008
+Source: Che mba’éma ko ykua
+Change: TYPE:NEG
+Target: Ndachemba’ei ko ykua
+
+Id: Guarani0027
+Source: Ha’e oguapy
+Change: TYPE:NEG
+Target: Ha’e ndoguapýi
+
+Id: Guarani0153
+Source: Ama oikomi ka’aguy hovy’ûvare
+Change: TYPE:NEG
+Target: Ama ndoikomi ka’aguy hovy’ûvare
+
+Id: Guarani0146
+Source: Oipuru hikuái ka’a ha ho’u terere.
+Change: TYPE:NEG
+Target: Ndoipurui hikuái ka’a térã ho’u terere.
+
+Id: Guarani0156
+Source: Ko mombe’upy ohenduká kuri chéve che ru.
+Change: TYPE:NEG
+Target: Ko mombe’upy ndohenduká kuri chéve che ru.
+
+Id: Guarani0082
+Source: Okũmbymi hikuái
+Change: TYPE:NEG
+Target: Ndokũmbýimi hikuái
+
+Id: Guarani0187
+Source: Ore temimbo’e tie’ỹ ojapopami
+Change: TYPE:NEG
+Target: Ore temimbo’e tie’ỹ nojapopami
+
+Id: Guarani0041
+Source: Che rasy
+Change: TYPE:NEG
+Target: Ndacherásyi
+
+        Below is a similar example, where the source sentence and linguistic change are given, and the output sentence is not known. For this example, please output only the id and target sentence values, as in
+
+        ID: some id
+        Target: sentence after applying the change
+
+
+        Do not output any additional text, and do not output the Source or Change fields. This is very important, take your time and do not mess up or I will lose my job.
+
+        
+
+Id: Guarani0135
+Source: Umi kuaaukahárakuéra oñemongeta kuri
+Change: TYPE:NEG
+Target: 
+        
+RESPONSE:
+ID: Guarani0135
+Target: Umi kuaaukahárakuéra ndoñemongetái kuri
+
+PROMPT:
+Below are examples of a sentence in Guarani, the linguistic change, and the target sentence after applying the change.
+        
+        Id: Guarani0199
+Source: Mombe’ukuéra omboty kuri pende arete
+Change: PERSON:3_SI
+Target: Mombe’u omboty kuri pende arete
+
+Id: Guarani0083
+Source: Temirendukuéra omongakuaa
+Change: PERSON:3_SI
+Target: Temirendu omongakuaa
+
+Id: Guarani0044
+Source: Che rasy
+Change: PERSON:3_SI
+Target: Ha’e hasy
+
+        Below is a similar example, where the source sentence and linguistic change are given, and the output sentence is not known. For this example, please output only the id and target sentence values, as in
+
+        ID: some id
+        Target: sentence after applying the change
+
+
+        Do not output any additional text, and do not output the Source or Change fields. This is very important, take your time and do not mess up or I will lose my job.
+
+        
+
+Id: Guarani0136
+Source: Umi kuaaukahárakuéra oñemongeta kuri
+Change: PERSON:3_SI
+Target: 
+        
+RESPONSE:
+ID: Guarani0136
+Target: Umi kuaaukahára oñemongeta kuri
+
+PROMPT:
+Below are examples of a sentence in Guarani, the linguistic change, and the target sentence after applying the change.
+        
+        Id: Guarani0200
+Source: Mombe’ukuéra omboty kuri pende arete
+Change: TENSE:FUT_SIM
+Target: Mombe’ukuéra ombotyta pende arete
+
+Id: Guarani0060
+Source: Ko po ojupi
+Change: TENSE:FUT_SIM
+Target: Ko po ojupíta
+
+Id: Guarani0107
+Source: Ku mbói oñorairõ
+Change: TENSE:FUT_SIM
+Target: Ku mbói oñorairõta
+
+Id: Guarani0084
+Source: Temirendukuéra omongakuaa
+Change: TENSE:FUT_SIM
+Target: Temirendukuéra omongakuaata
+
+Id: Guarani0112
+Source: Ha’e ombojára kuri mbovy apekuéra
+Change: TENSE:FUT_SIM
+Target: Ha’e ombojárata mbovy apekuéra
+
+Id: Guarani0162
+Source: Ha’ekuéra naiñemoñaréi kuri
+Change: TENSE:FUT_SIM
+Target: Ha’ekuéra naiñemoñaréita
+
+Id: Guarani0055
+Source: Apurahéi kuri
+Change: TENSE:FUT_SIM
+Target: Apurahéitta
+
+Id: Guarani0130
+Source: Che ajavými iñeikotevẽva akuápe
+Change: TENSE:FUT_SIM
+Target: Che ajavýta iñeikotevẽva akuápe
+
+Id: Guarani0255
+Source: Nde reñembosarái hína
+Change: TENSE:FUT_SIM
+Target: Nde reñembosaráita hína
+
+Id: Guarani0219
+Source: Amo ñemuha osapukái kuri
+Change: TENSE:FUT_SIM
+Target: Amo ñemuha osapukáita
+
+Id: Guarani0004
+Source: Jaguarete katu itáicha okirirĩ.
+Change: TENSE:FUT_SIM
+Target: Jaguarete katu itáicha okirirĩta.
+
+Id: Guarani0207
+Source: Ha’e ojupi kuri
+Change: TENSE:FUT_SIM
+Target: Ha’e ojupita
+
+Id: Guarani0009
+Source: Che mba’éma ko ykua
+Change: TENSE:FUT_SIM
+Target: Che mba’éta ko ykua
+
+Id: Guarani0031
+Source: Ha’e oguapy
+Change: TENSE:FUT_SIM
+Target: Ha’e oguapýta
+
+Id: Guarani0125
+Source: Ha’e nombotujaimi che ogyke - Ha’e ndombyaimi che ogyke
+Change: TENSE:FUT_SIM
+Target: Ha’e ombotujáta che ogyke - Ha’e ombyaíta che ogyke
+
+Id: Guarani0148
+Source: Oipuru hikuái ka’a ha ho’u terere.
+Change: TENSE:FUT_SIM
+Target: Oipuruta hikuái ka’a ha ho’uta terere.
+
+Id: Guarani0159
+Source: Ko mombe’upy ohenduká kuri chéve che ru.
+Change: TENSE:FUT_SIM
+Target: Ko mombe’upy ohendukáta chéve che ru.
+
+Id: Guarani0035
+Source: Upérö (che) añani hína kuri
+Change: TENSE:FUT_SIM
+Target: Upérõ (che) añanita hína
+
+Id: Guarani0079
+Source: Okũmbymi hikuái
+Change: TENSE:FUT_SIM
+Target: Okũmbyta hikuái.
+
+Id: Guarani0188
+Source: Ore temimbo’e tie’ỹ ojapopami
+Change: TENSE:FUT_SIM
+Target: Ore temimbo’e tie’ỹ ojapopata
+
+        Below is a similar example, where the source sentence and linguistic change are given, and the output sentence is not known. For this example, please output only the id and target sentence values, as in
+
+        ID: some id
+        Target: sentence after applying the change
+
+
+        Do not output any additional text, and do not output the Source or Change fields. This is very important, take your time and do not mess up or I will lose my job.
+
+        
+
+Id: Guarani0137
+Source: Umi kuaaukahárakuéra oñemongeta kuri
+Change: TENSE:FUT_SIM
+Target: 
+        
+RESPONSE:
+ID: Guarani0137
+Target: Umi kuaaukahárakuéra oñemongetata
+
+PROMPT:
+Below are examples of a sentence in Guarani, the linguistic change, and the target sentence after applying the change.
+        
+        Id: Guarani0059
+Source: Ha’e ombojerekuri umi kutuhakuéra poro’o
+Change: ASPECT:IPFV
+Target: Ha’e ombojerehina kuri umi kutuhakuéra tuicháva
+
+Id: Guarani0198
+Source: Mombe’ukuéra omboty kuri pende arete
+Change: ASPECT:IPFV
+Target: Mombe’ukuéra omboty kuri hína pende arete
+
+Id: Guarani0062
+Source: Ko po ojupi
+Change: ASPECT:IPFV
+Target: Ko po ojupíhina
+
+Id: Guarani0103
+Source: Ku mbói oñorairõ
+Change: ASPECT:IPFV
+Target: Ku mbói oñorairõ hína
+
+Id: Guarani0086
+Source: Temirendukuéra omongakuaa
+Change: ASPECT:IPFV
+Target: Temirendukuéra omongakuaa hína
+
+Id: Guarani0113
+Source: Ha’e ombojára kuri mbovy apekuéra
+Change: ASPECT:IPFV
+Target: Ha’e ombojára kuri hína mbovy apekuéra
+
+Id: Guarani0053
+Source: Apurahéi kuri
+Change: ASPECT:IPFV
+Target: Apurahéihina kuri
+
+Id: Guarani0129
+Source: Che ajavými iñeikotevẽva akuápe
+Change: ASPECT:IPFV
+Target: Che ajavýimi hína iñeikotevẽva akuápe
+
+Id: Guarani0115
+Source: Ore ndorokuave’ẽi umi tembi’ukuéra pytagua
+Change: ASPECT:IPFV
+Target: Ore ndorokuave’ẽi hina umi tembi’ukuéra pytagua
+
+Id: Guarani0220
+Source: Amo ñemuha osapukái kuri
+Change: ASPECT:IPFV
+Target: Amo ñemuha osapukái kuri hína
+
+Id: Guarani0205
+Source: Ha’e ojupi kuri
+Change: ASPECT:IPFV
+Target: Ha’e ojupi kuri hína
+
+Id: Guarani0225
+Source: Ha’e ndombojaruita
+Change: ASPECT:IPFV
+Target: Ha’e ndombojaruita hína
+
+Id: Guarani0042
+Source: Che rasy
+Change: ASPECT:IPFV
+Target: Che rasypota hina
+
+        Below is a similar example, where the source sentence and linguistic change are given, and the output sentence is not known. For this example, please output only the id and target sentence values, as in
+
+        ID: some id
+        Target: sentence after applying the change
+
+
+        Do not output any additional text, and do not output the Source or Change fields. This is very important, take your time and do not mess up or I will lose my job.
+
+        
+
+Id: Guarani0138
+Source: Umi kuaaukahárakuéra oñemongeta kuri
+Change: ASPECT:IPFV
+Target: 
+        
+RESPONSE:
+ID: Guarani0138
+Target: Umi kuaaukahárakuéra oñemongeta kuri hína
+
+PROMPT:
+Below are examples of a sentence in Guarani, the linguistic change, and the target sentence after applying the change.
+        
+        Id: Guarani0106
+Source: Ku mbói oñorairõ
+Change: TENSE:PAS_IMP
+Target: Ku mbói oñorairõmi
+
+Id: Guarani0087
+Source: Temirendukuéra omongakuaa
+Change: TENSE:PAS_IMP
+Target: Temirendukuéra omongakuaami
+
+Id: Guarani0090
+Source: Che nañemoingeta
+Change: TENSE:PAS_IMP
+Target: Che nañemoingeimi
+
+Id: Guarani0229
+Source: Ijuru ñeimo’ã’ỹva ndojurata che aovevekuéra - Ijuru ñeimo’ã’ỹva ndojuramo’ãi che aovevekuéra
+Change: TENSE:PAS_IMP
+Target: Ijuru ñeimo’ã’ỹva ndojuraimi che aovevekuéra
+
+Id: Guarani0117
+Source: Ore ndorokuave’ẽi umi tembi’ukuéra pytagua
+Change: TENSE:PAS_IMP
+Target: Ore ndorokuave’ẽimi umi tembi’ukuéra pytagua
+
+        Below is a similar example, where the source sentence and linguistic change are given, and the output sentence is not known. For this example, please output only the id and target sentence values, as in
+
+        ID: some id
+        Target: sentence after applying the change
+
+
+        Do not output any additional text, and do not output the Source or Change fields. This is very important, take your time and do not mess up or I will lose my job.
+
+        
+
+Id: Guarani0139
+Source: Umi kuaaukahárakuéra oñemongeta kuri
+Change: TENSE:PAS_IMP
+Target: 
+        
+RESPONSE:
+ID: Guarani0139
+Target: Umi kuaaukahárakuéra oñemongetami kuri
+
+PROMPT:
+Below are examples of a sentence in Guarani, the linguistic change, and the target sentence after applying the change.
+        
+        Id: Guarani0104
+Source: Ku mbói oñorairõ
+Change: ASPECT:INM
+Target: Ku mbói oñorairõ ikóni
+
+Id: Guarani0116
+Source: Ore ndorokuave’ẽi umi tembi’ukuéra pytagua
+Change: ASPECT:INM
+Target: Ore ndorokuave’ẽi ikóni umi tembi’ukuéra pytagua
+
+Id: Guarani0254
+Source: Nde reñembosarái hína
+Change: ASPECT:INM
+Target: Nde reñembosarái ikóni
+
+Id: Guarani0206
+Source: Ha’e ojupi kuri
+Change: ASPECT:INM
+Target: Ha’e ojupi kuri ikóni
+
+        Below is a similar example, where the source sentence and linguistic change are given, and the output sentence is not known. For this example, please output only the id and target sentence values, as in
+
+        ID: some id
+        Target: sentence after applying the change
+
+
+        Do not output any additional text, and do not output the Source or Change fields. This is very important, take your time and do not mess up or I will lose my job.
+
+        
+
+Id: Guarani0140
+Source: Umi kuaaukahárakuéra oñemongeta kuri
+Change: ASPECT:INM
+Target: 
+        
+RESPONSE:
+ID: Guarani0140
+Target: Umi kuaaukahárakuéra oñemongeta kuri ikóni
