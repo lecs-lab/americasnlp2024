@@ -10,4 +10,5 @@ wandb/
 .python-version
 .vscode/
 lightning_logs/
-
+scripts/*.err
+scripts/*.out
