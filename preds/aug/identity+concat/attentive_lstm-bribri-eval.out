@@ -1,0 +1,1 @@
+./preds/aug/identity+concat/attentive_lstm-bribri.tsv: Accuracy=8.96, BLEU=32.84, ChrF=53.71
