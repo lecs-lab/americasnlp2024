@@ -1,0 +1,310 @@
+Ta jutaj a najil	TYPE:NEG
+Ta jutaj a najil	SUBTYPE:INT
+Ta jutaj a najil	TYPE:NEG, SUBTYPE:INT
+Ma' táan in bin in wil in waalak'o'obi'	ASPECT:DES
+Ma' táan in bin in wil in waalak'o'obi'	ASPECT:OBL, TENSE:FUT_SIM
+Ma' táan in bin in wil in waalak'o'obi'	ASPECT:CUS
+Ma' táan in bin in wil in waalak'o'obi'	ASPECT:BEG, TENSE:PAS_SIM
+Tene' ajk'aayen	PERSON:3_SI
+Tene' ajk'aayen	PERSON:2_SI
+Tene' ajk'aayen	PERSON:1_PL
+Tene' ajk'aayen	PERSON:2_PL
+Tene' ajk'aayen	PERSON:3_PL
+Tene' áak'ab kin suut tu najil xook	TYPE:NEG
+Tene' áak'ab kin suut tu najil xook	SUBTYPE:INT
+Tene' áak'ab kin suut tu najil xook	TYPE:NEG, SUBTYPE:INT
+Táan in suut in páak le solaro'	ASPECT:COM, TENSE:FUT_SIM
+Táan in suut in páak le solaro'	ASPECT:DES
+Táan in suut in páak le solaro'	ASPECT:OBL, TENSE:FUT_SIM
+Táan in suut in páak le solaro'	ASPECT:HAB
+Táan in suut in páak le solaro'	ASPECT:CUS
+Táan in suut in páak le solaro'	ASPECT:TER, TENSE:PAS_SIM
+Táan in suut in páak le solaro'	ASPECT:BEG, TENSE:PAS_SIM
+Táan in suut in páak le solaro'	ASPECT:IMM, TENSE:PAS_SIM
+Ta p'axaj a wotoch	SUBTYPE:INT
+Ta p'axaj a wotoch	TYPE:NEG, SUBTYPE:INT
+Ta p'axaj a wotoch	TYPE:NEG, PERSON:1_SI
+Tin p'axaj u lu'umil uti'al in beetik in najil	SUBTYPE:INT
+Tin p'axaj u lu'umil uti'al in beetik in najil	TYPE:NEG
+Tin p'axaj u lu'umil uti'al in beetik in najil	TYPE:NEG, SUBTYPE:INT
+Yaan wáaj in wokol xook UPN	PERSON:2_SI
+Yaan wáaj in wokol xook UPN	PERSON:3_SI
+Yaan wáaj in wokol xook UPN	PERSON:3_PL
+Yaan wáaj in wokol xook UPN	PERSON:2_PL
+Yaan wáaj in wokol xook UPN	PERSON:1_PL
+Teche' ka bin xíimbal Chichen Itzá	SUBTYPE:INT
+Teche' ka bin xíimbal Chichen Itzá	TYPE:NEG, ASPECT:PRG
+Teche' ka bin xíimbal Chichen Itzá	TYPE:NEG, SUBTYPE:INT, ASPECT:PRG
+Sáansamal kin kaambal tu jo'ol in meyaj	PERSON:2_SI
+Sáansamal kin kaambal tu jo'ol in meyaj	PERSON:3_SI
+Sáansamal kin kaambal tu jo'ol in meyaj	PERSON:3_PL
+Sáansamal kin kaambal tu jo'ol in meyaj	PERSON:2_PL
+Teche' ka jóok'ol cha'an tu yéetel	TYPE:NEG
+Teche' ka jóok'ol cha'an tu yéetel	SUBTYPE:INT
+Teche' ka jóok'ol cha'an tu yéetel	TYPE:NEG, SUBTYPE:INT
+Táan in xook UADY	PERSON:2_SI
+Táan in xook UADY	PERSON:3_SI
+Táan in xook UADY	PERSON:3_PL
+Táan in xook UADY	PERSON:2_PL
+Táan in xook UADY	PERSON:1_PL
+Máax yéetel ka bin xíimbal Uxmal	ASPECT:TER, TENSE:PAS_SIM
+Máax yéetel ka bin xíimbal Uxmal	ASPECT:INS, TENSE:FUT_SIM
+Tene' áak'ab kin suut tin meyaj	PERSON:2_SI
+Tene' áak'ab kin suut tin meyaj	PERSON:3_SI
+Tene' áak'ab kin suut tin meyaj	PERSON:1_PL
+Tene' áak'ab kin suut tin meyaj	PERSON:2_PL
+Tene' áak'ab kin suut tin meyaj	PERSON:3_PL
+Ki'imak a wóol a suut ta wotoch	SUBTYPE:INT
+Ki'imak a wóol a suut ta wotoch	TYPE:NEG
+Ki'imak a wóol a suut ta wotoch	TYPE:NEG, SUBTYPE:INT
+Ta bo'otaj u lu'umil uti'al a beetik a najil	TYPE:NEG
+Ta bo'otaj u lu'umil uti'al a beetik a najil	SUBTYPE:INT
+Ta bo'otaj u lu'umil uti'al a beetik a najil	TYPE:NEG, SUBTYPE:INT
+Kin wilikech te' téerminalo'	ASPECT:IMM, TENSE:PAS_SIM
+Kin wilikech te' téerminalo'	ASPECT:COM, TENSE:FUT_SIM
+To'one' áak'ab k luk'ul tu kúuchil tsakyaj	TYPE:NEG
+To'one' áak'ab k luk'ul tu kúuchil tsakyaj	SUBTYPE:INT
+To'one' áak'ab k luk'ul tu kúuchil tsakyaj	TYPE:NEG, SUBTYPE:INT
+Ka'abeje' yaan in taal k'íiwik	PERSON:2_SI
+Ka'abeje' yaan in taal k'íiwik	PERSON:3_PL
+Ka'abeje' yaan in taal k'íiwik	PERSON:2_PL
+Ka'abeje' yaan in taal k'íiwik	PERSON:3_SI
+Ka'abeje' yaan in taal k'íiwik	PERSON:1_PL
+Jach k'a'abéet in bo'ol SAT	TYPE:NEG
+Jach k'a'abéet in bo'ol SAT	SUBTYPE:INT
+Jach k'a'abéet in bo'ol SAT	TYPE:NEG, SUBTYPE:INT
+Táan in xíimbal tu jáal ja'	TYPE:NEG
+Táan in xíimbal tu jáal ja'	SUBTYPE:INT
+Táan in xíimbal tu jáal ja'	TYPE:NEG, SUBTYPE:INT
+Teche' áak'ab ka jóok'ol ta meyaj	TYPE:NEG
+Teche' áak'ab ka jóok'ol ta meyaj	SUBTYPE:INT
+Teche' áak'ab ka jóok'ol ta meyaj	TYPE:NEG, SUBTYPE:INT
+Táan in bin xíimbal tu nojkaajil zací	ASPECT:COM, TENSE:FUT_SIM
+Táan in bin xíimbal tu nojkaajil zací	ASPECT:DES
+Táan in bin xíimbal tu nojkaajil zací	ASPECT:OBL, TENSE:FUT_SIM
+Táan in bin xíimbal tu nojkaajil zací	ASPECT:HAB
+Táan in bin xíimbal tu nojkaajil zací	ASPECT:CUS
+Chilajech te' jáal ja'o'	TYPE:NEG
+Chilajech te' jáal ja'o'	SUBTYPE:INT
+Chilajech te' jáal ja'o'	TYPE:NEG, SUBTYPE:INT
+Táan ek taal te' plaasao'	TYPE:NEG
+Táan ek taal te' plaasao'	SUBTYPE:INT
+Táan ek taal te' plaasao'	TYPE:NEG, SUBTYPE:INT
+Míisnaj te' tu kúuchil báaxalo'	STATUS:ICM, ASPECT:PRG, TENSE:PRE_SIM
+Jsa'aten yéetel in éetailo'ob tu nojkaajil Jo'	PERSON:2_SI
+Jsa'aten yéetel in éetailo'ob tu nojkaajil Jo'	PERSON:3_SI
+Jsa'aten yéetel in éetailo'ob tu nojkaajil Jo'	PERSON:3_PL
+Jsa'aten yéetel in éetailo'ob tu nojkaajil Jo'	PERSON:2_PL
+Kin suut je'elel ka'ap'éel k'iin	ASPECT:TER, TENSE:PAS_SIM
+Kin suut je'elel ka'ap'éel k'iin	ASPECT:INS, TENSE:FUT_SIM
+Tin manaj in nook'	SUBTYPE:INT
+Tin manaj in nook'	TYPE:NEG, SUBTYPE:INT
+Tin manaj in nook'	TYPE:NEG
+Leti'e' áak'ab ku k'uchul tu yotoch	TYPE:NEG
+Leti'e' áak'ab ku k'uchul tu yotoch	SUBTYPE:INT
+Leti'e' áak'ab ku k'uchul tu yotoch	TYPE:NEG, SUBTYPE:INT
+Ma' jach k'a'abéet wáaj in k'aay tu najil k'uji'	PERSON:2_SI
+Ma' jach k'a'abéet wáaj in k'aay tu najil k'uji'	PERSON:3_SI
+Ma' jach k'a'abéet wáaj in k'aay tu najil k'uji'	PERSON:1_PL
+Ma' jach k'a'abéet wáaj in k'aay tu najil k'uji'	PERSON:3_PL
+Ma' jach k'a'abéet wáaj in k'aay tu najil k'uji'	PERSON:2_PL
+Ma' táan wáaj a p'áatal tu cha'anil in kaajal	PERSON:3_SI
+Ma' táan wáaj a p'áatal tu cha'anil in kaajal	PERSON:2_PL
+Ma' táan wáaj a p'áatal tu cha'anil in kaajal	PERSON:3_PL
+Máax yéetel jo'op' a kanik a beet píib	ASPECT:TER
+Máax yéetel jo'op' a kanik a beet píib	ASPECT:IMM
+Yaan in taal óok'ot	TYPE:NEG
+Yaan in taal óok'ot	SUBTYPE:INT
+Táan in póolik ch'ujuk pak'áalo'ob te' táankabo'	ASPECT:HAB
+Táan in póolik ch'ujuk pak'áalo'ob te' táankabo'	ASPECT:TER, TENSE:PAS_SIM
+Táan in póolik ch'ujuk pak'áalo'ob te' táankabo'	ASPECT:IMM, TENSE:PAS_SIM
+Táan in póolik ch'ujuk pak'áalo'ob te' táankabo'	ASPECT:OBL, TENSE:FUT_SIM
+Táan in póolik ch'ujuk pak'áalo'ob te' táankabo'	ASPECT:COM, TENSE:FUT_SIM
+Kin jóok'ol wáaj óok'ot te' k'íiwiko'	ASPECT:TER, TENSE:PAS_SIM
+Kin jóok'ol wáaj óok'ot te' k'íiwiko'	ASPECT:COM, TENSE:FUT_SIM
+Jpúuts'en tu najil xook	PERSON:2_SI
+Jpúuts'en tu najil xook	PERSON:3_PL
+Jpúuts'en tu najil xook	PERSON:2_PL
+Ma' jach k'a'abéet in suut tin wotochi'	PERSON:2_SI
+Ma' jach k'a'abéet in suut tin wotochi'	PERSON:3_SI
+Ma' jach k'a'abéet in suut tin wotochi'	PERSON:1_PL
+Ma' jach k'a'abéet in suut tin wotochi'	PERSON:3_PL
+Ma' jach k'a'abéet in suut tin wotochi'	PERSON:2_PL
+Jjóok'en áalkab te' tu kúuchil báaxalo'	TYPE:NEG
+Jjóok'en áalkab te' tu kúuchil báaxalo'	SUBTYPE:INT, PERSON:2_SI
+Jjóok'en áalkab te' tu kúuchil báaxalo'	TYPE:NEG, SUBTYPE:INT, PERSON:2_SI
+Tene' áak'ab wáaj kin báaxal Ticul	PERSON:2_SI
+Tene' áak'ab wáaj kin báaxal Ticul	PERSON:3_SI
+Tene' áak'ab wáaj kin báaxal Ticul	PERSON:1_PL
+Tene' áak'ab wáaj kin báaxal Ticul	PERSON:2_PL
+Tene' áak'ab wáaj kin báaxal Ticul	PERSON:3_PL
+Jach k'a'abéet a suut ta wotoch	PERSON:1_SI
+Jach k'a'abéet a suut ta wotoch	PERSON:3_SI
+Jach k'a'abéet a suut ta wotoch	PERSON:3_PL
+Jach k'a'abéet a suut ta wotoch	PERSON:2_PL
+Jach k'a'abéet a suut ta wotoch	PERSON:1_PL
+Yaan a taal óok'ot	TYPE:NEG
+Yaan a taal óok'ot	SUBTYPE:INT
+Yaan a majáantik a najil	SUBTYPE:INT, PERSON:3_SI
+Yaan a majáantik a najil	TYPE:NEG, PERSON:3_SI
+Yaan a majáantik a najil	TYPE:NEG, SUBTYPE:INT, PERSON:3_SI
+Taak in pak'ik loolo'ob ya'ab u bo'onilo'ob	ASPECT:PRG
+Taak in pak'ik loolo'ob ya'ab u bo'onilo'ob	ASPECT:HAB
+Taak in pak'ik loolo'ob ya'ab u bo'onilo'ob	ASPECT:CUS
+Taak in pak'ik loolo'ob ya'ab u bo'onilo'ob	ASPECT:OBL, TENSE:FUT_SIM
+Táan a báabe'ex ich k'áak'náab	TYPE:NEG
+Táan a báabe'ex ich k'áak'náab	SUBTYPE:INT
+Táan a báabe'ex ich k'áak'náab	TYPE:NEG, SUBTYPE:INT
+Jaypéel k'iino'ob ka p'áatal tin wotoch	PERSON:3_SI
+Jaypéel k'iino'ob ka p'áatal tin wotoch	PERSON:3_PL
+Jaypéel k'iino'ob ka p'áatal tin wotoch	PERSON:2_PL
+Táan a wóok'ot tu cha'anil a kaajal	TYPE:NEG
+Táan a wóok'ot tu cha'anil a kaajal	TYPE:NEG, SUBTYPE:INT
+Táan a wóok'ot tu cha'anil a kaajal	SUBTYPE:INT
+Yaan wáaj in jóok'ol xíimbal ich kaaj	ASPECT:OBL
+Yaan wáaj in jóok'ol xíimbal ich kaaj	ASPECT:HAB, TENSE:PRE_SIM
+Yaan wáaj in jóok'ol xíimbal ich kaaj	ASPECT:CUS, TENSE:PRE_SIM
+Máax yéetel ka bin tu k'iin u k'aaba' Ixchel	ASPECT:PRG
+Máax yéetel ka bin tu k'iin u k'aaba' Ixchel	ASPECT:CUS
+Máax yéetel ka bin tu k'iin u k'aaba' Ixchel	ASPECT:OBL, TENSE:FUT_SIM
+Máax yéetel ka bin tu k'iin u k'aaba' Ixchel	ASPECT:DES
+Ta bonaj a najil	SUBTYPE:INT
+Ta bonaj a najil	TYPE:NEG, PERSON:1_SI
+Ta bonaj a najil	TYPE:NEG, SUBTYPE:INT, PERSON:1_SI
+Ook'in in jóok'ol tu k'íiwikil Zací	PERSON:2_SI
+Ook'in in jóok'ol tu k'íiwikil Zací	PERSON:3_PL
+Ook'in in jóok'ol tu k'íiwikil Zací	PERSON:2_PL
+Táan u yáalkab tu jáal ja'	TYPE:NEG
+Táan u yáalkab tu jáal ja'	SUBTYPE:INT
+Táan u yáalkab tu jáal ja'	TYPE:NEG, SUBTYPE:INT
+Táan k jóok'ol xíimbal tu k'íiwikil Tizimín	TYPE:NEG
+Táan k jóok'ol xíimbal tu k'íiwikil Tizimín	SUBTYPE:INT
+Táan k jóok'ol xíimbal tu k'íiwikil Tizimín	TYPE:NEG, SUBTYPE:INT
+Táan a suut xíimbal tu nojkaajil Jo'	TYPE:NEG
+Táan a suut xíimbal tu nojkaajil Jo'	SUBTYPE:INT
+Táan a suut xíimbal tu nojkaajil Jo'	TYPE:NEG, SUBTYPE:INT
+Jach k'a'abéet in xook UPN	TYPE:NEG
+Jach k'a'abéet in xook UPN	SUBTYPE:INT
+Jach k'a'abéet in xook UPN	TYPE:NEG, SUBTYPE:INT
+Kin bin meyaj tu nojlu'umil Canadá	ASPECT:TER, TENSE:PAS_SIM
+Kin bin meyaj tu nojlu'umil Canadá	ASPECT:INS, TENSE:FUT_SIM
+Ma' tin nats'ike'ex te' k'íiwiko'	PERSON:3_SI
+Ma' tin nats'ike'ex te' k'íiwiko'	PERSON:2_SI
+Ma' tin nats'ike'ex te' k'íiwiko'	PERSON:3_PL
+Ma' tin nats'ike'ex te' k'íiwiko'	PERSON:1_PL
+Leti'obe' táan u suut báaxal boola te' kaampoo'	TYPE:NEG
+Leti'obe' táan u suut báaxal boola te' kaampoo'	SUBTYPE:INT
+Leti'obe' táan u suut báaxal boola te' kaampoo'	TYPE:NEG, SUBTYPE:INT
+Jach k'a'abéet a bo'ole'ex ti' SAT	TYPE:NEG
+Jach k'a'abéet a bo'ole'ex ti' SAT	SUBTYPE:INT
+Jach k'a'abéet a bo'ole'ex ti' SAT	TYPE:NEG, SUBTYPE:INT
+Teche' ka p'áatal wenel tu yotoch	SUBTYPE:INT
+Teche' ka p'áatal wenel tu yotoch	TYPE:NEG
+Teche' ka p'áatal wenel tu yotoch	TYPE:NEG, SUBTYPE:INT
+Tene' áak'ab kin meyaj te' tu kúuchil ts'akyajo'	TYPE:NEG
+Tene' áak'ab kin meyaj te' tu kúuchil ts'akyajo'	SUBTYPE:INT
+Tene' áak'ab kin meyaj te' tu kúuchil ts'akyajo'	TYPE:NEG, SUBTYPE:INT
+Ma'alob jk'uchiken tu cha'anil in kaajal 	TYPE:NEG
+Ma'alob jk'uchiken tu cha'anil in kaajal 	SUBTYPE:INT
+Ma'alob jk'uchiken tu cha'anil in kaajal 	TYPE:NEG, SUBTYPE:INT
+Jka'anech te' báabo'	TYPE:NEG
+Jka'anech te' báabo'	SUBTYPE:INT
+Jka'anech te' báabo'	TYPE:NEG, SUBTYPE:INT
+Kin manik ya'abach u yich che' tu kaajil Akil	ASPECT:PRG
+Kin manik ya'abach u yich che' tu kaajil Akil	ASPECT:TER, TENSE:PAS_SIM
+Kin manik ya'abach u yich che' tu kaajil Akil	ASPECT:COM, TENSE:FUT_SIM
+Kin manik ya'abach u yich che' tu kaajil Akil	ASPECT:INS, TENSE:FUT_SIM
+Kin manik ya'abach u yich che' tu kaajil Akil	ASPECT:OBL, TENSE:FUT_SIM
+Kin manik ya'abach u yich che' tu kaajil Akil	ASPECT:BEG, TENSE:PAS_SIM
+Kin manik ya'abach u yich che' tu kaajil Akil	ASPECT:CUS
+Kin manik ya'abach u yich che' tu kaajil Akil	ASPECT:DES
+Kin manik ya'abach u yich che' tu kaajil Akil	ASPECT:IMM, TENSE:PAS_SIM
+Yaan wáaj in bin maan Jo'	PERSON:2_SI
+Yaan wáaj in bin maan Jo'	PERSON:3_SI
+Yaan wáaj in bin maan Jo'	PERSON:3_PL
+Yaan wáaj in bin maan Jo'	PERSON:2_PL
+Yaan wáaj in bin maan Jo'	PERSON:1_PL
+Tin bonaj u joolbejil in soolar	SUBTYPE:INT
+Tin bonaj u joolbejil in soolar	TYPE:NEG
+Tin bonaj u joolbejil in soolar	TYPE:NEG, SUBTYPE:INT
+Ma' táan in bin maan Jo'i'	PERSON:2_SI
+Ma' táan in bin maan Jo'i'	PERSON:3_SI
+Ma' táan in bin maan Jo'i'	PERSON:3_PL
+Ma' táan in bin maan Jo'i'	PERSON:2_PL
+Ma' táan in bin maan Jo'i'	PERSON:1_PL
+Tu'ux páanaderiyail ka maan	ASPECT:CUS
+Tu'ux páanaderiyail ka maan	ASPECT:COM
+Tu'ux páanaderiyail ka maan	ASPECT:OBL, TENSE:FUT_SIM
+Tu'ux páanaderiyail ka maan	ASPECT:BEG, TENSE:PAS_SIM
+Tu'ux páanaderiyail ka maan	ASPECT:DES
+Te'exe' áak'ab ka jóok'ole'ex k'íiwik	TYPE:NEG
+Te'exe' áak'ab ka jóok'ole'ex k'íiwik	SUBTYPE:INT
+Te'exe' áak'ab ka jóok'ole'ex k'íiwik	TYPE:NEG, SUBTYPE:INT
+Kin bisikech tu najil xook	PERSON:2_SI
+Kin bisikech tu najil xook	PERSON:3_SI
+Jach k'a'abéet in máan tyeenda	TYPE:NEG
+Jach k'a'abéet in máan tyeenda	SUBTYPE:INT
+Jach k'a'abéet in máan tyeenda	TYPE:NEG, SUBTYPE:INT
+Te'exe' táan a suute'ex óok'ot tu cha'anil u kaajil Tekax	TYPE:NEG
+Te'exe' táan a suute'ex óok'ot tu cha'anil u kaajil Tekax	SUBTYPE:INT
+Te'exe' táan a suute'ex óok'ot tu cha'anil u kaajil Tekax	TYPE:NEG, SUBTYPE:INT
+Yaan in wisíinsik in walak' peek'	ASPECT:OBL
+Yaan in wisíinsik in walak' peek'	ASPECT:IMM, TENSE:PAS_SIM
+Yaan in wisíinsik in walak' peek'	ASPECT:TER, TENSE:PAS_SIM
+Táan in bin maan Jo'	PERSON:2_SI
+Táan in bin maan Jo'	PERSON:3_SI
+Táan in bin maan Jo'	PERSON:3_PL
+Táan in bin maan Jo'	PERSON:2_PL
+Táan in bin maan Jo'	PERSON:1_PL
+Táan a suut Ticul	TYPE:NEG
+Táan a suut Ticul	SUBTYPE:INT
+Táan a suut Ticul	TYPE:NEG, SUBTYPE:INT
+Táan a p'o'ik a wotoch	TYPE:NEG
+Táan a p'o'ik a wotoch	SUBTYPE:INT
+Táan a p'o'ik a wotoch	TYPE:NEG, SUBTYPE:INT
+Táan wáaj a bin maan Jo'	PERSON:1_SI
+Táan wáaj a bin maan Jo'	PERSON:3_SI
+Táan wáaj a bin maan Jo'	PERSON:3_PL
+Táan wáaj a bin maan Jo'	PERSON:2_PL
+Táan wáaj a bin maan Jo'	PERSON:1_PL
+Jach k'a'abéet u taal tu najil xook	TYPE:NEG
+Jach k'a'abéet u taal tu najil xook	SUBTYPE:INT
+Jach k'a'abéet u taal tu najil xook	TYPE:NEG, SUBTYPE:INT
+Tene' ma' áak'ab kin jóok'ol tin meyaji'	PERSON:2_SI
+Tene' ma' áak'ab kin jóok'ol tin meyaji'	PERSON:3_SI
+Tene' ma' áak'ab kin jóok'ol tin meyaji'	PERSON:1_PL
+Tene' ma' áak'ab kin jóok'ol tin meyaji'	PERSON:2_PL
+Tene' ma' áak'ab kin jóok'ol tin meyaji'	PERSON:3_PL
+Jach k'a'abéet in wuk'ul te' bejo'	TYPE:NEG
+Jach k'a'abéet in wuk'ul te' bejo'	SUBTYPE:INT
+Jach k'a'abéet in wuk'ul te' bejo'	TYPE:NEG, SUBTYPE:INT
+Ta bo'otaj a wotoch	TYPE:NEG
+Ta bo'otaj a wotoch	SUBTYPE:INT
+Ta bo'otaj a wotoch	TYPE:NEG, SUBTYPE:INT
+Ma' ki'imak a wóol a xíimbal jáal ja'i'	TYPE:AFF, SUBTYPE:INT
+Ma' ki'imak a wóol a xíimbal jáal ja'i'	SUBTYPE:INT
+Táan u jóok'olo'ob cha'an	TYPE:NEG
+Táan u jóok'olo'ob cha'an	SUBTYPE:INT
+Táan u jóok'olo'ob cha'an	TYPE:NEG, SUBTYPE:INT
+Jach k'a'abéet u taalo'ob tu cha'anil kaaj	SUBTYPE:INT
+Jach k'a'abéet u taalo'ob tu cha'anil kaaj	TYPE:NEG, SUBTYPE:INT
+Jach k'a'abéet u taalo'ob tu cha'anil kaaj	TYPE:NEG
+Ichkíilnajen tu jáal ja'	PERSON:2_SI
+Ichkíilnajen tu jáal ja'	PERSON:1_PL
+Ichkíilnajen tu jáal ja'	PERSON:2_PL
+Ichkíilnajen tu jáal ja'	PERSON:3_SI
+Ichkíilnajen tu jáal ja'	PERSON:3_PL
+Táan u suut báaxal ja' tu kaajil Progreso	TYPE:NEG
+Táan u suut báaxal ja' tu kaajil Progreso	SUBTYPE:INT
+Táan u suut báaxal ja' tu kaajil Progreso	TYPE:NEG, SUBTYPE:INT
+Jach wáaj k'a'abéet a suut tu jo'ol a meyaj	PERSON:1_SI
+Jach wáaj k'a'abéet a suut tu jo'ol a meyaj	PERSON:3_SI
+Jach wáaj k'a'abéet a suut tu jo'ol a meyaj	PERSON:1_PL
+Jach wáaj k'a'abéet a suut tu jo'ol a meyaj	PERSON:3_PL
+Jach wáaj k'a'abéet a suut tu jo'ol a meyaj	PERSON:2_PL
+Ts'o'ok in bin janal Progreso	ASPECT:BEG
+Ts'o'ok in bin janal Progreso	ASPECT:IMM
+Ba'ax k'iin a je'elel ta meyaj	PERSON:1_SI
+Ba'ax k'iin a je'elel ta meyaj	PERSON:3_SI
+Ba'ax k'iin a je'elel ta meyaj	PERSON:2_PL
+Ba'ax k'iin a je'elel ta meyaj	PERSON:3_PL
