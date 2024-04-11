@@ -5,6 +5,8 @@ import pandas as pd
 
 def load_data(source_path):
     source_df = pd.read_csv(source_path, sep='\t', header=0)
+    source_df["Target"] = source_df["Target"].apply(lambda x : x.strip())
+    source_df["Predicted Target"] = source_df["Predicted Target"].apply(lambda x : x.strip())
 
     return source_df["Target"], source_df["Predicted Target"]
 
@@ -33,7 +35,7 @@ def calc_chrf(y_trues,y_preds):
         y_true = y_trues[i]
         y_pred = y_preds[i]
         bs = sentence_chrf(y_true.split(), y_pred.split())
-        print(y_true,"|", y_pred, "|", bs)
+        #print(y_true,"|", y_pred, "|", bs)
         chrf_scores.append(bs)
 
     return sum(chrf_scores) / len(chrf_scores) 
