@@ -11,7 +11,8 @@ def conjoin_dataframes(file1, file2, output_file):
     concatenated_df = pd.concat([df1, df2])
 
     # Shuffle the rows
-    shuffled_df = concatenated_df.sample(frac=1).reset_index(drop=True)
+    shuffled_df = concatenated_df.sample(
+        frac=1, random_state=1).reset_index(drop=True)
 
     # Write the shuffled dataframe to the output file
     shuffled_df.to_csv(output_file, sep='\t', index=False, header=False)
