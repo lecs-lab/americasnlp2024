@@ -28,32 +28,31 @@ mkdir data/temp
 
 # Concat the train/dev and augmented datasets
 # If you need multiple aug dataset, use `conjoin_dataframes` to create a joint augmented dataset and then pass that dataset here
-python scripts/conjoin_dataframes.py data/yoyodyne/$lang-train-dev.tsv data/test-augmented/$lang-$method.tsv data/temp/$lang-train-dev+$method.tsv
+python scripts/conjoin_dataframes.py data/yoyodyne/$lang-train.tsv data/augmented/$lang-$method.tsv data/temp/$lang-train+$method.tsv
 
 yoyodyne-train \
   --experiment 2024americasnlp-$lang-final \
-  --model_dir models/test-aug/$method \
-  --train data/temp/$lang-train-dev+$method.tsv \
+  --model_dir models/final/$method \
+  --train data/temp/$lang-train+$method.tsv \
   --val data/yoyodyne/$lang-dev.tsv \
   --features_col 3 \
   --arch $arch \
   --features_encoder_arch linear \
   --batch_size 32 \
-  --max_epochs 100 \
+  --max_epochs 1000 \
   --scheduler lineardecay \
   --log_wandb \
   --seed 0 \
-  --no_save_best \
   --accelerator gpu \
 
 
-ckpt_file=(./models/test-aug/$method/2024americasnlp-$lang-final/version_0/checkpoints/*.ckpt)
+ckpt_file=(./models/final/$method/2024americasnlp-$lang-final/version_0/checkpoints/*.ckpt)
 ckpt_file=${ckpt_file[0]}
 
 echo Loading checkpoint file from $ckpt_file
 
 yoyodyne-predict \
-  --model_dir ./models/test-aug/$method \
+  --model_dir ./models/final/$method \
   --experiment 2024americasnlp-$lang-final \
   --checkpoint "$ckpt_file" \
   --predict "data/yoyodyne/$lang-test.tsv" \
@@ -64,7 +63,7 @@ yoyodyne-predict \
   --accelerator gpu \
 
 # Move the folder so we only ever have one numbered version
-mv ./models/test-aug/$method/2024americasnlp-$lang-final/version_0 ./models/test-aug/$method/2024americasnlp-$lang-final/$arch
+mv ./models/final/$method/2024americasnlp-$lang-final/version_0 ./models/final/$method/2024americasnlp-$lang-final/$arch
 
 python ./scripts/copy_preds.py "./test-preds/aug/$method/$arch-$lang.tsv" "data/yoyodyne/$lang-test.tsv"
 
