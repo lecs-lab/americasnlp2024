@@ -63,6 +63,7 @@ do
     --embedding $embedding_size \
     --decoder_layers $decoder_layers \
     --hidden_size $hidden_size \
+    --source_attention_heads 1 \
     --max_epochs 1000 \
     --scheduler lineardecay \
     --log_wandb \
