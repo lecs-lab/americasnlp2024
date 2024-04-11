@@ -1,0 +1,1 @@
+./preds/aug/perturb/pointer_generator_lstm-guarani.tsv: Accuracy=12.66, BLEU=11.49, ChrF=62.89
