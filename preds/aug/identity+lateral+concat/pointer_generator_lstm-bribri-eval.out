@@ -1,0 +1,1 @@
+./preds/aug/identity+lateral+concat/pointer_generator_lstm-bribri.tsv: Accuracy=5.19, BLEU=26.28, ChrF=42.92

@@ -1,0 +1,1 @@
+./preds/aug/concat/pointer_generator_lstm-guarani.tsv: Accuracy=0.00, BLEU=1.42, ChrF=29.58

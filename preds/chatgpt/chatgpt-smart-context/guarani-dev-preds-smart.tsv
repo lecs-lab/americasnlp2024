@@ -1,0 +1,554 @@
+	ID	Source	Change	Target	language	split	Formatted	Formatted_Covered	Predicted Target
+2057	Guarani0232	Ore ndorombyai kuri	TYPE:AFF	Ore rombyai kuri	guarani	dev	"Id: Guarani0232
+Source: Ore ndorombyai kuri
+Change: TYPE:AFF
+Target: Ore rombyai kuri"	"Id: Guarani0232
+Source: Ore ndorombyai kuri
+Change: TYPE:AFF
+Target: "	Orerombyaikuri
+2058	Guarani0233	Ore ndorombyai kuri	TENSE:FUT_SIM	Ore ndorombyaita	guarani	dev	"Id: Guarani0233
+Source: Ore ndorombyai kuri
+Change: TENSE:FUT_SIM
+Target: Ore ndorombyaita"	"Id: Guarani0233
+Source: Ore ndorombyai kuri
+Change: TENSE:FUT_SIM
+Target: "	Orendorombyaita
+2059	Guarani0234	Ore ndorombyai kuri	PERSON:1_PL_INC	Ñande nañambyai kuri	guarani	dev	"Id: Guarani0234
+Source: Ore ndorombyai kuri
+Change: PERSON:1_PL_INC
+Target: Ñande nañambyai kuri"	"Id: Guarani0234
+Source: Ore ndorombyai kuri
+Change: PERSON:1_PL_INC
+Target: "	Ñandendañambyaikuri
+2060	Guarani0235	Ore ndorombyai kuri	PERSON:1_SI	Che nambyai kuri	guarani	dev	"Id: Guarani0235
+Source: Ore ndorombyai kuri
+Change: PERSON:1_SI
+Target: Che nambyai kuri"	"Id: Guarani0235
+Source: Ore ndorombyai kuri
+Change: PERSON:1_SI
+Target: "	Chendorombyaikuri
+2061	Guarani0236	Ore ndorombyai kuri	PERSON:2_PL	Peẽ napembyai kuri	guarani	dev	"Id: Guarani0236
+Source: Ore ndorombyai kuri
+Change: PERSON:2_PL
+Target: Peẽ napembyai kuri"	"Id: Guarani0236
+Source: Ore ndorombyai kuri
+Change: PERSON:2_PL
+Target: "	Ndendereikombýikuri
+2062	Guarani0237	Ore ndorombyai kuri	PERSON:2_SI	Nde nerembyai kuri	guarani	dev	"Id: Guarani0237
+Source: Ore ndorombyai kuri
+Change: PERSON:2_SI
+Target: Nde nerembyai kuri"	"Id: Guarani0237
+Source: Ore ndorombyai kuri
+Change: PERSON:2_SI
+Target: "	Ndendereombyaikuri
+2063	Guarani0073	Peẽ napeñanga’uta	TYPE:AFF	Peẽ peñanga’uta	guarani	dev	"Id: Guarani0073
+Source: Peẽ napeñanga’uta
+Change: TYPE:AFF
+Target: Peẽ peñanga’uta"	"Id: Guarani0073
+Source: Peẽ napeñanga’uta
+Change: TYPE:AFF
+Target: "	Peẽpeñanga’uta
+2064	Guarani0074	Peẽ napeñanga’uta	PERSON:3_PL	Ha’ekuéra ndoñanga’uta	guarani	dev	"Id: Guarani0074
+Source: Peẽ napeñanga’uta
+Change: PERSON:3_PL
+Target: Ha’ekuéra ndoñanga’uta"	"Id: Guarani0074
+Source: Peẽ napeñanga’uta
+Change: PERSON:3_PL
+Target: "	Ha’ekuéranoñanga’uta
+2065	Guarani0075	Peẽ napeñanga’uta	PERSON:1_SI	Che nañanga’uta	guarani	dev	"Id: Guarani0075
+Source: Peẽ napeñanga’uta
+Change: PERSON:1_SI
+Target: Che nañanga’uta"	"Id: Guarani0075
+Source: Peẽ napeñanga’uta
+Change: PERSON:1_SI
+Target: "	Chenapeñanga’ui
+2066	Guarani0076	Peẽ napeñanga’uta	TENSE:PAS_REC	Peẽ napeñanga’ui kuri	guarani	dev	"Id: Guarani0076
+Source: Peẽ napeñanga’uta
+Change: TENSE:PAS_REC
+Target: Peẽ napeñanga’ui kuri"	"Id: Guarani0076
+Source: Peẽ napeñanga’uta
+Change: TENSE:PAS_REC
+Target: "	Peẽnapeñanga’ukuri
+2067	Guarani0077	Peẽ napeñanga’uta	TENSE:PRE_SIM	Peẽ napeñanga’ui	guarani	dev	"Id: Guarani0077
+Source: Peẽ napeñanga’uta
+Change: TENSE:PRE_SIM
+Target: Peẽ napeñanga’ui"	"Id: Guarani0077
+Source: Peẽ napeñanga’uta
+Change: TENSE:PRE_SIM
+Target: "	Peẽnapeñangai
+2068	Guarani0238	Peẽ peñemongetami	TENSE:PAS_REC	Peẽ peñemongeta kuri	guarani	dev	"Id: Guarani0238
+Source: Peẽ peñemongetami
+Change: TENSE:PAS_REC
+Target: Peẽ peñemongeta kuri"	"Id: Guarani0238
+Source: Peẽ peñemongetami
+Change: TENSE:PAS_REC
+Target: "	Peẽpeñemongetakuri
+2069	Guarani0239	Peẽ peñemongetami	PERSON:1_PL_INC	Ñande ñañemongetami	guarani	dev	"Id: Guarani0239
+Source: Peẽ peñemongetami
+Change: PERSON:1_PL_INC
+Target: Ñande ñañemongetami"	"Id: Guarani0239
+Source: Peẽ peñemongetami
+Change: PERSON:1_PL_INC
+Target: "	Ñandeñañemongetami
+2070	Guarani0240	Peẽ peñemongetami	PERSON:1_PL_EXC	Ore roñemongetami	guarani	dev	"Id: Guarani0240
+Source: Peẽ peñemongetami
+Change: PERSON:1_PL_EXC
+Target: Ore roñemongetami"	"Id: Guarani0240
+Source: Peẽ peñemongetami
+Change: PERSON:1_PL_EXC
+Target: "	Oreroñemongetami
+2071	Guarani0241	Peẽ peñemongetami	TENSE:FUT_SIM	Peẽ peñemongetáta	guarani	dev	"Id: Guarani0241
+Source: Peẽ peñemongetami
+Change: TENSE:FUT_SIM
+Target: Peẽ peñemongetáta"	"Id: Guarani0241
+Source: Peẽ peñemongetami
+Change: TENSE:FUT_SIM
+Target: "	Peẽpeñemongetamíta
+2072	Guarani0242	Peẽ peñemongetami	TYPE:NEG	Peẽ napeñemongetaimi	guarani	dev	"Id: Guarani0242
+Source: Peẽ peñemongetami
+Change: TYPE:NEG
+Target: Peẽ napeñemongetaimi"	"Id: Guarani0242
+Source: Peẽ peñemongetami
+Change: TYPE:NEG
+Target: "	Peẽndapeñemongetái
+2073	Guarani0243	Peẽ peñemongetami	TENSE:PRE_SIM	Peẽ peñemongeta	guarani	dev	"Id: Guarani0243
+Source: Peẽ peñemongetami
+Change: TENSE:PRE_SIM
+Target: Peẽ peñemongeta"	"Id: Guarani0243
+Source: Peẽ peñemongetami
+Change: TENSE:PRE_SIM
+Target: "	Peẽpeñemongeta
+2074	Guarani0048	Che ndahechái kuri peteĩ óga	TYPE:AFF	Che ahechakuri peteĩ óga	guarani	dev	"Id: Guarani0048
+Source: Che ndahechái kuri peteĩ óga
+Change: TYPE:AFF
+Target: Che ahechakuri peteĩ óga"	"Id: Guarani0048
+Source: Che ndahechái kuri peteĩ óga
+Change: TYPE:AFF
+Target: "	Cheahechakuripeteĩóga
+2075	Guarani0049	Che ndahechái kuri peteĩ óga	ASPECT:IPFV	Che ndahecháihina kuri peteĩ óga	guarani	dev	"Id: Guarani0049
+Source: Che ndahechái kuri peteĩ óga
+Change: ASPECT:IPFV
+Target: Che ndahecháihina kuri peteĩ óga"	"Id: Guarani0049
+Source: Che ndahechái kuri peteĩ óga
+Change: ASPECT:IPFV
+Target: "	Chendahecháikurihínapeteĩóga
+2076	Guarani0050	Che ndahechái kuri peteĩ óga	TENSE:PRE_SIM	Che ndahechái peteĩ óga	guarani	dev	"Id: Guarani0050
+Source: Che ndahechái kuri peteĩ óga
+Change: TENSE:PRE_SIM
+Target: Che ndahechái peteĩ óga"	"Id: Guarani0050
+Source: Che ndahechái kuri peteĩ óga
+Change: TENSE:PRE_SIM
+Target: "	Chendahecháipeteĩóga
+2077	Guarani0051	Che ndahechái kuri peteĩ óga	PERSON:2_SI	Nde nderehechái peteĩ óga	guarani	dev	"Id: Guarani0051
+Source: Che ndahechái kuri peteĩ óga
+Change: PERSON:2_SI
+Target: Nde nderehechái peteĩ óga"	"Id: Guarani0051
+Source: Che ndahechái kuri peteĩ óga
+Change: PERSON:2_SI
+Target: "	Ndenderehecháikuripeteĩóga
+2078	Guarani0021	Ko’ã tembi’u ombojy jepe’a tatarendýpe	PERSON:1_PL_INC	Ko’ã tembi’u ñambojy jepe’a tatarendýpe	guarani	dev	"Id: Guarani0021
+Source: Ko’ã tembi’u ombojy jepe’a tatarendýpe
+Change: PERSON:1_PL_INC
+Target: Ko’ã tembi’u ñambojy jepe’a tatarendýpe"	"Id: Guarani0021
+Source: Ko’ã tembi’u ombojy jepe’a tatarendýpe
+Change: PERSON:1_PL_INC
+Target: "	Kóvatembi’uñambojyjepe’atatarendýpe
+2079	Guarani0022	Ko’ã tembi’u ombojy jepe’a tatarendýpe	PERSON:1_PL_EXC	Ko’ã tembi’u rombojy jepe’a tatarendýpe	guarani	dev	"Id: Guarani0022
+Source: Ko’ã tembi’u ombojy jepe’a tatarendýpe
+Change: PERSON:1_PL_EXC
+Target: Ko’ã tembi’u rombojy jepe’a tatarendýpe"	"Id: Guarani0022
+Source: Ko’ã tembi’u ombojy jepe’a tatarendýpe
+Change: PERSON:1_PL_EXC
+Target: "	Ko’ãtembi’urojombojyjepe’atatarendýpe
+2080	Guarani0023	Ko’ã tembi’u ombojy jepe’a tatarendýpe	TYPE:NEG	Ko’ã tembi’u ndoñembojýi jepe’a tatarendýpe	guarani	dev	"Id: Guarani0023
+Source: Ko’ã tembi’u ombojy jepe’a tatarendýpe
+Change: TYPE:NEG
+Target: Ko’ã tembi’u ndoñembojýi jepe’a tatarendýpe"	"Id: Guarani0023
+Source: Ko’ã tembi’u ombojy jepe’a tatarendýpe
+Change: TYPE:NEG
+Target: "	Ko’ãtembi’undombojyjepe’áitatarendýpe
+2081	Guarani0024	Ko’ã tembi’u ombojy jepe’a tatarendýpe	TENSE:FUT_SIM	Ko’ã tembi’u oñembojýta jepe’a tatarendýpe	guarani	dev	"Id: Guarani0024
+Source: Ko’ã tembi’u ombojy jepe’a tatarendýpe
+Change: TENSE:FUT_SIM
+Target: Ko’ã tembi’u oñembojýta jepe’a tatarendýpe"	"Id: Guarani0024
+Source: Ko’ã tembi’u ombojy jepe’a tatarendýpe
+Change: TENSE:FUT_SIM
+Target: "	Ko’ãtembi’uombojytajepe’atatarendýpe
+2082	Guarani0025	Ko’ã tembi’u ombojy jepe’a tatarendýpe	TENSE:PAS_PLU	Ko’ã tembi’u oñembojýva’ekue jepe’a tatarendýpe	guarani	dev	"Id: Guarani0025
+Source: Ko’ã tembi’u ombojy jepe’a tatarendýpe
+Change: TENSE:PAS_PLU
+Target: Ko’ã tembi’u oñembojýva’ekue jepe’a tatarendýpe"	"Id: Guarani0025
+Source: Ko’ã tembi’u ombojy jepe’a tatarendýpe
+Change: TENSE:PAS_PLU
+Target: "	Ko’ãtembi’uombojyva’ekuejepe’atatarendýpe
+2083	Guarani0179	Peẽ napemongyrái kuri	TENSE:FUT_SIM	Peẽ napemongyráita	guarani	dev	"Id: Guarani0179
+Source: Peẽ napemongyrái kuri
+Change: TENSE:FUT_SIM
+Target: Peẽ napemongyráita"	"Id: Guarani0179
+Source: Peẽ napemongyrái kuri
+Change: TENSE:FUT_SIM
+Target: "	Peẽnapemongyráita
+2084	Guarani0180	Peẽ napemongyrái kuri	TENSE:PRE_SIM	Peẽ napemongyrá	guarani	dev	"Id: Guarani0180
+Source: Peẽ napemongyrái kuri
+Change: TENSE:PRE_SIM
+Target: Peẽ napemongyrá"	"Id: Guarani0180
+Source: Peẽ napemongyrái kuri
+Change: TENSE:PRE_SIM
+Target: "	Peẽndapemongyrái
+2085	Guarani0181	Peẽ napemongyrái kuri	PERSON:3_PL	Ha’ekuéra nomongyrái kuri	guarani	dev	"Id: Guarani0181
+Source: Peẽ napemongyrái kuri
+Change: PERSON:3_PL
+Target: Ha’ekuéra nomongyrái kuri"	"Id: Guarani0181
+Source: Peẽ napemongyrái kuri
+Change: PERSON:3_PL
+Target: "	Ha’ekuéranomongyráikuri
+2086	Guarani0182	Peẽ napemongyrái kuri	PERSON:1_PL_INC	Ñande nañamongyrái kuri	guarani	dev	"Id: Guarani0182
+Source: Peẽ napemongyrái kuri
+Change: PERSON:1_PL_INC
+Target: Ñande nañamongyrái kuri"	"Id: Guarani0182
+Source: Peẽ napemongyrái kuri
+Change: PERSON:1_PL_INC
+Target: "	Ñandenajamongyráikuri
+2087	Guarani0183	Peẽ napemongyrái kuri	PERSON:1_PL_EXC	Ore noromongyrái kuri	guarani	dev	"Id: Guarani0183
+Source: Peẽ napemongyrái kuri
+Change: PERSON:1_PL_EXC
+Target: Ore noromongyrái kuri"	"Id: Guarani0183
+Source: Peẽ napemongyrái kuri
+Change: PERSON:1_PL_EXC
+Target: "	Orenoromongyráikuri
+2088	Guarani0184	Peẽ napemongyrái kuri	TYPE:AFF	Peẽ pemongyra kuri	guarani	dev	"Id: Guarani0184
+Source: Peẽ napemongyrái kuri
+Change: TYPE:AFF
+Target: Peẽ pemongyra kuri"	"Id: Guarani0184
+Source: Peẽ napemongyrái kuri
+Change: TYPE:AFF
+Target: "	Peẽpemongyrakuri
+2089	Guarani0010	Peteĩ ko’ẽme oñombohovai rakúma hikuái	TYPE:NEG	Peteĩ ko’ẽme noñombohovai rakúma hikuái	guarani	dev	"Id: Guarani0010
+Source: Peteĩ ko’ẽme oñombohovai rakúma hikuái
+Change: TYPE:NEG
+Target: Peteĩ ko’ẽme noñombohovai rakúma hikuái"	"Id: Guarani0010
+Source: Peteĩ ko’ẽme oñombohovai rakúma hikuái
+Change: TYPE:NEG
+Target: "	Peteĩko’ẽmendoñombohovaírirakúmahikuái
+2090	Guarani0011	Peteĩ ko’ẽme oñombohovai rakúma hikuái	PERSON:2_PL	Peteĩ ko’ẽme nde reñombohovai rakúma	guarani	dev	"Id: Guarani0011
+Source: Peteĩ ko’ẽme oñombohovai rakúma hikuái
+Change: PERSON:2_PL
+Target: Peteĩ ko’ẽme nde reñombohovai rakúma"	"Id: Guarani0011
+Source: Peteĩ ko’ẽme oñombohovai rakúma hikuái
+Change: PERSON:2_PL
+Target: "	Peteĩko’ẽmepeñombohovairakúmapeẽ
+2091	Guarani0012	Peteĩ ko’ẽme oñombohovai rakúma hikuái	PERSON:1_PL_INC	Peteĩ ko’ẽme ñande ñañombohovai rakúma	guarani	dev	"Id: Guarani0012
+Source: Peteĩ ko’ẽme oñombohovai rakúma hikuái
+Change: PERSON:1_PL_INC
+Target: Peteĩ ko’ẽme ñande ñañombohovai rakúma"	"Id: Guarani0012
+Source: Peteĩ ko’ẽme oñombohovai rakúma hikuái
+Change: PERSON:1_PL_INC
+Target: "	Ñandepeteĩko’ẽmejañombohováirakúma
+2092	Guarani0013	Peteĩ ko’ẽme oñombohovai rakúma hikuái	PERSON:1_PL_EXC	Peteĩ ko’ẽme ore roñombohovai rakúma	guarani	dev	"Id: Guarani0013
+Source: Peteĩ ko’ẽme oñombohovai rakúma hikuái
+Change: PERSON:1_PL_EXC
+Target: Peteĩ ko’ẽme ore roñombohovai rakúma"	"Id: Guarani0013
+Source: Peteĩ ko’ẽme oñombohovai rakúma hikuái
+Change: PERSON:1_PL_EXC
+Target: "	Oreroñombohovairakúma
+2093	Guarani0067	Ha’ekuéra osãmbyhy	TYPE:NEG	Ha’ekuéra ndosãmbyhyi	guarani	dev	"Id: Guarani0067
+Source: Ha’ekuéra osãmbyhy
+Change: TYPE:NEG
+Target: Ha’ekuéra ndosãmbyhyi"	"Id: Guarani0067
+Source: Ha’ekuéra osãmbyhy
+Change: TYPE:NEG
+Target: "	Ha’ekuérandosãmbyhýi
+2094	Guarani0068	Ha’ekuéra osãmbyhy	ASPECT:IPFV	Ha’ekuéra osãmbyhy hína	guarani	dev	"Id: Guarani0068
+Source: Ha’ekuéra osãmbyhy
+Change: ASPECT:IPFV
+Target: Ha’ekuéra osãmbyhy hína"	"Id: Guarani0068
+Source: Ha’ekuéra osãmbyhy
+Change: ASPECT:IPFV
+Target: "	Ha’ekuéraosãmbyhýhina
+2095	Guarani0069	Ha’ekuéra osãmbyhy	TENSE:PAS_PLU	Ha’ekuéra osãmbyhyva’ekue	guarani	dev	"Id: Guarani0069
+Source: Ha’ekuéra osãmbyhy
+Change: TENSE:PAS_PLU
+Target: Ha’ekuéra osãmbyhyva’ekue"	"Id: Guarani0069
+Source: Ha’ekuéra osãmbyhy
+Change: TENSE:PAS_PLU
+Target: "	Ha’ekuéraosãmbyhýva’ekue
+2096	Guarani0070	Ha’ekuéra osãmbyhy	ASPECT:INM	Ha’ekuéra osãmbyhy ikóni	guarani	dev	"Id: Guarani0070
+Source: Ha’ekuéra osãmbyhy
+Change: ASPECT:INM
+Target: Ha’ekuéra osãmbyhy ikóni"	"Id: Guarani0070
+Source: Ha’ekuéra osãmbyhy
+Change: ASPECT:INM
+Target: "	Ha’ekuéraosãmbyhyikóni
+2097	Guarani0071	Ha’ekuéra osãmbyhy	PERSON:1_PL_INC	Ñande ñasãmbyhy	guarani	dev	"Id: Guarani0071
+Source: Ha’ekuéra osãmbyhy
+Change: PERSON:1_PL_INC
+Target: Ñande ñasãmbyhy"	"Id: Guarani0071
+Source: Ha’ekuéra osãmbyhy
+Change: PERSON:1_PL_INC
+Target: "	Ñandejasãmbyhy
+2098	Guarani0072	Ha’ekuéra osãmbyhy	PERSON:1_PL_EXC	Ore rosãmbyhy	guarani	dev	"Id: Guarani0072
+Source: Ha’ekuéra osãmbyhy
+Change: PERSON:1_PL_EXC
+Target: Ore rosãmbyhy"	"Id: Guarani0072
+Source: Ha’ekuéra osãmbyhy
+Change: PERSON:1_PL_EXC
+Target: "	Orerosãmbyhy
+2099	Guarani0093	Ore norokúita	TYPE:AFF	Ore rokúita	guarani	dev	"Id: Guarani0093
+Source: Ore norokúita
+Change: TYPE:AFF
+Target: Ore rokúita"	"Id: Guarani0093
+Source: Ore norokúita
+Change: TYPE:AFF
+Target: "	Orerokúi
+2100	Guarani0094	Ore norokúita	PERSON:1_PL_INC	Ñande nojakúita	guarani	dev	"Id: Guarani0094
+Source: Ore norokúita
+Change: PERSON:1_PL_INC
+Target: Ñande nojakúita"	"Id: Guarani0094
+Source: Ore norokúita
+Change: PERSON:1_PL_INC
+Target: "	Ñandendañorokúita
+2101	Guarani0095	Ore norokúita	PERSON:2_PL	Peẽ napekúirita	guarani	dev	"Id: Guarani0095
+Source: Ore norokúita
+Change: PERSON:2_PL
+Target: Peẽ napekúirita"	"Id: Guarani0095
+Source: Ore norokúita
+Change: PERSON:2_PL
+Target: "	Ndendereikúita
+2102	Guarani0096	Ore norokúita	PERSON:2_SI	Nde nerekúirita	guarani	dev	"Id: Guarani0096
+Source: Ore norokúita
+Change: PERSON:2_SI
+Target: Nde nerekúirita"	"Id: Guarani0096
+Source: Ore norokúita
+Change: PERSON:2_SI
+Target: "	Ndenereokúita
+2103	Guarani0097	Ore norokúita	ASPECT:IPFV	Ore norokúita hína	guarani	dev	"Id: Guarani0097
+Source: Ore norokúita
+Change: ASPECT:IPFV
+Target: Ore norokúita hína"	"Id: Guarani0097
+Source: Ore norokúita
+Change: ASPECT:IPFV
+Target: "	Orenorokúitahína
+2104	Guarani0173	Ha’e omokañy kuri pene ñemu potavéva	TYPE:NEG	Ha’e ndomokañýi kuri pene ñemu potavéva	guarani	dev	"Id: Guarani0173
+Source: Ha’e omokañy kuri pene ñemu potavéva
+Change: TYPE:NEG
+Target: Ha’e ndomokañýi kuri pene ñemu potavéva"	"Id: Guarani0173
+Source: Ha’e omokañy kuri pene ñemu potavéva
+Change: TYPE:NEG
+Target: "	Ha’endomokañykuripeneñemupotavéva
+2105	Guarani0174	Ha’e omokañy kuri pene ñemu potavéva	PERSON:2_SI	Nde remokañy kuri pene ñemu potavéva	guarani	dev	"Id: Guarani0174
+Source: Ha’e omokañy kuri pene ñemu potavéva
+Change: PERSON:2_SI
+Target: Nde remokañy kuri pene ñemu potavéva"	"Id: Guarani0174
+Source: Ha’e omokañy kuri pene ñemu potavéva
+Change: PERSON:2_SI
+Target: "	Nderemokañykuripeneñemupotavéva
+2106	Guarani0175	Ha’e omokañy kuri pene ñemu potavéva	PERSON:2_PL	Peẽ pemokañy kuri pene ñemu potavéva	guarani	dev	"Id: Guarani0175
+Source: Ha’e omokañy kuri pene ñemu potavéva
+Change: PERSON:2_PL
+Target: Peẽ pemokañy kuri pene ñemu potavéva"	"Id: Guarani0175
+Source: Ha’e omokañy kuri pene ñemu potavéva
+Change: PERSON:2_PL
+Target: "	Peẽpemokañykuripeneñemupotavéva
+2107	Guarani0176	Ha’e omokañy kuri pene ñemu potavéva	PERSON:1_SI	Che amokañy kuri pene ñemu potavéva	guarani	dev	"Id: Guarani0176
+Source: Ha’e omokañy kuri pene ñemu potavéva
+Change: PERSON:1_SI
+Target: Che amokañy kuri pene ñemu potavéva"	"Id: Guarani0176
+Source: Ha’e omokañy kuri pene ñemu potavéva
+Change: PERSON:1_SI
+Target: "	Cheamokañykuripeneñemupotavéva
+2108	Guarani0177	Ha’e omokañy kuri pene ñemu potavéva	TENSE:FUT_SIM	Ha’e omokañyta pene ñemu potavéva	guarani	dev	"Id: Guarani0177
+Source: Ha’e omokañy kuri pene ñemu potavéva
+Change: TENSE:FUT_SIM
+Target: Ha’e omokañyta pene ñemu potavéva"	"Id: Guarani0177
+Source: Ha’e omokañy kuri pene ñemu potavéva
+Change: TENSE:FUT_SIM
+Target: "	Ha’eomokañytapeneñemupotavéva
+2109	Guarani0178	Ha’e omokañy kuri pene ñemu potavéva	ASPECT:IPFV	Ha’e omokañy kuri hína pene ñemu potavéva	guarani	dev	"Id: Guarani0178
+Source: Ha’e omokañy kuri pene ñemu potavéva
+Change: ASPECT:IPFV
+Target: Ha’e omokañy kuri hína pene ñemu potavéva"	"Id: Guarani0178
+Source: Ha’e omokañy kuri pene ñemu potavéva
+Change: ASPECT:IPFV
+Target: "	Ha’eomokañykurihínapeneñemupotavéva
+2110	Guarani0167	Ha’e noguerekómi	TYPE:AFF	Ha’e oguerekómi	guarani	dev	"Id: Guarani0167
+Source: Ha’e noguerekómi
+Change: TYPE:AFF
+Target: Ha’e oguerekómi"	"Id: Guarani0167
+Source: Ha’e noguerekómi
+Change: TYPE:AFF
+Target: "	Ha’eoguereko
+2111	Guarani0168	Ha’e noguerekómi	TENSE:PAS_REC	Ha’e noguerekói kuri	guarani	dev	"Id: Guarani0168
+Source: Ha’e noguerekómi
+Change: TENSE:PAS_REC
+Target: Ha’e noguerekói kuri"	"Id: Guarani0168
+Source: Ha’e noguerekómi
+Change: TENSE:PAS_REC
+Target: "	Ha’endoguerekóikuri
+2112	Guarani0169	Ha’e noguerekómi	PERSON:2_SI	Nde nereguerekómi	guarani	dev	"Id: Guarani0169
+Source: Ha’e noguerekómi
+Change: PERSON:2_SI
+Target: Nde nereguerekómi"	"Id: Guarani0169
+Source: Ha’e noguerekómi
+Change: PERSON:2_SI
+Target: "	Ndendererekomo’ãi
+2113	Guarani0170	Ha’e noguerekómi	PERSON:1_SI	Che naguerekómi	guarani	dev	"Id: Guarani0170
+Source: Ha’e noguerekómi
+Change: PERSON:1_SI
+Target: Che naguerekómi"	"Id: Guarani0170
+Source: Ha’e noguerekómi
+Change: PERSON:1_SI
+Target: "	Chendoguerekómi
+2114	Guarani0171	Ha’e noguerekómi	PERSON:1_PL_INC	Ñande nañaguerekómi	guarani	dev	"Id: Guarani0171
+Source: Ha’e noguerekómi
+Change: PERSON:1_PL_INC
+Target: Ñande nañaguerekómi"	"Id: Guarani0171
+Source: Ha’e noguerekómi
+Change: PERSON:1_PL_INC
+Target: "	Ñandendaroguerekómi
+2115	Guarani0172	Ha’e noguerekómi	TENSE:FUT_SIM	Ha’e noguerekóita	guarani	dev	"Id: Guarani0172
+Source: Ha’e noguerekómi
+Change: TENSE:FUT_SIM
+Target: Ha’e noguerekóita"	"Id: Guarani0172
+Source: Ha’e noguerekómi
+Change: TENSE:FUT_SIM
+Target: "	Ha’enoguerekomíta
+2116	Guarani0244	Ha’e opovyvy kuri	TYPE:NEG	Ha’e ndopovyvýi kuri	guarani	dev	"Id: Guarani0244
+Source: Ha’e opovyvy kuri
+Change: TYPE:NEG
+Target: Ha’e ndopovyvýi kuri"	"Id: Guarani0244
+Source: Ha’e opovyvy kuri
+Change: TYPE:NEG
+Target: "	Ha’endopovyvýikuri
+2117	Guarani0245	Ha’e opovyvy kuri	ASPECT:IPFV	Ha’e opovyvy kuri hína	guarani	dev	"Id: Guarani0245
+Source: Ha’e opovyvy kuri
+Change: ASPECT:IPFV
+Target: Ha’e opovyvy kuri hína"	"Id: Guarani0245
+Source: Ha’e opovyvy kuri
+Change: ASPECT:IPFV
+Target: "	Ha’eopovyvykurihína
+2118	Guarani0246	Ha’e opovyvy kuri	PERSON:2_SI	Nde repovyvy kuri	guarani	dev	"Id: Guarani0246
+Source: Ha’e opovyvy kuri
+Change: PERSON:2_SI
+Target: Nde repovyvy kuri"	"Id: Guarani0246
+Source: Ha’e opovyvy kuri
+Change: PERSON:2_SI
+Target: "	Nderepovyvykuri
+2119	Guarani0247	Ha’e opovyvy kuri	PERSON:1_SI	Che apovyvy kuri	guarani	dev	"Id: Guarani0247
+Source: Ha’e opovyvy kuri
+Change: PERSON:1_SI
+Target: Che apovyvy kuri"	"Id: Guarani0247
+Source: Ha’e opovyvy kuri
+Change: PERSON:1_SI
+Target: "	Cheapovyvykuri
+2120	Guarani0248	Ha’e opovyvy kuri	TENSE:FUT_SIM	Ha’e opovyvyta	guarani	dev	"Id: Guarani0248
+Source: Ha’e opovyvy kuri
+Change: TENSE:FUT_SIM
+Target: Ha’e opovyvyta"	"Id: Guarani0248
+Source: Ha’e opovyvy kuri
+Change: TENSE:FUT_SIM
+Target: "	Ha’eopovyvyta
+2121	Guarani0249	Ha’e opovyvy kuri	TENSE:PAS_PLU	Ha’e opovyvyva’ekue	guarani	dev	"Id: Guarani0249
+Source: Ha’e opovyvy kuri
+Change: TENSE:PAS_PLU
+Target: Ha’e opovyvyva’ekue"	"Id: Guarani0249
+Source: Ha’e opovyvy kuri
+Change: TENSE:PAS_PLU
+Target: "	Ha’eopovyvýva’ekue
+2122	Guarani0250	Ha’e opovyvy kuri	TENSE:PAS_IMP	Ha’e opovyvymi	guarani	dev	"Id: Guarani0250
+Source: Ha’e opovyvy kuri
+Change: TENSE:PAS_IMP
+Target: Ha’e opovyvymi"	"Id: Guarani0250
+Source: Ha’e opovyvy kuri
+Change: TENSE:PAS_IMP
+Target: "	Ha'eopovyvymikuri
+2123	Guarani0210	Peẽ peko’õimi	PERSON:2_SI	Nde reko’õimi	guarani	dev	"Id: Guarani0210
+Source: Peẽ peko’õimi
+Change: PERSON:2_SI
+Target: Nde reko’õimi"	"Id: Guarani0210
+Source: Peẽ peko’õimi
+Change: PERSON:2_SI
+Target: "	Ndereko’õimi
+2124	Guarani0211	Peẽ peko’õimi	PERSON:3_SI	Ha’e oko’õimi	guarani	dev	"Id: Guarani0211
+Source: Peẽ peko’õimi
+Change: PERSON:3_SI
+Target: Ha’e oko’õimi"	"Id: Guarani0211
+Source: Peẽ peko’õimi
+Change: PERSON:3_SI
+Target: "	Ha’eoiko’õimi
+2125	Guarani0212	Peẽ peko’õimi	TYPE:NEG	Peẽ napeko’õimi	guarani	dev	"Id: Guarani0212
+Source: Peẽ peko’õimi
+Change: TYPE:NEG
+Target: Peẽ napeko’õimi"	"Id: Guarani0212
+Source: Peẽ peko’õimi
+Change: TYPE:NEG
+Target: "	Peẽndapeko’õirĩi
+2126	Guarani0213	Peẽ peko’õimi	ASPECT:IPFV	Peẽ peko’õimi hína	guarani	dev	"Id: Guarani0213
+Source: Peẽ peko’õimi
+Change: ASPECT:IPFV
+Target: Peẽ peko’õimi hína"	"Id: Guarani0213
+Source: Peẽ peko’õimi
+Change: ASPECT:IPFV
+Target: "	Peẽpeko’õimihína
+2127	Guarani0214	Peẽ peko’õimi	ASPECT:INM	Peẽ peko’õimi ikóni	guarani	dev	"Id: Guarani0214
+Source: Peẽ peko’õimi
+Change: ASPECT:INM
+Target: Peẽ peko’õimi ikóni"	"Id: Guarani0214
+Source: Peẽ peko’õimi
+Change: ASPECT:INM
+Target: "	Peẽpeko’õimiikóni
+2128	Guarani0215	Peẽ peko’õimi	PERSON:1_PL_EXC	Ore roko’õimi	guarani	dev	"Id: Guarani0215
+Source: Peẽ peko’õimi
+Change: PERSON:1_PL_EXC
+Target: Ore roko’õimi"	"Id: Guarani0215
+Source: Peẽ peko’õimi
+Change: PERSON:1_PL_EXC
+Target: "	Oreroko’õimi
+2129	Guarani0216	Peẽ peko’õimi	PERSON:1_SI	Che ako’õimi	guarani	dev	"Id: Guarani0216
+Source: Peẽ peko’õimi
+Change: PERSON:1_SI
+Target: Che ako’õimi"	"Id: Guarani0216
+Source: Peẽ peko’õimi
+Change: PERSON:1_SI
+Target: "	Cheako’õimi
+2130	Guarani0135	Umi kuaaukahárakuéra oñemongeta kuri	TYPE:NEG	Umi kuaaukahárakuéra noñemongetái kuri	guarani	dev	"Id: Guarani0135
+Source: Umi kuaaukahárakuéra oñemongeta kuri
+Change: TYPE:NEG
+Target: Umi kuaaukahárakuéra noñemongetái kuri"	"Id: Guarani0135
+Source: Umi kuaaukahárakuéra oñemongeta kuri
+Change: TYPE:NEG
+Target: "	Umikuaaukahárakuérandoñemongetáikuri
+2131	Guarani0136	Umi kuaaukahárakuéra oñemongeta kuri	PERSON:3_SI	Pe kuaaukahára oñemongeta kuri	guarani	dev	"Id: Guarani0136
+Source: Umi kuaaukahárakuéra oñemongeta kuri
+Change: PERSON:3_SI
+Target: Pe kuaaukahára oñemongeta kuri"	"Id: Guarani0136
+Source: Umi kuaaukahárakuéra oñemongeta kuri
+Change: PERSON:3_SI
+Target: "	Umikuaaukaháraoñemongetakuri
+2132	Guarani0137	Umi kuaaukahárakuéra oñemongeta kuri	TENSE:FUT_SIM	Umi kuaaukahárakuéra oñemongetáta	guarani	dev	"Id: Guarani0137
+Source: Umi kuaaukahárakuéra oñemongeta kuri
+Change: TENSE:FUT_SIM
+Target: Umi kuaaukahárakuéra oñemongetáta"	"Id: Guarani0137
+Source: Umi kuaaukahárakuéra oñemongeta kuri
+Change: TENSE:FUT_SIM
+Target: "	Umikuaaukahárakuéraoñemongetata
+2133	Guarani0138	Umi kuaaukahárakuéra oñemongeta kuri	ASPECT:IPFV	Umi kuaaukahárakuéra oñemongeta kuri hína	guarani	dev	"Id: Guarani0138
+Source: Umi kuaaukahárakuéra oñemongeta kuri
+Change: ASPECT:IPFV
+Target: Umi kuaaukahárakuéra oñemongeta kuri hína"	"Id: Guarani0138
+Source: Umi kuaaukahárakuéra oñemongeta kuri
+Change: ASPECT:IPFV
+Target: "	Umikuaaukahárakuéraoñemongetakurihína
+2134	Guarani0139	Umi kuaaukahárakuéra oñemongeta kuri	TENSE:PAS_IMP	Umi kuaaukahárakuéra oñemongetami	guarani	dev	"Id: Guarani0139
+Source: Umi kuaaukahárakuéra oñemongeta kuri
+Change: TENSE:PAS_IMP
+Target: Umi kuaaukahárakuéra oñemongetami"	"Id: Guarani0139
+Source: Umi kuaaukahárakuéra oñemongeta kuri
+Change: TENSE:PAS_IMP
+Target: "	Umikuaaukahárakuéraoñemongetamikuri
+2135	Guarani0140	Umi kuaaukahárakuéra oñemongeta kuri	ASPECT:INM	Umi kuaaukahárakuéra oñemongeta ikóni kuri	guarani	dev	"Id: Guarani0140
+Source: Umi kuaaukahárakuéra oñemongeta kuri
+Change: ASPECT:INM
+Target: Umi kuaaukahárakuéra oñemongeta ikóni kuri"	"Id: Guarani0140
+Source: Umi kuaaukahárakuéra oñemongeta kuri
+Change: ASPECT:INM
+Target: "	Umikuaaukahárakuéraoñemongetakuriikóni

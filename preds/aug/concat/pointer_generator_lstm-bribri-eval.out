@@ -1,0 +1,1 @@
+./preds/aug/concat/pointer_generator_lstm-bribri.tsv: Accuracy=0.00, BLEU=16.12, ChrF=29.90

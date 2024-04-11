@@ -8,7 +8,10 @@ def copy_target_column(source_path, destination_path):
     destination_df = pd.read_csv(destination_path, sep='\t', header=None)
 
     source_df.columns = ['Target']
-    destination_df.columns = ['Source', 'Target', 'Change']
+    if len(destination_df.columns) == 3:
+        destination_df.columns = ['Source', 'Target', 'Change']
+    else:
+        destination_df.columns = ['Source', 'Change']
 
     # Replace or add the 'Target' column in the destination DataFrame
     destination_df['Predicted Target'] = source_df['Target']
