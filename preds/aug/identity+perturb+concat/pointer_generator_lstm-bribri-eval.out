@@ -1,0 +1,1 @@
+./preds/aug/identity+perturb+concat/pointer_generator_lstm-bribri.tsv: Accuracy=7.08, BLEU=33.43, ChrF=55.44
