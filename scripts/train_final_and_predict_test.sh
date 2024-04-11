@@ -59,7 +59,7 @@ do
     --experiment 2024americasnlp-$lang-final \
     --checkpoint "$ckpt_file" \
     --predict "data/yoyodyne/$lang-test.tsv" \
-    --output "./test-preds/char_$method_$arch-$lang.tsv" \
+    --output "./test-preds/char_$method_$arch/$lang.tsv" \
     --features_col 2 \
     --target_col 0 \
     --arch $arch \
@@ -68,7 +68,7 @@ do
   # Move the folder so we only ever have one numbered version
   mv ./models/final/$method/2024americasnlp-$lang-final/version_0 ./models/final/$method/2024americasnlp-$lang-final/$arch
 
-  python ./scripts/copy_preds.py "./test-preds/char_$method_$arch-$lang.tsv" "data/yoyodyne/$lang-test.tsv"
+  python ./scripts/copy_preds.py "./test-preds/char_$method_$arch/$lang.tsv" "data/yoyodyne/$lang-test.tsv"
   rm data/temp/*.tsv
 
 done 
