@@ -34,29 +34,51 @@ do
   rm -rf ./models/final/$method/2024americasnlp-$lang-final/*
 
   # Pick best hyperparameters for each language
-  if [ "$lang" = "bribri" ]; then
-    batch_size=32
-    embedding_size=512
-    hidden_size=448
-    decoder_layers=1
-    teacher_forcing="--teacher_forcing"
-  elif [ "$lang" = "guarani" ]; then
-    batch_size=16
-    embedding_size=256
-    hidden_size=1152
-    decoder_layers=1
-    teacher_forcing="--teacher_forcing"
+  if [ "$arch" = "attentive_lstm" ]; then
+    if [ "$lang" = "bribri" ]; then
+      batch_size=32
+      embedding_size=512
+      hidden_size=448
+      decoder_layers=1
+      attention_heads=1
+    elif [ "$lang" = "guarani" ]; then
+      batch_size=16
+      embedding_size=256
+      hidden_size=1152
+      decoder_layers=1
+      attention_heads=1
+    else
+      batch_size=32
+      embedding_size=256
+      hidden_size=896
+      decoder_layers=2
+      attention_heads=1
+    fi
   else
-    batch_size=32
-    embedding_size=256
-    hidden_size=896
-    decoder_layers=2
-    teacher_forcing="--teacher_forcing"
-  fi
+    if [ "$lang" = "bribri" ]; then
+      batch_size=32
+      embedding_size=256
+      hidden_size=1280
+      decoder_layers=1
+      attention_heads=2
+    elif [ "$lang" = "guarani" ]; then
+      batch_size=16
+      embedding_size=192
+      hidden_size=1152
+      decoder_layers=1
+      attention_heads=1
+    else
+      batch_size=32
+      embedding_size=512
+      hidden_size=1280
+      decoder_layers=2
+      attention_heads=2
+    fi
+  fi 
 
   yoyodyne-train \
     --experiment 2024americasnlp-$lang-final \
-    --model_dir models/final/$method \
+    --model_dir models/final/$method-$arch \
     --train data/temp/$lang-train+$method.tsv \
     --val data/yoyodyne/$lang-dev.tsv \
     --features_col 3 \
@@ -67,7 +89,7 @@ do
     --decoder_layers $decoder_layers \
     --hidden_size $hidden_size \
     --source_attention_heads 1 \
-    $teacher_forcing \
+    --teacher_forcing \
     --max_epochs 500 \
     --scheduler lineardecay \
     --log_wandb \
@@ -75,26 +97,26 @@ do
     --accelerator gpu \
 
 
-  ckpt_file=(./models/final/$method/2024americasnlp-$lang-final/version_0/checkpoints/*.ckpt)
+  ckpt_file=(./models/final/$method-$arch/2024americasnlp-$lang-final/version_0/checkpoints/*.ckpt)
   ckpt_file=${ckpt_file[0]}
 
   echo Loading checkpoint file from $ckpt_file
 
   yoyodyne-predict \
-    --model_dir ./models/final/$method \
+    --model_dir ./models/final/$method-$arch \
     --experiment 2024americasnlp-$lang-final \
     --checkpoint "$ckpt_file" \
     --predict "data/yoyodyne/$lang-test.tsv" \
-    --output "./test-preds/char_$method/$arch/$lang.tsv" \
+    --output "./test-preds/char-$method-$arch/$lang.tsv" \
     --features_col 2 \
     --target_col 0 \
     --arch $arch \
     --accelerator gpu \
 
   # Move the folder so we only ever have one numbered version
-  mv ./models/final/$method/2024americasnlp-$lang-final/version_0 ./models/final/$method/2024americasnlp-$lang-final/$arch
+  mv ./models/final/$method-$arch/2024americasnlp-$lang-final/version_0 ./models/final/$method-$arch/2024americasnlp-$lang-final/$arch
 
-  python ./scripts/copy_preds.py "./test-preds/char_$method/$arch/$lang.tsv" "americasnlp2024/ST2_EducationalMaterials/data/$lang-test.tsv"
+  python ./scripts/copy_preds.py "./test-preds/char-$method-$arch/$lang.tsv" "americasnlp2024/ST2_EducationalMaterials/data/$lang-test.tsv"
   rm data/temp/*.tsv
 
 done 
