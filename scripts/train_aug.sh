@@ -49,7 +49,7 @@ do
       --max_source_length 200 \
       --max_target_length 200 \
       --accelerator gpu \
-
+      --teacher_forcing 
 
     ckpt_file=(./models/aug/$method/2024americasnlp-$lang/version_0/checkpoints/*.ckpt)
     ckpt_file=${ckpt_file[0]}
