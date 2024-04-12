@@ -24,7 +24,7 @@ method="$1"
 
 mkdir data/temp
 
-for lang in bribri maya guarani 
+for lang in bribri guarani maya 
 do
   for arch in attentive_lstm pointer_generator_lstm
   do
@@ -46,6 +46,8 @@ do
       --log_wandb \
       --seed 0 \
       --no_save_best \
+      --max_source_length 200 \
+      --max_target_length 200 \
       --accelerator gpu \
 
 
