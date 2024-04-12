@@ -71,7 +71,7 @@ do
       batch_size=32
       embedding_size=512
       hidden_size=1280
-      decoder_layers=2
+      decoder_layers=1
       attention_heads=2
     fi
   fi 
