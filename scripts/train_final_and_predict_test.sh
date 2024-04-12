@@ -72,7 +72,7 @@ do
       embedding_size=448
       hidden_size=1728
       decoder_layers=1
-      attention_heads=2
+      attention_heads=1
     fi
   fi 
 
