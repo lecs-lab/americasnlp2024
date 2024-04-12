@@ -68,9 +68,9 @@ do
       decoder_layers=1
       attention_heads=1
     else
-      batch_size=32
-      embedding_size=512
-      hidden_size=1280
+      batch_size=64
+      embedding_size=448
+      hidden_size=1728
       decoder_layers=1
       attention_heads=2
     fi
