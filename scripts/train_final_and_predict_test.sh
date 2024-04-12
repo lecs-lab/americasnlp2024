@@ -33,6 +33,27 @@ do
 
   rm -rf ./models/final/$method/2024americasnlp-$lang-final/*
 
+  # Pick best hyperparameters for each language
+  if [ "$lang" = "bribri" ]; then
+    batch_size=32
+    embedding_size=512
+    hidden_size=448
+    decoder_layers=1
+    teacher_forcing="--no-teacher_forcing"
+  elif [ "$lang" = "guarani" ]; then
+    batch_size=16
+    embedding_size=256
+    hidden_size=1152
+    decoder_layers=1
+    teacher_forcing="--teacher_forcing"
+  else
+    batch_size=32
+    embedding_size=256
+    hidden_size=896
+    decoder_layers=2
+    teacher_forcing="--no-teacher_forcing"
+  fi
+
   yoyodyne-train \
     --experiment 2024americasnlp-$lang-final \
     --model_dir models/final/$method \
@@ -41,7 +62,12 @@ do
     --features_col 3 \
     --arch $arch \
     --features_encoder_arch linear \
-    --batch_size 32 \
+    --batch_size $batch_size \
+    --embedding $embedding_size \
+    --decoder_layers $decoder_layers \
+    --hidden_size $hidden_size \
+    --source_attention_heads 1 \
+    $teacher_forcing \
     --max_epochs 1000 \
     --scheduler lineardecay \
     --log_wandb \
