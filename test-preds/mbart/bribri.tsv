@@ -1,481 +1,481 @@
-Source,Change,Target
-Ye' tö àrros ali' ù̠ i' a̠,TYPE:NEG,Ye' kë̀ wa àrros ali' ù iene
-Ye' tö àrros ali' ù̠ i' a̠,ASPECT:INC,Ye' tö àrros ali'mi ù i' a
-Ye' tö àrros ali' ù̠ i' a̠,TENSE:PRF_REC,Ye' tö àrros ali' ù i' a
-Ye' tö àrros ali' ù̠ i' a̠,"TYPE:NEG, TENSE:PRF_REC",Ye' kë̀ wa àrros tòne ù i i' a
-Ye' tö àrros ali' ù̠ i' a̠,"TENSE:PRF_REC, ASPECT:INC",Ye' tö àrros ali'mi
-Ye' tö àrros ali' ù̠ i' a̠,"TENSE:IPFV_REC, ASPECT:IPFV",Ye' tö àrros ali' ù ie' a
-Ye' tö àrros ali' ù̠ i' a̠,"TYPE:NEG, TENSE:IPFV_REC, ASPECT:IPFV",Kë̀ ye' tö àrros ali' ù ie' a
-Ye' tö àrros ali' ù̠ i' a̠,"TENSE:IPFV_PROG, ASPECT:IPFV",Ye' tso àrros ù ie' tso tso àrros ujtö́k
-Ye' tö àrros ali' ù̠ i' a̠,"TYPE:NEG, TENSE:IPFV_PROG, ASPECT:IPFV",Ye' kë̀ ku àrros ù ie' sö
-Ye' tö àrros ali' ù̠ i' a̠,TENSE:PRF_PROG,Ye' bák àrros ali' ù ie' sö
-Ye' tö àrros ali' ù̠ i' a̠,"TYPE:NEG, TENSE:PRF_PROG",Ye' kë̀ ku'bak àrros ku'bak àrros ali' ù ie' a
-Ye' tö àrros ali' ù̠ i' a̠,"MODE:IMP, TENSE:IPFV_REC, ASPECT:IPFV, PERSON:NA",Àrros ali' a i' a
-Ye' tö àrros ali' ù̠ i' a̠,"TYPE:NEG, MODE:IMP, TENSE:IPFV_REC, ASPECT:IPFV, PERSON:NA",Kë̀ àrros ali' ù ie' a
-Ye' tö àrros ali' ù̠ i' a̠,"TYPE:NEG, MODE:IMP, TENSE:IPFV_REC, ASPECT:IPFV, VOICE:MID, PERSON:NA",Kë̀ àrros ali' ù ie
-Ye' tö àrros ali' ù̠ i' a̠,"MODE:EXH, TENSE:IPFV_REC, ASPECT:IPFV, PERSON:1_PL_INC",Àrros ali' ù i' a ujtö̀ sö
-Ye' tö àrros ali' ù̠ i' a̠,"MODE:DES, TENSE:IPFV_REC, ASPECT:IPFV",Ye' én a àrros tawa'ku i
-Ye' tö àrros ali' ù̠ i' a̠,"TYPE:NEG, MODE:DES, TENSE:IPFV_REC, ASPECT:IPFV",Kë̀ ye' én a àrros tawa'ku i
-Ye' tö àrros ali' ù̠ i' a̠,MODE:ADVERS,Ye' wa àrros tawa' ù i' a
-Ye' tö àrros ali' ù̠ i' a̠,"TENSE:IPFV_HAB, ASPECT:IPFV",Ye' tö àrros tèke i' a
-Ye' tö àrros ali' ù̠ i' a̠,"TYPE:NEG, TENSE:IPFV_HAB, ASPECT:IPFV",Kë̀ ye' tö àrros ali' ù i' a
-Ye' tö àrros ali' ù̠ i' a̠,"TENSE:FUT_POT, ASPECT:IPFV",Ye' tö àrros ali'mi
-Ye' tö àrros ali' ù̠ i' a̠,"TYPE:NEG, TENSE:FUT_POT, ASPECT:IPFV",Kë̀ ye' tö àrros ali' ù ie' a
-Ye' tö àrros ali' ù̠ i' a̠,"TENSE:FUT_CER, ASPECT:IPFV",Ye' tö àrros tèrâ ù i' a
-Ye' tö àrros ali' ù̠ i' a̠,"TYPE:NEG, TENSE:FUT_CER, ASPECT:IPFV",Kë̀ ye' tö àrros tawe i' a
-Ye' tö àrros ali' ù̠ i' a̠,"VOICE:MID, PERSON:NA",Àrros ali' ù ie
-Ye' tö àrros ali' ù̠ i' a̠,"TYPE:NEG, VOICE:MID, PERSON:NA",Kë̀ àrros ali'ne i i i' a
-Ye' tö àrros ali' ù̠ i' a̠,"TENSE:PRF_REC, VOICE:MID, PERSON:NA",Àrros ali' ù ie
-Ye' tö àrros ali' ù̠ i' a̠,"TYPE:NEG, TENSE:PRF_REC, VOICE:MID, PERSON:NA",Kë̀ àrros ali' ù ie
-Ye' tö àrros ali' ù̠ i' a̠,"TENSE:IPFV_REC, ASPECT:IPFV, VOICE:MID, PERSON:NA",Àrros ali' ù ie' a
-Ye' tö àrros ali' ù̠ i' a̠,"TYPE:NEG, TENSE:IPFV_REC, ASPECT:IPFV, VOICE:MID, PERSON:NA",Kë̀ àrros ali'r ù ie
-Ye' tö àrros ali' ù̠ i' a̠,"TENSE:IPFV_HAB, ASPECT:IPFV, VOICE:MID, PERSON:NA",Àrros a ièke àrros ali' ù i' a
-Ye' tö àrros ali' ù̠ i' a̠,"TYPE:NEG, TENSE:IPFV_HAB, ASPECT:IPFV, VOICE:MID, PERSON:NA",Kë̀ àrros ali' ù ièku i
-Ye' tö àrros ali' ù̠ i' a̠,"TENSE:FUT_POT, ASPECT:IPFV, VOICE:MID, PERSON:NA",Àrros ali' ù ièmi
-Ye' tö àrros ali' ù̠ i' a̠,"TYPE:NEG, TENSE:FUT_POT, ASPECT:IPFV, VOICE:MID, PERSON:NA",Kë̀ àrros ali'nuk ik i
-Ye' tö àrros ali' ù̠ i' a̠,"TENSE:FUT_CER, ASPECT:IPFV, VOICE:MID, PERSON:NA",Àrros ali' ù ièrâ
-Ye' tö àrros ali' ù̠ i' a̠,"TYPE:NEG, TENSE:FUT_CER, ASPECT:IPFV, VOICE:MID, PERSON:NA",Kë̀ àrros ali' ù ièpa
-Ye' tö àrros ali' ù̠ i' a̠,TENSE:PAS_PLU,Ye' wa àrros ali' ù i' arule
-Ye' tö àrros ali' ù̠ i' a̠,"TYPE:NEG, TENSE:PAS_PLU",Ye' kë̀ wa àrros ali' ù ie'pa
-Ye' tö àrros ali' ù̠ i' a̠,"MODE:POT, TENSE:IPFV_REC, ASPECT:IPFV",Ye' a àrros ali' ù i' a
-Ye' tö àrros ali' ù̠ i' a̠,"TYPE:NEG, MODE:POT, TENSE:IPFV_REC, ASPECT:IPFV",Kë̀ ye' a àrros a ie' a
-I kiö́,ABSNUM:PL,kiö́
-I tso',"ABSNUM:PL, PERSON:3_PL",Iepa tso'pa
-Maria dör kápi u',TYPE:NEG,dör kápi u'ne
-Maria dör kápi u',ASPECT:INC,dör kápi u'mi
-Maria dör kápi u',TENSE:PRF_REC,dör kápi u' bé
-Maria dör kápi u',"TYPE:NEG, TENSE:PRF_REC",dör kápi uè
-Maria dör kápi u',"TENSE:PRF_REC, ASPECT:INC",dör kápi u'mi
-Maria dör kápi u',"TENSE:IPFV_REC, ASPECT:IPFV",dör kápi uè
-Maria dör kápi u',"TYPE:NEG, TENSE:IPFV_REC, ASPECT:IPFV",Kë̀ be' dör kápi ue
-Maria dör kápi u',"TENSE:IPFV_PROG, ASPECT:IPFV",Be' tso kápi uö́k
-Maria dör kápi u',"TYPE:NEG, TENSE:IPFV_PROG, ASPECT:IPFV",Be kë̀ ku kápi uö́k
-Maria dör kápi u',TENSE:PRF_PROG,Be' bák kápiú́k
-Maria dör kápi u',"TYPE:NEG, TENSE:PRF_PROG",Be' kë̀ ku'bak kápi u'bak
-Maria dör kápi u',"MODE:IMP, TENSE:IPFV_REC, ASPECT:IPFV",Be' a kápi u'ku
-Maria dör kápi u',"TYPE:NEG, MODE:IMP, TENSE:IPFV_REC, ASPECT:IPFV",Kë̀ be' a kápi u'ku
-Maria dör kápi u',"TYPE:NEG, MODE:IMP, TENSE:IPFV_REC, ASPECT:IPFV, VOICE:MID",Kë̀ kápi uök
-Maria dör kápi u',"MODE:EXH, TENSE:IPFV_REC, ASPECT:IPFV, PERSON:1_PL_INC",Se' kápi u
-Maria dör kápi u',"MODE:DES, TENSE:IPFV_REC, ASPECT:IPFV",Be én a kápi u'ku
-Maria dör kápi u',"TYPE:NEG, MODE:DES, TENSE:IPFV_REC, ASPECT:IPFV",Kë̀ be én a kápi én a
-Maria dör kápi u',MODE:ADVERS,Be' wa kápi u'
-Maria dör kápi u',"TENSE:IPFV_HAB, ASPECT:IPFV",dör kápi uèke
-Maria dör kápi u',"TYPE:NEG, TENSE:IPFV_HAB, ASPECT:IPFV",Kë̀ be' dör kápi uèku
-Maria dör kápi u',"TENSE:FUT_POT, ASPECT:IPFV",dör kápi uèmi
-Maria dör kápi u',"TYPE:NEG, TENSE:FUT_POT, ASPECT:IPFV",Kë̀ be' dör kápi uök
-Maria dör kápi u',"TENSE:FUT_CER, ASPECT:IPFV",dör kápi uèrâ
-Maria dör kápi u',"TYPE:NEG, TENSE:FUT_CER, ASPECT:IPFV",Kë̀ be' dör kápi uèpa
-Maria dör kápi u',VOICE:MID,Be' wa kápi u'mi
-Maria dör kápi u',"TYPE:NEG, VOICE:MID",Kë̀ wa kápi u
-Maria dör kápi u',"TENSE:PRF_REC, VOICE:MID",Kë̀ kápi ue
-Maria dör kápi u',"TYPE:NEG, TENSE:PRF_REC, VOICE:MID",Kë̀ kápi ue
-Maria dör kápi u',"TENSE:IPFV_REC, ASPECT:IPFV, VOICE:MID",Kë̀ kápi ue
-Maria dör kápi u',"TYPE:NEG, TENSE:IPFV_REC, ASPECT:IPFV, VOICE:MID",Kë̀ kápi ue
-Maria dör kápi u',"TENSE:IPFV_HAB, ASPECT:IPFV, VOICE:MID",Kë̀ kápi uèku
-Maria dör kápi u',"TYPE:NEG, TENSE:IPFV_HAB, ASPECT:IPFV, VOICE:MID",Kë̀ kápi uèku
-Maria dör kápi u',"TENSE:FUT_POT, ASPECT:IPFV, VOICE:MID",Kë̀ kápi ui
-Maria dör kápi u',"TYPE:NEG, TENSE:FUT_POT, ASPECT:IPFV, VOICE:MID",Kë̀ kápi uök
-Maria dör kápi u',"TENSE:FUT_CER, ASPECT:IPFV, VOICE:MID",Kë̀ kápi uèpa
-Maria dör kápi u',"TYPE:NEG, TENSE:FUT_CER, ASPECT:IPFV, VOICE:MID",Kë̀ kápi uèpa
-Maria dör kápi u',TENSE:PAS_PLU,Be wa kápi uárule
-Maria dör kápi u',"TYPE:NEG, TENSE:PAS_PLU",Be kë̀ wa kápi uárule
-Maria dör kápi u',"MODE:POT, TENSE:IPFV_REC, ASPECT:IPFV",Be a kápi u'ku
-Maria dör kápi u',"TYPE:NEG, MODE:POT, TENSE:IPFV_REC, ASPECT:IPFV",Kë̀ a kápi uár
-Ye' ka̠nè̠balë',"TENSE:IPFV_REC, ASPECT:IPFV, VOICE:MID, ABSNUM:NI, PERSON:NA",Kë̀nèbalë̀r
-Ye' ka̠nè̠balë',"TYPE:NEG, TENSE:IPFV_REC, ASPECT:IPFV, VOICE:MID, ABSNUM:NI, PERSON:NA",Kë̀nèr
-Ye' tö i yë́,TYPE:NEG,Ye' kë̀ wa i yë̀ne
-Ye' tö i yë́,PERSON:2_SI,Be' tö i yë́mi
-Ye' tö i yë́,"TYPE:NEG, PERSON:2_SI",Be' kë̀ wa iemène
-Ye' tö i yë́,PERSON:3_SI,Ie' tö i yë́
-Ye' tö i yë́,"TYPE:NEG, PERSON:3_SI",Ie' kë̀ wa i yë́ne
-Ye' tö i yë́,PERSON:1_PL_EXC,Sa' tö i yë́
-Ye' tö i yë́,"TYPE:NEG, PERSON:1_PL_EXC",Sa' kë̀ wa ie'pa kë̀ Sa' tö̀ ie'pa Sa' Sa' Sa' Sa' Sa' Sa' Sa' Sa' Sa' Sa' Sa' Sa' Sa' Sa' Sa' Sa' Sa' Sa' Sa' Sa' Sa'
-Ye' tö i yë́,PERSON:1_PL_INC,Se' tö i yë́mi
-Ye' tö i yë́,"TYPE:NEG, PERSON:1_PL_INC",Se' kë̀ wa i yë̀ne
-Ye' tö i yë́,PERSON:2_PL,A' tö ie'pa
-Ye' tö i yë́,"TYPE:NEG, PERSON:2_PL",A' kë̀ wa ie'pa
-Ye' tö i yë́,PERSON:3_PL,Ie'pa tö i yë́pa
-Ye' tö i yë́,"TYPE:NEG, PERSON:3_PL",Ie'pa kë̀ ie'pa kë̀pa
-Ye' tö i yë́,TENSE:PRF_REC,Ye' tö i yë́
-Ye' tö i yë́,"TENSE:IPFV_REC, ASPECT:IPFV",Ye' tö i yë́
-Ye' tö i yë́,"TENSE:IPFV_PROG, ASPECT:IPFV",Ye' tso ie' ujtö́k
-Ye' tö i yë́,"TYPE:NEG, TENSE:IPFV_PROG, ASPECT:IPFV",Ye' kë̀ ku i yë́k
-Ye' tö i yë́,TENSE:PRF_PROG,Ye' bák i yë́k
-Ye' tö i yë́,"TYPE:NEG, TENSE:PRF_PROG",Ye' kë̀ ku'bak i yë́k
-Ye' tö i yë́,"MODE:IMP, TENSE:IPFV_REC, ASPECT:IPFV, PERSON:NA",Ie' tö i yë́
-Ye' tö i yë́,"TENSE:FUT_POT, ASPECT:IPFV",Ye' tö i yë́mi
-Ye' tö i yë́,"TENSE:IPFV_HAB, ASPECT:IPFV",Ye' tö i skèke
-Ye' tö i yë́,"VOICE:MID, ABSNUM:NI, PERSON:NA",Ie' kë̀ shkàne
-Ye' tö i yë́,"TYPE:NEG, VOICE:MID, ABSNUM:NI, PERSON:NA",Kë̀ ie
-Ye' tö i yë́,"TENSE:IPFV_REC, ASPECT:IPFV, VOICE:MID, ABSNUM:NI, PERSON:NA",Ie' tö i yë́
-Ye' tö shkame̠' yö',ASPECT:INC,Ye' tömik
-Ye' tö shkame̠' yö',TYPE:NEG,Ye' kë̀ wa shkamene
-Ye' tö shkame̠' yö',TENSE:PRF_REC,Ye' tömewé
-Ye' tö shkame̠' yö',"TENSE:PRF_REC, ASPECT:INC",Ye' tömi
-Ye' tö shkame̠' yö',"TYPE:NEG, TENSE:PRF_REC",Ye' kë̀ wa shkàne
-Ye' tö shkame̠' yö',"TENSE:IPFV_REC, ASPECT:IPFV",Ye' tö shme
-Ye' tö shkame̠' yö',"TYPE:NEG, TENSE:IPFV_REC, ASPECT:IPFV",Kë̀ ye' tö shkö
-Ye' tö shkame̠' yö',"MODE:POT, TENSE:IPFV_REC, ASPECT:IPFV",Ye' a shkmek
-Ye' tö shkame̠' yö',"TYPE:NEG, MODE:POT, TENSE:IPFV_REC, ASPECT:IPFV",Kë̀ ye' a shkouk
-Ye' tö shkame̠' yö',"TENSE:IPFV_PROG, ASPECT:IPFV",Ye' tso shkö́k
-Ye' tö shkame̠' yö',"TYPE:NEG, TENSE:IPFV_PROG, ASPECT:IPFV",Ye' kë̀ ku shkö́k
-Ye' tö shkame̠' yö',TENSE:PRF_PROG,Ye' bák shkö́k
-Ye' tö shkame̠' yö',"TYPE:NEG, TENSE:PRF_PROG",Ye' kë̀ ku'bak shkö́k
-Ye' tö shkame̠' yö',"MODE:IMP, TENSE:IPFV_REC, ASPECT:IPFV, PERSON:NA",Shkme tö́
-Ye' tö shkame̠' yö',"TYPE:NEG, MODE:IMP, TENSE:IPFV_REC, ASPECT:IPFV, PERSON:NA",Kë̀ shkar
-Ye' tö shkame̠' yö',"TYPE:NEG, MODE:IMP, TENSE:IPFV_REC, ASPECT:IPFV, VOICE:MID, PERSON:NA",Kë̀ shkar
-Ye' tö shkame̠' yö',"MODE:EXH, TENSE:IPFV_REC, ASPECT:IPFV, PERSON:1_PL_INC",Se' tö̀ ku shme' ujtö̀
-Ye' tö shkame̠' yö',"MODE:DES, TENSE:IPFV_REC, ASPECT:IPFV",Ye' én a shkö́k
-Ye' tö shkame̠' yö',"TYPE:NEG, MODE:DES, TENSE:IPFV_REC, ASPECT:IPFV",Kë̀ ye' én a shka'ku'ku
-Ye' tö shkame̠' yö',MODE:ADVERS,Ye' wa shkame' ta'wa'
-Ye' tö shkame̠' yö',"TENSE:IPFV_HAB, ASPECT:IPFV",Ye' tö shmeke
-Ye' tö shkame̠' yö',"TYPE:NEG, TENSE:IPFV_HAB, ASPECT:IPFV",Kë̀ ye' tö shmekèku
-Ye' tö shkame̠' yö',"TENSE:FUT_POT, ASPECT:IPFV",Ye' tö shkö̀mi
-Ye' tö shkame̠' yö',"TYPE:NEG, TENSE:FUT_POT, ASPECT:IPFV",Kë̀ ye' tö shkö̀pa
-Ye' tö shkame̠' yö',"TENSE:FUT_CER, ASPECT:IPFV",Ye' tö tèrâ
-Ye' tö shkame̠' yö',"TYPE:NEG, TENSE:FUT_CER, ASPECT:IPFV",Kë̀ ye' tö shkö̀pa
-Ye' tö shkame̠' yö',"VOICE:MID, PERSON:NA",Shkme
-Ye' tö shkame̠' yö',"TYPE:NEG, VOICE:MID, PERSON:NA",Kë̀ shkàne
-Ye' tö shkame̠' yö',"TENSE:PRF_REC, VOICE:MID, PERSON:NA",Shkmena
-Ye' tö shkame̠' yö',"TYPE:NEG, TENSE:PRF_REC, VOICE:MID, PERSON:NA",Kë̀ shkàne
-Ye' tö shkame̠' yö',"TENSE:IPFV_REC, ASPECT:IPFV, VOICE:MID, PERSON:NA",Shkmer
-Ye' tö shkame̠' yö',"TYPE:NEG, TENSE:IPFV_REC, ASPECT:IPFV, VOICE:MID, PERSON:NA",Kë̀ shkar
-Ye' tö shkame̠' yö',"TENSE:IPFV_HAB, ASPECT:IPFV, VOICE:MID, PERSON:NA",Shkme
-Ye' tö shkame̠' yö',"TYPE:NEG, TENSE:IPFV_HAB, ASPECT:IPFV, VOICE:MID, PERSON:NA",Kë̀ shkamerHA
-Ye' tö shkame̠' yö',"TENSE:FUT_POT, ASPECT:IPFV, VOICE:MID, PERSON:NA",Shkme
-Ye' tö shkame̠' yö',"TYPE:NEG, TENSE:FUT_POT, ASPECT:IPFV, VOICE:MID, PERSON:NA",Kë̀ shkànuk
-Ye' tö shkame̠' yö',"TENSE:FUT_CER, ASPECT:IPFV, VOICE:MID, PERSON:NA",Shkmerâ
-Ye' tö shkame̠' yö',"TYPE:NEG, TENSE:FUT_CER, ASPECT:IPFV, VOICE:MID, PERSON:NA",Kë̀ shkàrpa
-Ye' tö shkame̠' yö',"TENSE:PAS_PLU, VOICE:MID",Shkárule
-Ye' tö shkame̠' yö',"TYPE:NEG, TENSE:PAS_PLU, VOICE:MID",Kë̀ shkárule
-Ye' tö kápi ya',TYPE:NEG,Ye' kë̀ wa kápi ya'ne
-Ye' tö kápi ya',"TENSE:IPFV_PROG, ASPECT:IPFV",Ye' tso kápi ujtö́k
-Ye' tö kápi ya',"TYPE:NEG, TENSE:IPFV_PROG, ASPECT:IPFV",Ye' kë̀ ku kápi ya'ku
-Ye' tö kápi ya',TENSE:PRF_PROG,Ye' bák kápi ya'k
-Ye' tö kápi ya',"TYPE:NEG, TENSE:PRF_PROG",Ye' kë̀ ku'bak kápi ya'bak
-Ye' tö kápi ya',TENSE:PRF_REC,Ye' tö kápi ya'
-Ye' tö kápi ya',"TYPE:NEG, TENSE:PRF_REC",Ye' kë̀ wa kápi ya'ne
-Ye' tö kápi ya',"TENSE:IPFV_REC, ASPECT:IPFV",Ye' tö kápi ya'
-Ye' tö kápi ya',"TYPE:NEG, TENSE:IPFV_REC, ASPECT:IPFV",Kë̀ ye' tö kápi ya'ku
-Ye' tö kápi ya',"TENSE:IPFV_HAB, ASPECT:IPFV",Ye' tö kápi yaèke
-Ye' tö kápi ya',"TYPE:NEG, TENSE:IPFV_HAB, ASPECT:IPFV",Kë̀ ye' tö kápi ya'ku
-Ye' tö kápi ya',"TENSE:FUT_CER, ASPECT:IPFV",Ye' tö kápi yaèrâ
-Ye' tö kápi ya',"TYPE:NEG, TENSE:FUT_CER, ASPECT:IPFV",Kë̀ ye' tö kápi ya'pa
-Ye' tö kápi ya',"VOICE:MID, PERSON:NA",Kë̀ kápi ya'ne
-Ye' tö kápi ya',"TYPE:NEG, VOICE:MID, PERSON:NA",Kë̀ kápi ya'ne
-Ye' tö kápi ya',"TENSE:PRF_REC, VOICE:MID, PERSON:NA",Kë̀ kápi ya'
-Ye' tö kápi ya',"TYPE:NEG, TENSE:PRF_REC, VOICE:MID, PERSON:NA",Kë̀ kápi ya'ne
-Ye' tö kápi ya',"TENSE:IPFV_REC, ASPECT:IPFV, VOICE:MID, PERSON:NA",Kë̀ kápi ya'
-Ye' tö kápi ya',"TYPE:NEG, TENSE:IPFV_REC, ASPECT:IPFV, VOICE:MID, PERSON:NA",Kë̀ kápi yar
-Ye' tö kápi ya',"TENSE:IPFV_HAB, ASPECT:IPFV, VOICE:MID, PERSON:NA",Kë̀ kápi ya'ku
-Ye' tö kápi ya',"TYPE:NEG, TENSE:IPFV_HAB, ASPECT:IPFV, VOICE:MID, PERSON:NA",Kë̀ kápi ya'ku
-Ye' tö kápi ya',"MODE:IMP, TENSE:IPFV_REC, ASPECT:IPFV, PERSON:NA",Kë̀ be' tö kápi ya'
-Ye' tö kápi ya',"TYPE:NEG, MODE:IMP, TENSE:IPFV_REC, ASPECT:IPFV, PERSON:NA",Kë̀ kápi ya'
-Ye' tö kápi ya',"MODE:DES, TENSE:IPFV_REC, ASPECT:IPFV",Ye' én a kápi ya'ku
-Ye' tö kápi ya',"MODE:DES, TENSE:IPFV_REC, ASPECT:IPFV, VOICE:MID, PERSON:NA",Kë̀ kápi ya'ku
-Ye' tö kápi ya',"TENSE:FUT_POT, ASPECT:IPFV",Ye' tö kápi ya'mi
-Ye' tö kápi ya',"TYPE:NEG, TENSE:FUT_POT, ASPECT:IPFV",Kë̀ ye' tö kápi ya'mi
-Ye' tö kápi ya',"TENSE:FUT_POT, ASPECT:IPFV, VOICE:MID, PERSON:NA",Kë̀ kápi ya'nuk
-Ye' tö kápi ya',"TYPE:NEG, TENSE:FUT_POT, ASPECT:IPFV, VOICE:MID, PERSON:NA",Kë̀ kápi yanuk
-Ye' tö kápi ya',"MODE:ADVERS, VOICE:MID, PERSON:NA",Kë̀ kápi ya'
-Ye' tö kápi ya',TENSE:PAS_PLU,Ye' wa kápiárule
-Ye' tö kápi ya',"TYPE:NEG, TENSE:PAS_PLU",Ye' kë̀ wa kápi yaárule
-Ye' úk,TYPE:NEG,Kë̀ ye' úne
-Ye' úk,PERSON:2_SI,Be' úk
-Ye' úk,"TYPE:NEG, PERSON:2_SI",Be' kë̀ wa úk
-Ye' úk,"TENSE:IPFV_REC, ASPECT:IPFV",Ye' úk
-Ye' úk,"TENSE:IPFV_PROG, ASPECT:IPFV",Ye' tso úk
-Ye' úk,"TYPE:NEG, TENSE:IPFV_PROG, ASPECT:IPFV",Ye' kë̀ ku úk
-Ye' úk,TENSE:PRF_PROG,Ye' bák úk
-Ye' úk,"TYPE:NEG, TENSE:PRF_PROG",Ye' kë̀ ku'bak úk
-Ye' úk,"MODE:IMP, TENSE:IPFV_REC, ASPECT:IPFV, PERSON:2_SI",Be' úk
-Ye' úk,"TENSE:IPFV_HAB, ASPECT:IPFV",Ye' úk
-Ye' úk,"VOICE:MID, ABSNUM:NI, PERSON:NA",Shkàne
-Ye' úk,"TYPE:NEG, VOICE:MID, ABSNUM:NI, PERSON:NA",Kë̀ shkàne
-Ye' úk,"TENSE:IPFV_REC, ASPECT:IPFV, VOICE:MID, ABSNUM:NI, PERSON:NA",Shkàr
-Ka̠no̠' te̠n ká̠u̠k a̠,TYPE:NEG,Kë̀ yen káuk ak a
-Ka̠no̠' te̠n ká̠u̠k a̠,"TENSE:PRF_REM, ASPECT:PFV",Yenok káuk a
-Ka̠no̠' te̠n ká̠u̠k a̠,"TYPE:NEG, TENSE:PRF_REM, ASPECT:PFV",Kë̀ benok a
-Ka̠no̠' te̠n ká̠u̠k a̠,ABSNUM:PL,Ano' ten káuk a
-Ka̠no̠' te̠n ká̠u̠k a̠,"TYPE:NEG, ABSNUM:PL",Kë̀ benok a
-Ka̠no̠' te̠n ká̠u̠k a̠,"TENSE:PRF_REM, ASPECT:PFV, ABSNUM:PL",A' bák dano' ten káuk ak a
-Ka̠no̠' te̠n ká̠u̠k a̠,"TYPE:NEG, TENSE:PRF_REM, ASPECT:PFV, ABSNUM:PL",A' kë̀ ku'bak dapárken káuk ak a
-Ie' tso bua',TYPE:NEG,Ie kë̀ ie' tso bua'ne
-Ie' tso bua',"TENSE:PRF_REM, ASPECT:PFV",Ie' tso bua'mi
-Ie' tso bua',"TYPE:NEG, TENSE:PRF_REM, ASPECT:PFV",Ie' kë̀ ku'bak ie' tso bua'ku
-Ie' tso bua',PERSON:1_SI,Ie' tso bua'si
-Ie' tso bua',"TYPE:NEG, PERSON:1_SI",Ie' kë̀ ku'bak bua'SI
-Ie' tso bua',"TENSE:PRF_REM, ASPECT:PFV, PERSON:1_SI",Ie' tso bua'si
-Ie' tso bua',"TYPE:NEG, TENSE:PRF_REM, ASPECT:PFV, PERSON:1_SI",Kë̀ ie' tso bua'ku
-Ie' tso bua',PERSON:2_SI,Ie' tso bua'si
-Ie' tso bua',"TYPE:NEG, PERSON:2_SI",Be' kë̀ ku'bak bua'si
-Ie' tso bua',"TENSE:PRF_REM, ASPECT:PFV, PERSON:2_SI",Be' tso bua'mi
-Ie' tso bua',"TYPE:NEG, TENSE:PRF_REM, ASPECT:PFV, PERSON:2_SI",Be' kë̀ ku'bak bua'ku
-Ie' tso bua',"ABSNUM:PL, PERSON:1_PL_EXC",Sa' tso bua'
-Ie' tso bua',"TYPE:NEG, ABSNUM:PL, PERSON:1_PL_EXC",Sa' kë̀ ku ie' tso bua'pa
-Ie' tso bua',"TENSE:PRF_REM, ASPECT:PFV, ABSNUM:PL, PERSON:1_PL_EXC",Sa' tso bua' ujtö̀
-Ie' tso bua',"TYPE:NEG, TENSE:PRF_REM, ASPECT:PFV, ABSNUM:PL, PERSON:1_PL_EXC",Sa' kë̀ ku'bak ie' tso bua'ku
-Ie' tso bua',"ABSNUM:PL, PERSON:1_PL_INC",Ie' tso bua'mi
-Ie' tso bua',"TYPE:NEG, ABSNUM:PL, PERSON:1_PL_INC",Se' kë̀ ku ie' tso bua'pa
-Ie' tso bua',"TENSE:PRF_REM, ASPECT:PFV, ABSNUM:PL, PERSON:1_PL_INC",Se' tso bua' ujtö̀
-Ie' tso bua',"TYPE:NEG, TENSE:PRF_REM, ASPECT:PFV, ABSNUM:PL, PERSON:1_PL_INC",Se' kë̀ ku'bak ie' tso bua'pa'ku
-Ie' tso bua',"ABSNUM:PL, PERSON:2_PL",A' tso bua'pa
-Ie' tso bua',"TYPE:NEG, ABSNUM:PL, PERSON:2_PL",A' kë̀ ku'bak bua'pa
-Ie' tso bua',"TENSE:PRF_REM, ASPECT:PFV, ABSNUM:PL, PERSON:2_PL",A' tso dawö̀ sö
-Ie' tso bua',"TYPE:NEG, TENSE:PRF_REM, ASPECT:PFV, ABSNUM:PL, PERSON:2_PL",A' kë̀ ku'bak bua'pa
-Ie' tso bua',"ABSNUM:PL, PERSON:3_PL",Ie'pa ie'pa dapárke ie'pa tso bua'pa'pa
-Ie' tso bua',"TYPE:NEG, ABSNUM:PL, PERSON:3_PL",Ie'pa kë̀ ku ie'pa shkàpa dapárke ie'pa tso bua'pa
-Ie' tso bua',"TENSE:PRF_REM, ASPECT:PFV, ABSNUM:PL, PERSON:3_PL",Ie'pa tso bua'pa
-Ie' tso bua',"TYPE:NEG, TENSE:PRF_REM, ASPECT:PFV, ABSNUM:PL, PERSON:3_PL",Ie'pa kë̀ ku'bak ie'pa tso dawö́k
-Ye' tö uyë̀jkuö à̠ríts,"TENSE:IPFV_PROG, ASPECT:IPFV, PERSON:3_SI",Ie' tso uyë̀ kuö́k àríts
-Ye' tö uyë̀jkuö à̠ríts,"TENSE:IPFV_REC, ASPECT:IPFV",Ye' tö uyë̀jkuèr
-Ye' tö uyë̀jkuö à̠ríts,"TYPE:NEG, TENSE:IPFV_REC, ASPECT:IPFV",Kë̀ ye' tö uyë̀jku àr
-Ye' tö uyë̀jkuö à̠ríts,"MODE:POT, TENSE:IPFV_REC, ASPECT:IPFV, PERSON:3_SI",Ie' a uyë̀k àríts
-Ye' tö uyë̀jkuö à̠ríts,"TYPE:NEG, MODE:POT, TENSE:IPFV_REC, ASPECT:IPFV, PERSON:3_SI",Kë̀ ie' kë̀ a uyë̀kárule à
-Chìchi dör tsîr,ABSNUM:PL,Chìchi dör tsîr
-Dù tkër kàl ulà ki̠,TYPE:NEG,Kë̀ ye'tkër kàl ulà ki
-Dù tkër kàl ulà ki̠,"TENSE:PRF_REM, ASPECT:PFV",tkére kàl ulà ki
-Dù tkër kàl ulà ki̠,"TYPE:NEG, TENSE:PRF_REM, ASPECT:PFV",Kë̀ ye tkër kàl ulà ki
-Dù tkër kàl ulà ki̠,ABSNUM:PL,tkére kàl ulà ki
-Dù tkër kàl ulà ki̠,"TYPE:NEG, ABSNUM:PL",Kë̀ chìpa tkër kàl ulà ki
-Dù tkër kàl ulà ki̠,"TENSE:PRF_REM, ASPECT:PFV, ABSNUM:PL",tkére kàl ulà ki
-Dù tkër kàl ulà ki̠,"TYPE:NEG, TENSE:PRF_REM, ASPECT:PFV, ABSNUM:PL",A' kë̀ ku'bak kàl ulà ki
-Ye' i̠ni̠',PERSON:3_SI,Ini
-Ye' i̠ni̠',PERSON:2_SI,Be' ini
-Ye' i̠ni̠',"ABSNUM:PL, PERSON:1_PL_EXC",Sa' ini
-Ye' i̠ni̠',"ABSNUM:PL, PERSON:1_PL_INC",Se' ini
-Ye' i̠ni̠',"ABSNUM:PL, PERSON:2_PL",A' ini
-Ye' i̠ni̠',"ABSNUM:PL, PERSON:3_PL",Ie'pa ini
-Ye' i̠ni̠',"TENSE:PRF_REC, PERSON:3_SI",Ie' ini
-Ye' i̠ni̠',TENSE:PRF_REC,Ye' ini
-Ye' i̠ni̠',"TENSE:PRF_REC, PERSON:2_SI",Be' ini
-Ye' i̠ni̠',"TENSE:PRF_REC, ABSNUM:PL, PERSON:1_PL_EXC",Sa' ini
-Ye' i̠ni̠',"TENSE:PRF_REC, ABSNUM:PL, PERSON:1_PL_INC",Se' ini
-Ye' i̠ni̠',"TENSE:PRF_REC, ABSNUM:PL, PERSON:2_PL",A' bák ini
-Ye' i̠ni̠',"TENSE:PRF_REC, ABSNUM:PL, PERSON:3_PL",Ie'pa Ini
-Ye' i̠ni̠',"TENSE:IPFV_REC, ASPECT:IPFV, PERSON:3_SI",I ini
-Ye' i̠ni̠',"TENSE:IPFV_REC, ASPECT:IPFV",Ye' ini
-Ye' i̠ni̠',"TENSE:IPFV_HAB, ASPECT:IPFV, PERSON:3_SI",Ini
-Ye' i̠ni̠',"TENSE:IPFV_HAB, ASPECT:IPFV",Ye' inike
-Ye' i̠ni̠',"TYPE:NEG, TENSE:IPFV_HAB, ASPECT:IPFV",Kë̀ ye' iniku
-Ye' i̠ni̠',"TENSE:IPFV_REC, ASPECT:IPFV, VOICE:MID, ABSNUM:NI, PERSON:NA",Ie' ini
-Ye' i̠ni̠',"VOICE:MID, ABSNUM:NI, PERSON:NA",Ini
-Ye' i̠ni̠',"TYPE:NEG, VOICE:MID",Kë̀ne
-Ye' i̠ni̠',"TENSE:FUT_CER, ASPECT:IPFV",Ye' ini
-Ye' i̠ni̠',"TYPE:NEG, TENSE:FUT_CER, ASPECT:IPFV",Kë̀ ye' inipa
-Ye' i̠ni̠',"TENSE:IPFV_PROG, ASPECT:IPFV",Ye' tso inik
-Ye' i̠ni̠',"TYPE:NEG, TENSE:IPFV_REC, ASPECT:IPFV",Kë̀ ye' ini
-Ye' i̠ni̠',TENSE:PAS_PLU,Ye' ini
-Ye' i̠ni̠',"TYPE:NEG, TENSE:PAS_PLU",Ye' kë̀ wani
-Ye' i̠ni̠',"TENSE:FUT_POT, ASPECT:IPFV",Ye' imi
-Ye' i̠ni̠',"TYPE:NEG, TENSE:FUT_POT, ASPECT:IPFV",Kë̀ ye' inuk
-Ye' i̠ni̠',"MODE:DES, TENSE:IPFV_REC, ASPECT:IPFV, PERSON:3_SI",In a síni
-Ye' i̠ni̠',"MODE:EXH, TENSE:IPFV_REC, ASPECT:IPFV, ABSNUM:PL, PERSON:1_PL_INC",Se' ini
-Ye' i̠ni̠',"MODE:IMP, TENSE:IPFV_REC, ASPECT:IPFV, PERSON:2_SI",Be' ini
-Ye' i̠ni̠',"TYPE:NEG, MODE:IMP, TENSE:IPFV_REC, ASPECT:IPFV, PERSON:2_SI",Kë̀ be' ini
-Ye' i̠ni̠',"MODE:POT, TENSE:IPFV_REC, ASPECT:IPFV, PERSON:3_SI",Ini
-Ye' i̠ni̠',"TYPE:NEG, MODE:POT, TENSE:IPFV_REC, ASPECT:IPFV, PERSON:3_SI",Kë̀ inuk
-Ie' tkër kula' ki̠,TYPE:NEG,Ie kë̀ ie' kë̀ kunè kula' ki
-Ie' tkër kula' ki̠,"TENSE:PRF_REM, ASPECT:PFV",Ie' tkére
-Ie' tkër kula' ki̠,"TYPE:NEG, TENSE:PRF_REM, ASPECT:PFV",Ie' kë̀ ku'bak ie' tkër kula' ki
-Ie' tkër kula' ki̠,"ABSNUM:PL, PERSON:3_PL",Ie'pa tkër kula' ki
-Ie' tkër kula' ki̠,"TYPE:NEG, ABSNUM:PL, PERSON:3_PL",Ie'pa kë̀ ku'pa ie'pa shkárule kula' ki
-Ie' tkër kula' ki̠,"TENSE:PRF_REM, ASPECT:PFV, ABSNUM:PL, PERSON:3_PL",Ie'pa tkére kula' ki
-Ie' tkër kula' ki̠,"TYPE:NEG, TENSE:PRF_REM, ASPECT:PFV, ABSNUM:PL, PERSON:3_PL",Ie'pa kë̀ ku'pa tkére kula' ki
-Be' chka',"TENSE:IPFV_PROG, ASPECT:IPFV",Ye' tso shkö́k
-Be' chka',"TYPE:NEG, TENSE:IPFV_PROG, ASPECT:IPFV",Ye' kë̀ ku shkö́k
-Be' chka',"MODE:IMP, TENSE:IPFV_REC, ASPECT:IPFV",Be' chka'
-Be' chka',"TYPE:NEG, MODE:IMP, TENSE:IPFV_REC, ASPECT:IPFV",Kë̀ be' chkö́
-Ye' tö i stsë',"TENSE:IPFV_REC, ASPECT:IPFV, VOICE:MID, PERSON:3_SI",I stsë'r
-Ye' tö i stsë',"TENSE:IPFV_HAB, ASPECT:IPFV, VOICE:MID, PERSON:3_SI",I stè
-Ye' tö i stsë',"TYPE:NEG, TENSE:IPFV_HAB, ASPECT:IPFV, VOICE:MID, PERSON:3_SI",Kë̀ i stsë̀rku
-Ye' tö i stsë',"TENSE:FUT_POT, ASPECT:IPFV, VOICE:MID, PERSON:3_SI",I stsë'mi
-Ye' tö i stsë',"TYPE:NEG, TENSE:FUT_POT, ASPECT:IPFV, VOICE:MID, PERSON:3_SI",Kë̀ i stsënuk
-Ie' e̠' tkë'wa̠,"ABSNUM:PL, PERSON:3_PL",Ie'pa e' tkë'wa
-Kirë̀ tö tabè a̠me̠' ie' a̠,TYPE:NEG,Kë̀ tö tabè ame' ie' a
-Kirë̀ tö tabè a̠me̠' ie' a̠,ASPECT:INC,Ye' tö tabè ami' ie' a
-Kirë̀ tö tabè a̠me̠' ie' a̠,TENSE:PRF_REC,Ye' tö tabè ame' ie' a
-Kirë̀ tö tabè a̠me̠' ie' a̠,"TYPE:NEG, TENSE:PRF_REC",Kë̀ ye' a tö tabè ame' ie' a
-Kirë̀ tö tabè a̠me̠' ie' a̠,"TENSE:PRF_REC, ASPECT:INC",Ye' tö tabè ame' ie' ami
-Kirë̀ tö tabè a̠me̠' ie' a̠,"TENSE:IPFV_REC, ASPECT:IPFV",Ye' tö tabè ame' ie' a
-Kirë̀ tö tabè a̠me̠' ie' a̠,"TYPE:NEG, TENSE:IPFV_REC, ASPECT:IPFV",Kë̀ ye' a tö tabè ame' ie' a
-Kirë̀ tö tabè a̠me̠' ie' a̠,"TENSE:IPFV_PROG, ASPECT:IPFV",Ye' tso tso dawö́k tö tabè ame' ie' ak
-Kirë̀ tö tabè a̠me̠' ie' a̠,"TYPE:NEG, TENSE:IPFV_PROG, ASPECT:IPFV",Ye' kë̀ ku'bak tabè ame' ie' a
-Kirë̀ tö tabè a̠me̠' ie' a̠,TENSE:PRF_PROG,Ye' bák tö tabè ame' ie' a
-Kirë̀ tö tabè a̠me̠' ie' a̠,"TYPE:NEG, TENSE:PRF_PROG",Ye' kë̀ ku'bak tabè ame' ie' a
-Kirë̀ tö tabè a̠me̠' ie' a̠,"MODE:IMP, TENSE:IPFV_REC, ASPECT:IPFV",Kë̀ tö tabè ame' ie' a
-Kirë̀ tö tabè a̠me̠' ie' a̠,"TYPE:NEG, MODE:IMP, TENSE:IPFV_REC, ASPECT:IPFV",Kë̀ ame' ie' a
-Kirë̀ tö tabè a̠me̠' ie' a̠,"TYPE:NEG, MODE:IMP, TENSE:IPFV_REC, ASPECT:IPFV, VOICE:MID",Kë̀ amer ie' ie' a
-Kirë̀ tö tabè a̠me̠' ie' a̠,"MODE:EXH, TENSE:IPFV_REC, ASPECT:IPFV, PERSON:1_PL_INC",Sè tö tabè kume' ie' a
-Kirë̀ tö tabè a̠me̠' ie' a̠,"MODE:DES, TENSE:IPFV_REC, ASPECT:IPFV",Ye' én a tabè ame' ie' a
-Kirë̀ tö tabè a̠me̠' ie' a̠,"TYPE:NEG, MODE:DES, TENSE:IPFV_REC, ASPECT:IPFV",Kë̀ én a a tawa'ku' ie
-Kirë̀ tö tabè a̠me̠' ie' a̠,MODE:ADVERS,Ye' wa tabè ame' ie' a
-Kirë̀ tö tabè a̠me̠' ie' a̠,"TENSE:IPFV_HAB, ASPECT:IPFV",Yè tö tabèke ie' a
-Kirë̀ tö tabè a̠me̠' ie' a̠,"TYPE:NEG, TENSE:IPFV_HAB, ASPECT:IPFV",Kë̀ tö tabè kuèku ie' ie' a
-Kirë̀ tö tabè a̠me̠' ie' a̠,"TENSE:FUT_POT, ASPECT:IPFV",Ye' a tö tabè ame' ie' ami
-Kirë̀ tö tabè a̠me̠' ie' a̠,"TYPE:NEG, TENSE:FUT_POT, ASPECT:IPFV",Kë̀ ye' a tö tabè ame' ie' a
-Kirë̀ tö tabè a̠me̠' ie' a̠,"TENSE:FUT_CER, ASPECT:IPFV",Kë̀ tö tabè ame' ie' a
-Kirë̀ tö tabè a̠me̠' ie' a̠,"TYPE:NEG, TENSE:FUT_CER, ASPECT:IPFV",Kë̀ tö tabè ame' ie' a
-Kirë̀ tö tabè a̠me̠' ie' a̠,VOICE:MID,Yè tö tabè ame' ie' a
-Kirë̀ tö tabè a̠me̠' ie' a̠,"TYPE:NEG, VOICE:MID",Kë̀ ame' ie' a
-Kirë̀ tö tabè a̠me̠' ie' a̠,"TENSE:PRF_REC, VOICE:MID",Tabème' ie
-Kirë̀ tö tabè a̠me̠' ie' a̠,"TYPE:NEG, TENSE:PRF_REC, VOICE:MID",Kë̀ ame' ie' a
-Kirë̀ tö tabè a̠me̠' ie' a̠,"TENSE:IPFV_REC, ASPECT:IPFV, VOICE:MID",Ye' tö tabè amer ie' a
-Kirë̀ tö tabè a̠me̠' ie' a̠,"TYPE:NEG, TENSE:IPFV_REC, ASPECT:IPFV, VOICE:MID",Kë̀ amer ie' ie' a
-Kirë̀ tö tabè a̠me̠' ie' a̠,"TENSE:IPFV_HAB, ASPECT:IPFV, VOICE:MID",Tème' ie' a
-Kirë̀ tö tabè a̠me̠' ie' a̠,"TYPE:NEG, TENSE:IPFV_HAB, ASPECT:IPFV, VOICE:MID",Kë̀ ame' ie' a
-Kirë̀ tö tabè a̠me̠' ie' a̠,"TENSE:FUT_POT, ASPECT:IPFV, VOICE:MID",Tabèmi
-Kirë̀ tö tabè a̠me̠' ie' a̠,"TYPE:NEG, TENSE:FUT_POT, ASPECT:IPFV, VOICE:MID",Kë̀ ame' ie' a
-Kirë̀ tö tabè a̠me̠' ie' a̠,"TENSE:FUT_CER, ASPECT:IPFV, VOICE:MID",Tème' ie' a
-Kirë̀ tö tabè a̠me̠' ie' a̠,"TYPE:NEG, TENSE:FUT_CER, ASPECT:IPFV, VOICE:MID",Kë̀ ame' ie' a
-Kirë̀ tö tabè a̠me̠' ie' a̠,"TENSE:PAS_PLU, VOICE:MID",Tabème' ie
-Kirë̀ tö tabè a̠me̠' ie' a̠,"TYPE:NEG, TENSE:PAS_PLU, VOICE:MID",Kë̀ tabèpa ame' ie'pa
-Kirë̀ tö tabè a̠me̠' ie' a̠,"MODE:POT, TENSE:IPFV_REC, ASPECT:IPFV",Ye' a ame' ie' a
-Kirë̀ tö tabè a̠me̠' ie' a̠,"TYPE:NEG, MODE:POT, TENSE:IPFV_REC, ASPECT:IPFV",Kë̀ a me' ie' a
-Ye' tö uyë̀jkuö à̠ritsè bua'ë,TYPE:NEG,Ye' kë̀ wa uyë̀jku àritsè bua'ë̀ne
-Aláköl a̠wì̠ dör buáala,ABSNUM:PL,Buákawì dör buáala
-Alà mì̠ne̠ i ma̠u̠k,ABSNUM:PL,Clà mìne i mauk
-Alà mì̠ne̠ i ma̠u̠k,TYPE:NEG,Clà mìne i mauk
-Alà mì̠ne̠ i ma̠u̠k,"TYPE:NEG, ABSNUM:PL",Clà kë̀ kune i mauk
-Alà mì̠ne̠ i ma̠u̠k,TENSE:PRF_REC,Clà mìne i mauk
-Alà mì̠ne̠ i ma̠u̠k,"TENSE:PRF_REC, ABSNUM:PL",Bulà bák dapárke i mauk
-Alà mì̠ne̠ i ma̠u̠k,"TENSE:IPFV_REC, ASPECT:IPFV",Bulà mìne i ma kimè
-Alà mì̠ne̠ i ma̠u̠k,"TENSE:IPFV_REC, ASPECT:IPFV, ABSNUM:PL",Bulà mìne i mapa tso auk
-Alà mì̠ne̠ i ma̠u̠k,"TENSE:IPFV_PROG, ASPECT:IPFV",Bulà tso mìne i ma tso kuuk
-Alà mì̠ne̠ i ma̠u̠k,"TYPE:NEG, TENSE:IPFV_PROG, ASPECT:IPFV",Bu kë̀ kune i biö́k
-Alà mì̠ne̠ i ma̠u̠k,TENSE:PRF_PROG,Bulà bák mìne i ma tso bák
-Alà mì̠ne̠ i ma̠u̠k,"TYPE:NEG, TENSE:PRF_PROG",Bulà kë̀ ku'bak mìne i kumèk
-Alà mì̠ne̠ i ma̠u̠k,"TENSE:IPFV_PROG, ASPECT:IPFV, ABSNUM:PL",A' tso mìne i mauk
-Alà mì̠ne̠ i ma̠u̠k,"TYPE:NEG, TENSE:IPFV_PROG, ASPECT:IPFV, ABSNUM:PL",Buà kë̀ kune i mauk
-Alà mì̠ne̠ i ma̠u̠k,"TENSE:PRF_PROG, ABSNUM:PL",Clà bák dapárke i mauk
-Alà mì̠ne̠ i ma̠u̠k,"TYPE:NEG, TENSE:PRF_PROG, ABSNUM:PL",Buà kë̀ ku'bak dapárke i mauk
-Awá tsë',TENSE:PRF_REC,Yeá tsë'
-Ie' tö àrros ña̠',ASPECT:INC,Ie' tö àrros ña'mi
-Ie' tö àrros ña̠',TYPE:NEG,Ie kë̀ ie' tö àrros ña
-Ie' tö àrros ña̠',"TENSE:IPFV_PROG, ASPECT:IPFV",Ie' tso àrros ñaúk
-Ie' tö àrros ña̠',"TYPE:NEG, TENSE:IPFV_PROG, ASPECT:IPFV",Ie' kë̀ ku àrros ña
-Ie' tö àrros ña̠',TENSE:PRF_PROG,Ie' bák àrros ña'bak ie' tö́k
-Ie' tö àrros ña̠',"TYPE:NEG, TENSE:PRF_PROG",Ie' kë̀ ku'bak àrros ña'ku
-Ie' tö àrros ña̠',"TENSE:IPFV_REC, ASPECT:IPFV",Ie' tö àrros ña
-Ie' tö àrros ña̠',"TYPE:NEG, TENSE:IPFV_REC, ASPECT:IPFV",Kë̀ ie' tö àrros ujto
-Ie' tö àrros ña̠',"MODE:IMP, TENSE:IPFV_REC, ASPECT:IPFV, PERSON:NA",Àrros ña
-Ie' tö àrros ña̠',"TYPE:NEG, MODE:IMP, TENSE:IPFV_REC, ASPECT:IPFV, PERSON:NA",Kë̀ àrros ña
-Ie' tö àrros ña̠',"TYPE:NEG, MODE:IMP, TENSE:IPFV_REC, ASPECT:IPFV, VOICE:MID, PERSON:NA",Kë̀ àrros ñar
-Ie' tö àrros ña̠',"MODE:EXH, TENSE:IPFV_REC, ASPECT:IPFV, PERSON:1_PL_INC",Àrros ña
-Ie' tö àrros ña̠',"MODE:DES, TENSE:IPFV_REC, ASPECT:IPFV",Ie' én a àrros ña
-Ie' tö àrros ña̠',"TYPE:NEG, MODE:DES, TENSE:IPFV_REC, ASPECT:IPFV",Kë̀ én a àrros ña
-Ie' tö àrros ña̠',MODE:ADVERS,Ie' wa àrros ña'
-Ie' tö àrros ña̠',TENSE:PRF_REC,Ie' tö àrros ña
-Ie' tö àrros ña̠',"TENSE:PRF_REC, ASPECT:INC",Ie' tö àrros ñami
-Ie' tö àrros ña̠',"TYPE:NEG, TENSE:PRF_REC",Ie' kë̀ ku'bak àrros ña'
-Ie' tö àrros ña̠',"TENSE:IPFV_HAB, ASPECT:IPFV",Ie' tö àrros ñaèke
-Ie' tö àrros ña̠',"TYPE:NEG, TENSE:IPFV_HAB, ASPECT:IPFV",Kë̀ ie' tö àrros ujèku
-Ie' tö àrros ña̠',"TENSE:FUT_POT, ASPECT:IPFV",Ie' tö àrros ñaèmi
-Ie' tö àrros ña̠',"TYPE:NEG, TENSE:FUT_POT, ASPECT:IPFV",Kë̀ ie' tö àrros ujto
-Ie' tö àrros ña̠',"TENSE:FUT_CER, ASPECT:IPFV",Ie' tö àrros ñaèrâ
-Ie' tö àrros ña̠',"TYPE:NEG, TENSE:FUT_CER, ASPECT:IPFV",Kë̀ ie' tö àrros ñaèpa
-Ie' tö àrros ña̠',"TENSE:IPFV_REC, ASPECT:IPFV, VOICE:MID, PERSON:NA",Àrros ña
-Ie' tö àrros ña̠',"TYPE:NEG, TENSE:IPFV_REC, ASPECT:IPFV, VOICE:MID, PERSON:NA",Kë̀ àrros ñar
-Ie' tö àrros ña̠',"VOICE:MID, PERSON:NA",Àrros ña
-Ie' tö àrros ña̠',"TYPE:NEG, VOICE:MID, PERSON:NA",Kë̀ àrros ñane
-Ie' tö àrros ña̠',"TENSE:PRF_REC, VOICE:MID, PERSON:NA",Àrros ña
-Ie' tö àrros ña̠',"TYPE:NEG, TENSE:PRF_REC, VOICE:MID, PERSON:NA",Kë̀ àrros ña
-Ie' tö àrros ña̠',"TENSE:IPFV_HAB, ASPECT:IPFV, VOICE:MID, PERSON:NA",Àrros ña
-Ie' tö àrros ña̠',"TYPE:NEG, TENSE:IPFV_HAB, ASPECT:IPFV, VOICE:MID, PERSON:NA",Kë̀ àrros ñarku
-Ie' tö àrros ña̠',"TENSE:FUT_POT, ASPECT:IPFV, VOICE:MID, PERSON:NA",Àrros ña
-Ie' tö àrros ña̠',"TYPE:NEG, TENSE:FUT_POT, ASPECT:IPFV, VOICE:MID, PERSON:NA",Kë̀ àrros ñanuk
-Ie' tö àrros ña̠',"TENSE:FUT_CER, ASPECT:IPFV, VOICE:MID, PERSON:NA",Àrros ñarâ
-Ie' tö àrros ña̠',"TYPE:NEG, TENSE:FUT_CER, ASPECT:IPFV, VOICE:MID, PERSON:NA",Kë̀ àrros ñarpa
-Ie' tö àrros ña̠',TENSE:PAS_PLU,Ie' wa àrros ñaárule
-Ie' tö àrros ña̠',"TYPE:NEG, TENSE:PAS_PLU",Ie' kë̀ wa àrros ñarule
-Ie' tö àrros ña̠',"TENSE:PAS_PLU, VOICE:MID, PERSON:NA",Àrros ñaárule
-Ie' tö àrros ña̠',"TYPE:NEG, TENSE:PAS_PLU, VOICE:MID, PERSON:NA",Kë̀ àrros ñaárule
-Skuë̀ ta̠',"TENSE:PRF_REM, ASPECT:PFV",Cë̀ ta'
-Ye' tú̠ne̠',TYPE:NEG,Ye' kë̀ wane
-Ye' tú̠ne̠',TENSE:PRF_REC,Ye' túne
-Ye' tú̠ne̠',"TYPE:NEG, TENSE:PRF_REC",Ye' kë̀ne
-Ye' tú̠ne̠',"TENSE:IPFV_REC, ASPECT:IPFV",Ye' túne
-Ye' tú̠ne̠',"TYPE:NEG, TENSE:IPFV_REC, ASPECT:IPFV",Kë̀ ye' túne
-Ye' tú̠ne̠',"TENSE:IPFV_REC, ASPECT:IPFV, PERSON:3_SI",Ie' ie' ujtö̀kène
-Ye' tú̠ne̠',"TENSE:IPFV_REC, ASPECT:IPFV, ABSNUM:PL, PERSON:3_PL",Ie'pa Ie'pa ipa ane
-Ye' tú̠ne̠',"TYPE:NEG, TENSE:IPFV_REC, ASPECT:IPFV, PERSON:3_SI",Kë̀ ie' ujtone
-Ye' tú̠ne̠',"TENSE:IPFV_PROG, ASPECT:IPFV",Ye' tso ye' tso ujtö́k
-Ye' tú̠ne̠',"TYPE:NEG, TENSE:IPFV_PROG, ASPECT:IPFV",Ye' kë̀ kune
-Ye' tú̠ne̠',TENSE:PRF_PROG,Ye' bák dawö́k
-Ye' tú̠ne̠',"TYPE:NEG, TENSE:PRF_PROG",Ye' kë̀ ku'bakne
-Ye' tú̠ne̠',"MODE:IMP, TENSE:IPFV_REC, ASPECT:IPFV, PERSON:2_SI",Be' tane
-Ye' tú̠ne̠',"MODE:IMP, TENSE:IPFV_REC, ASPECT:IPFV, ABSNUM:PL, PERSON:2_PL",A' túne
-Ye' tú̠ne̠',"TYPE:NEG, MODE:IMP, TENSE:IPFV_REC, ASPECT:IPFV, PERSON:2_SI",Kë̀ be' tane
-Ye' tú̠ne̠',"TYPE:NEG, MODE:IMP, TENSE:IPFV_REC, ASPECT:IPFV, ABSNUM:PL, PERSON:2_PL",Kë̀ be' ane
-Ye' tú̠ne̠',"TENSE:IPFV_HAB, ASPECT:IPFV",Ye' tso yekèke
-Ye' tú̠ne̠',"TYPE:NEG, TENSE:IPFV_HAB, ASPECT:IPFV",Kë̀ ye' túne
-Ye' tú̠ne̠',"TENSE:FUT_POT, ASPECT:IPFV",Ye' túne
-Ye' tú̠ne̠',"TYPE:NEG, TENSE:FUT_POT, ASPECT:IPFV",Kë̀ ye' tune
-Ye' tú̠ne̠',"TENSE:FUT_CER, ASPECT:IPFV",Ye' túne
-Ye' tú̠ne̠',"TYPE:NEG, TENSE:FUT_CER, ASPECT:IPFV",Kë̀ ye' túne
-Ye' tú̠ne̠',"VOICE:MID, ABSNUM:NI, PERSON:NA",Shkàne
-Ye' tú̠ne̠',"TYPE:NEG, VOICE:MID, ABSNUM:NI, PERSON:NA",Kë̀ shkàne
-Ye' tú̠ne̠',"TENSE:PRF_REC, VOICE:MID, ABSNUM:NI, PERSON:NA",Shkànane
-Ye' tú̠ne̠',"TYPE:NEG, TENSE:PRF_REC, VOICE:MID, ABSNUM:NI, PERSON:NA",Kë̀ shkàne
-Ye' a̠mì̠ tö bö̀wö duké wö'ik,TYPE:NEG,Ye' kë̀ wamìne
-Ye' a̠mì̠ tö bö̀wö duké wö'ik,ASPECT:INC,Ye' amì tö bö̀wèmi
-Ye' a̠mì̠ tö bö̀wö duké wö'ik,TENSE:PRF_REC,Ye' amì tö bö̀wè
-Ye' a̠mì̠ tö bö̀wö duké wö'ik,"TYPE:NEG, TENSE:PRF_REC",Ye' kë̀ wamì tö̀wè
-Ye' a̠mì̠ tö bö̀wö duké wö'ik,"TENSE:PRF_REC, ASPECT:INC",Ye' amì tö bö̀wèmi
-Ye' a̠mì̠ tö bö̀wö duké wö'ik,"TENSE:IPFV_REC, ASPECT:IPFV",Ye' amì tö bö̀wè
-Ye' a̠mì̠ tö bö̀wö duké wö'ik,"TYPE:NEG, TENSE:IPFV_REC, ASPECT:IPFV",Kë̀ ye' amì tö bö̀wö̀k
-Ye' a̠mì̠ tö bö̀wö duké wö'ik,"TENSE:IPFV_PROG, ASPECT:IPFV",Ye' amì tso bö̀wö́k
-Ye' a̠mì̠ tö bö̀wö duké wö'ik,"TYPE:NEG, TENSE:IPFV_PROG, ASPECT:IPFV",Ye' kë̀ kumì tso bö̀ kumèk dawö́k
-Ye' a̠mì̠ tö bö̀wö duké wö'ik,TENSE:PRF_PROG,Ye' amì bák amìmì tö́k
-Ye' a̠mì̠ tö bö̀wö duké wö'ik,"TYPE:NEG, TENSE:PRF_PROG",Ye' kë̀ ku'bakmì tö́k
-Ye' a̠mì̠ tö bö̀wö duké wö'ik,"MODE:IMP, TENSE:IPFV_REC, ASPECT:IPFV",Be' amì tö́k dawö́k
-Ye' a̠mì̠ tö bö̀wö duké wö'ik,"TYPE:NEG, MODE:IMP, TENSE:IPFV_REC, ASPECT:IPFV",Kë̀ amì tö́k
-Ye' a̠mì̠ tö bö̀wö duké wö'ik,"TYPE:NEG, MODE:IMP, TENSE:IPFV_REC, ASPECT:IPFV, VOICE:MID",Kë̀ amì biarök
-Ye' a̠mì̠ tö bö̀wö duké wö'ik,"MODE:EXH, TENSE:IPFV_REC, ASPECT:IPFV, PERSON:1_PL_INC",Se' amì tö̀wö̀ ku sö'ik
-Ye' a̠mì̠ tö bö̀wö duké wö'ik,"MODE:DES, TENSE:IPFV_REC, ASPECT:IPFV",Ye' amì én amì amèku bö̀ ta'ku du dawö́k
-Ye' a̠mì̠ tö bö̀wö duké wö'ik,"TYPE:NEG, MODE:DES, TENSE:IPFV_REC, ASPECT:IPFV",Kë̀ ye' amì én a amèku bö̀ ta'ku dawö́k
-Ye' a̠mì̠ tö bö̀wö duké wö'ik,MODE:ADVERS,Ye' amì wamì tö́k
-Ye' a̠mì̠ tö bö̀wö duké wö'ik,"TENSE:IPFV_HAB, ASPECT:IPFV",Ye' amì tö bö̀wèke
-Ye' a̠mì̠ tö bö̀wö duké wö'ik,"TYPE:NEG, TENSE:IPFV_HAB, ASPECT:IPFV",Kë̀ ye' amì tö̀wèku
-Ye' a̠mì̠ tö bö̀wö duké wö'ik,"TENSE:FUT_POT, ASPECT:IPFV",Ye' amì tö bö̀wèmi
-Ye' a̠mì̠ tö bö̀wö duké wö'ik,"TYPE:NEG, TENSE:FUT_POT, ASPECT:IPFV",Kë̀ ye' amì tö bö̀wö̀k
-Ye' a̠mì̠ tö bö̀wö duké wö'ik,"TENSE:FUT_CER, ASPECT:IPFV",Ye' amì tö bö̀wèrâ wö́k
-Ye' a̠mì̠ tö bö̀wö duké wö'ik,"TYPE:NEG, TENSE:FUT_CER, ASPECT:IPFV",Kë̀ ye' amì tö̀wèpa bir
-Ye' a̠mì̠ tö bö̀wö duké wö'ik,VOICE:MID,Ye' amì tö bö̀wèmi
-Ye' a̠mì̠ tö bö̀wö duké wö'ik,"TYPE:NEG, VOICE:MID",Kë̀ amì kë̀wèn
-Ye' a̠mì̠ tö bö̀wö duké wö'ik,"TENSE:PRF_REC, VOICE:MID",Ye' amì tö bö̀wè
-Ye' a̠mì̠ tö bö̀wö duké wö'ik,"TYPE:NEG, TENSE:PRF_REC, VOICE:MID",Kë̀ bö̀wàr
-Ye' a̠mì̠ tö bö̀wö duké wö'ik,"TENSE:IPFV_REC, ASPECT:IPFV, VOICE:MID",Kë̀ bö̀wök
-Ye' a̠mì̠ tö bö̀wö duké wö'ik,"TYPE:NEG, TENSE:IPFV_REC, ASPECT:IPFV, VOICE:MID",Kë̀ bö̀wök
-Ye' a̠mì̠ tö bö̀wö duké wö'ik,"TENSE:IPFV_HAB, ASPECT:IPFV, VOICE:MID",Kë̀ bö̀wèk
-Ye' a̠mì̠ tö bö̀wö duké wö'ik,"TYPE:NEG, TENSE:IPFV_HAB, ASPECT:IPFV, VOICE:MID",Kë̀ bö̀wèku
-Ye' a̠mì̠ tö bö̀wö duké wö'ik,"TENSE:FUT_POT, ASPECT:IPFV, VOICE:MID",Kë̀ bö̀wök
-Ye' a̠mì̠ tö bö̀wö duké wö'ik,"TYPE:NEG, TENSE:FUT_POT, ASPECT:IPFV, VOICE:MID",Kë̀ bö̀wök
-Ye' a̠mì̠ tö bö̀wö duké wö'ik,"TENSE:FUT_CER, ASPECT:IPFV, VOICE:MID",Kë̀ bö̀wèpa
-Ye' a̠mì̠ tö bö̀wö duké wö'ik,"TYPE:NEG, TENSE:FUT_CER, ASPECT:IPFV, VOICE:MID",Kë̀ bö̀wàrpa
-Ye' a̠mì̠ tö bö̀wö duké wö'ik,TENSE:PAS_PLU,Ye' amì wamèpa wamì tö bö̀wárule
-Ye' a̠mì̠ tö bö̀wö duké wö'ik,"TYPE:NEG, TENSE:PAS_PLU",Ye' kë̀ wamì kë̀ wamèpa
-Ye' a̠mì̠ tö bö̀wö duké wö'ik,"MODE:POT, TENSE:IPFV_REC, ASPECT:IPFV",Ye' amì amèwam am am amwö́k
-Ye' a̠mì̠ tö bö̀wö duké wö'ik,"TYPE:NEG, MODE:POT, TENSE:IPFV_REC, ASPECT:IPFV",Kë̀ amì amèwa am amwö́k
-Mó̠köl ar ka̠nò̠ a̠,TYPE:NEG,Kë̀ chìköl ar kanò a
-Mó̠köl ar ka̠nò̠ a̠,"TENSE:PRF_REM, ASPECT:PFV",Buköl ar kanèmè a
-Mó̠köl ar ka̠nò̠ a̠,"TYPE:NEG, TENSE:PRF_REM, ASPECT:PFV",Bu kë̀ ku'bakköl ar kanèk a
-Mó̠köl ar ka̠nò̠ a̠,ABSNUM:PL,Buköl ar kanò a
-Mó̠köl ar ka̠nò̠ a̠,"TYPE:NEG, ABSNUM:PL",Bu kë̀ kuk dapárke aköl ar kanò a a
-Mó̠köl ar ka̠nò̠ a̠,"TENSE:PRF_REM, ASPECT:PFV, ABSNUM:PL",Aköl ar kanò a
-Mó̠köl ar ka̠nò̠ a̠,"TYPE:NEG, TENSE:PRF_REM, ASPECT:PFV, ABSNUM:PL",A kë̀ ku'bakköl ar kanèpa a
-Si̠ni̠' tër í̠s ki̠,TYPE:NEG,Kë̀ yeni' tër tër tër tër ís ki
-Si̠ni̠' tër í̠s ki̠,"TENSE:PRF_REM, ASPECT:PFV",Yeni' témèmè
-Si̠ni̠' tër í̠s ki̠,"TYPE:NEG, TENSE:PRF_REM, ASPECT:PFV",Kë̀ yen ani' tër ís ki
-Si̠ni̠' tër í̠s ki̠,ABSNUM:PL,Yeni' të̀ dapárke ís ki
-Si̠ni̠' tër í̠s ki̠,"TYPE:NEG, ABSNUM:PL",Kë̀ chìni' të̀pa
-Si̠ni̠' tër í̠s ki̠,"TENSE:PRF_REM, ASPECT:PFV, ABSNUM:PL",A' bák da'párke ís ki
-Si̠ni̠' tër í̠s ki̠,"TYPE:NEG, TENSE:PRF_REM, ASPECT:PFV, ABSNUM:PL",A' kë̀ ku'bak dapárke ís ki
-I dé,"ABSNUM:PL, PERSON:3_PL",Iepa Iepa dapáre
-I dé,TENSE:PRF_REM,Ye' ujté
-I dé,"TENSE:IPFV_PROG, ASPECT:IPFV",Ye tso tso tso tso tso dawö́k
-I dé,"TYPE:NEG, TENSE:IPFV_PROG, ASPECT:IPFV",Ye' kë̀ ku
-I dé,TENSE:PRF_PROG,Ye' bák dawö́k
-I dé,"TYPE:NEG, TENSE:PRF_PROG",Ye' kë̀ ku'bak tö́k
-I̠nú̠köl ta̠',"TENSE:PRF_REC, ASPECT:PFV",Yenúköl ta
-I̠nú̠köl ta̠',"TENSE:PRF_REM, ASPECT:PFV",Yenúköl tawa
+Source	Change	Target
+Ye' tö àrros ali' ù̠ i' a̠	TYPE:NEG	Ye' kë̀ wa àrros ali' ù iene
+Ye' tö àrros ali' ù̠ i' a̠	ASPECT:INC	Ye' tö àrros ali'mi ù i' a
+Ye' tö àrros ali' ù̠ i' a̠	TENSE:PRF_REC	Ye' tö àrros ali' ù i' a
+Ye' tö àrros ali' ù̠ i' a̠	TYPE:NEG, TENSE:PRF_REC	Ye' kë̀ wa àrros tòne ù i i' a
+Ye' tö àrros ali' ù̠ i' a̠	TENSE:PRF_REC, ASPECT:INC	Ye' tö àrros ali'mi
+Ye' tö àrros ali' ù̠ i' a̠	TENSE:IPFV_REC, ASPECT:IPFV	Ye' tö àrros ali' ù ie' a
+Ye' tö àrros ali' ù̠ i' a̠	TYPE:NEG, TENSE:IPFV_REC, ASPECT:IPFV	Kë̀ ye' tö àrros ali' ù ie' a
+Ye' tö àrros ali' ù̠ i' a̠	TENSE:IPFV_PROG, ASPECT:IPFV	Ye' tso àrros ù ie' tso tso àrros ujtö́k
+Ye' tö àrros ali' ù̠ i' a̠	TYPE:NEG, TENSE:IPFV_PROG, ASPECT:IPFV	Ye' kë̀ ku àrros ù ie' sö
+Ye' tö àrros ali' ù̠ i' a̠	TENSE:PRF_PROG	Ye' bák àrros ali' ù ie' sö
+Ye' tö àrros ali' ù̠ i' a̠	TYPE:NEG, TENSE:PRF_PROG	Ye' kë̀ ku'bak àrros ku'bak àrros ali' ù ie' a
+Ye' tö àrros ali' ù̠ i' a̠	MODE:IMP, TENSE:IPFV_REC, ASPECT:IPFV, PERSON:NA	Àrros ali' a i' a
+Ye' tö àrros ali' ù̠ i' a̠	TYPE:NEG, MODE:IMP, TENSE:IPFV_REC, ASPECT:IPFV, PERSON:NA	Kë̀ àrros ali' ù ie' a
+Ye' tö àrros ali' ù̠ i' a̠	TYPE:NEG, MODE:IMP, TENSE:IPFV_REC, ASPECT:IPFV, VOICE:MID, PERSON:NA	Kë̀ àrros ali' ù ie
+Ye' tö àrros ali' ù̠ i' a̠	MODE:EXH, TENSE:IPFV_REC, ASPECT:IPFV, PERSON:1_PL_INC	Àrros ali' ù i' a ujtö̀ sö
+Ye' tö àrros ali' ù̠ i' a̠	MODE:DES, TENSE:IPFV_REC, ASPECT:IPFV	Ye' én a àrros tawa'ku i
+Ye' tö àrros ali' ù̠ i' a̠	TYPE:NEG, MODE:DES, TENSE:IPFV_REC, ASPECT:IPFV	Kë̀ ye' én a àrros tawa'ku i
+Ye' tö àrros ali' ù̠ i' a̠	MODE:ADVERS	Ye' wa àrros tawa' ù i' a
+Ye' tö àrros ali' ù̠ i' a̠	TENSE:IPFV_HAB, ASPECT:IPFV	Ye' tö àrros tèke i' a
+Ye' tö àrros ali' ù̠ i' a̠	TYPE:NEG, TENSE:IPFV_HAB, ASPECT:IPFV	Kë̀ ye' tö àrros ali' ù i' a
+Ye' tö àrros ali' ù̠ i' a̠	TENSE:FUT_POT, ASPECT:IPFV	Ye' tö àrros ali'mi
+Ye' tö àrros ali' ù̠ i' a̠	TYPE:NEG, TENSE:FUT_POT, ASPECT:IPFV	Kë̀ ye' tö àrros ali' ù ie' a
+Ye' tö àrros ali' ù̠ i' a̠	TENSE:FUT_CER, ASPECT:IPFV	Ye' tö àrros tèrâ ù i' a
+Ye' tö àrros ali' ù̠ i' a̠	TYPE:NEG, TENSE:FUT_CER, ASPECT:IPFV	Kë̀ ye' tö àrros tawe i' a
+Ye' tö àrros ali' ù̠ i' a̠	VOICE:MID, PERSON:NA	Àrros ali' ù ie
+Ye' tö àrros ali' ù̠ i' a̠	TYPE:NEG, VOICE:MID, PERSON:NA	Kë̀ àrros ali'ne i i i' a
+Ye' tö àrros ali' ù̠ i' a̠	TENSE:PRF_REC, VOICE:MID, PERSON:NA	Àrros ali' ù ie
+Ye' tö àrros ali' ù̠ i' a̠	TYPE:NEG, TENSE:PRF_REC, VOICE:MID, PERSON:NA	Kë̀ àrros ali' ù ie
+Ye' tö àrros ali' ù̠ i' a̠	TENSE:IPFV_REC, ASPECT:IPFV, VOICE:MID, PERSON:NA	Àrros ali' ù ie' a
+Ye' tö àrros ali' ù̠ i' a̠	TYPE:NEG, TENSE:IPFV_REC, ASPECT:IPFV, VOICE:MID, PERSON:NA	Kë̀ àrros ali'r ù ie
+Ye' tö àrros ali' ù̠ i' a̠	TENSE:IPFV_HAB, ASPECT:IPFV, VOICE:MID, PERSON:NA	Àrros a ièke àrros ali' ù i' a
+Ye' tö àrros ali' ù̠ i' a̠	TYPE:NEG, TENSE:IPFV_HAB, ASPECT:IPFV, VOICE:MID, PERSON:NA	Kë̀ àrros ali' ù ièku i
+Ye' tö àrros ali' ù̠ i' a̠	TENSE:FUT_POT, ASPECT:IPFV, VOICE:MID, PERSON:NA	Àrros ali' ù ièmi
+Ye' tö àrros ali' ù̠ i' a̠	TYPE:NEG, TENSE:FUT_POT, ASPECT:IPFV, VOICE:MID, PERSON:NA	Kë̀ àrros ali'nuk ik i
+Ye' tö àrros ali' ù̠ i' a̠	TENSE:FUT_CER, ASPECT:IPFV, VOICE:MID, PERSON:NA	Àrros ali' ù ièrâ
+Ye' tö àrros ali' ù̠ i' a̠	TYPE:NEG, TENSE:FUT_CER, ASPECT:IPFV, VOICE:MID, PERSON:NA	Kë̀ àrros ali' ù ièpa
+Ye' tö àrros ali' ù̠ i' a̠	TENSE:PAS_PLU	Ye' wa àrros ali' ù i' arule
+Ye' tö àrros ali' ù̠ i' a̠	TYPE:NEG, TENSE:PAS_PLU	Ye' kë̀ wa àrros ali' ù ie'pa
+Ye' tö àrros ali' ù̠ i' a̠	MODE:POT, TENSE:IPFV_REC, ASPECT:IPFV	Ye' a àrros ali' ù i' a
+Ye' tö àrros ali' ù̠ i' a̠	TYPE:NEG, MODE:POT, TENSE:IPFV_REC, ASPECT:IPFV	Kë̀ ye' a àrros a ie' a
+I kiö́	ABSNUM:PL	kiö́
+I tso'	ABSNUM:PL, PERSON:3_PL	Iepa tso'pa
+Maria dör kápi u'	TYPE:NEG	dör kápi u'ne
+Maria dör kápi u'	ASPECT:INC	dör kápi u'mi
+Maria dör kápi u'	TENSE:PRF_REC	dör kápi u' bé
+Maria dör kápi u'	TYPE:NEG, TENSE:PRF_REC	dör kápi uè
+Maria dör kápi u'	TENSE:PRF_REC, ASPECT:INC	dör kápi u'mi
+Maria dör kápi u'	TENSE:IPFV_REC, ASPECT:IPFV	dör kápi uè
+Maria dör kápi u'	TYPE:NEG, TENSE:IPFV_REC, ASPECT:IPFV	Kë̀ be' dör kápi ue
+Maria dör kápi u'	TENSE:IPFV_PROG, ASPECT:IPFV	Be' tso kápi uö́k
+Maria dör kápi u'	TYPE:NEG, TENSE:IPFV_PROG, ASPECT:IPFV	Be kë̀ ku kápi uö́k
+Maria dör kápi u'	TENSE:PRF_PROG	Be' bák kápiú́k
+Maria dör kápi u'	TYPE:NEG, TENSE:PRF_PROG	Be' kë̀ ku'bak kápi u'bak
+Maria dör kápi u'	MODE:IMP, TENSE:IPFV_REC, ASPECT:IPFV	Be' a kápi u'ku
+Maria dör kápi u'	TYPE:NEG, MODE:IMP, TENSE:IPFV_REC, ASPECT:IPFV	Kë̀ be' a kápi u'ku
+Maria dör kápi u'	TYPE:NEG, MODE:IMP, TENSE:IPFV_REC, ASPECT:IPFV, VOICE:MID	Kë̀ kápi uök
+Maria dör kápi u'	MODE:EXH, TENSE:IPFV_REC, ASPECT:IPFV, PERSON:1_PL_INC	Se' kápi u
+Maria dör kápi u'	MODE:DES, TENSE:IPFV_REC, ASPECT:IPFV	Be én a kápi u'ku
+Maria dör kápi u'	TYPE:NEG, MODE:DES, TENSE:IPFV_REC, ASPECT:IPFV	Kë̀ be én a kápi én a
+Maria dör kápi u'	MODE:ADVERS	Be' wa kápi u'
+Maria dör kápi u'	TENSE:IPFV_HAB, ASPECT:IPFV	dör kápi uèke
+Maria dör kápi u'	TYPE:NEG, TENSE:IPFV_HAB, ASPECT:IPFV	Kë̀ be' dör kápi uèku
+Maria dör kápi u'	TENSE:FUT_POT, ASPECT:IPFV	dör kápi uèmi
+Maria dör kápi u'	TYPE:NEG, TENSE:FUT_POT, ASPECT:IPFV	Kë̀ be' dör kápi uök
+Maria dör kápi u'	TENSE:FUT_CER, ASPECT:IPFV	dör kápi uèrâ
+Maria dör kápi u'	TYPE:NEG, TENSE:FUT_CER, ASPECT:IPFV	Kë̀ be' dör kápi uèpa
+Maria dör kápi u'	VOICE:MID	Be' wa kápi u'mi
+Maria dör kápi u'	TYPE:NEG, VOICE:MID	Kë̀ wa kápi u
+Maria dör kápi u'	TENSE:PRF_REC, VOICE:MID	Kë̀ kápi ue
+Maria dör kápi u'	TYPE:NEG, TENSE:PRF_REC, VOICE:MID	Kë̀ kápi ue
+Maria dör kápi u'	TENSE:IPFV_REC, ASPECT:IPFV, VOICE:MID	Kë̀ kápi ue
+Maria dör kápi u'	TYPE:NEG, TENSE:IPFV_REC, ASPECT:IPFV, VOICE:MID	Kë̀ kápi ue
+Maria dör kápi u'	TENSE:IPFV_HAB, ASPECT:IPFV, VOICE:MID	Kë̀ kápi uèku
+Maria dör kápi u'	TYPE:NEG, TENSE:IPFV_HAB, ASPECT:IPFV, VOICE:MID	Kë̀ kápi uèku
+Maria dör kápi u'	TENSE:FUT_POT, ASPECT:IPFV, VOICE:MID	Kë̀ kápi ui
+Maria dör kápi u'	TYPE:NEG, TENSE:FUT_POT, ASPECT:IPFV, VOICE:MID	Kë̀ kápi uök
+Maria dör kápi u'	TENSE:FUT_CER, ASPECT:IPFV, VOICE:MID	Kë̀ kápi uèpa
+Maria dör kápi u'	TYPE:NEG, TENSE:FUT_CER, ASPECT:IPFV, VOICE:MID	Kë̀ kápi uèpa
+Maria dör kápi u'	TENSE:PAS_PLU	Be wa kápi uárule
+Maria dör kápi u'	TYPE:NEG, TENSE:PAS_PLU	Be kë̀ wa kápi uárule
+Maria dör kápi u'	MODE:POT, TENSE:IPFV_REC, ASPECT:IPFV	Be a kápi u'ku
+Maria dör kápi u'	TYPE:NEG, MODE:POT, TENSE:IPFV_REC, ASPECT:IPFV	Kë̀ a kápi uár
+Ye' ka̠nè̠balë'	TENSE:IPFV_REC, ASPECT:IPFV, VOICE:MID, ABSNUM:NI, PERSON:NA	Kë̀nèbalë̀r
+Ye' ka̠nè̠balë'	TYPE:NEG, TENSE:IPFV_REC, ASPECT:IPFV, VOICE:MID, ABSNUM:NI, PERSON:NA	Kë̀nèr
+Ye' tö i yë́	TYPE:NEG	Ye' kë̀ wa i yë̀ne
+Ye' tö i yë́	PERSON:2_SI	Be' tö i yë́mi
+Ye' tö i yë́	TYPE:NEG, PERSON:2_SI	Be' kë̀ wa iemène
+Ye' tö i yë́	PERSON:3_SI	Ie' tö i yë́
+Ye' tö i yë́	TYPE:NEG, PERSON:3_SI	Ie' kë̀ wa i yë́ne
+Ye' tö i yë́	PERSON:1_PL_EXC	Sa' tö i yë́
+Ye' tö i yë́	TYPE:NEG, PERSON:1_PL_EXC	Sa' kë̀ wa ie'pa kë̀ Sa' tö̀ ie'pa Sa' Sa' Sa' Sa' Sa' Sa' Sa' Sa' Sa' Sa' Sa' Sa' Sa' Sa' Sa' Sa' Sa' Sa' Sa' Sa' Sa'
+Ye' tö i yë́	PERSON:1_PL_INC	Se' tö i yë́mi
+Ye' tö i yë́	TYPE:NEG, PERSON:1_PL_INC	Se' kë̀ wa i yë̀ne
+Ye' tö i yë́	PERSON:2_PL	A' tö ie'pa
+Ye' tö i yë́	TYPE:NEG, PERSON:2_PL	A' kë̀ wa ie'pa
+Ye' tö i yë́	PERSON:3_PL	Ie'pa tö i yë́pa
+Ye' tö i yë́	TYPE:NEG, PERSON:3_PL	Ie'pa kë̀ ie'pa kë̀pa
+Ye' tö i yë́	TENSE:PRF_REC	Ye' tö i yë́
+Ye' tö i yë́	TENSE:IPFV_REC, ASPECT:IPFV	Ye' tö i yë́
+Ye' tö i yë́	TENSE:IPFV_PROG, ASPECT:IPFV	Ye' tso ie' ujtö́k
+Ye' tö i yë́	TYPE:NEG, TENSE:IPFV_PROG, ASPECT:IPFV	Ye' kë̀ ku i yë́k
+Ye' tö i yë́	TENSE:PRF_PROG	Ye' bák i yë́k
+Ye' tö i yë́	TYPE:NEG, TENSE:PRF_PROG	Ye' kë̀ ku'bak i yë́k
+Ye' tö i yë́	MODE:IMP, TENSE:IPFV_REC, ASPECT:IPFV, PERSON:NA	Ie' tö i yë́
+Ye' tö i yë́	TENSE:FUT_POT, ASPECT:IPFV	Ye' tö i yë́mi
+Ye' tö i yë́	TENSE:IPFV_HAB, ASPECT:IPFV	Ye' tö i skèke
+Ye' tö i yë́	VOICE:MID, ABSNUM:NI, PERSON:NA	Ie' kë̀ shkàne
+Ye' tö i yë́	TYPE:NEG, VOICE:MID, ABSNUM:NI, PERSON:NA	Kë̀ ie
+Ye' tö i yë́	TENSE:IPFV_REC, ASPECT:IPFV, VOICE:MID, ABSNUM:NI, PERSON:NA	Ie' tö i yë́
+Ye' tö shkame̠' yö'	ASPECT:INC	Ye' tömik
+Ye' tö shkame̠' yö'	TYPE:NEG	Ye' kë̀ wa shkamene
+Ye' tö shkame̠' yö'	TENSE:PRF_REC	Ye' tömewé
+Ye' tö shkame̠' yö'	TENSE:PRF_REC, ASPECT:INC	Ye' tömi
+Ye' tö shkame̠' yö'	TYPE:NEG, TENSE:PRF_REC	Ye' kë̀ wa shkàne
+Ye' tö shkame̠' yö'	TENSE:IPFV_REC, ASPECT:IPFV	Ye' tö shme
+Ye' tö shkame̠' yö'	TYPE:NEG, TENSE:IPFV_REC, ASPECT:IPFV	Kë̀ ye' tö shkö
+Ye' tö shkame̠' yö'	MODE:POT, TENSE:IPFV_REC, ASPECT:IPFV	Ye' a shkmek
+Ye' tö shkame̠' yö'	TYPE:NEG, MODE:POT, TENSE:IPFV_REC, ASPECT:IPFV	Kë̀ ye' a shkouk
+Ye' tö shkame̠' yö'	TENSE:IPFV_PROG, ASPECT:IPFV	Ye' tso shkö́k
+Ye' tö shkame̠' yö'	TYPE:NEG, TENSE:IPFV_PROG, ASPECT:IPFV	Ye' kë̀ ku shkö́k
+Ye' tö shkame̠' yö'	TENSE:PRF_PROG	Ye' bák shkö́k
+Ye' tö shkame̠' yö'	TYPE:NEG, TENSE:PRF_PROG	Ye' kë̀ ku'bak shkö́k
+Ye' tö shkame̠' yö'	MODE:IMP, TENSE:IPFV_REC, ASPECT:IPFV, PERSON:NA	Shkme tö́
+Ye' tö shkame̠' yö'	TYPE:NEG, MODE:IMP, TENSE:IPFV_REC, ASPECT:IPFV, PERSON:NA	Kë̀ shkar
+Ye' tö shkame̠' yö'	TYPE:NEG, MODE:IMP, TENSE:IPFV_REC, ASPECT:IPFV, VOICE:MID, PERSON:NA	Kë̀ shkar
+Ye' tö shkame̠' yö'	MODE:EXH, TENSE:IPFV_REC, ASPECT:IPFV, PERSON:1_PL_INC	Se' tö̀ ku shme' ujtö̀
+Ye' tö shkame̠' yö'	MODE:DES, TENSE:IPFV_REC, ASPECT:IPFV	Ye' én a shkö́k
+Ye' tö shkame̠' yö'	TYPE:NEG, MODE:DES, TENSE:IPFV_REC, ASPECT:IPFV	Kë̀ ye' én a shka'ku'ku
+Ye' tö shkame̠' yö'	MODE:ADVERS	Ye' wa shkame' ta'wa'
+Ye' tö shkame̠' yö'	TENSE:IPFV_HAB, ASPECT:IPFV	Ye' tö shmeke
+Ye' tö shkame̠' yö'	TYPE:NEG, TENSE:IPFV_HAB, ASPECT:IPFV	Kë̀ ye' tö shmekèku
+Ye' tö shkame̠' yö'	TENSE:FUT_POT, ASPECT:IPFV	Ye' tö shkö̀mi
+Ye' tö shkame̠' yö'	TYPE:NEG, TENSE:FUT_POT, ASPECT:IPFV	Kë̀ ye' tö shkö̀pa
+Ye' tö shkame̠' yö'	TENSE:FUT_CER, ASPECT:IPFV	Ye' tö tèrâ
+Ye' tö shkame̠' yö'	TYPE:NEG, TENSE:FUT_CER, ASPECT:IPFV	Kë̀ ye' tö shkö̀pa
+Ye' tö shkame̠' yö'	VOICE:MID, PERSON:NA	Shkme
+Ye' tö shkame̠' yö'	TYPE:NEG, VOICE:MID, PERSON:NA	Kë̀ shkàne
+Ye' tö shkame̠' yö'	TENSE:PRF_REC, VOICE:MID, PERSON:NA	Shkmena
+Ye' tö shkame̠' yö'	TYPE:NEG, TENSE:PRF_REC, VOICE:MID, PERSON:NA	Kë̀ shkàne
+Ye' tö shkame̠' yö'	TENSE:IPFV_REC, ASPECT:IPFV, VOICE:MID, PERSON:NA	Shkmer
+Ye' tö shkame̠' yö'	TYPE:NEG, TENSE:IPFV_REC, ASPECT:IPFV, VOICE:MID, PERSON:NA	Kë̀ shkar
+Ye' tö shkame̠' yö'	TENSE:IPFV_HAB, ASPECT:IPFV, VOICE:MID, PERSON:NA	Shkme
+Ye' tö shkame̠' yö'	TYPE:NEG, TENSE:IPFV_HAB, ASPECT:IPFV, VOICE:MID, PERSON:NA	Kë̀ shkamerHA
+Ye' tö shkame̠' yö'	TENSE:FUT_POT, ASPECT:IPFV, VOICE:MID, PERSON:NA	Shkme
+Ye' tö shkame̠' yö'	TYPE:NEG, TENSE:FUT_POT, ASPECT:IPFV, VOICE:MID, PERSON:NA	Kë̀ shkànuk
+Ye' tö shkame̠' yö'	TENSE:FUT_CER, ASPECT:IPFV, VOICE:MID, PERSON:NA	Shkmerâ
+Ye' tö shkame̠' yö'	TYPE:NEG, TENSE:FUT_CER, ASPECT:IPFV, VOICE:MID, PERSON:NA	Kë̀ shkàrpa
+Ye' tö shkame̠' yö'	TENSE:PAS_PLU, VOICE:MID	Shkárule
+Ye' tö shkame̠' yö'	TYPE:NEG, TENSE:PAS_PLU, VOICE:MID	Kë̀ shkárule
+Ye' tö kápi ya'	TYPE:NEG	Ye' kë̀ wa kápi ya'ne
+Ye' tö kápi ya'	TENSE:IPFV_PROG, ASPECT:IPFV	Ye' tso kápi ujtö́k
+Ye' tö kápi ya'	TYPE:NEG, TENSE:IPFV_PROG, ASPECT:IPFV	Ye' kë̀ ku kápi ya'ku
+Ye' tö kápi ya'	TENSE:PRF_PROG	Ye' bák kápi ya'k
+Ye' tö kápi ya'	TYPE:NEG, TENSE:PRF_PROG	Ye' kë̀ ku'bak kápi ya'bak
+Ye' tö kápi ya'	TENSE:PRF_REC	Ye' tö kápi ya'
+Ye' tö kápi ya'	TYPE:NEG, TENSE:PRF_REC	Ye' kë̀ wa kápi ya'ne
+Ye' tö kápi ya'	TENSE:IPFV_REC, ASPECT:IPFV	Ye' tö kápi ya'
+Ye' tö kápi ya'	TYPE:NEG, TENSE:IPFV_REC, ASPECT:IPFV	Kë̀ ye' tö kápi ya'ku
+Ye' tö kápi ya'	TENSE:IPFV_HAB, ASPECT:IPFV	Ye' tö kápi yaèke
+Ye' tö kápi ya'	TYPE:NEG, TENSE:IPFV_HAB, ASPECT:IPFV	Kë̀ ye' tö kápi ya'ku
+Ye' tö kápi ya'	TENSE:FUT_CER, ASPECT:IPFV	Ye' tö kápi yaèrâ
+Ye' tö kápi ya'	TYPE:NEG, TENSE:FUT_CER, ASPECT:IPFV	Kë̀ ye' tö kápi ya'pa
+Ye' tö kápi ya'	VOICE:MID, PERSON:NA	Kë̀ kápi ya'ne
+Ye' tö kápi ya'	TYPE:NEG, VOICE:MID, PERSON:NA	Kë̀ kápi ya'ne
+Ye' tö kápi ya'	TENSE:PRF_REC, VOICE:MID, PERSON:NA	Kë̀ kápi ya'
+Ye' tö kápi ya'	TYPE:NEG, TENSE:PRF_REC, VOICE:MID, PERSON:NA	Kë̀ kápi ya'ne
+Ye' tö kápi ya'	TENSE:IPFV_REC, ASPECT:IPFV, VOICE:MID, PERSON:NA	Kë̀ kápi ya'
+Ye' tö kápi ya'	TYPE:NEG, TENSE:IPFV_REC, ASPECT:IPFV, VOICE:MID, PERSON:NA	Kë̀ kápi yar
+Ye' tö kápi ya'	TENSE:IPFV_HAB, ASPECT:IPFV, VOICE:MID, PERSON:NA	Kë̀ kápi ya'ku
+Ye' tö kápi ya'	TYPE:NEG, TENSE:IPFV_HAB, ASPECT:IPFV, VOICE:MID, PERSON:NA	Kë̀ kápi ya'ku
+Ye' tö kápi ya'	MODE:IMP, TENSE:IPFV_REC, ASPECT:IPFV, PERSON:NA	Kë̀ be' tö kápi ya'
+Ye' tö kápi ya'	TYPE:NEG, MODE:IMP, TENSE:IPFV_REC, ASPECT:IPFV, PERSON:NA	Kë̀ kápi ya'
+Ye' tö kápi ya'	MODE:DES, TENSE:IPFV_REC, ASPECT:IPFV	Ye' én a kápi ya'ku
+Ye' tö kápi ya'	MODE:DES, TENSE:IPFV_REC, ASPECT:IPFV, VOICE:MID, PERSON:NA	Kë̀ kápi ya'ku
+Ye' tö kápi ya'	TENSE:FUT_POT, ASPECT:IPFV	Ye' tö kápi ya'mi
+Ye' tö kápi ya'	TYPE:NEG, TENSE:FUT_POT, ASPECT:IPFV	Kë̀ ye' tö kápi ya'mi
+Ye' tö kápi ya'	TENSE:FUT_POT, ASPECT:IPFV, VOICE:MID, PERSON:NA	Kë̀ kápi ya'nuk
+Ye' tö kápi ya'	TYPE:NEG, TENSE:FUT_POT, ASPECT:IPFV, VOICE:MID, PERSON:NA	Kë̀ kápi yanuk
+Ye' tö kápi ya'	MODE:ADVERS, VOICE:MID, PERSON:NA	Kë̀ kápi ya'
+Ye' tö kápi ya'	TENSE:PAS_PLU	Ye' wa kápiárule
+Ye' tö kápi ya'	TYPE:NEG, TENSE:PAS_PLU	Ye' kë̀ wa kápi yaárule
+Ye' úk	TYPE:NEG	Kë̀ ye' úne
+Ye' úk	PERSON:2_SI	Be' úk
+Ye' úk	TYPE:NEG, PERSON:2_SI	Be' kë̀ wa úk
+Ye' úk	TENSE:IPFV_REC, ASPECT:IPFV	Ye' úk
+Ye' úk	TENSE:IPFV_PROG, ASPECT:IPFV	Ye' tso úk
+Ye' úk	TYPE:NEG, TENSE:IPFV_PROG, ASPECT:IPFV	Ye' kë̀ ku úk
+Ye' úk	TENSE:PRF_PROG	Ye' bák úk
+Ye' úk	TYPE:NEG, TENSE:PRF_PROG	Ye' kë̀ ku'bak úk
+Ye' úk	MODE:IMP, TENSE:IPFV_REC, ASPECT:IPFV, PERSON:2_SI	Be' úk
+Ye' úk	TENSE:IPFV_HAB, ASPECT:IPFV	Ye' úk
+Ye' úk	VOICE:MID, ABSNUM:NI, PERSON:NA	Shkàne
+Ye' úk	TYPE:NEG, VOICE:MID, ABSNUM:NI, PERSON:NA	Kë̀ shkàne
+Ye' úk	TENSE:IPFV_REC, ASPECT:IPFV, VOICE:MID, ABSNUM:NI, PERSON:NA	Shkàr
+Ka̠no̠' te̠n ká̠u̠k a̠	TYPE:NEG	Kë̀ yen káuk ak a
+Ka̠no̠' te̠n ká̠u̠k a̠	TENSE:PRF_REM, ASPECT:PFV	Yenok káuk a
+Ka̠no̠' te̠n ká̠u̠k a̠	TYPE:NEG, TENSE:PRF_REM, ASPECT:PFV	Kë̀ benok a
+Ka̠no̠' te̠n ká̠u̠k a̠	ABSNUM:PL	Ano' ten káuk a
+Ka̠no̠' te̠n ká̠u̠k a̠	TYPE:NEG, ABSNUM:PL	Kë̀ benok a
+Ka̠no̠' te̠n ká̠u̠k a̠	TENSE:PRF_REM, ASPECT:PFV, ABSNUM:PL	A' bák dano' ten káuk ak a
+Ka̠no̠' te̠n ká̠u̠k a̠	TYPE:NEG, TENSE:PRF_REM, ASPECT:PFV, ABSNUM:PL	A' kë̀ ku'bak dapárken káuk ak a
+Ie' tso bua'	TYPE:NEG	Ie kë̀ ie' tso bua'ne
+Ie' tso bua'	TENSE:PRF_REM, ASPECT:PFV	Ie' tso bua'mi
+Ie' tso bua'	TYPE:NEG, TENSE:PRF_REM, ASPECT:PFV	Ie' kë̀ ku'bak ie' tso bua'ku
+Ie' tso bua'	PERSON:1_SI	Ie' tso bua'si
+Ie' tso bua'	TYPE:NEG, PERSON:1_SI	Ie' kë̀ ku'bak bua'SI
+Ie' tso bua'	TENSE:PRF_REM, ASPECT:PFV, PERSON:1_SI	Ie' tso bua'si
+Ie' tso bua'	TYPE:NEG, TENSE:PRF_REM, ASPECT:PFV, PERSON:1_SI	Kë̀ ie' tso bua'ku
+Ie' tso bua'	PERSON:2_SI	Ie' tso bua'si
+Ie' tso bua'	TYPE:NEG, PERSON:2_SI	Be' kë̀ ku'bak bua'si
+Ie' tso bua'	TENSE:PRF_REM, ASPECT:PFV, PERSON:2_SI	Be' tso bua'mi
+Ie' tso bua'	TYPE:NEG, TENSE:PRF_REM, ASPECT:PFV, PERSON:2_SI	Be' kë̀ ku'bak bua'ku
+Ie' tso bua'	ABSNUM:PL, PERSON:1_PL_EXC	Sa' tso bua'
+Ie' tso bua'	TYPE:NEG, ABSNUM:PL, PERSON:1_PL_EXC	Sa' kë̀ ku ie' tso bua'pa
+Ie' tso bua'	TENSE:PRF_REM, ASPECT:PFV, ABSNUM:PL, PERSON:1_PL_EXC	Sa' tso bua' ujtö̀
+Ie' tso bua'	TYPE:NEG, TENSE:PRF_REM, ASPECT:PFV, ABSNUM:PL, PERSON:1_PL_EXC	Sa' kë̀ ku'bak ie' tso bua'ku
+Ie' tso bua'	ABSNUM:PL, PERSON:1_PL_INC	Ie' tso bua'mi
+Ie' tso bua'	TYPE:NEG, ABSNUM:PL, PERSON:1_PL_INC	Se' kë̀ ku ie' tso bua'pa
+Ie' tso bua'	TENSE:PRF_REM, ASPECT:PFV, ABSNUM:PL, PERSON:1_PL_INC	Se' tso bua' ujtö̀
+Ie' tso bua'	TYPE:NEG, TENSE:PRF_REM, ASPECT:PFV, ABSNUM:PL, PERSON:1_PL_INC	Se' kë̀ ku'bak ie' tso bua'pa'ku
+Ie' tso bua'	ABSNUM:PL, PERSON:2_PL	A' tso bua'pa
+Ie' tso bua'	TYPE:NEG, ABSNUM:PL, PERSON:2_PL	A' kë̀ ku'bak bua'pa
+Ie' tso bua'	TENSE:PRF_REM, ASPECT:PFV, ABSNUM:PL, PERSON:2_PL	A' tso dawö̀ sö
+Ie' tso bua'	TYPE:NEG, TENSE:PRF_REM, ASPECT:PFV, ABSNUM:PL, PERSON:2_PL	A' kë̀ ku'bak bua'pa
+Ie' tso bua'	ABSNUM:PL, PERSON:3_PL	Ie'pa ie'pa dapárke ie'pa tso bua'pa'pa
+Ie' tso bua'	TYPE:NEG, ABSNUM:PL, PERSON:3_PL	Ie'pa kë̀ ku ie'pa shkàpa dapárke ie'pa tso bua'pa
+Ie' tso bua'	TENSE:PRF_REM, ASPECT:PFV, ABSNUM:PL, PERSON:3_PL	Ie'pa tso bua'pa
+Ie' tso bua'	TYPE:NEG, TENSE:PRF_REM, ASPECT:PFV, ABSNUM:PL, PERSON:3_PL	Ie'pa kë̀ ku'bak ie'pa tso dawö́k
+Ye' tö uyë̀jkuö à̠ríts	TENSE:IPFV_PROG, ASPECT:IPFV, PERSON:3_SI	Ie' tso uyë̀ kuö́k àríts
+Ye' tö uyë̀jkuö à̠ríts	TENSE:IPFV_REC, ASPECT:IPFV	Ye' tö uyë̀jkuèr
+Ye' tö uyë̀jkuö à̠ríts	TYPE:NEG, TENSE:IPFV_REC, ASPECT:IPFV	Kë̀ ye' tö uyë̀jku àr
+Ye' tö uyë̀jkuö à̠ríts	MODE:POT, TENSE:IPFV_REC, ASPECT:IPFV, PERSON:3_SI	Ie' a uyë̀k àríts
+Ye' tö uyë̀jkuö à̠ríts	TYPE:NEG, MODE:POT, TENSE:IPFV_REC, ASPECT:IPFV, PERSON:3_SI	Kë̀ ie' kë̀ a uyë̀kárule à
+Chìchi dör tsîr	ABSNUM:PL	Chìchi dör tsîr
+Dù tkër kàl ulà ki̠	TYPE:NEG	Kë̀ ye'tkër kàl ulà ki
+Dù tkër kàl ulà ki̠	TENSE:PRF_REM, ASPECT:PFV	tkére kàl ulà ki
+Dù tkër kàl ulà ki̠	TYPE:NEG, TENSE:PRF_REM, ASPECT:PFV	Kë̀ ye tkër kàl ulà ki
+Dù tkër kàl ulà ki̠	ABSNUM:PL	tkére kàl ulà ki
+Dù tkër kàl ulà ki̠	TYPE:NEG, ABSNUM:PL	Kë̀ chìpa tkër kàl ulà ki
+Dù tkër kàl ulà ki̠	TENSE:PRF_REM, ASPECT:PFV, ABSNUM:PL	tkére kàl ulà ki
+Dù tkër kàl ulà ki̠	TYPE:NEG, TENSE:PRF_REM, ASPECT:PFV, ABSNUM:PL	A' kë̀ ku'bak kàl ulà ki
+Ye' i̠ni̠'	PERSON:3_SI	Ini
+Ye' i̠ni̠'	PERSON:2_SI	Be' ini
+Ye' i̠ni̠'	ABSNUM:PL, PERSON:1_PL_EXC	Sa' ini
+Ye' i̠ni̠'	ABSNUM:PL, PERSON:1_PL_INC	Se' ini
+Ye' i̠ni̠'	ABSNUM:PL, PERSON:2_PL	A' ini
+Ye' i̠ni̠'	ABSNUM:PL, PERSON:3_PL	Ie'pa ini
+Ye' i̠ni̠'	TENSE:PRF_REC, PERSON:3_SI	Ie' ini
+Ye' i̠ni̠'	TENSE:PRF_REC	Ye' ini
+Ye' i̠ni̠'	TENSE:PRF_REC, PERSON:2_SI	Be' ini
+Ye' i̠ni̠'	TENSE:PRF_REC, ABSNUM:PL, PERSON:1_PL_EXC	Sa' ini
+Ye' i̠ni̠'	TENSE:PRF_REC, ABSNUM:PL, PERSON:1_PL_INC	Se' ini
+Ye' i̠ni̠'	TENSE:PRF_REC, ABSNUM:PL, PERSON:2_PL	A' bák ini
+Ye' i̠ni̠'	TENSE:PRF_REC, ABSNUM:PL, PERSON:3_PL	Ie'pa Ini
+Ye' i̠ni̠'	TENSE:IPFV_REC, ASPECT:IPFV, PERSON:3_SI	I ini
+Ye' i̠ni̠'	TENSE:IPFV_REC, ASPECT:IPFV	Ye' ini
+Ye' i̠ni̠'	TENSE:IPFV_HAB, ASPECT:IPFV, PERSON:3_SI	Ini
+Ye' i̠ni̠'	TENSE:IPFV_HAB, ASPECT:IPFV	Ye' inike
+Ye' i̠ni̠'	TYPE:NEG, TENSE:IPFV_HAB, ASPECT:IPFV	Kë̀ ye' iniku
+Ye' i̠ni̠'	TENSE:IPFV_REC, ASPECT:IPFV, VOICE:MID, ABSNUM:NI, PERSON:NA	Ie' ini
+Ye' i̠ni̠'	VOICE:MID, ABSNUM:NI, PERSON:NA	Ini
+Ye' i̠ni̠'	TYPE:NEG, VOICE:MID	Kë̀ne
+Ye' i̠ni̠'	TENSE:FUT_CER, ASPECT:IPFV	Ye' ini
+Ye' i̠ni̠'	TYPE:NEG, TENSE:FUT_CER, ASPECT:IPFV	Kë̀ ye' inipa
+Ye' i̠ni̠'	TENSE:IPFV_PROG, ASPECT:IPFV	Ye' tso inik
+Ye' i̠ni̠'	TYPE:NEG, TENSE:IPFV_REC, ASPECT:IPFV	Kë̀ ye' ini
+Ye' i̠ni̠'	TENSE:PAS_PLU	Ye' ini
+Ye' i̠ni̠'	TYPE:NEG, TENSE:PAS_PLU	Ye' kë̀ wani
+Ye' i̠ni̠'	TENSE:FUT_POT, ASPECT:IPFV	Ye' imi
+Ye' i̠ni̠'	TYPE:NEG, TENSE:FUT_POT, ASPECT:IPFV	Kë̀ ye' inuk
+Ye' i̠ni̠'	MODE:DES, TENSE:IPFV_REC, ASPECT:IPFV, PERSON:3_SI	In a síni
+Ye' i̠ni̠'	MODE:EXH, TENSE:IPFV_REC, ASPECT:IPFV, ABSNUM:PL, PERSON:1_PL_INC	Se' ini
+Ye' i̠ni̠'	MODE:IMP, TENSE:IPFV_REC, ASPECT:IPFV, PERSON:2_SI	Be' ini
+Ye' i̠ni̠'	TYPE:NEG, MODE:IMP, TENSE:IPFV_REC, ASPECT:IPFV, PERSON:2_SI	Kë̀ be' ini
+Ye' i̠ni̠'	MODE:POT, TENSE:IPFV_REC, ASPECT:IPFV, PERSON:3_SI	Ini
+Ye' i̠ni̠'	TYPE:NEG, MODE:POT, TENSE:IPFV_REC, ASPECT:IPFV, PERSON:3_SI	Kë̀ inuk
+Ie' tkër kula' ki̠	TYPE:NEG	Ie kë̀ ie' kë̀ kunè kula' ki
+Ie' tkër kula' ki̠	TENSE:PRF_REM, ASPECT:PFV	Ie' tkére
+Ie' tkër kula' ki̠	TYPE:NEG, TENSE:PRF_REM, ASPECT:PFV	Ie' kë̀ ku'bak ie' tkër kula' ki
+Ie' tkër kula' ki̠	ABSNUM:PL, PERSON:3_PL	Ie'pa tkër kula' ki
+Ie' tkër kula' ki̠	TYPE:NEG, ABSNUM:PL, PERSON:3_PL	Ie'pa kë̀ ku'pa ie'pa shkárule kula' ki
+Ie' tkër kula' ki̠	TENSE:PRF_REM, ASPECT:PFV, ABSNUM:PL, PERSON:3_PL	Ie'pa tkére kula' ki
+Ie' tkër kula' ki̠	TYPE:NEG, TENSE:PRF_REM, ASPECT:PFV, ABSNUM:PL, PERSON:3_PL	Ie'pa kë̀ ku'pa tkére kula' ki
+Be' chka'	TENSE:IPFV_PROG, ASPECT:IPFV	Ye' tso shkö́k
+Be' chka'	TYPE:NEG, TENSE:IPFV_PROG, ASPECT:IPFV	Ye' kë̀ ku shkö́k
+Be' chka'	MODE:IMP, TENSE:IPFV_REC, ASPECT:IPFV	Be' chka'
+Be' chka'	TYPE:NEG, MODE:IMP, TENSE:IPFV_REC, ASPECT:IPFV	Kë̀ be' chkö́
+Ye' tö i stsë'	TENSE:IPFV_REC, ASPECT:IPFV, VOICE:MID, PERSON:3_SI	I stsë'r
+Ye' tö i stsë'	TENSE:IPFV_HAB, ASPECT:IPFV, VOICE:MID, PERSON:3_SI	I stè
+Ye' tö i stsë'	TYPE:NEG, TENSE:IPFV_HAB, ASPECT:IPFV, VOICE:MID, PERSON:3_SI	Kë̀ i stsë̀rku
+Ye' tö i stsë'	TENSE:FUT_POT, ASPECT:IPFV, VOICE:MID, PERSON:3_SI	I stsë'mi
+Ye' tö i stsë'	TYPE:NEG, TENSE:FUT_POT, ASPECT:IPFV, VOICE:MID, PERSON:3_SI	Kë̀ i stsënuk
+Ie' e̠' tkë'wa̠	ABSNUM:PL, PERSON:3_PL	Ie'pa e' tkë'wa
+Kirë̀ tö tabè a̠me̠' ie' a̠	TYPE:NEG	Kë̀ tö tabè ame' ie' a
+Kirë̀ tö tabè a̠me̠' ie' a̠	ASPECT:INC	Ye' tö tabè ami' ie' a
+Kirë̀ tö tabè a̠me̠' ie' a̠	TENSE:PRF_REC	Ye' tö tabè ame' ie' a
+Kirë̀ tö tabè a̠me̠' ie' a̠	TYPE:NEG, TENSE:PRF_REC	Kë̀ ye' a tö tabè ame' ie' a
+Kirë̀ tö tabè a̠me̠' ie' a̠	TENSE:PRF_REC, ASPECT:INC	Ye' tö tabè ame' ie' ami
+Kirë̀ tö tabè a̠me̠' ie' a̠	TENSE:IPFV_REC, ASPECT:IPFV	Ye' tö tabè ame' ie' a
+Kirë̀ tö tabè a̠me̠' ie' a̠	TYPE:NEG, TENSE:IPFV_REC, ASPECT:IPFV	Kë̀ ye' a tö tabè ame' ie' a
+Kirë̀ tö tabè a̠me̠' ie' a̠	TENSE:IPFV_PROG, ASPECT:IPFV	Ye' tso tso dawö́k tö tabè ame' ie' ak
+Kirë̀ tö tabè a̠me̠' ie' a̠	TYPE:NEG, TENSE:IPFV_PROG, ASPECT:IPFV	Ye' kë̀ ku'bak tabè ame' ie' a
+Kirë̀ tö tabè a̠me̠' ie' a̠	TENSE:PRF_PROG	Ye' bák tö tabè ame' ie' a
+Kirë̀ tö tabè a̠me̠' ie' a̠	TYPE:NEG, TENSE:PRF_PROG	Ye' kë̀ ku'bak tabè ame' ie' a
+Kirë̀ tö tabè a̠me̠' ie' a̠	MODE:IMP, TENSE:IPFV_REC, ASPECT:IPFV	Kë̀ tö tabè ame' ie' a
+Kirë̀ tö tabè a̠me̠' ie' a̠	TYPE:NEG, MODE:IMP, TENSE:IPFV_REC, ASPECT:IPFV	Kë̀ ame' ie' a
+Kirë̀ tö tabè a̠me̠' ie' a̠	TYPE:NEG, MODE:IMP, TENSE:IPFV_REC, ASPECT:IPFV, VOICE:MID	Kë̀ amer ie' ie' a
+Kirë̀ tö tabè a̠me̠' ie' a̠	MODE:EXH, TENSE:IPFV_REC, ASPECT:IPFV, PERSON:1_PL_INC	Sè tö tabè kume' ie' a
+Kirë̀ tö tabè a̠me̠' ie' a̠	MODE:DES, TENSE:IPFV_REC, ASPECT:IPFV	Ye' én a tabè ame' ie' a
+Kirë̀ tö tabè a̠me̠' ie' a̠	TYPE:NEG, MODE:DES, TENSE:IPFV_REC, ASPECT:IPFV	Kë̀ én a a tawa'ku' ie
+Kirë̀ tö tabè a̠me̠' ie' a̠	MODE:ADVERS	Ye' wa tabè ame' ie' a
+Kirë̀ tö tabè a̠me̠' ie' a̠	TENSE:IPFV_HAB, ASPECT:IPFV	Yè tö tabèke ie' a
+Kirë̀ tö tabè a̠me̠' ie' a̠	TYPE:NEG, TENSE:IPFV_HAB, ASPECT:IPFV	Kë̀ tö tabè kuèku ie' ie' a
+Kirë̀ tö tabè a̠me̠' ie' a̠	TENSE:FUT_POT, ASPECT:IPFV	Ye' a tö tabè ame' ie' ami
+Kirë̀ tö tabè a̠me̠' ie' a̠	TYPE:NEG, TENSE:FUT_POT, ASPECT:IPFV	Kë̀ ye' a tö tabè ame' ie' a
+Kirë̀ tö tabè a̠me̠' ie' a̠	TENSE:FUT_CER, ASPECT:IPFV	Kë̀ tö tabè ame' ie' a
+Kirë̀ tö tabè a̠me̠' ie' a̠	TYPE:NEG, TENSE:FUT_CER, ASPECT:IPFV	Kë̀ tö tabè ame' ie' a
+Kirë̀ tö tabè a̠me̠' ie' a̠	VOICE:MID	Yè tö tabè ame' ie' a
+Kirë̀ tö tabè a̠me̠' ie' a̠	TYPE:NEG, VOICE:MID	Kë̀ ame' ie' a
+Kirë̀ tö tabè a̠me̠' ie' a̠	TENSE:PRF_REC, VOICE:MID	Tabème' ie
+Kirë̀ tö tabè a̠me̠' ie' a̠	TYPE:NEG, TENSE:PRF_REC, VOICE:MID	Kë̀ ame' ie' a
+Kirë̀ tö tabè a̠me̠' ie' a̠	TENSE:IPFV_REC, ASPECT:IPFV, VOICE:MID	Ye' tö tabè amer ie' a
+Kirë̀ tö tabè a̠me̠' ie' a̠	TYPE:NEG, TENSE:IPFV_REC, ASPECT:IPFV, VOICE:MID	Kë̀ amer ie' ie' a
+Kirë̀ tö tabè a̠me̠' ie' a̠	TENSE:IPFV_HAB, ASPECT:IPFV, VOICE:MID	Tème' ie' a
+Kirë̀ tö tabè a̠me̠' ie' a̠	TYPE:NEG, TENSE:IPFV_HAB, ASPECT:IPFV, VOICE:MID	Kë̀ ame' ie' a
+Kirë̀ tö tabè a̠me̠' ie' a̠	TENSE:FUT_POT, ASPECT:IPFV, VOICE:MID	Tabèmi
+Kirë̀ tö tabè a̠me̠' ie' a̠	TYPE:NEG, TENSE:FUT_POT, ASPECT:IPFV, VOICE:MID	Kë̀ ame' ie' a
+Kirë̀ tö tabè a̠me̠' ie' a̠	TENSE:FUT_CER, ASPECT:IPFV, VOICE:MID	Tème' ie' a
+Kirë̀ tö tabè a̠me̠' ie' a̠	TYPE:NEG, TENSE:FUT_CER, ASPECT:IPFV, VOICE:MID	Kë̀ ame' ie' a
+Kirë̀ tö tabè a̠me̠' ie' a̠	TENSE:PAS_PLU, VOICE:MID	Tabème' ie
+Kirë̀ tö tabè a̠me̠' ie' a̠	TYPE:NEG, TENSE:PAS_PLU, VOICE:MID	Kë̀ tabèpa ame' ie'pa
+Kirë̀ tö tabè a̠me̠' ie' a̠	MODE:POT, TENSE:IPFV_REC, ASPECT:IPFV	Ye' a ame' ie' a
+Kirë̀ tö tabè a̠me̠' ie' a̠	TYPE:NEG, MODE:POT, TENSE:IPFV_REC, ASPECT:IPFV	Kë̀ a me' ie' a
+Ye' tö uyë̀jkuö à̠ritsè bua'ë	TYPE:NEG	Ye' kë̀ wa uyë̀jku àritsè bua'ë̀ne
+Aláköl a̠wì̠ dör buáala	ABSNUM:PL	Buákawì dör buáala
+Alà mì̠ne̠ i ma̠u̠k	ABSNUM:PL	Clà mìne i mauk
+Alà mì̠ne̠ i ma̠u̠k	TYPE:NEG	Clà mìne i mauk
+Alà mì̠ne̠ i ma̠u̠k	TYPE:NEG, ABSNUM:PL	Clà kë̀ kune i mauk
+Alà mì̠ne̠ i ma̠u̠k	TENSE:PRF_REC	Clà mìne i mauk
+Alà mì̠ne̠ i ma̠u̠k	TENSE:PRF_REC, ABSNUM:PL	Bulà bák dapárke i mauk
+Alà mì̠ne̠ i ma̠u̠k	TENSE:IPFV_REC, ASPECT:IPFV	Bulà mìne i ma kimè
+Alà mì̠ne̠ i ma̠u̠k	TENSE:IPFV_REC, ASPECT:IPFV, ABSNUM:PL	Bulà mìne i mapa tso auk
+Alà mì̠ne̠ i ma̠u̠k	TENSE:IPFV_PROG, ASPECT:IPFV	Bulà tso mìne i ma tso kuuk
+Alà mì̠ne̠ i ma̠u̠k	TYPE:NEG, TENSE:IPFV_PROG, ASPECT:IPFV	Bu kë̀ kune i biö́k
+Alà mì̠ne̠ i ma̠u̠k	TENSE:PRF_PROG	Bulà bák mìne i ma tso bák
+Alà mì̠ne̠ i ma̠u̠k	TYPE:NEG, TENSE:PRF_PROG	Bulà kë̀ ku'bak mìne i kumèk
+Alà mì̠ne̠ i ma̠u̠k	TENSE:IPFV_PROG, ASPECT:IPFV, ABSNUM:PL	A' tso mìne i mauk
+Alà mì̠ne̠ i ma̠u̠k	TYPE:NEG, TENSE:IPFV_PROG, ASPECT:IPFV, ABSNUM:PL	Buà kë̀ kune i mauk
+Alà mì̠ne̠ i ma̠u̠k	TENSE:PRF_PROG, ABSNUM:PL	Clà bák dapárke i mauk
+Alà mì̠ne̠ i ma̠u̠k	TYPE:NEG, TENSE:PRF_PROG, ABSNUM:PL	Buà kë̀ ku'bak dapárke i mauk
+Awá tsë'	TENSE:PRF_REC	Yeá tsë'
+Ie' tö àrros ña̠'	ASPECT:INC	Ie' tö àrros ña'mi
+Ie' tö àrros ña̠'	TYPE:NEG	Ie kë̀ ie' tö àrros ña
+Ie' tö àrros ña̠'	TENSE:IPFV_PROG, ASPECT:IPFV	Ie' tso àrros ñaúk
+Ie' tö àrros ña̠'	TYPE:NEG, TENSE:IPFV_PROG, ASPECT:IPFV	Ie' kë̀ ku àrros ña
+Ie' tö àrros ña̠'	TENSE:PRF_PROG	Ie' bák àrros ña'bak ie' tö́k
+Ie' tö àrros ña̠'	TYPE:NEG, TENSE:PRF_PROG	Ie' kë̀ ku'bak àrros ña'ku
+Ie' tö àrros ña̠'	TENSE:IPFV_REC, ASPECT:IPFV	Ie' tö àrros ña
+Ie' tö àrros ña̠'	TYPE:NEG, TENSE:IPFV_REC, ASPECT:IPFV	Kë̀ ie' tö àrros ujto
+Ie' tö àrros ña̠'	MODE:IMP, TENSE:IPFV_REC, ASPECT:IPFV, PERSON:NA	Àrros ña
+Ie' tö àrros ña̠'	TYPE:NEG, MODE:IMP, TENSE:IPFV_REC, ASPECT:IPFV, PERSON:NA	Kë̀ àrros ña
+Ie' tö àrros ña̠'	TYPE:NEG, MODE:IMP, TENSE:IPFV_REC, ASPECT:IPFV, VOICE:MID, PERSON:NA	Kë̀ àrros ñar
+Ie' tö àrros ña̠'	MODE:EXH, TENSE:IPFV_REC, ASPECT:IPFV, PERSON:1_PL_INC	Àrros ña
+Ie' tö àrros ña̠'	MODE:DES, TENSE:IPFV_REC, ASPECT:IPFV	Ie' én a àrros ña
+Ie' tö àrros ña̠'	TYPE:NEG, MODE:DES, TENSE:IPFV_REC, ASPECT:IPFV	Kë̀ én a àrros ña
+Ie' tö àrros ña̠'	MODE:ADVERS	Ie' wa àrros ña'
+Ie' tö àrros ña̠'	TENSE:PRF_REC	Ie' tö àrros ña
+Ie' tö àrros ña̠'	TENSE:PRF_REC, ASPECT:INC	Ie' tö àrros ñami
+Ie' tö àrros ña̠'	TYPE:NEG, TENSE:PRF_REC	Ie' kë̀ ku'bak àrros ña'
+Ie' tö àrros ña̠'	TENSE:IPFV_HAB, ASPECT:IPFV	Ie' tö àrros ñaèke
+Ie' tö àrros ña̠'	TYPE:NEG, TENSE:IPFV_HAB, ASPECT:IPFV	Kë̀ ie' tö àrros ujèku
+Ie' tö àrros ña̠'	TENSE:FUT_POT, ASPECT:IPFV	Ie' tö àrros ñaèmi
+Ie' tö àrros ña̠'	TYPE:NEG, TENSE:FUT_POT, ASPECT:IPFV	Kë̀ ie' tö àrros ujto
+Ie' tö àrros ña̠'	TENSE:FUT_CER, ASPECT:IPFV	Ie' tö àrros ñaèrâ
+Ie' tö àrros ña̠'	TYPE:NEG, TENSE:FUT_CER, ASPECT:IPFV	Kë̀ ie' tö àrros ñaèpa
+Ie' tö àrros ña̠'	TENSE:IPFV_REC, ASPECT:IPFV, VOICE:MID, PERSON:NA	Àrros ña
+Ie' tö àrros ña̠'	TYPE:NEG, TENSE:IPFV_REC, ASPECT:IPFV, VOICE:MID, PERSON:NA	Kë̀ àrros ñar
+Ie' tö àrros ña̠'	VOICE:MID, PERSON:NA	Àrros ña
+Ie' tö àrros ña̠'	TYPE:NEG, VOICE:MID, PERSON:NA	Kë̀ àrros ñane
+Ie' tö àrros ña̠'	TENSE:PRF_REC, VOICE:MID, PERSON:NA	Àrros ña
+Ie' tö àrros ña̠'	TYPE:NEG, TENSE:PRF_REC, VOICE:MID, PERSON:NA	Kë̀ àrros ña
+Ie' tö àrros ña̠'	TENSE:IPFV_HAB, ASPECT:IPFV, VOICE:MID, PERSON:NA	Àrros ña
+Ie' tö àrros ña̠'	TYPE:NEG, TENSE:IPFV_HAB, ASPECT:IPFV, VOICE:MID, PERSON:NA	Kë̀ àrros ñarku
+Ie' tö àrros ña̠'	TENSE:FUT_POT, ASPECT:IPFV, VOICE:MID, PERSON:NA	Àrros ña
+Ie' tö àrros ña̠'	TYPE:NEG, TENSE:FUT_POT, ASPECT:IPFV, VOICE:MID, PERSON:NA	Kë̀ àrros ñanuk
+Ie' tö àrros ña̠'	TENSE:FUT_CER, ASPECT:IPFV, VOICE:MID, PERSON:NA	Àrros ñarâ
+Ie' tö àrros ña̠'	TYPE:NEG, TENSE:FUT_CER, ASPECT:IPFV, VOICE:MID, PERSON:NA	Kë̀ àrros ñarpa
+Ie' tö àrros ña̠'	TENSE:PAS_PLU	Ie' wa àrros ñaárule
+Ie' tö àrros ña̠'	TYPE:NEG, TENSE:PAS_PLU	Ie' kë̀ wa àrros ñarule
+Ie' tö àrros ña̠'	TENSE:PAS_PLU, VOICE:MID, PERSON:NA	Àrros ñaárule
+Ie' tö àrros ña̠'	TYPE:NEG, TENSE:PAS_PLU, VOICE:MID, PERSON:NA	Kë̀ àrros ñaárule
+Skuë̀ ta̠'	TENSE:PRF_REM, ASPECT:PFV	Cë̀ ta'
+Ye' tú̠ne̠'	TYPE:NEG	Ye' kë̀ wane
+Ye' tú̠ne̠'	TENSE:PRF_REC	Ye' túne
+Ye' tú̠ne̠'	TYPE:NEG, TENSE:PRF_REC	Ye' kë̀ne
+Ye' tú̠ne̠'	TENSE:IPFV_REC, ASPECT:IPFV	Ye' túne
+Ye' tú̠ne̠'	TYPE:NEG, TENSE:IPFV_REC, ASPECT:IPFV	Kë̀ ye' túne
+Ye' tú̠ne̠'	TENSE:IPFV_REC, ASPECT:IPFV, PERSON:3_SI	Ie' ie' ujtö̀kène
+Ye' tú̠ne̠'	TENSE:IPFV_REC, ASPECT:IPFV, ABSNUM:PL, PERSON:3_PL	Ie'pa Ie'pa ipa ane
+Ye' tú̠ne̠'	TYPE:NEG, TENSE:IPFV_REC, ASPECT:IPFV, PERSON:3_SI	Kë̀ ie' ujtone
+Ye' tú̠ne̠'	TENSE:IPFV_PROG, ASPECT:IPFV	Ye' tso ye' tso ujtö́k
+Ye' tú̠ne̠'	TYPE:NEG, TENSE:IPFV_PROG, ASPECT:IPFV	Ye' kë̀ kune
+Ye' tú̠ne̠'	TENSE:PRF_PROG	Ye' bák dawö́k
+Ye' tú̠ne̠'	TYPE:NEG, TENSE:PRF_PROG	Ye' kë̀ ku'bakne
+Ye' tú̠ne̠'	MODE:IMP, TENSE:IPFV_REC, ASPECT:IPFV, PERSON:2_SI	Be' tane
+Ye' tú̠ne̠'	MODE:IMP, TENSE:IPFV_REC, ASPECT:IPFV, ABSNUM:PL, PERSON:2_PL	A' túne
+Ye' tú̠ne̠'	TYPE:NEG, MODE:IMP, TENSE:IPFV_REC, ASPECT:IPFV, PERSON:2_SI	Kë̀ be' tane
+Ye' tú̠ne̠'	TYPE:NEG, MODE:IMP, TENSE:IPFV_REC, ASPECT:IPFV, ABSNUM:PL, PERSON:2_PL	Kë̀ be' ane
+Ye' tú̠ne̠'	TENSE:IPFV_HAB, ASPECT:IPFV	Ye' tso yekèke
+Ye' tú̠ne̠'	TYPE:NEG, TENSE:IPFV_HAB, ASPECT:IPFV	Kë̀ ye' túne
+Ye' tú̠ne̠'	TENSE:FUT_POT, ASPECT:IPFV	Ye' túne
+Ye' tú̠ne̠'	TYPE:NEG, TENSE:FUT_POT, ASPECT:IPFV	Kë̀ ye' tune
+Ye' tú̠ne̠'	TENSE:FUT_CER, ASPECT:IPFV	Ye' túne
+Ye' tú̠ne̠'	TYPE:NEG, TENSE:FUT_CER, ASPECT:IPFV	Kë̀ ye' túne
+Ye' tú̠ne̠'	VOICE:MID, ABSNUM:NI, PERSON:NA	Shkàne
+Ye' tú̠ne̠'	TYPE:NEG, VOICE:MID, ABSNUM:NI, PERSON:NA	Kë̀ shkàne
+Ye' tú̠ne̠'	TENSE:PRF_REC, VOICE:MID, ABSNUM:NI, PERSON:NA	Shkànane
+Ye' tú̠ne̠'	TYPE:NEG, TENSE:PRF_REC, VOICE:MID, ABSNUM:NI, PERSON:NA	Kë̀ shkàne
+Ye' a̠mì̠ tö bö̀wö duké wö'ik	TYPE:NEG	Ye' kë̀ wamìne
+Ye' a̠mì̠ tö bö̀wö duké wö'ik	ASPECT:INC	Ye' amì tö bö̀wèmi
+Ye' a̠mì̠ tö bö̀wö duké wö'ik	TENSE:PRF_REC	Ye' amì tö bö̀wè
+Ye' a̠mì̠ tö bö̀wö duké wö'ik	TYPE:NEG, TENSE:PRF_REC	Ye' kë̀ wamì tö̀wè
+Ye' a̠mì̠ tö bö̀wö duké wö'ik	TENSE:PRF_REC, ASPECT:INC	Ye' amì tö bö̀wèmi
+Ye' a̠mì̠ tö bö̀wö duké wö'ik	TENSE:IPFV_REC, ASPECT:IPFV	Ye' amì tö bö̀wè
+Ye' a̠mì̠ tö bö̀wö duké wö'ik	TYPE:NEG, TENSE:IPFV_REC, ASPECT:IPFV	Kë̀ ye' amì tö bö̀wö̀k
+Ye' a̠mì̠ tö bö̀wö duké wö'ik	TENSE:IPFV_PROG, ASPECT:IPFV	Ye' amì tso bö̀wö́k
+Ye' a̠mì̠ tö bö̀wö duké wö'ik	TYPE:NEG, TENSE:IPFV_PROG, ASPECT:IPFV	Ye' kë̀ kumì tso bö̀ kumèk dawö́k
+Ye' a̠mì̠ tö bö̀wö duké wö'ik	TENSE:PRF_PROG	Ye' amì bák amìmì tö́k
+Ye' a̠mì̠ tö bö̀wö duké wö'ik	TYPE:NEG, TENSE:PRF_PROG	Ye' kë̀ ku'bakmì tö́k
+Ye' a̠mì̠ tö bö̀wö duké wö'ik	MODE:IMP, TENSE:IPFV_REC, ASPECT:IPFV	Be' amì tö́k dawö́k
+Ye' a̠mì̠ tö bö̀wö duké wö'ik	TYPE:NEG, MODE:IMP, TENSE:IPFV_REC, ASPECT:IPFV	Kë̀ amì tö́k
+Ye' a̠mì̠ tö bö̀wö duké wö'ik	TYPE:NEG, MODE:IMP, TENSE:IPFV_REC, ASPECT:IPFV, VOICE:MID	Kë̀ amì biarök
+Ye' a̠mì̠ tö bö̀wö duké wö'ik	MODE:EXH, TENSE:IPFV_REC, ASPECT:IPFV, PERSON:1_PL_INC	Se' amì tö̀wö̀ ku sö'ik
+Ye' a̠mì̠ tö bö̀wö duké wö'ik	MODE:DES, TENSE:IPFV_REC, ASPECT:IPFV	Ye' amì én amì amèku bö̀ ta'ku du dawö́k
+Ye' a̠mì̠ tö bö̀wö duké wö'ik	TYPE:NEG, MODE:DES, TENSE:IPFV_REC, ASPECT:IPFV	Kë̀ ye' amì én a amèku bö̀ ta'ku dawö́k
+Ye' a̠mì̠ tö bö̀wö duké wö'ik	MODE:ADVERS	Ye' amì wamì tö́k
+Ye' a̠mì̠ tö bö̀wö duké wö'ik	TENSE:IPFV_HAB, ASPECT:IPFV	Ye' amì tö bö̀wèke
+Ye' a̠mì̠ tö bö̀wö duké wö'ik	TYPE:NEG, TENSE:IPFV_HAB, ASPECT:IPFV	Kë̀ ye' amì tö̀wèku
+Ye' a̠mì̠ tö bö̀wö duké wö'ik	TENSE:FUT_POT, ASPECT:IPFV	Ye' amì tö bö̀wèmi
+Ye' a̠mì̠ tö bö̀wö duké wö'ik	TYPE:NEG, TENSE:FUT_POT, ASPECT:IPFV	Kë̀ ye' amì tö bö̀wö̀k
+Ye' a̠mì̠ tö bö̀wö duké wö'ik	TENSE:FUT_CER, ASPECT:IPFV	Ye' amì tö bö̀wèrâ wö́k
+Ye' a̠mì̠ tö bö̀wö duké wö'ik	TYPE:NEG, TENSE:FUT_CER, ASPECT:IPFV	Kë̀ ye' amì tö̀wèpa bir
+Ye' a̠mì̠ tö bö̀wö duké wö'ik	VOICE:MID	Ye' amì tö bö̀wèmi
+Ye' a̠mì̠ tö bö̀wö duké wö'ik	TYPE:NEG, VOICE:MID	Kë̀ amì kë̀wèn
+Ye' a̠mì̠ tö bö̀wö duké wö'ik	TENSE:PRF_REC, VOICE:MID	Ye' amì tö bö̀wè
+Ye' a̠mì̠ tö bö̀wö duké wö'ik	TYPE:NEG, TENSE:PRF_REC, VOICE:MID	Kë̀ bö̀wàr
+Ye' a̠mì̠ tö bö̀wö duké wö'ik	TENSE:IPFV_REC, ASPECT:IPFV, VOICE:MID	Kë̀ bö̀wök
+Ye' a̠mì̠ tö bö̀wö duké wö'ik	TYPE:NEG, TENSE:IPFV_REC, ASPECT:IPFV, VOICE:MID	Kë̀ bö̀wök
+Ye' a̠mì̠ tö bö̀wö duké wö'ik	TENSE:IPFV_HAB, ASPECT:IPFV, VOICE:MID	Kë̀ bö̀wèk
+Ye' a̠mì̠ tö bö̀wö duké wö'ik	TYPE:NEG, TENSE:IPFV_HAB, ASPECT:IPFV, VOICE:MID	Kë̀ bö̀wèku
+Ye' a̠mì̠ tö bö̀wö duké wö'ik	TENSE:FUT_POT, ASPECT:IPFV, VOICE:MID	Kë̀ bö̀wök
+Ye' a̠mì̠ tö bö̀wö duké wö'ik	TYPE:NEG, TENSE:FUT_POT, ASPECT:IPFV, VOICE:MID	Kë̀ bö̀wök
+Ye' a̠mì̠ tö bö̀wö duké wö'ik	TENSE:FUT_CER, ASPECT:IPFV, VOICE:MID	Kë̀ bö̀wèpa
+Ye' a̠mì̠ tö bö̀wö duké wö'ik	TYPE:NEG, TENSE:FUT_CER, ASPECT:IPFV, VOICE:MID	Kë̀ bö̀wàrpa
+Ye' a̠mì̠ tö bö̀wö duké wö'ik	TENSE:PAS_PLU	Ye' amì wamèpa wamì tö bö̀wárule
+Ye' a̠mì̠ tö bö̀wö duké wö'ik	TYPE:NEG, TENSE:PAS_PLU	Ye' kë̀ wamì kë̀ wamèpa
+Ye' a̠mì̠ tö bö̀wö duké wö'ik	MODE:POT, TENSE:IPFV_REC, ASPECT:IPFV	Ye' amì amèwam am am amwö́k
+Ye' a̠mì̠ tö bö̀wö duké wö'ik	TYPE:NEG, MODE:POT, TENSE:IPFV_REC, ASPECT:IPFV	Kë̀ amì amèwa am amwö́k
+Mó̠köl ar ka̠nò̠ a̠	TYPE:NEG	Kë̀ chìköl ar kanò a
+Mó̠köl ar ka̠nò̠ a̠	TENSE:PRF_REM, ASPECT:PFV	Buköl ar kanèmè a
+Mó̠köl ar ka̠nò̠ a̠	TYPE:NEG, TENSE:PRF_REM, ASPECT:PFV	Bu kë̀ ku'bakköl ar kanèk a
+Mó̠köl ar ka̠nò̠ a̠	ABSNUM:PL	Buköl ar kanò a
+Mó̠köl ar ka̠nò̠ a̠	TYPE:NEG, ABSNUM:PL	Bu kë̀ kuk dapárke aköl ar kanò a a
+Mó̠köl ar ka̠nò̠ a̠	TENSE:PRF_REM, ASPECT:PFV, ABSNUM:PL	Aköl ar kanò a
+Mó̠köl ar ka̠nò̠ a̠	TYPE:NEG, TENSE:PRF_REM, ASPECT:PFV, ABSNUM:PL	A kë̀ ku'bakköl ar kanèpa a
+Si̠ni̠' tër í̠s ki̠	TYPE:NEG	Kë̀ yeni' tër tër tër tër ís ki
+Si̠ni̠' tër í̠s ki̠	TENSE:PRF_REM, ASPECT:PFV	Yeni' témèmè
+Si̠ni̠' tër í̠s ki̠	TYPE:NEG, TENSE:PRF_REM, ASPECT:PFV	Kë̀ yen ani' tër ís ki
+Si̠ni̠' tër í̠s ki̠	ABSNUM:PL	Yeni' të̀ dapárke ís ki
+Si̠ni̠' tër í̠s ki̠	TYPE:NEG, ABSNUM:PL	Kë̀ chìni' të̀pa
+Si̠ni̠' tër í̠s ki̠	TENSE:PRF_REM, ASPECT:PFV, ABSNUM:PL	A' bák da'párke ís ki
+Si̠ni̠' tër í̠s ki̠	TYPE:NEG, TENSE:PRF_REM, ASPECT:PFV, ABSNUM:PL	A' kë̀ ku'bak dapárke ís ki
+I dé	ABSNUM:PL, PERSON:3_PL	Iepa Iepa dapáre
+I dé	TENSE:PRF_REM	Ye' ujté
+I dé	TENSE:IPFV_PROG, ASPECT:IPFV	Ye tso tso tso tso tso dawö́k
+I dé	TYPE:NEG, TENSE:IPFV_PROG, ASPECT:IPFV	Ye' kë̀ ku
+I dé	TENSE:PRF_PROG	Ye' bák dawö́k
+I dé	TYPE:NEG, TENSE:PRF_PROG	Ye' kë̀ ku'bak tö́k
+I̠nú̠köl ta̠'	TENSE:PRF_REC, ASPECT:PFV	Yenúköl ta
+I̠nú̠köl ta̠'	TENSE:PRF_REM, ASPECT:PFV	Yenúköl tawa
