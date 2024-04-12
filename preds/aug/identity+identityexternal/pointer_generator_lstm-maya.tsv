@@ -1,150 +1,150 @@
 Source	Target	Change	Predicted Target
-Janalnajen tu k'íiwikil koonol	Janalnajo'on tu k'íiwikil koonol	PERSON:1_PL	Janalnajo'on tuk'íiiwiki  koonol
-Janalnajen tu k'íiwikil koonol	Janalnaje'ex tu k'íiwikil koonol	PERSON:2_PL	Janalnaje'ex tx k'iiiikil kooool
-Janalnajen tu k'íiwikil koonol	J-Jaanech tu k'íiwikil koonol	PERSON:2_SI	Janalnajech tu k'iiwikil koonol
-Táan ek bin ich kool	Ma' táan ek bin ich kooli'	TYPE:NEG	Ma' tea  ek bin ich koool''
-Táan ek bin ich kool	Táan wáaj ek bin ich kool	SUBTYPE:INT	Táan eáaj  k bin ch koool
-Teche' ka bin xíimbal tu najil	Teche' ma' ta bin xíimbal tu najil	TYPE:NEG	Ma' e' ma'aka bi  xíimba tui'ii'i'i'i'
-Teche' ka bin xíimbal tu najil	Teche' ka bin xíimbal tu najil wáaj	SUBTYPE:INT	Teche' ka bin bí xxxíimal  oo 
-Te'exe' táan a bine'ex koonol tu k'íiwikil koonol	Ma' táan a bine'ex koonol tu k'íiwikil koonoli'	TYPE:NEG	Metiaa' xaa taanan n innnnnoooooolluooolliiiii'ioonnoi'i'
-Te'exe' táan a bine'ex koonol tu k'íiwikil koonol	Táan wáaj a bine'ex koonol tu k'íiwikil koonol	SUBTYPE:INT	Te'exe' táanaaaaaa w iie''eooooooll u k'iiiiill koono
+Janalnajen tu k'íiwikil koonol	Janalnajo'on tu k'íiwikil koonol	PERSON:1_PL	Janalnajo'on tu k'íiwikil koonol
+Janalnajen tu k'íiwikil koonol	Janalnaje'ex tu k'íiwikil koonol	PERSON:2_PL	Janalnaje'ex tu k'íiwikil koonol
+Janalnajen tu k'íiwikil koonol	J-Jaanech tu k'íiwikil koonol	PERSON:2_SI	Janalnajech tu k'íiwikil koonol
+Táan ek bin ich kool	Ma' táan ek bin ich kooli'	TYPE:NEG	Ma' táan en bin ich kooli'
+Táan ek bin ich kool	Táan wáaj ek bin ich kool	SUBTYPE:INT	Táan wáaj in bin ich kool
+Teche' ka bin xíimbal tu najil	Teche' ma' ta bin xíimbal tu najil	TYPE:NEG	Ma' táan a bin xíimbal tu najili'
+Teche' ka bin xíimbal tu najil	Teche' ka bin xíimbal tu najil wáaj	SUBTYPE:INT	Teche' ka bin xíimbal tu najil
+Te'exe' táan a bine'ex koonol tu k'íiwikil koonol	Ma' táan a bine'ex koonol tu k'íiwikil koonoli'	TYPE:NEG	Te'exe' ma' táan a bine'ex koonol tu k'íiwikil koonoli'
+Te'exe' táan a bine'ex koonol tu k'íiwikil koonol	Táan wáaj a bine'ex koonol tu k'íiwikil koonol	SUBTYPE:INT	Te'exe' táan wáaj a bine'ex koonol tu k'íiwikil koonol
 Táan in míistik a wotoch	Táan a míistik a wotoch	PERSON:2_SI	Táan a míistik a wotoch
-Ma' jach k'a'abéet in bin merkaadoi'	Ma' jach k'a'abéet u bin merkaadoi'	PERSON:3_SI	Ma' jach k'a'abéet u in meekaaadoi'
-Ma' jach k'a'abéet in bin merkaadoi'	Ma' jach k'a'abéet u bino'ob merkaadoi'	PERSON:3_PL	Ma' jach k'a'abéet ubino'obomeerkaadoi'
-Ma' jach k'a'abéet in bin merkaadoi'	Ma' jach k'a'abéet a bine'ex merkaadoi'	PERSON:2_PL	Ma' jach k'a'abée  a biie'exxmerkaa
-Ba'ax k'iin a bin merkaado	Ba'ax k'iin a bine'ex merkaado	PERSON:2_PL	Ba'ax k'ii aa bine'ex mrraaado
-Ba'ax k'iin a bin merkaado	Ba'ax k'iin u bino'ob merkaado	PERSON:3_PL	Ba'ax k'in u biino'ob erkaado
-Táan in meyaj tin wotoch	Táan a meyaj ta wotoch	PERSON:2_SI	Táan a meyaj tin ottoch
-Táan in meyaj tin wotoch	Táan u meyaj tu yotoch	PERSON:3_SI	Táan u meyaj tin otoch
-Táan in meyaj tin wotoch	Leti'obe' táan u meyajo'ob tin wotoch	PERSON:3_PL	Táan u meyaj 'obinobootoch
-Táan in meyaj tin wotoch	Te'exe' táan a meyaje'ex tin wotoch	PERSON:2_PL	Táan a meyaj  a  wotto'cc
-Táan in meyaj tin wotoch	Táan ek meyaj tin wotoch	PERSON:1_PL	Táan e  meyaj ti  otoch
-Tan in k'íilkab	Tan in k'íilkab wáaj	SUBTYPE:INT	Tan wáaj a k'ílkabb
-Tan in k'íilkab	Ma' tan in k'íilkabi'	TYPE:NEG	Ma' in  in k''lkab'''
-Ba'ax k'iin a bin ich kool	Ba'ax k'iin u bin tu kool	PERSON:3_SI	Ba'ax k'iu u binn ich kool
-Ba'ax k'iin a bin ich kool	Ba'ax k'iin a bine'ex ta koole'ex	PERSON:2_PL	Ba'ax k'iin a bine'ex ch koool
-Ba'ax k'iin a bin ich kool	Ba'ax k'iin u bino'ob tu koolo'ob	PERSON:3_PL	Ba'ax k'in u biino'ob ch kool
+Ma' jach k'a'abéet in bin merkaadoi'	Ma' jach k'a'abéet u bin merkaadoi'	PERSON:3_SI	Ma' jach k'a'abéet u bin merkaadoi'
+Ma' jach k'a'abéet in bin merkaadoi'	Ma' jach k'a'abéet u bino'ob merkaadoi'	PERSON:3_PL	Ma' jach k'a'abéet u bino'ob merkaadoi'
+Ma' jach k'a'abéet in bin merkaadoi'	Ma' jach k'a'abéet a bine'ex merkaadoi'	PERSON:2_PL	Ma' jach k'a'abéet a bine'ex merkaadoi'
+Ba'ax k'iin a bin merkaado	Ba'ax k'iin a bine'ex merkaado	PERSON:2_PL	Ba'ax k'iin a bine'ex merkaado
+Ba'ax k'iin a bin merkaado	Ba'ax k'iin u bino'ob merkaado	PERSON:3_PL	Ba'ax k'iin u bino'ob merkaado
+Táan in meyaj tin wotoch	Táan a meyaj ta wotoch	PERSON:2_SI	Táan a meyaj tin wotoch
+Táan in meyaj tin wotoch	Táan u meyaj tu yotoch	PERSON:3_SI	Táan u meyaj tu wotoch
+Táan in meyaj tin wotoch	Leti'obe' táan u meyajo'ob tin wotoch	PERSON:3_PL	Táan u meyajo'ob tin wotoch
+Táan in meyaj tin wotoch	Te'exe' táan a meyaje'ex tin wotoch	PERSON:2_PL	Táan a meyaje'ex win wotochi'
+Táan in meyaj tin wotoch	Táan ek meyaj tin wotoch	PERSON:1_PL	Táan ek meyaj tin wotoch
+Tan in k'íilkab	Tan in k'íilkab wáaj	SUBTYPE:INT	Tan wáaj in k'íilkab
+Tan in k'íilkab	Ma' tan in k'íilkabi'	TYPE:NEG	Ma' in k'íilkabi'
+Ba'ax k'iin a bin ich kool	Ba'ax k'iin u bin tu kool	PERSON:3_SI	Ba'ax k'iin u bin ich kool
+Ba'ax k'iin a bin ich kool	Ba'ax k'iin a bine'ex ta koole'ex	PERSON:2_PL	Ba'ax k'iin a bine'ex ich kool
+Ba'ax k'iin a bin ich kool	Ba'ax k'iin u bino'ob tu koolo'ob	PERSON:3_PL	Ba'ax k'iin u bino'ob ich kool
 Tin manaj in najil	Ta manaj a najil	PERSON:2_SI	Ta manaj a najil
-Táan k bin koonol tu k'íiwikil koonol	Ma' táan k bin koonol tu k'íiwikil koonoli'	TYPE:NEG	Ma' já'an a bin koonol u k'ill''''oi'ii'i'i'i'i'
-Táan k bin koonol tu k'íiwikil koonol	Táan wáaj k bin koonol tu k'íiwikil koonol	SUBTYPE:INT	Táan wáaj a anin onnl  uu 'íiwikil koooool
-Tene' in wojel u ja'abili'	Ma' in wojel u ja'abili'	TYPE:NEG	Ma'en in iel u ja'abbiil''''''''
-Tene' in wojel u ja'abili'	Tene' in wojel u ja'abili' wáaj	SUBTYPE:INT	Tene' wá wojel u j ' ja'abiili'
-Tin wa'alaj ka'ap'éel in k'aaba'	Ta wa'alaj ka'ap'éel a k'aaba'	PERSON:2_SI	Ta  wa'alaj ka'ap'eel aak'aaba'
-Tin wa'alaj ka'ap'éel in k'aaba'	Tu ya'alaj ka'ap'éel u k'aaba'	PERSON:3_SI	Táa wa'al u ka'a''ee u  'aaaba'
-Tin wa'alaj ka'ap'éel in k'aaba'	Tek a'alaj ka'ap'éel k k'aaba'	PERSON:1_PL	Tá'onena'alak ka'''''ee kk aaaoo''
-Tin wa'alaj ka'ap'éel in k'aaba'	Ta wa'alaje'ex ka'ap'éel a k'aaba'ex	PERSON:3_PL	Tu  wa'olobob ka'a'''eel  oo'ooooooooo
-Tin wa'alaj ka'ap'éel in k'aaba'	Tu ya'alajo'ob ka'ap'éel u k'aaba'ob	PERSON:3_PL	Tu  wa'olobob ka'a'''eel  oo'ooooooooo
-Tu yilaj u sáastal tu kaajal	Ma' tu yilaj u sáastal tu kaajali'	TYPE:NEG	Ma' tin ilaa u áaast  kaaiii'i
-Tu yilaj u sáastal tu kaajal	Tu yilaj wáaj u sáastal tu kaajal	SUBTYPE:INT	Tu yilaj a saattal tu kaaaojj
-Tin manaj u k'áaxil uti'al in beetik in kool	Ta manaj u k'áaxil a beetik a kool	PERSON:2_SI	Taa manaj u káaxi  utiall aa aeetik
+Táan k bin koonol tu k'íiwikil koonol	Ma' táan k bin koonol tu k'íiwikil koonoli'	TYPE:NEG	Ma' táan a bin koonol tu k'íiwikil koonoli'
+Táan k bin koonol tu k'íiwikil koonol	Táan wáaj k bin koonol tu k'íiwikil koonol	SUBTYPE:INT	Táan wáaj k bin koonol tu k'íiwikil koonol
+Tene' in wojel u ja'abili'	Ma' in wojel u ja'abili'	TYPE:NEG	Ma' in wojel u ja'abili'
+Tene' in wojel u ja'abili'	Tene' in wojel u ja'abili' wáaj	SUBTYPE:INT	Tene' in wojel wáaj u ja'abili'
+Tin wa'alaj ka'ap'éel in k'aaba'	Ta wa'alaj ka'ap'éel a k'aaba'	PERSON:2_SI	Ta wa'alaj ka'ap'éel a k'aaba'
+Tin wa'alaj ka'ap'éel in k'aaba'	Tu ya'alaj ka'ap'éel u k'aaba'	PERSON:3_SI	Tu ya'alaj ka'ap'éel u k'aaba'
+Tin wa'alaj ka'ap'éel in k'aaba'	Tek a'alaj ka'ap'éel k k'aaba'	PERSON:1_PL	Tek wa'alaj ka'ap'éel k k'aaba'
+Tin wa'alaj ka'ap'éel in k'aaba'	Ta wa'alaje'ex ka'ap'éel a k'aaba'ex	PERSON:3_PL	Tu ya'alaj ka'ap'éel u k'aaba'ob
+Tin wa'alaj ka'ap'éel in k'aaba'	Tu ya'alajo'ob ka'ap'éel u k'aaba'ob	PERSON:3_PL	Tu ya'alaj ka'ap'éel u k'aaba'ob
+Tu yilaj u sáastal tu kaajal	Ma' tu yilaj u sáastal tu kaajali'	TYPE:NEG	Ma' tin milaj u sáastal tu kaajali'
+Tu yilaj u sáastal tu kaajal	Tu yilaj wáaj u sáastal tu kaajal	SUBTYPE:INT	Tu yilaj wáaj u sáastal tu kaajal
+Tin manaj u k'áaxil uti'al in beetik in kool	Ta manaj u k'áaxil a beetik a kool	PERSON:2_SI	Ta manaj u k'áaxil uti'al a beetik in kool
 Táan in bin ich kool	Táan a bin ich kool	PERSON:2_SI	Táan a bin ich kool
-Táan in bin ich kool	Táan u bin tu kool	PERSON:3_SI	Táan u bin icc kool
-Táan in bin ich kool	Táan u bino'ob ich kool	PERSON:3_PL	Táan u bino'ob ih koool
-Táan in bin ich kool	Táan a bine'ex ich kool	PERSON:2_PL	Táan a bine'ex th koole'ex
-Táan in bin ich kool	Táan ek bin ich kool	PERSON:1_PL	Táan ek in icc kool
-Táan in bin koonol tu k'íiwikil koonol	Ma' táan in bin koonol tu k'íiwikil koonol	TYPE:NEG	Maantininin bin koono  uu 'ilikkii'oooi'oi'i'
-Táan in bin koonol tu k'íiwikil koonol	Táan in bin koonol tu k'íiwikil koonol wáaj	SUBTYPE:INT	Táanwáaj  ii  in koonl  uuk'íiwikil kooool
-Teche' ti' kajakbalech tu yotoche'	Ma' kajakbalech tu wotochi'	TYPE:NEG	Meche' 'a'  ii  jaabbll'cc tu yotoch'''
-Teche' ti' kajakbalech tu yotoche'	Ma' wáaj kajakbalech tu yotochi'	TYPE:NEG	Meche' 'a'  ii  jaabbll'cc tu yotoch'''
-Te'exe' áak'ab ka bine'ex tu k'íiwikil koonol	Te'exe' áak'ab wáaj ka bine'ex tu k'íiwikil koonol	SUBTYPE:INT	Te'exe' áak'abaaaww w  ieeeeex  u k'iiiiiilokoonol
-Te'exe' áak'ab ka bine'ex tu k'íiwikil koonol	Te'exe' ma' áak'ab wáaj ka bine'ex tu k'íiwikil koonoli'	TYPE:NEG;SUBTYPE:INT	Metiae' aea'aáaabwáajajj a a a t t a    ''iikioi'oi'
-Táan a bin ich kool	Ma' táan a bin ich kooli'	TYPE:NEG	Ma' táan a bin ich koool''
-Táan a bin ich kool	Táan wáaj a bin ich kool	SUBTYPE:INT;PERSON:1_SI	Táan wáaj abin ich kool
-Teche' áak'ab ka bin tu k'íiwikil koonol	Teche' áak'ab wáaj ka bin tu k'íiwikil koonol	SUBTYPE:INT	Teche' áak'ab aaj w   ii  uu kíiiikiil koonol
-Teche' áak'ab ka bin tu k'íiwikil koonol	Teche' ma' áak'ab wáaj ka bin tu k'íiwikil koonoli'	TYPE:NEG;SUBTYPE:INT	Teche' ma'aáakaab wáaj a bnnntt kkiiiiiiiiikiooioooi'i'
+Táan in bin ich kool	Táan u bin tu kool	PERSON:3_SI	Táan u bin ich kool
+Táan in bin ich kool	Táan u bino'ob ich kool	PERSON:3_PL	Táan u bino'ob ich kool
+Táan in bin ich kool	Táan a bine'ex ich kool	PERSON:2_PL	Táan a bine'ex ta koole'ex
+Táan in bin ich kool	Táan ek bin ich kool	PERSON:1_PL	Táan ek bin ich kool
+Táan in bin koonol tu k'íiwikil koonol	Ma' táan in bin koonol tu k'íiwikil koonol	TYPE:NEG	Ma' táan in bin koonol tu k'íiwikil koonoli'
+Táan in bin koonol tu k'íiwikil koonol	Táan in bin koonol tu k'íiwikil koonol wáaj	SUBTYPE:INT	Táan wáaj in bin koonol tu k'íiwikil koonol
+Teche' ti' kajakbalech tu yotoche'	Ma' kajakbalech tu wotochi'	TYPE:NEG	Ma' ti' kajakbale'ex tu yotoche'
+Teche' ti' kajakbalech tu yotoche'	Ma' wáaj kajakbalech tu yotochi'	TYPE:NEG	Ma' ti' kajakbale'ex tu yotoche'
+Te'exe' áak'ab ka bine'ex tu k'íiwikil koonol	Te'exe' áak'ab wáaj ka bine'ex tu k'íiwikil koonol	SUBTYPE:INT	Te'exe' áak'ab wáaj ka bine'ex tu k'íiwikil koonol
+Te'exe' áak'ab ka bine'ex tu k'íiwikil koonol	Te'exe' ma' áak'ab wáaj ka bine'ex tu k'íiwikil koonoli'	TYPE:NEG;SUBTYPE:INT	Te'exe' ma' áak'ab wáaj ka bine'ex tu k'íiwikil koonoli'
+Táan a bin ich kool	Ma' táan a bin ich kooli'	TYPE:NEG	Ma' táan a bin ich kooli'
+Táan a bin ich kool	Táan wáaj a bin ich kool	SUBTYPE:INT;PERSON:1_SI	Táan wáaj a bin ich kool
+Teche' áak'ab ka bin tu k'íiwikil koonol	Teche' áak'ab wáaj ka bin tu k'íiwikil koonol	SUBTYPE:INT	Teche' áak'ab wáaj ku bin tu k'íiwikil koonol
+Teche' áak'ab ka bin tu k'íiwikil koonol	Teche' ma' áak'ab wáaj ka bin tu k'íiwikil koonoli'	TYPE:NEG;SUBTYPE:INT	Teche' ma' áak'ab wáaj ka bin tu k'íiwikil koonoli'
 Ma' wáaj in chuk u ja'abili'	Ma' wáaj a chuk u ja'abili'	PERSON:2_SI	Ma' wáaj a chuk u ja'abili'
 Ma' wáaj in chuk u ja'abili'	Ma' wáaj u chuk u ja'abili'	PERSON:3_SI	Ma' wáaj u chuk u ja'abili'
 Ma' wáaj in chuk u ja'abili'	Ma' wáaj k chuk u ja'abili'	PERSON:1_PL	Ma' wáaj k chuk u ja'abili'
-Ma' wáaj in chuk u ja'abili'	Ma' wáaj a chuke'ex u ja'abili'	PERSON:2_PL	Ma' wáaj a chukk'ex  aabbilii'
-Ma' wáaj in chuk u ja'abili'	Ma' wáaj u chuko'ob u ja'abili'	PERSON:3_PL	Ma' wáaj u chuko'ob  ja'abili'
-Tene' ma' ts'oka'an in beeli'	Teche' ma' ts'oka'an a beeli'	PERSON:2_SI	Teche' ma' ts'oka'an aabeeli'
-Tene' ma' ts'oka'an in beeli'	Leti'e' ma' ts'oka'an u beeli'	PERSON:3_SI	Leti'e' ma' ts'okaan u  beeli'
-Tene' ma' ts'oka'an in beeli'	To'one' ma' ts'oka'an k beeli'	PERSON:1_PL	To'one' ma' ts'oka'an kk beeli'
-Tene' ma' ts'oka'an in beeli'	Te'exe' ma' ts'oka'an a beele'exi'	PERSON:2_PL	Te'ex x ma' ts'oka'e  aa beeee'ex
-Tene' ma' ts'oka'an in beeli'	Leti'obe' ma' ts'oka'an u beelo'obi'	PERSON:3_PL	Leti'obe' job ts'oka'   'obeeooooo'
-Teche' jbúulech wáaj	Leti'e' jbúul wáaj	PERSON:3_SI	Leti'e' jbúuletáwjaj
-Teche' jbúulech wáaj	To'one' jbúulo'on wáaj	PERSON:1_PL	To'one' jbúuulo'onwáaj
-Teche' jbúulech wáaj	Te'exe' jbúule'ex wáaj	PERSON:2_PL	Te'exe' jbúulle'eae'exaj
-Leti'e' u k'aaba'e'	Bix u k'aaba'	SUBTYPE:INT	Latiwáaj aaaaabaaba''e'
-Leti'e' u k'aaba'e'	Ma' u k'aaba'i'	TYPE:NEG;ASPECT:NA	Ma' wakaaa'aaba'
-Ma' tin kaxtaj a wotochi'	Ma' tu kaxtaj a wotochi'	PERSON:3_SI	Ma' tu kaxtaj a wotoch'
-Leti'obe' táan u bino'ob koonol tu k'íiwikil koonol	Ma' táan u bino'ob koonol tu k'íiwikil koonoli'	TYPE:NEG	Met tin ' aa'a' nnn    iinonooooooll'uooolliiiii'koonno'i'
-Leti'obe' táan u bino'ob koonol tu k'íiwikil koonol	Táan wáaj u bino'ob koonol tu k'íiwikil koonol	SUBTYPE:INT	Leti'okej káan wáa  u iinooooooooooo u k''iiiiill koonol
-Yaan wáaj a boon tu naajil xook	Yaan wáaj u boon tu naajil xook	PERSON:3_SI	Yaan wáaj u boon t  naajil xook
+Ma' wáaj in chuk u ja'abili'	Ma' wáaj a chuke'ex u ja'abili'	PERSON:2_PL	Ma' wáaj a chuke'ex u ja'abili'
+Ma' wáaj in chuk u ja'abili'	Ma' wáaj u chuko'ob u ja'abili'	PERSON:3_PL	Ma' wáaj u chuko'ob u ja'abili'
+Tene' ma' ts'oka'an in beeli'	Teche' ma' ts'oka'an a beeli'	PERSON:2_SI	Teche' ma' ts'oka'an a beeli'
+Tene' ma' ts'oka'an in beeli'	Leti'e' ma' ts'oka'an u beeli'	PERSON:3_SI	Leti'e' ma' ts'oka'an u beeli'
+Tene' ma' ts'oka'an in beeli'	To'one' ma' ts'oka'an k beeli'	PERSON:1_PL	To'one' ma' ts'oka'an k beeli'
+Tene' ma' ts'oka'an in beeli'	Te'exe' ma' ts'oka'an a beele'exi'	PERSON:2_PL	Te'exe' ma' ts'oka'an a beele'exi'
+Tene' ma' ts'oka'an in beeli'	Leti'obe' ma' ts'oka'an u beelo'obi'	PERSON:3_PL	Leti'obe' ma' ts'oka'an a beele'exi'
+Teche' jbúulech wáaj	Leti'e' jbúul wáaj	PERSON:3_SI	Leti'e' jbúul wáaj
+Teche' jbúulech wáaj	To'one' jbúulo'on wáaj	PERSON:1_PL	To'one' jbúulo'on wáaj
+Teche' jbúulech wáaj	Te'exe' jbúule'ex wáaj	PERSON:2_PL	Te'exe' jbúule'ex wáaj
+Leti'e' u k'aaba'e'	Bix u k'aaba'	SUBTYPE:INT	Ti' wáaj u k'aaba'
+Leti'e' u k'aaba'e'	Ma' u k'aaba'i'	TYPE:NEG;ASPECT:NA	Ma' u k'aaba'i'
+Ma' tin kaxtaj a wotochi'	Ma' tu kaxtaj a wotochi'	PERSON:3_SI	Ma' tu kaxtaj a wotochi'
+Leti'obe' táan u bino'ob koonol tu k'íiwikil koonol	Ma' táan u bino'ob koonol tu k'íiwikil koonoli'	TYPE:NEG	Ma' tin tin táan u bino'ob koonol tu k'íiwikil koonoli'
+Leti'obe' táan u bino'ob koonol tu k'íiwikil koonol	Táan wáaj u bino'ob koonol tu k'íiwikil koonol	SUBTYPE:INT	Leti'obe' táan wáaj u bino'ob koonol tu k'íiwikil koonol
+Yaan wáaj a boon tu naajil xook	Yaan wáaj u boon tu naajil xook	PERSON:3_SI	Yaan wáaj u boon tu naajil xook
 Yaan wáaj a boon tu naajil xook	Yaan wáaj k boon tu naajil xook	PERSON:1_PL	Yaan wáaj k boon tu naajil xook
-Yaan wáaj a boon tu naajil xook	Yaan wáaj a boone'ex xook tu naajil xook	PERSON:2_PL	Yaan wáaj a boone'ex ook tu  aaaji ooookk
-Yaan wáaj a boon tu naajil xook	Yaan wáaj u boono'ob tu naajil xook	PERSON:3_PL	Yaan wáaj u boono'ob t  aajjl xook
-Tene' kin pak'ik nal tin kool	Teche' ka pak'ik nal ta kool	PERSON:2_SI	Teche' kanpak'ik nal  a kool
+Yaan wáaj a boon tu naajil xook	Yaan wáaj a boone'ex xook tu naajil xook	PERSON:2_PL	Yaan wáaj a boone'ex xook tu naajil xook
+Yaan wáaj a boon tu naajil xook	Yaan wáaj u boono'ob tu naajil xook	PERSON:3_PL	Yaan wáaj u boono'ob tu naajil xook
+Tene' kin pak'ik nal tin kool	Teche' ka pak'ik nal ta kool	PERSON:2_SI	Teche' ka pak'ik nal ta kool
 Tene' kin pak'ik nal tin kool	Leti'e' ku pak'ik nal tu kool	PERSON:3_SI	Leti'e' ku pak'ik nal tu kool
-Tene' kin pak'ik nal tin kool	To'one' kek pak'ik nal tek kool	PERSON:1_PL	To'one' k p  k'''ik al tk kool
-Tene' kin pak'ik nal tin kool	Te'exe' ka pak'ike'ex nal ta koole'ex	PERSON:2_PL	Te'ex' ka bpapak'ii  nal ta kooleeex
-Tene' kin pak'ik nal tin kool	Leti'obe' ku pak'iko'ob nal tu koolo'ob	PERSON:3_PL	Leti'ob'e' b bak''ob nll tukkkoooo
-Jach k'a'abéet a bine'ex ta koole'ex	Ma' jach k'a'abéet a bine'ex ta koole'exi'	TYPE:NEG	Ma' ja' akaa'a'aéet  bine'e'tt' koe''''i'i'
-Jach k'a'abéet a bine'ex ta koole'ex	Ma' wáaj jach k'a'abéet a bine'ex ta koole'exi'	TYPE:NEG;SUBTYPE:INT	Ma' jaa jaaaa'abáajaj ajjaa   '''oo'o'o''''''''i'
-Kin wilikech tu k'íiwikil koonol	Ka wiliken tu k'íiwikil koonol	PERSON:2_SI	Taa wilikech t k'íiwiki  oooool
-Kin wilikech tu k'íiwikil koonol	Kak ilikabáaj tu k'íiwikil koonol	PERSON:1_PL	Tá'on in iiie'hhtkk'iiiiiiioooooollll
-Jayp'éel ja'ab yaanten	Jayp'éel ja'ab yaanti'	PERSON:3_SI	Jayp'éel ja'ab yantei
-Jayp'éel ja'ab yaanten	Jayp'éel ja'ab yaanto'on	PERSON:1_PL	Jayp'éel ja'ab yaanto'o
-Jayp'éel ja'ab yaanten	Jayp'éel ja'ab yaante'ex	PERSON:2_PL	Jayp'éel ja'ab yaane'e'e
-Jayp'éel ja'ab yaanten	Jayp'éel ja'ab yaanti'ob	PERSON:3_PL	Jayp'éel ja'ab yaanto'ob
-To'one' ti' k taali'	Ma' ti' k taali'	TYPE:NEG	Ma' tan n ' tiaaaiaaiii''
-To'one' ti' k taali'	Ti' wáaj k taali'	SUBTYPE:INT	To'one' wáaj attaaaaali'
-Jach k'a'abéet wáaj a bin ich kool	Jach k'a'abéet wáaj in bin ich kool	PERSON:1_SI	Jach k'a'abéet wáaj inbbnn ih  kool
-Jach k'a'abéet wáaj a bin ich kool	Jach k'a'abéet wáaj u bin ich kool	PERSON:3_SI	Jach k'a'abéet wáaj u in  ich kool
-Jach k'a'abéet wáaj a bin ich kool	Jach k'a'abéet wáaj u bino'ob tu koolo'obi'	PERSON:3_PL	Jach k'a'abéet  áaj u bno'ob ich kkool
-Jach k'a'abéet wáaj a bin ich kool	Jach k'a'abéet wáaj a bine'ex ta koole'ex	PERSON:2_PL	Jach k'a'abéet  áaj a biie'ex tt kkkool
-Tene' ma' áak'ab kin bin tu k'íiwikil koonoli'	Teche' ma' áak'ab ka bin tu k'íiwikil koonoli'	PERSON:2_SI	Teche' ma' áak'ab ka bin tu k'iwikiil koonoli'
-Tene' ma' áak'ab kin bin tu k'íiwikil koonoli'	Leti'e' ma' áak'ab ku bin tu k'íiwikil koonoli'	PERSON:2_SI	Teche' ma' áak'ab ka bin tu k'iwikiil koonoli'
-Tene' ma' áak'ab kin bin tu k'íiwikil koonoli'	To'one' ma' áak'ab k bin tu k'íiwikil koonoli'	PERSON:1_PL	To'one' k k á k'ab k  iin tu kíiwikill koonoli'
-Tene' ma' áak'ab kin bin tu k'íiwikil koonoli'	Te'exe' ma' áak'ab ka bine'ex tu k'íiwikil koonoli'	PERSON:2_PL	Te'exex ma'ááak'ab a  iiee'exooo kíiwiiil koonolii
-Jach k'a'abéet u bino'ob tu koolo'ob	Jach k'a'abéet wáaj u bino'ob tu koolo'obi'	SUBTYPE:INT	Jach wáaj wáaj wáe    bino'  ou oooooooooo
-Jach k'a'abéet u bino'ob tu koolo'ob	Ma' wáaj jach k'a'abéet u bino'ob tu koolo'obi'	TYPE:NEG;SUBTYPE:INT	Ma' jaa jaaaa'abéet       buu''''oooooooooooooo
-Jach k'a'abéet u bino'ob tu koolo'ob	Ma' jach k'a'abéet u bino'ob tu koolo'obi'	TYPE:NEG	Ma' ja'  a'a'a'eéet  bino'o tou ooooo''o'o'
-Jweenen tu k'íiwikil koonol	Jweenech tu k'íiwikil koonol	PERSON:2_SI	Jw'ecech tu k'íiwikil koonol
-Jweenen tu k'íiwikil koonol	Jweeno'ob tu k'íiwikil koonol	PERSON:3_PL	Leti'obe'e'ebb k'iiwikooooooooooo
-Jweenen tu k'íiwikil koonol	Jweene'ex tu k'íiwikil koonol	PERSON:2_PL	Te'exe'e' b'eb ííiwikiloooooool
-Te'exe' ti' kajakbale'ex tu yotoche'	Ma' kajakbale'ex tu wotochi'	TYPE:NEG	Me'eta' xaa' iinkkaakbalb''x tu yoocch'''
-Te'exe' ti' kajakbale'ex tu yotoche'	Ma' wáaj kajakbale'ex tu yotochi'	TYPE:NEG;SUBTYPE:INT	Me'eta'axaxa' ti' kajkbbaaaaaaaa''oo ytoohhh''
-Ma' táan wáaj  a bin tu k'íiwikil koonol	Ma' táan wáaj  a bine'ex tu k'íiwikil koonol	PERSON:2_PL	Ma' taan wáaj aa bne'ex kkooo'íiiiiiioooooooolllllll
-Ma' táan wáaj  a bin tu k'íiwikil koonol	Ma' táan wáaj  u bino'ob tu k'íiwikil koonol	PERSON:3_PL	Ma' táan wáaj  u bino'obtu k'íiwikil kooooll
-Jsa'atech te' tu kúuchil báaxalo'	Jsa'atech wáaj te' tu kúuchil báaxalo'	SUBTYPE:INT	Jsa'atech te' tt k tu kúuhil bbáaxalo'
+Tene' kin pak'ik nal tin kool	To'one' kek pak'ik nal tek kool	PERSON:1_PL	To'one' kek pak'ik nal tek kool
+Tene' kin pak'ik nal tin kool	Te'exe' ka pak'ike'ex nal ta koole'ex	PERSON:2_PL	Te'exe' ka pak'ike'ex nal ta koole'ex
+Tene' kin pak'ik nal tin kool	Leti'obe' ku pak'iko'ob nal tu koolo'ob	PERSON:3_PL	Leti'obe' ku pak'iko'ob nal tu koolo'ob
+Jach k'a'abéet a bine'ex ta koole'ex	Ma' jach k'a'abéet a bine'ex ta koole'exi'	TYPE:NEG	Ma' jach k'a'abéet in bine'ex ta koole'exi'
+Jach k'a'abéet a bine'ex ta koole'ex	Ma' wáaj jach k'a'abéet a bine'ex ta koole'exi'	TYPE:NEG;SUBTYPE:INT	Ma' wáaj jach k'a'abéet wáaj a bine'ex ka koole'ex
+Kin wilikech tu k'íiwikil koonol	Ka wiliken tu k'íiwikil koonol	PERSON:2_SI	Táan wáaj wiliken tu k'íiwikil koonol
+Kin wilikech tu k'íiwikil koonol	Kak ilikabáaj tu k'íiwikil koonol	PERSON:1_PL	Táan wilikech tu k'íiwikil koonol
+Jayp'éel ja'ab yaanten	Jayp'éel ja'ab yaanti'	PERSON:3_SI	Jayp'éel ja'ab yaanti'
+Jayp'éel ja'ab yaanten	Jayp'éel ja'ab yaanto'on	PERSON:1_PL	Jayp'éel ja'ab yaanto'on
+Jayp'éel ja'ab yaanten	Jayp'éel ja'ab yaante'ex	PERSON:2_PL	Jayp'éel ja'ab yaante'ex
+Jayp'éel ja'ab yaanten	Jayp'éel ja'ab yaanti'ob	PERSON:3_PL	Jayp'éel ja'ab yaano'ob
+To'one' ti' k taali'	Ma' ti' k taali'	TYPE:NEG	Ma' ti' k taali'
+To'one' ti' k taali'	Ti' wáaj k taali'	SUBTYPE:INT	To'one' wáaj k taali'
+Jach k'a'abéet wáaj a bin ich kool	Jach k'a'abéet wáaj in bin ich kool	PERSON:1_SI	Jach k'a'abéet wáaj u bin ich kool
+Jach k'a'abéet wáaj a bin ich kool	Jach k'a'abéet wáaj u bin ich kool	PERSON:3_SI	Jach k'a'abéet wáaj u bin ich kool
+Jach k'a'abéet wáaj a bin ich kool	Jach k'a'abéet wáaj u bino'ob tu koolo'obi'	PERSON:3_PL	Jach k'a'abéet wáaj u bino'ob ich kool
+Jach k'a'abéet wáaj a bin ich kool	Jach k'a'abéet wáaj a bine'ex ta koole'ex	PERSON:2_PL	Jach k'a'abéet wáaj a bine'ex ich kool
+Tene' ma' áak'ab kin bin tu k'íiwikil koonoli'	Teche' ma' áak'ab ka bin tu k'íiwikil koonoli'	PERSON:2_SI	Teche' ma' áak'ab ka bin tu k'íiwikil koonoli'
+Tene' ma' áak'ab kin bin tu k'íiwikil koonoli'	Leti'e' ma' áak'ab ku bin tu k'íiwikil koonoli'	PERSON:2_SI	Teche' ma' áak'ab ka bin tu k'íiwikil koonoli'
+Tene' ma' áak'ab kin bin tu k'íiwikil koonoli'	To'one' ma' áak'ab k bin tu k'íiwikil koonoli'	PERSON:1_PL	To'one' ma' áak'ab k bin tu k'íiwikil koonoli'
+Tene' ma' áak'ab kin bin tu k'íiwikil koonoli'	Te'exe' ma' áak'ab ka bine'ex tu k'íiwikil koonoli'	PERSON:2_PL	Te'exe' ma' áak'ab ka bine'ex k'íiwikil koonoli'
+Jach k'a'abéet u bino'ob tu koolo'ob	Jach k'a'abéet wáaj u bino'ob tu koolo'obi'	SUBTYPE:INT	Jach k'a'abéet wáaj u bino'ob tu koolo'ob
+Jach k'a'abéet u bino'ob tu koolo'ob	Ma' wáaj jach k'a'abéet u bino'ob tu koolo'obi'	TYPE:NEG;SUBTYPE:INT	Ma' wáaj jach k'a'abéet wáaj u bino'ob tu koolo'ob
+Jach k'a'abéet u bino'ob tu koolo'ob	Ma' jach k'a'abéet u bino'ob tu koolo'obi'	TYPE:NEG	Ma' jach k'a'abéet u bino'ob tu koolo'ob
+Jweenen tu k'íiwikil koonol	Jweenech tu k'íiwikil koonol	PERSON:2_SI	Jweenech tu k'íiwikil koonol
+Jweenen tu k'íiwikil koonol	Jweeno'ob tu k'íiwikil koonol	PERSON:3_PL	Leti'obe' tu k'íiwikil koonol
+Jweenen tu k'íiwikil koonol	Jweene'ex tu k'íiwikil koonol	PERSON:2_PL	Jweene'ex tu k'íiwikil koonol
+Te'exe' ti' kajakbale'ex tu yotoche'	Ma' kajakbale'ex tu wotochi'	TYPE:NEG	Ma' ti' kajakbale'ex tu yotoche'
+Te'exe' ti' kajakbale'ex tu yotoche'	Ma' wáaj kajakbale'ex tu yotochi'	TYPE:NEG;SUBTYPE:INT	Ma' wáaj ti' kajakbale'ex tu yotoche'
+Ma' táan wáaj  a bin tu k'íiwikil koonol	Ma' táan wáaj  a bine'ex tu k'íiwikil koonol	PERSON:2_PL	Ma' táan wáaj tu k'íiwikil koonol
+Ma' táan wáaj  a bin tu k'íiwikil koonol	Ma' táan wáaj  u bino'ob tu k'íiwikil koonol	PERSON:3_PL	Ma' táan wáaj tu bino'ob tu k'íiwikil koonol
+Jsa'atech te' tu kúuchil báaxalo'	Jsa'atech wáaj te' tu kúuchil báaxalo'	SUBTYPE:INT	Jsa'atech wáaj te' tu kúuchil báaxalo'
 Jach k'a'abéet a bin ich kool	Jach k'a'abéet u bin tu kool	PERSON:3_SI	Jach k'a'abéet u bin ich kool
-Jach k'a'abéet a bin ich kool	Jach k'a'abéet u bino'ob tu koolo'ob	PERSON:3_PL	Jach k'a'abéet u bno'ob ich koolo
-Jach k'a'abéet a bin ich kool	Jach k'a'abéet a bine'ex ta koole'ex	PERSON:2_PL	Jach k'a'abéet a bine'ex t  kkool
-Máax yéetel kajakbalen	Máax yéetel kajakbalech	PERSON:2_SI	Máax yéetel kajakbllen
-Máax yéetel kajakbalen	Máax yéetel kajakbal	PERSON:3_SI	Máax yéetel kajakalei
-Máax yéetel kajakbalen	Máax yéetel kajakbalo'on	PERSON:1_PL	Máax yéetel kajakbale'o
-Máax yéetel kajakbalen	Máax yéetel kajakbale'ex	PERSON:2_PL	Máax yéetel kakjjakbale'ex
-Máax yéetel kajakbalen	Máax yéetel kajakbalo'ob	PERSON:3_PL	Máax yéetel k kajakblo'o'
+Jach k'a'abéet a bin ich kool	Jach k'a'abéet u bino'ob tu koolo'ob	PERSON:3_PL	Jach k'a'abéet u bino'ob ich kool
+Jach k'a'abéet a bin ich kool	Jach k'a'abéet a bine'ex ta koole'ex	PERSON:2_PL	Jach k'a'abéet a bine'ex ich kool
+Máax yéetel kajakbalen	Máax yéetel kajakbalech	PERSON:2_SI	Máax yéetel kajakbalech
+Máax yéetel kajakbalen	Máax yéetel kajakbal	PERSON:3_SI	Máax yéetel kajakbal
+Máax yéetel kajakbalen	Máax yéetel kajakbalo'on	PERSON:1_PL	Máax yéetel kajakbalo'on
+Máax yéetel kajakbalen	Máax yéetel kajakbale'ex	PERSON:2_PL	Máax yéetel kajakbale'ex
+Máax yéetel kajakbalen	Máax yéetel kajakbalo'ob	PERSON:3_PL	Máax yéetel kajakbalo'ob
 Tin wilaj u sáastal tin kaajal	Ta wilaj u sáastal ta kaajal	PERSON:2_SI	Ta wilaj u sáastal ta kaajal
 Tin wilaj u sáastal tin kaajal	Tu yilaj u sáastal tu kaajal	PERSON:3_SI	Tu yilaj u sáastal tu kaajal
-Tin wilaj u sáastal tin kaajal	k ilaj u sáastal k kaajal	PERSON:1_PL	Tak k lwwiiuussáastl tk aajal
-Tin wilaj u sáastal tin kaajal	Tu yilo'ob u sáastal tu kaajalo'ob	PERSON:3_PL	Tu  iiajo uusáássta  u kaalooooooooooo
-Tin wilaj u sáastal tin kaajal	Ta wile'ex u sáastal ta kaajale'ex	PERSON:2_PL	Ta wiiaaje'ex sáastl taa kaaaaleeeex
-Sáansamal kin bin tu k'íiwikil koonol	Sáansamal ka bin tu k'íiwikil koonol	PERSON:2_SI	Sáansamal ka bin tu kííiwiki  ooonol
-Sáansamal kin bin tu k'íiwikil koonol	Sáansamal ku bin tu k'íiwikil koonol	PERSON:3_SI	Sáansamal u bibn tu k'íwikil koonol
-Sáansamal kin bin tu k'íiwikil koonol	Sáansamal ku bino'ob tu k'íiwikil koonol	PERSON:3_PL	Sáansamal kubino'ob koo k'iiiiiiloooooooooooooooooooo
-Sáansamal kin bin tu k'íiwikil koonol	Sáansamal ka bine'ex tu k'íiwikil koonol	PERSON:2_PL	Sáansamal kabine'ex kokkklíiiiiilokoooooooooo
+Tin wilaj u sáastal tin kaajal	k ilaj u sáastal k kaajal	PERSON:1_PL	Tek ilaj u sáastal k kaajal
+Tin wilaj u sáastal tin kaajal	Tu yilo'ob u sáastal tu kaajalo'ob	PERSON:3_PL	Tu yilo'ob u sáastal tu kaajalo'ob
+Tin wilaj u sáastal tin kaajal	Ta wile'ex u sáastal ta kaajale'ex	PERSON:2_PL	Ta wile'ex u sáastal ta kaajale'ex
+Sáansamal kin bin tu k'íiwikil koonol	Sáansamal ka bin tu k'íiwikil koonol	PERSON:2_SI	Sáansamal ka bin tu k'íiwikil koonol
+Sáansamal kin bin tu k'íiwikil koonol	Sáansamal ku bin tu k'íiwikil koonol	PERSON:3_SI	Sáansamal ku bin tu k'íiwikil koonol
+Sáansamal kin bin tu k'íiwikil koonol	Sáansamal ku bino'ob tu k'íiwikil koonol	PERSON:3_PL	Sáansamal ku bino'ob tu k'íiwikil koonol
+Sáansamal kin bin tu k'íiwikil koonol	Sáansamal ka bine'ex tu k'íiwikil koonol	PERSON:2_PL	Sáansamal ka bine'ex k'íiwikil koonol
 Tene' kin bin xíimbal tu najil	Teche' ka bin xíimbal tu najil	PERSON:2_SI	Teche' ka bin xíimbal tu najil
 Tene' kin bin xíimbal tu najil	Leti'e' ku bin xíimbal ta najil	PERSON:3_SI	Leti'e' ku bin xíimbal tu najil
-Tene' kin bin xíimbal tu najil	To'one' k bin xíimbal ta najil	PERSON:1_PL	To'one' ek b bin íimbal tu najil
-Tene' kin bin xíimbal tu najil	Te'exe' ka bine'ex xíimbal tu najil	PERSON:2_PL	Te'ex' ka a ba a xíime'ex ookk
-Jbinen xook te' paarkéeo'	Jbinech wáaj xook te' paarkéeo'	SUBTYPE:INT;PERSON:2_SI	Jbinecá j   xooo  te' paarkéeo'
-Jbinen xook te' paarkéeo'	Leti'e' jbin xook te' paarkéeo'	PERSON:3_SI	Leti'eu xook te' aarkéeo'
-Jbinen xook te' paarkéeo'	Te'exe' jbine'ex xook te' paarkéeo'	PERSON:2_PL	Te'exex xooo'ex w'x t 'aaaarkeo''
-Jbinen xook te' paarkéeo'	To'one' jbino'on xook te' paarkéeo'	PERSON:1_PL	To'onon k kooo te' paaaaakéoo'
-Jbinen xook te' paarkéeo'	Leti'o'obe' jbino'ob xook te' paarkéeo'	PERSON:3_PL	Letio'ob   oooob t'b paaaraééoo'
-Tin meentik janal tin wotoch	Ta meentik janal tin wotoch	PERSON:2_SI	Ta meeetii janal tin wotoch
-Tin meentik janal tin wotoch	Tu meentik janal tin wotoch	PERSON:3_SI	Tu meeetik janal t   ootoch
-Tin meentik janal tin wotoch	Leti'obe' tu meentiko'ob janal tin wotoch	PERSON:3_PL	Tu meeetiii oj janal to wotoohh
-Tin meentik janal tin wotoch	Te'exe' ta meentike'ex janal tin wotoch	PERSON:2_PL	Ta meeentike'e' jana ta wootoch
-Yaan wáaj a manik a najil	Yaan wáaj u manik u najil	PERSON:3_SI	Yaan wáaj u manik a najil
-Ba'atelnaj te' tu kúuchil báaxalo'	Táan u ba'atel te' tu kúuchil báaxalo'	STATUS:ICM;ASPECT:PRG;TENSE:PRE_SIM	Ba'atelnaj j te    u kuuchllbbáaxllo
-Ba'ax k'iin a bin tu k'íiwikil koonol	Ba'ax k'iin u bin tu k'íiwikil koonol	PERSON:3_SI	Ba'ax k'ii u bin tu k'íiwikiil oonol
-Ba'ax k'iin a bin tu k'íiwikil koonol	Ba'ax k'iin a bine'ex k'íiwikil koonol	PERSON:2_PL	Ba'ax k'in aa bine'ex   k'íiiiiii kooooolll
-Ba'ax k'iin a bin tu k'íiwikil koonol	Ba'ax k'iin u bino'ob k'íiwikil koonol	PERSON:3_PL	Ba'ax k'ii uu bino'ob   k'íiwikil kooooll
-jaanajen tu naajil xook	jaanajo'on tu naajil xook	PERSON:1_PL	jaanajo'on u naajii  ooo
-jaanajen tu naajil xook	jaanaje'ex tu naajil xook	PERSON:2_PL	jaanaje'ex tx naajil xook
-jaanajen tu naajil xook	janech tu naajil xook	PERSON:2_SI	jaanajech t  naaji  oook
-Ta'aytak a chukik u ja'abil	Ma' u chuk u ja'abili'	TYPE:NEG;MODE:SUB;ADVTENSE:NA;PERSON:3_SI	Ma' uchhhu'obko'oaa'
-Ta'aytak a chukik u ja'abil	Ma' wáaj u chuk u ja'abili'	TYPE:NEG;SUBTYPE:INT;MODE:SUB;ADVTENSE:NA;PERSON:3_SI	Ma' uchhk'aa ooooja'aaaa
+Tene' kin bin xíimbal tu najil	To'one' k bin xíimbal ta najil	PERSON:1_PL	To'one' kek bin xíimbal tu najil
+Tene' kin bin xíimbal tu najil	Te'exe' ka bine'ex xíimbal tu najil	PERSON:2_PL	Te'exe' ka bine'ex xoonol tu najil
+Jbinen xook te' paarkéeo'	Jbinech wáaj xook te' paarkéeo'	SUBTYPE:INT;PERSON:2_SI	Jbinech wáaj xook te' paarkéeo'
+Jbinen xook te' paarkéeo'	Leti'e' jbin xook te' paarkéeo'	PERSON:3_SI	Leti'e' xook te' paarkéeo'
+Jbinen xook te' paarkéeo'	Te'exe' jbine'ex xook te' paarkéeo'	PERSON:2_PL	Te'exe' xook te' paarkéeo'
+Jbinen xook te' paarkéeo'	To'one' jbino'on xook te' paarkéeo'	PERSON:1_PL	To'one' xook te' paarkéeo'
+Jbinen xook te' paarkéeo'	Leti'o'obe' jbino'ob xook te' paarkéeo'	PERSON:3_PL	Leti'obe' booko'ob xook te' paarkéeo'
+Tin meentik janal tin wotoch	Ta meentik janal tin wotoch	PERSON:2_SI	Ta meentik janal tin wotoch
+Tin meentik janal tin wotoch	Tu meentik janal tin wotoch	PERSON:3_SI	Tu meentik janal tin wotoch
+Tin meentik janal tin wotoch	Leti'obe' tu meentiko'ob janal tin wotoch	PERSON:3_PL	Tu meentiko'ob janal tin wotoch
+Tin meentik janal tin wotoch	Te'exe' ta meentike'ex janal tin wotoch	PERSON:2_PL	Ta meentike'ex janal tin wotochi'
+Yaan wáaj a manik a najil	Yaan wáaj u manik u najil	PERSON:3_SI	Yaan wáaj u manik u najil
+Ba'atelnaj te' tu kúuchil báaxalo'	Táan u ba'atel te' tu kúuchil báaxalo'	STATUS:ICM;ASPECT:PRG;TENSE:PRE_SIM	Ba'atelnaj te' tu kúuchil báaxalo'
+Ba'ax k'iin a bin tu k'íiwikil koonol	Ba'ax k'iin u bin tu k'íiwikil koonol	PERSON:3_SI	Ba'ax k'iin u bin tu k'íiwikil koonol
+Ba'ax k'iin a bin tu k'íiwikil koonol	Ba'ax k'iin a bine'ex k'íiwikil koonol	PERSON:2_PL	Ba'ax k'iin a bine'ex k'íiwikil koonol
+Ba'ax k'iin a bin tu k'íiwikil koonol	Ba'ax k'iin u bino'ob k'íiwikil koonol	PERSON:3_PL	Ba'ax k'iin u bino'ob k'íiwikil koonol
+jaanajen tu naajil xook	jaanajo'on tu naajil xook	PERSON:1_PL	jaanajo'on tu naajil xook
+jaanajen tu naajil xook	jaanaje'ex tu naajil xook	PERSON:2_PL	jaanaje'ex tu naajil xook
+jaanajen tu naajil xook	janech tu naajil xook	PERSON:2_SI	jaanajech tu naajil xook
+Ta'aytak a chukik u ja'abil	Ma' u chuk u ja'abili'	TYPE:NEG;MODE:SUB;ADVTENSE:NA;PERSON:3_SI	Ma' u chuko'ob u ja'abili'
+Ta'aytak a chukik u ja'abil	Ma' wáaj u chuk u ja'abili'	TYPE:NEG;SUBTYPE:INT;MODE:SUB;ADVTENSE:NA;PERSON:3_SI	Ma' wáaj u chukik u ja'abili'

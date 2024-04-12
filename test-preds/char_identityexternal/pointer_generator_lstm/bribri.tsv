@@ -1,0 +1,481 @@
+Source	Change	Predicted Target
+Ye' tö àrros ali' ù̠ i' a̠	TYPE:NEG	Ye' kë̀ wa̠ àrrosàa̠ al alie i̠
+Ye' tö àrros ali' ù̠ i' a̠	ASPECT:INC	Ye' tö àrras ali' ù̠mi̠
+Ye' tö àrros ali' ù̠ i' a̠	TENSE:PRF_REC	Ye' tö orrosàa̠ ali' ùé̠
+Ye' tö àrros ali' ù̠ i' a̠	TYPE:NEG, TENSE:PRF_REC	Ye' tö àrros ù̠ a̠ ù̠
+Ye' tö àrros ali' ù̠ i' a̠	TENSE:PRF_REC, ASPECT:INC	Ye' tö àrros ù̠ a̠ ù̠
+Ye' tö àrros ali' ù̠ i' a̠	TENSE:IPFV_REC, ASPECT:IPFV	Ye' tö àrros ù̠ a̠ ù̠
+Ye' tö àrros ali' ù̠ i' a̠	TYPE:NEG, TENSE:IPFV_REC, ASPECT:IPFV	Ye' tö àrros ù̠ a̠ ù̠
+Ye' tö àrros ali' ù̠ i' a̠	TENSE:IPFV_PROG, ASPECT:IPFV	Ye' tö àrros ù̠ a̠ ù̠
+Ye' tö àrros ali' ù̠ i' a̠	TYPE:NEG, TENSE:IPFV_PROG, ASPECT:IPFV	Ye' tö àrros ù̠ a̠ ù̠
+Ye' tö àrros ali' ù̠ i' a̠	TENSE:PRF_PROG	Ye' bák olsa' ùö́k
+Ye' tö àrros ali' ù̠ i' a̠	TYPE:NEG, TENSE:PRF_PROG	Ye' tö àrros ù̠ a̠ ù̠
+Ye' tö àrros ali' ù̠ i' a̠	MODE:IMP, TENSE:IPFV_REC, ASPECT:IPFV, PERSON:NA	Ye' tö àrros ù̠ a̠ ù̠
+Ye' tö àrros ali' ù̠ i' a̠	TYPE:NEG, MODE:IMP, TENSE:IPFV_REC, ASPECT:IPFV, PERSON:NA	Ye' tö àrros ù̠ a̠ ù̠
+Ye' tö àrros ali' ù̠ i' a̠	TYPE:NEG, MODE:IMP, TENSE:IPFV_REC, ASPECT:IPFV, VOICE:MID, PERSON:NA	Ye' tö àrros ù̠ a̠ ù̠
+Ye' tö àrros ali' ù̠ i' a̠	MODE:EXH, TENSE:IPFV_REC, ASPECT:IPFV, PERSON:1_PL_INC	Ye' tö àrros ù̠ a̠ ù̠
+Ye' tö àrros ali' ù̠ i' a̠	MODE:DES, TENSE:IPFV_REC, ASPECT:IPFV	Ye' tö àrros ù̠ a̠ ù̠
+Ye' tö àrros ali' ù̠ i' a̠	TYPE:NEG, MODE:DES, TENSE:IPFV_REC, ASPECT:IPFV	Ye' tö àrros ù̠ a̠ ù̠
+Ye' tö àrros ali' ù̠ i' a̠	MODE:ADVERS	Ye' wa̠ orrosàa̠ al a̠wa̠
+Ye' tö àrros ali' ù̠ i' a̠	TENSE:IPFV_HAB, ASPECT:IPFV	Ye' tö àrros ù̠ a̠ ù̠
+Ye' tö àrros ali' ù̠ i' a̠	TYPE:NEG, TENSE:IPFV_HAB, ASPECT:IPFV	Ye' tö àrros ù̠ a̠ ù̠
+Ye' tö àrros ali' ù̠ i' a̠	TENSE:FUT_POT, ASPECT:IPFV	Ye' tö àrros ù̠ a̠ ù̠
+Ye' tö àrros ali' ù̠ i' a̠	TYPE:NEG, TENSE:FUT_POT, ASPECT:IPFV	Ye' tö àrros ù̠ a̠ ù̠
+Ye' tö àrros ali' ù̠ i' a̠	TENSE:FUT_CER, ASPECT:IPFV	Ye' tö àrros ù̠ a̠ ù̠
+Ye' tö àrros ali' ù̠ i' a̠	TYPE:NEG, TENSE:FUT_CER, ASPECT:IPFV	Ye' tö àrros ù̠ a̠ ù̠
+Ye' tö àrros ali' ù̠ i' a̠	VOICE:MID, PERSON:NA	Ye' tö àrros ù̠ a̠ ù̠
+Ye' tö àrros ali' ù̠ i' a̠	TYPE:NEG, VOICE:MID, PERSON:NA	Ye' tö àrros ù̠ a̠ ù̠
+Ye' tö àrros ali' ù̠ i' a̠	TENSE:PRF_REC, VOICE:MID, PERSON:NA	Ye' tö àrros ù̠ a̠ ù̠
+Ye' tö àrros ali' ù̠ i' a̠	TYPE:NEG, TENSE:PRF_REC, VOICE:MID, PERSON:NA	Ye' tö àrros ù̠ a̠ ù̠
+Ye' tö àrros ali' ù̠ i' a̠	TENSE:IPFV_REC, ASPECT:IPFV, VOICE:MID, PERSON:NA	Ye' tö àrros ù̠ a̠ ù̠
+Ye' tö àrros ali' ù̠ i' a̠	TYPE:NEG, TENSE:IPFV_REC, ASPECT:IPFV, VOICE:MID, PERSON:NA	Ye' tö àrros ù̠ a̠ ù̠
+Ye' tö àrros ali' ù̠ i' a̠	TENSE:IPFV_HAB, ASPECT:IPFV, VOICE:MID, PERSON:NA	Ye' tö àrros ù̠ a̠ ù̠
+Ye' tö àrros ali' ù̠ i' a̠	TYPE:NEG, TENSE:IPFV_HAB, ASPECT:IPFV, VOICE:MID, PERSON:NA	Ye' tö àrros ù̠ a̠ ù̠
+Ye' tö àrros ali' ù̠ i' a̠	TENSE:FUT_POT, ASPECT:IPFV, VOICE:MID, PERSON:NA	Ye' tö àrros ù̠ a̠ ù̠
+Ye' tö àrros ali' ù̠ i' a̠	TYPE:NEG, TENSE:FUT_POT, ASPECT:IPFV, VOICE:MID, PERSON:NA	Ye' tö àrros ù̠ a̠ ù̠
+Ye' tö àrros ali' ù̠ i' a̠	TENSE:FUT_CER, ASPECT:IPFV, VOICE:MID, PERSON:NA	Ye' tö àrros ù̠ a̠ ù̠
+Ye' tö àrros ali' ù̠ i' a̠	TYPE:NEG, TENSE:FUT_CER, ASPECT:IPFV, VOICE:MID, PERSON:NA	Ye' tö àrros ù̠ a̠ ù̠
+Ye' tö àrros ali' ù̠ i' a̠	TENSE:PAS_PLU	Ye' wa̠r olso alir a̠wa̠
+Ye' tö àrros ali' ù̠ i' a̠	TYPE:NEG, TENSE:PAS_PLU	Ye' tö àrros ù̠ a̠ ù̠
+Ye' tö àrros ali' ù̠ i' a̠	MODE:POT, TENSE:IPFV_REC, ASPECT:IPFV	Ye' tö àrros ù̠ a̠ ù̠
+Ye' tö àrros ali' ù̠ i' a̠	TYPE:NEG, MODE:POT, TENSE:IPFV_REC, ASPECT:IPFV	Ye' tö àrros ù̠ a̠ ù̠
+I kiö́	ABSNUM:PL	I kië'pa' iië'
+I tso'	ABSNUM:PL, PERSON:3_PL	I tso'ts
+Maria dör kápi u'	TYPE:NEG	Mari kë̀ ku̠ dör kápa  áái ulie̠
+Maria dör kápi u'	ASPECT:INC	Maria dör kápa' ki̠
+Maria dör kápi u'	TENSE:PRF_REC	Maria dör kàpa̠
+Maria dör kápi u'	TYPE:NEG, TENSE:PRF_REC	Maria dör kápa' uli  ''a̠
+Maria dör kápi u'	TENSE:PRF_REC, ASPECT:INC	Maria dör kápa' uli  ''a̠
+Maria dör kápi u'	TENSE:IPFV_REC, ASPECT:IPFV	Maria dör kápa' uli  ''a̠
+Maria dör kápi u'	TYPE:NEG, TENSE:IPFV_REC, ASPECT:IPFV	Maria dör kápa' uli  ''a̠
+Maria dör kápi u'	TENSE:IPFV_PROG, ASPECT:IPFV	Maria dör kápa' uli  ''a̠
+Maria dör kápi u'	TYPE:NEG, TENSE:IPFV_PROG, ASPECT:IPFV	Maria dör kápa' uli  ''a̠
+Maria dör kápi u'	TENSE:PRF_PROG	Mari  ö́k
+Maria dör kápi u'	TYPE:NEG, TENSE:PRF_PROG	Maria dör kápa' uli  ''a̠
+Maria dör kápi u'	MODE:IMP, TENSE:IPFV_REC, ASPECT:IPFV	Maria dör kápa' uli  ''a̠
+Maria dör kápi u'	TYPE:NEG, MODE:IMP, TENSE:IPFV_REC, ASPECT:IPFV	Maria dör kápa' uli  ''a̠
+Maria dör kápi u'	TYPE:NEG, MODE:IMP, TENSE:IPFV_REC, ASPECT:IPFV, VOICE:MID	Maria dör kápa' uli  ''a̠
+Maria dör kápi u'	MODE:EXH, TENSE:IPFV_REC, ASPECT:IPFV, PERSON:1_PL_INC	Maria dör kápa' uli  ''a̠
+Maria dör kápi u'	MODE:DES, TENSE:IPFV_REC, ASPECT:IPFV	Maria dör kápa' uli  ''a̠
+Maria dör kápi u'	TYPE:NEG, MODE:DES, TENSE:IPFV_REC, ASPECT:IPFV	Maria dör kápa' uli  ''a̠
+Maria dör kápi u'	MODE:ADVERS	Mari wa̠ kápa' kua'
+Maria dör kápi u'	TENSE:IPFV_HAB, ASPECT:IPFV	Maria dör kápa' uli  ''a̠
+Maria dör kápi u'	TYPE:NEG, TENSE:IPFV_HAB, ASPECT:IPFV	Maria dör kápa' uli  ''a̠
+Maria dör kápi u'	TENSE:FUT_POT, ASPECT:IPFV	Maria dör kápa' uli  ''a̠
+Maria dör kápi u'	TYPE:NEG, TENSE:FUT_POT, ASPECT:IPFV	Maria dör kápa' uli  ''a̠
+Maria dör kápi u'	TENSE:FUT_CER, ASPECT:IPFV	Maria dör kápa' uli  ''a̠
+Maria dör kápi u'	TYPE:NEG, TENSE:FUT_CER, ASPECT:IPFV	Maria dör kápa' uli  ''a̠
+Maria dör kápi u'	VOICE:MID	Yar kàpáurdarda̠
+Maria dör kápi u'	TYPE:NEG, VOICE:MID	Maria dör kápa' uli  ''a̠
+Maria dör kápi u'	TENSE:PRF_REC, VOICE:MID	Maria dör kápa' uli  ''a̠
+Maria dör kápi u'	TYPE:NEG, TENSE:PRF_REC, VOICE:MID	Maria dör kápa' uli  ''a̠
+Maria dör kápi u'	TENSE:IPFV_REC, ASPECT:IPFV, VOICE:MID	Maria dör kápa' uli  ''a̠
+Maria dör kápi u'	TYPE:NEG, TENSE:IPFV_REC, ASPECT:IPFV, VOICE:MID	Maria dör kápa' uli  ''a̠
+Maria dör kápi u'	TENSE:IPFV_HAB, ASPECT:IPFV, VOICE:MID	Maria dör kápa' uli  ''a̠
+Maria dör kápi u'	TYPE:NEG, TENSE:IPFV_HAB, ASPECT:IPFV, VOICE:MID	Maria dör kápa' uli  ''a̠
+Maria dör kápi u'	TENSE:FUT_POT, ASPECT:IPFV, VOICE:MID	Maria dör kápa' uli  ''a̠
+Maria dör kápi u'	TYPE:NEG, TENSE:FUT_POT, ASPECT:IPFV, VOICE:MID	Maria dör kápa' uli  ''a̠
+Maria dör kápi u'	TENSE:FUT_CER, ASPECT:IPFV, VOICE:MID	Maria dör kápa' uli  ''a̠
+Maria dör kápi u'	TYPE:NEG, TENSE:FUT_CER, ASPECT:IPFV, VOICE:MID	Maria dör kápa' uli  ''a̠
+Maria dör kápi u'	TENSE:PAS_PLU	Maria dör kápar kápar kápar kárule
+Maria dör kápi u'	TYPE:NEG, TENSE:PAS_PLU	Maria dör kápa' uli  ''a̠
+Maria dör kápi u'	MODE:POT, TENSE:IPFV_REC, ASPECT:IPFV	Maria dör kápa' uli  ''a̠
+Maria dör kápi u'	TYPE:NEG, MODE:POT, TENSE:IPFV_REC, ASPECT:IPFV	Maria dör kápa' uli  ''a̠
+Ye' ka̠nè̠balë'	TENSE:IPFV_REC, ASPECT:IPFV, VOICE:MID, ABSNUM:NI, PERSON:NA	Kë̀ ka̠bè̠
+Ye' ka̠nè̠balë'	TYPE:NEG, TENSE:IPFV_REC, ASPECT:IPFV, VOICE:MID, ABSNUM:NI, PERSON:NA	Kë̀ ka̠bè̠
+Ye' tö i yë́	TYPE:NEG	Ye' kë̀ wa̠ i ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye
+Ye' tö i yë́	PERSON:2_SI	Be' tö i yë'
+Ye' tö i yë́	TYPE:NEG, PERSON:2_SI	Ie' tö i yë'mi̠
+Ye' tö i yë́	PERSON:3_SI	Ie' tö i yë'
+Ye' tö i yë́	TYPE:NEG, PERSON:3_SI	Ie' tö i yë'mi̠
+Ye' tö i yë́	PERSON:1_PL_EXC	Sa' tö i yë'mi̠
+Ye' tö i yë́	TYPE:NEG, PERSON:1_PL_EXC	Ie' tö i yë'mi̠
+Ye' tö i yë́	PERSON:1_PL_INC	Sa' tö i ySaSSSSSaS
+Ye' tö i yë́	TYPE:NEG, PERSON:1_PL_INC	Ie' tö i yë'mi̠
+Ye' tö i yë́	PERSON:2_PL	A' tö i yë'AAA
+Ye' tö i yë́	TYPE:NEG, PERSON:2_PL	Ie' tö i yë'mi̠
+Ye' tö i yë́	PERSON:3_PL	Ie'pa tö i yë'pa̠
+Ye' tö i yë́	TYPE:NEG, PERSON:3_PL	Ie' tö i yë'mi̠
+Ye' tö i yë́	TENSE:PRF_REC	Ye' tö i yésyé
+Ye' tö i yë́	TENSE:IPFV_REC, ASPECT:IPFV	Ie' tö i yë'mi̠
+Ye' tö i yë́	TENSE:IPFV_PROG, ASPECT:IPFV	Ie' tö i yë'mi̠
+Ye' tö i yë́	TYPE:NEG, TENSE:IPFV_PROG, ASPECT:IPFV	Ie' tö i yë'mi̠
+Ye' tö i yë́	TENSE:PRF_PROG	Ye' bák i yö́k
+Ye' tö i yë́	TYPE:NEG, TENSE:PRF_PROG	Ie' tö i yë'mi̠
+Ye' tö i yë́	MODE:IMP, TENSE:IPFV_REC, ASPECT:IPFV, PERSON:NA	Ie' tö i yë'mi̠
+Ye' tö i yë́	TENSE:FUT_POT, ASPECT:IPFV	Ie' tö i yë'mi̠
+Ye' tö i yë́	TENSE:IPFV_HAB, ASPECT:IPFV	Ie' tö i yë'mi̠
+Ye' tö i yë́	VOICE:MID, ABSNUM:NI, PERSON:NA	Ie' tö i yë'mi̠
+Ye' tö i yë́	TYPE:NEG, VOICE:MID, ABSNUM:NI, PERSON:NA	Ie' tö i yë'mi̠
+Ye' tö i yë́	TENSE:IPFV_REC, ASPECT:IPFV, VOICE:MID, ABSNUM:NI, PERSON:NA	Ie' tö i yë'mi̠
+Ye' tö shkame̠' yö'	ASPECT:INC	Ye' tö shka'mi̠
+Ye' tö shkame̠' yö'	TYPE:NEG	Ye' kë̀ wa̠ shkö̀ne̠
+Ye' tö shkame̠' yö'	TENSE:PRF_REC	Ye' tö shké̠
+Ye' tö shkame̠' yö'	TENSE:PRF_REC, ASPECT:INC	Ye' tö shma̠k y̠
+Ye' tö shkame̠' yö'	TYPE:NEG, TENSE:PRF_REC	Ye' tö shma̠k y̠
+Ye' tö shkame̠' yö'	TENSE:IPFV_REC, ASPECT:IPFV	Ye' tö shma̠k y̠
+Ye' tö shkame̠' yö'	TYPE:NEG, TENSE:IPFV_REC, ASPECT:IPFV	Ye' tö shma̠k y̠
+Ye' tö shkame̠' yö'	MODE:POT, TENSE:IPFV_REC, ASPECT:IPFV	Ye' tö shma̠k y̠
+Ye' tö shkame̠' yö'	TYPE:NEG, MODE:POT, TENSE:IPFV_REC, ASPECT:IPFV	Ye' tö shma̠k y̠
+Ye' tö shkame̠' yö'	TENSE:IPFV_PROG, ASPECT:IPFV	Ye' tö shma̠k y̠
+Ye' tö shkame̠' yö'	TYPE:NEG, TENSE:IPFV_PROG, ASPECT:IPFV	Ye' tö shma̠k y̠
+Ye' tö shkame̠' yö'	TENSE:PRF_PROG	Ye' bák shmö́k
+Ye' tö shkame̠' yö'	TYPE:NEG, TENSE:PRF_PROG	Ye' tö shma̠k y̠
+Ye' tö shkame̠' yö'	MODE:IMP, TENSE:IPFV_REC, ASPECT:IPFV, PERSON:NA	Ye' tö shma̠k y̠
+Ye' tö shkame̠' yö'	TYPE:NEG, MODE:IMP, TENSE:IPFV_REC, ASPECT:IPFV, PERSON:NA	Ye' tö shma̠k y̠
+Ye' tö shkame̠' yö'	TYPE:NEG, MODE:IMP, TENSE:IPFV_REC, ASPECT:IPFV, VOICE:MID, PERSON:NA	Ye' tö shma̠k y̠
+Ye' tö shkame̠' yö'	MODE:EXH, TENSE:IPFV_REC, ASPECT:IPFV, PERSON:1_PL_INC	Ye' tö shma̠k y̠
+Ye' tö shkame̠' yö'	MODE:DES, TENSE:IPFV_REC, ASPECT:IPFV	Ye' tö shma̠k y̠
+Ye' tö shkame̠' yö'	TYPE:NEG, MODE:DES, TENSE:IPFV_REC, ASPECT:IPFV	Ye' tö shma̠k y̠
+Ye' tö shkame̠' yö'	MODE:ADVERS	Ye' wa̠ shma̠'
+Ye' tö shkame̠' yö'	TENSE:IPFV_HAB, ASPECT:IPFV	Ye' tö shma̠k y̠
+Ye' tö shkame̠' yö'	TYPE:NEG, TENSE:IPFV_HAB, ASPECT:IPFV	Ye' tö shma̠k y̠
+Ye' tö shkame̠' yö'	TENSE:FUT_POT, ASPECT:IPFV	Ye' tö shma̠k y̠
+Ye' tö shkame̠' yö'	TYPE:NEG, TENSE:FUT_POT, ASPECT:IPFV	Ye' tö shma̠k y̠
+Ye' tö shkame̠' yö'	TENSE:FUT_CER, ASPECT:IPFV	Ye' tö shma̠k y̠
+Ye' tö shkame̠' yö'	TYPE:NEG, TENSE:FUT_CER, ASPECT:IPFV	Ye' tö shma̠k y̠
+Ye' tö shkame̠' yö'	VOICE:MID, PERSON:NA	Ye' tö shma̠k y̠
+Ye' tö shkame̠' yö'	TYPE:NEG, VOICE:MID, PERSON:NA	Ye' tö shma̠k y̠
+Ye' tö shkame̠' yö'	TENSE:PRF_REC, VOICE:MID, PERSON:NA	Ye' tö shma̠k y̠
+Ye' tö shkame̠' yö'	TYPE:NEG, TENSE:PRF_REC, VOICE:MID, PERSON:NA	Ye' tö shma̠k y̠
+Ye' tö shkame̠' yö'	TENSE:IPFV_REC, ASPECT:IPFV, VOICE:MID, PERSON:NA	Ye' tö shma̠k y̠
+Ye' tö shkame̠' yö'	TYPE:NEG, TENSE:IPFV_REC, ASPECT:IPFV, VOICE:MID, PERSON:NA	Ye' tö shma̠k y̠
+Ye' tö shkame̠' yö'	TENSE:IPFV_HAB, ASPECT:IPFV, VOICE:MID, PERSON:NA	Ye' tö shma̠k y̠
+Ye' tö shkame̠' yö'	TYPE:NEG, TENSE:IPFV_HAB, ASPECT:IPFV, VOICE:MID, PERSON:NA	Ye' tö shma̠k y̠
+Ye' tö shkame̠' yö'	TENSE:FUT_POT, ASPECT:IPFV, VOICE:MID, PERSON:NA	Ye' tö shma̠k y̠
+Ye' tö shkame̠' yö'	TYPE:NEG, TENSE:FUT_POT, ASPECT:IPFV, VOICE:MID, PERSON:NA	Ye' tö shma̠k y̠
+Ye' tö shkame̠' yö'	TENSE:FUT_CER, ASPECT:IPFV, VOICE:MID, PERSON:NA	Ye' tö shma̠k y̠
+Ye' tö shkame̠' yö'	TYPE:NEG, TENSE:FUT_CER, ASPECT:IPFV, VOICE:MID, PERSON:NA	Ye' tö shma̠k y̠
+Ye' tö shkame̠' yö'	TENSE:PAS_PLU, VOICE:MID	Ye' tö shma̠k y̠
+Ye' tö shkame̠' yö'	TYPE:NEG, TENSE:PAS_PLU, VOICE:MID	Ye' tö shma̠k y̠
+Ye' tö kápi ya'	TYPE:NEG	Ye' kë̀ wa̠ kápa ie' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye'
+Ye' tö kápi ya'	TENSE:IPFV_PROG, ASPECT:IPFV	Kë̀ kàpi ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye'
+Ye' tö kápi ya'	TYPE:NEG, TENSE:IPFV_PROG, ASPECT:IPFV	Kë̀ kàpi ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye'
+Ye' tö kápi ya'	TENSE:PRF_PROG	Ye' bák kápa kápak ye' ye'bak kuö́k
+Ye' tö kápi ya'	TYPE:NEG, TENSE:PRF_PROG	Kë̀ kàpi ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye'
+Ye' tö kápi ya'	TENSE:PRF_REC	Ye' tö kápa iá
+Ye' tö kápi ya'	TYPE:NEG, TENSE:PRF_REC	Kë̀ kàpi ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye'
+Ye' tö kápi ya'	TENSE:IPFV_REC, ASPECT:IPFV	Kë̀ kàpi ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye'
+Ye' tö kápi ya'	TYPE:NEG, TENSE:IPFV_REC, ASPECT:IPFV	Kë̀ kàpi ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye'
+Ye' tö kápi ya'	TENSE:IPFV_HAB, ASPECT:IPFV	Kë̀ kàpi ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye'
+Ye' tö kápi ya'	TYPE:NEG, TENSE:IPFV_HAB, ASPECT:IPFV	Kë̀ kàpi ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye'
+Ye' tö kápi ya'	TENSE:FUT_CER, ASPECT:IPFV	Kë̀ kàpi ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye'
+Ye' tö kápi ya'	TYPE:NEG, TENSE:FUT_CER, ASPECT:IPFV	Kë̀ kàpi ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye'
+Ye' tö kápi ya'	VOICE:MID, PERSON:NA	Kë̀ kàpi ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye'
+Ye' tö kápi ya'	TYPE:NEG, VOICE:MID, PERSON:NA	Kë̀ kàpi ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye'
+Ye' tö kápi ya'	TENSE:PRF_REC, VOICE:MID, PERSON:NA	Kë̀ kàpi ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye'
+Ye' tö kápi ya'	TYPE:NEG, TENSE:PRF_REC, VOICE:MID, PERSON:NA	Kë̀ kàpi ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye'
+Ye' tö kápi ya'	TENSE:IPFV_REC, ASPECT:IPFV, VOICE:MID, PERSON:NA	Kë̀ kàpi ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye'
+Ye' tö kápi ya'	TYPE:NEG, TENSE:IPFV_REC, ASPECT:IPFV, VOICE:MID, PERSON:NA	Kë̀ kàpi ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye'
+Ye' tö kápi ya'	TENSE:IPFV_HAB, ASPECT:IPFV, VOICE:MID, PERSON:NA	Kë̀ kàpi ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye'
+Ye' tö kápi ya'	TYPE:NEG, TENSE:IPFV_HAB, ASPECT:IPFV, VOICE:MID, PERSON:NA	Kë̀ kàpi ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye'
+Ye' tö kápi ya'	MODE:IMP, TENSE:IPFV_REC, ASPECT:IPFV, PERSON:NA	Kë̀ kàpi ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye'
+Ye' tö kápi ya'	TYPE:NEG, MODE:IMP, TENSE:IPFV_REC, ASPECT:IPFV, PERSON:NA	Kë̀ kàpi ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye'
+Ye' tö kápi ya'	MODE:DES, TENSE:IPFV_REC, ASPECT:IPFV	Kë̀ kàpi ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye'
+Ye' tö kápi ya'	MODE:DES, TENSE:IPFV_REC, ASPECT:IPFV, VOICE:MID, PERSON:NA	Kë̀ kàpi ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye'
+Ye' tö kápi ya'	TENSE:FUT_POT, ASPECT:IPFV	Kë̀ kàpi ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye'
+Ye' tö kápi ya'	TYPE:NEG, TENSE:FUT_POT, ASPECT:IPFV	Kë̀ kàpi ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye'
+Ye' tö kápi ya'	TENSE:FUT_POT, ASPECT:IPFV, VOICE:MID, PERSON:NA	Kë̀ kàpi ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye'
+Ye' tö kápi ya'	TYPE:NEG, TENSE:FUT_POT, ASPECT:IPFV, VOICE:MID, PERSON:NA	Kë̀ kàpi ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye'
+Ye' tö kápi ya'	MODE:ADVERS, VOICE:MID, PERSON:NA	Kë̀ kàpi ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye'
+Ye' tö kápi ya'	TENSE:PAS_PLU	Ye' wa̠ kápa iárule
+Ye' tö kápi ya'	TYPE:NEG, TENSE:PAS_PLU	Kë̀ kàpi ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye' ye'
+Ye' úk	TYPE:NEG	Kë̀ ie' kë̀ ie̠ úkë̀ne̠
+Ye' úk	PERSON:2_SI	Be' úk
+Ye' úk	TYPE:NEG, PERSON:2_SI	Se' úkö̀
+Ye' úk	TENSE:IPFV_REC, ASPECT:IPFV	Se' úkö̀
+Ye' úk	TENSE:IPFV_PROG, ASPECT:IPFV	Se' úkö̀
+Ye' úk	TYPE:NEG, TENSE:IPFV_PROG, ASPECT:IPFV	Se' úkö̀
+Ye' úk	TENSE:PRF_PROG	Ye' bák úö́k
+Ye' úk	TYPE:NEG, TENSE:PRF_PROG	Se' úkö̀
+Ye' úk	MODE:IMP, TENSE:IPFV_REC, ASPECT:IPFV, PERSON:2_SI	Se' úkö̀
+Ye' úk	TENSE:IPFV_HAB, ASPECT:IPFV	Se' úkö̀
+Ye' úk	VOICE:MID, ABSNUM:NI, PERSON:NA	Se' úkö̀
+Ye' úk	TYPE:NEG, VOICE:MID, ABSNUM:NI, PERSON:NA	Se' úkö̀
+Ye' úk	TENSE:IPFV_REC, ASPECT:IPFV, VOICE:MID, ABSNUM:NI, PERSON:NA	Se' úkö̀
+Ka̠no̠' te̠n ká̠u̠k a̠	TYPE:NEG	Kë̀ ne' oe' tö ne̠ ká̠
+Ka̠no̠' te̠n ká̠u̠k a̠	TENSE:PRF_REM, ASPECT:PFV	Kë̠n oen  ááuur a̠k
+Ka̠no̠' te̠n ká̠u̠k a̠	TYPE:NEG, TENSE:PRF_REM, ASPECT:PFV	Kë̠n oen  ááuur a̠k
+Ka̠no̠' te̠n ká̠u̠k a̠	ABSNUM:PL	Kë̠n oen ká̠
+Ka̠no̠' te̠n ká̠u̠k a̠	TYPE:NEG, ABSNUM:PL	Kë̠n oen  ááuur a̠k
+Ka̠no̠' te̠n ká̠u̠k a̠	TENSE:PRF_REM, ASPECT:PFV, ABSNUM:PL	Kë̠n oen  ááuur a̠k
+Ka̠no̠' te̠n ká̠u̠k a̠	TYPE:NEG, TENSE:PRF_REM, ASPECT:PFV, ABSNUM:PL	Kë̠n oen  ááuur a̠k
+Ie' tso bua'	TYPE:NEG	Ie kë̀ te̠ tulbe̠
+Ie' tso bua'	TENSE:PRF_REM, ASPECT:PFV	Ie' tso bulur
+Ie' tso bua'	TYPE:NEG, TENSE:PRF_REM, ASPECT:PFV	Ie' tso bulur
+Ie' tso bua'	PERSON:1_SI	Ie' tso bulur
+Ie' tso bua'	TYPE:NEG, PERSON:1_SI	Ie' tso bulur
+Ie' tso bua'	TENSE:PRF_REM, ASPECT:PFV, PERSON:1_SI	Ie' tso bulur
+Ie' tso bua'	TYPE:NEG, TENSE:PRF_REM, ASPECT:PFV, PERSON:1_SI	Ie' tso bulur
+Ie' tso bua'	PERSON:2_SI	Be' tso buBuBsaaBbB
+Ie' tso bua'	TYPE:NEG, PERSON:2_SI	Ie' tso bulur
+Ie' tso bua'	TENSE:PRF_REM, ASPECT:PFV, PERSON:2_SI	Ie' tso bulur
+Ie' tso bua'	TYPE:NEG, TENSE:PRF_REM, ASPECT:PFV, PERSON:2_SI	Ie' tso bulur
+Ie' tso bua'	ABSNUM:PL, PERSON:1_PL_EXC	Ie' tso bulur
+Ie' tso bua'	TYPE:NEG, ABSNUM:PL, PERSON:1_PL_EXC	Ie' tso bulur
+Ie' tso bua'	TENSE:PRF_REM, ASPECT:PFV, ABSNUM:PL, PERSON:1_PL_EXC	Ie' tso bulur
+Ie' tso bua'	TYPE:NEG, TENSE:PRF_REM, ASPECT:PFV, ABSNUM:PL, PERSON:1_PL_EXC	Ie' tso bulur
+Ie' tso bua'	ABSNUM:PL, PERSON:1_PL_INC	Ie' tso bulur
+Ie' tso bua'	TYPE:NEG, ABSNUM:PL, PERSON:1_PL_INC	Ie' tso bulur
+Ie' tso bua'	TENSE:PRF_REM, ASPECT:PFV, ABSNUM:PL, PERSON:1_PL_INC	Ie' tso bulur
+Ie' tso bua'	TYPE:NEG, TENSE:PRF_REM, ASPECT:PFV, ABSNUM:PL, PERSON:1_PL_INC	Ie' tso bulur
+Ie' tso bua'	ABSNUM:PL, PERSON:2_PL	Ie' tso bulur
+Ie' tso bua'	TYPE:NEG, ABSNUM:PL, PERSON:2_PL	Ie' tso bulur
+Ie' tso bua'	TENSE:PRF_REM, ASPECT:PFV, ABSNUM:PL, PERSON:2_PL	Ie' tso bulur
+Ie' tso bua'	TYPE:NEG, TENSE:PRF_REM, ASPECT:PFV, ABSNUM:PL, PERSON:2_PL	Ie' tso bulur
+Ie' tso bua'	ABSNUM:PL, PERSON:3_PL	Ie' tso bulur
+Ie' tso bua'	TYPE:NEG, ABSNUM:PL, PERSON:3_PL	Ie' tso bulur
+Ie' tso bua'	TENSE:PRF_REM, ASPECT:PFV, ABSNUM:PL, PERSON:3_PL	Ie' tso bulur
+Ie' tso bua'	TYPE:NEG, TENSE:PRF_REM, ASPECT:PFV, ABSNUM:PL, PERSON:3_PL	Ie' tso bulur
+Ye' tö uyë̀jkuö à̠ríts	TENSE:IPFV_PROG, ASPECT:IPFV, PERSON:3_SI	Ye' tö uye' à̠ í̠tsír
+Ye' tö uyë̀jkuö à̠ríts	TENSE:IPFV_REC, ASPECT:IPFV	Ye' tö uye' à̠ í̠tsír
+Ye' tö uyë̀jkuö à̠ríts	TYPE:NEG, TENSE:IPFV_REC, ASPECT:IPFV	Ye' tö uye' à̠ í̠tsír
+Ye' tö uyë̀jkuö à̠ríts	MODE:POT, TENSE:IPFV_REC, ASPECT:IPFV, PERSON:3_SI	Ye' tö uye' à̠ í̠tsír
+Ye' tö uyë̀jkuö à̠ríts	TYPE:NEG, MODE:POT, TENSE:IPFV_REC, ASPECT:IPFV, PERSON:3_SI	Ye' tö uye' à̠ í̠tsír
+Chìchi dör tsîr	ABSNUM:PL	Chìchi dör dör tstapa'te̠
+Dù tkër kàl ulà ki̠	TYPE:NEG	Dù kë̀ ku̠ kàl ulà ki̠
+Dù tkër kàl ulà ki̠	TENSE:PRF_REM, ASPECT:PFV	Dù tkë̀ ku̠ kàl ulà ki̠
+Dù tkër kàl ulà ki̠	TYPE:NEG, TENSE:PRF_REM, ASPECT:PFV	Dù tkë̀ ku̠ kàl ulà ki̠
+Dù tkër kàl ulà ki̠	ABSNUM:PL	Dù dar kàl ulà ki̠
+Dù tkër kàl ulà ki̠	TYPE:NEG, ABSNUM:PL	Dù tkë̀ ku̠ kàl ulà ki̠
+Dù tkër kàl ulà ki̠	TENSE:PRF_REM, ASPECT:PFV, ABSNUM:PL	Dù tkë̀ ku̠ kàl ulà ki̠
+Dù tkër kàl ulà ki̠	TYPE:NEG, TENSE:PRF_REM, ASPECT:PFV, ABSNUM:PL	Dù tkë̀ ku̠ kàl ulà ki̠
+Ye' i̠ni̠'	PERSON:3_SI	Ie' i̠ni̠ni̠
+Ye' i̠ni̠'	PERSON:2_SI	Be' i̠ni̠' i̠ni̠nB̠nB̠
+Ye' i̠ni̠'	ABSNUM:PL, PERSON:1_PL_EXC	Se' i̠ni̠n i̠n '̠
+Ye' i̠ni̠'	ABSNUM:PL, PERSON:1_PL_INC	Se' i̠ni̠n i̠n '̠
+Ye' i̠ni̠'	ABSNUM:PL, PERSON:2_PL	Se' i̠ni̠n i̠n '̠
+Ye' i̠ni̠'	ABSNUM:PL, PERSON:3_PL	Se' i̠ni̠n i̠n '̠
+Ye' i̠ni̠'	TENSE:PRF_REC, PERSON:3_SI	Se' i̠ni̠n i̠n '̠
+Ye' i̠ni̠'	TENSE:PRF_REC	Ye' i̠n ̠̠̠̠iin i̠né̠
+Ye' i̠ni̠'	TENSE:PRF_REC, PERSON:2_SI	Se' i̠ni̠n i̠n '̠
+Ye' i̠ni̠'	TENSE:PRF_REC, ABSNUM:PL, PERSON:1_PL_EXC	Se' i̠ni̠n i̠n '̠
+Ye' i̠ni̠'	TENSE:PRF_REC, ABSNUM:PL, PERSON:1_PL_INC	Se' i̠ni̠n i̠n '̠
+Ye' i̠ni̠'	TENSE:PRF_REC, ABSNUM:PL, PERSON:2_PL	Se' i̠ni̠n i̠n '̠
+Ye' i̠ni̠'	TENSE:PRF_REC, ABSNUM:PL, PERSON:3_PL	Se' i̠ni̠n i̠n '̠
+Ye' i̠ni̠'	TENSE:IPFV_REC, ASPECT:IPFV, PERSON:3_SI	Se' i̠ni̠n i̠n '̠
+Ye' i̠ni̠'	TENSE:IPFV_REC, ASPECT:IPFV	Se' i̠ni̠n i̠n '̠
+Ye' i̠ni̠'	TENSE:IPFV_HAB, ASPECT:IPFV, PERSON:3_SI	Se' i̠ni̠n i̠n '̠
+Ye' i̠ni̠'	TENSE:IPFV_HAB, ASPECT:IPFV	Se' i̠ni̠n i̠n '̠
+Ye' i̠ni̠'	TYPE:NEG, TENSE:IPFV_HAB, ASPECT:IPFV	Se' i̠ni̠n i̠n '̠
+Ye' i̠ni̠'	TENSE:IPFV_REC, ASPECT:IPFV, VOICE:MID, ABSNUM:NI, PERSON:NA	Se' i̠ni̠n i̠n '̠
+Ye' i̠ni̠'	VOICE:MID, ABSNUM:NI, PERSON:NA	Se' i̠ni̠n i̠n '̠
+Ye' i̠ni̠'	TYPE:NEG, VOICE:MID	Se' i̠ni̠n i̠n '̠
+Ye' i̠ni̠'	TENSE:FUT_CER, ASPECT:IPFV	Se' i̠ni̠n i̠n '̠
+Ye' i̠ni̠'	TYPE:NEG, TENSE:FUT_CER, ASPECT:IPFV	Se' i̠ni̠n i̠n '̠
+Ye' i̠ni̠'	TENSE:IPFV_PROG, ASPECT:IPFV	Se' i̠ni̠n i̠n '̠
+Ye' i̠ni̠'	TYPE:NEG, TENSE:IPFV_REC, ASPECT:IPFV	Se' i̠ni̠n i̠n '̠
+Ye' i̠ni̠'	TENSE:PAS_PLU	Ye' wa̠ i̠n i̠ne̠
+Ye' i̠ni̠'	TYPE:NEG, TENSE:PAS_PLU	Se' i̠ni̠n i̠n '̠
+Ye' i̠ni̠'	TENSE:FUT_POT, ASPECT:IPFV	Se' i̠ni̠n i̠n '̠
+Ye' i̠ni̠'	TYPE:NEG, TENSE:FUT_POT, ASPECT:IPFV	Se' i̠ni̠n i̠n '̠
+Ye' i̠ni̠'	MODE:DES, TENSE:IPFV_REC, ASPECT:IPFV, PERSON:3_SI	Se' i̠ni̠n i̠n '̠
+Ye' i̠ni̠'	MODE:EXH, TENSE:IPFV_REC, ASPECT:IPFV, ABSNUM:PL, PERSON:1_PL_INC	Se' i̠ni̠n i̠n '̠
+Ye' i̠ni̠'	MODE:IMP, TENSE:IPFV_REC, ASPECT:IPFV, PERSON:2_SI	Se' i̠ni̠n i̠n '̠
+Ye' i̠ni̠'	TYPE:NEG, MODE:IMP, TENSE:IPFV_REC, ASPECT:IPFV, PERSON:2_SI	Se' i̠ni̠n i̠n '̠
+Ye' i̠ni̠'	MODE:POT, TENSE:IPFV_REC, ASPECT:IPFV, PERSON:3_SI	Se' i̠ni̠n i̠n '̠
+Ye' i̠ni̠'	TYPE:NEG, MODE:POT, TENSE:IPFV_REC, ASPECT:IPFV, PERSON:3_SI	Se' i̠ni̠n i̠n '̠
+Ie' tkër kula' ki̠	TYPE:NEG	Ie kë̀ ku̠ te̠ ku̠ ku̠ kë̀ le̠ ku̠
+Ie' tkër kula' ki̠	TENSE:PRF_REM, ASPECT:PFV	Ie' tkë̀ ku̠'tak kö́r
+Ie' tkër kula' ki̠	TYPE:NEG, TENSE:PRF_REM, ASPECT:PFV	Ie' tkë̀ ku̠'tak kö́r
+Ie' tkër kula' ki̠	ABSNUM:PL, PERSON:3_PL	Ie' tkë̀ ku̠'tak kö́r
+Ie' tkër kula' ki̠	TYPE:NEG, ABSNUM:PL, PERSON:3_PL	Ie' tkë̀ ku̠'tak kö́r
+Ie' tkër kula' ki̠	TENSE:PRF_REM, ASPECT:PFV, ABSNUM:PL, PERSON:3_PL	Ie' tkë̀ ku̠'tak kö́r
+Ie' tkër kula' ki̠	TYPE:NEG, TENSE:PRF_REM, ASPECT:PFV, ABSNUM:PL, PERSON:3_PL	Ie' tkë̀ ku̠'tak kö́r
+Be' chka'	TENSE:IPFV_PROG, ASPECT:IPFV	Be' chkémi̠
+Be' chka'	TYPE:NEG, TENSE:IPFV_PROG, ASPECT:IPFV	Be' chkémi̠
+Be' chka'	MODE:IMP, TENSE:IPFV_REC, ASPECT:IPFV	Be' chkémi̠
+Be' chka'	TYPE:NEG, MODE:IMP, TENSE:IPFV_REC, ASPECT:IPFV	Be' chkémi̠
+Ye' tö i stsë'	TENSE:IPFV_REC, ASPECT:IPFV, VOICE:MID, PERSON:3_SI	Kë̀ i stsë́k
+Ye' tö i stsë'	TENSE:IPFV_HAB, ASPECT:IPFV, VOICE:MID, PERSON:3_SI	Kë̀ i stsë́k
+Ye' tö i stsë'	TYPE:NEG, TENSE:IPFV_HAB, ASPECT:IPFV, VOICE:MID, PERSON:3_SI	Kë̀ i stsë́k
+Ye' tö i stsë'	TENSE:FUT_POT, ASPECT:IPFV, VOICE:MID, PERSON:3_SI	Kë̀ i stsë́k
+Ye' tö i stsë'	TYPE:NEG, TENSE:FUT_POT, ASPECT:IPFV, VOICE:MID, PERSON:3_SI	Kë̀ i stsë́k
+Ie' e̠' tkë'wa̠	ABSNUM:PL, PERSON:3_PL	Ie' e̠' tkë'mè̠
+Kirë̀ tö tabè a̠me̠' ie' a̠	TYPE:NEG	Kë̀ ë̀ ë̀ ë̀ ë̀ ie̠ ta̠  ̠̠̠  ̠̠̠ne̠ me̠
+Kirë̀ tö tabè a̠me̠' ie' a̠	ASPECT:INC	Kir tö tabmi̠ i̠mi̠
+Kirë̀ tö tabè a̠me̠' ie' a̠	TENSE:PRF_REC	Kir̀téa̠è i̠mé̠
+Kirë̀ tö tabè a̠me̠' ie' a̠	TYPE:NEG, TENSE:PRF_REC	Kë̀ tö t̠ki̠ a̠m i̠
+Kirë̀ tö tabè a̠me̠' ie' a̠	TENSE:PRF_REC, ASPECT:INC	Kë̀ tö t̠ki̠ a̠m i̠
+Kirë̀ tö tabè a̠me̠' ie' a̠	TENSE:IPFV_REC, ASPECT:IPFV	Kë̀ tö t̠ki̠ a̠m i̠
+Kirë̀ tö tabè a̠me̠' ie' a̠	TYPE:NEG, TENSE:IPFV_REC, ASPECT:IPFV	Kë̀ tö t̠ki̠ a̠m i̠
+Kirë̀ tö tabè a̠me̠' ie' a̠	TENSE:IPFV_PROG, ASPECT:IPFV	Kë̀ tö t̠ki̠ a̠m i̠
+Kirë̀ tö tabè a̠me̠' ie' a̠	TYPE:NEG, TENSE:IPFV_PROG, ASPECT:IPFV	Kë̀ tö t̠ki̠ a̠m i̠
+Kirë̀ tö tabè a̠me̠' ie' a̠	TENSE:PRF_PROG	Kir bák  ̠e̠'bak i̠ i̠
+Kirë̀ tö tabè a̠me̠' ie' a̠	TYPE:NEG, TENSE:PRF_PROG	Kë̀ tö t̠ki̠ a̠m i̠
+Kirë̀ tö tabè a̠me̠' ie' a̠	MODE:IMP, TENSE:IPFV_REC, ASPECT:IPFV	Kë̀ tö t̠ki̠ a̠m i̠
+Kirë̀ tö tabè a̠me̠' ie' a̠	TYPE:NEG, MODE:IMP, TENSE:IPFV_REC, ASPECT:IPFV	Kë̀ tö t̠ki̠ a̠m i̠
+Kirë̀ tö tabè a̠me̠' ie' a̠	TYPE:NEG, MODE:IMP, TENSE:IPFV_REC, ASPECT:IPFV, VOICE:MID	Kë̀ tö t̠ki̠ a̠m i̠
+Kirë̀ tö tabè a̠me̠' ie' a̠	MODE:EXH, TENSE:IPFV_REC, ASPECT:IPFV, PERSON:1_PL_INC	Kë̀ tö t̠ki̠ a̠m i̠
+Kirë̀ tö tabè a̠me̠' ie' a̠	MODE:DES, TENSE:IPFV_REC, ASPECT:IPFV	Kë̀ tö t̠ki̠ a̠m i̠
+Kirë̀ tö tabè a̠me̠' ie' a̠	TYPE:NEG, MODE:DES, TENSE:IPFV_REC, ASPECT:IPFV	Kë̀ tö t̠ki̠ a̠m i̠
+Kirë̀ tö tabè a̠me̠' ie' a̠	MODE:ADVERS	Ki wa̠ ta̠  ̠̠̠  ̠̠̠
+Kirë̀ tö tabè a̠me̠' ie' a̠	TENSE:IPFV_HAB, ASPECT:IPFV	Kë̀ tö t̠ki̠ a̠m i̠
+Kirë̀ tö tabè a̠me̠' ie' a̠	TYPE:NEG, TENSE:IPFV_HAB, ASPECT:IPFV	Kë̀ tö t̠ki̠ a̠m i̠
+Kirë̀ tö tabè a̠me̠' ie' a̠	TENSE:FUT_POT, ASPECT:IPFV	Kë̀ tö t̠ki̠ a̠m i̠
+Kirë̀ tö tabè a̠me̠' ie' a̠	TYPE:NEG, TENSE:FUT_POT, ASPECT:IPFV	Kë̀ tö t̠ki̠ a̠m i̠
+Kirë̀ tö tabè a̠me̠' ie' a̠	TENSE:FUT_CER, ASPECT:IPFV	Kë̀ tö t̠ki̠ a̠m i̠
+Kirë̀ tö tabè a̠me̠' ie' a̠	TYPE:NEG, TENSE:FUT_CER, ASPECT:IPFV	Kë̀ tö t̠ki̠ a̠m i̠
+Kirë̀ tö tabè a̠me̠' ie' a̠	VOICE:MID	Pomta̠dar a̠me̠ne̠
+Kirë̀ tö tabè a̠me̠' ie' a̠	TYPE:NEG, VOICE:MID	Kë̀ tö t̠ki̠ a̠m i̠
+Kirë̀ tö tabè a̠me̠' ie' a̠	TENSE:PRF_REC, VOICE:MID	Kë̀ tö t̠ki̠ a̠m i̠
+Kirë̀ tö tabè a̠me̠' ie' a̠	TYPE:NEG, TENSE:PRF_REC, VOICE:MID	Kë̀ tö t̠ki̠ a̠m i̠
+Kirë̀ tö tabè a̠me̠' ie' a̠	TENSE:IPFV_REC, ASPECT:IPFV, VOICE:MID	Kë̀ tö t̠ki̠ a̠m i̠
+Kirë̀ tö tabè a̠me̠' ie' a̠	TYPE:NEG, TENSE:IPFV_REC, ASPECT:IPFV, VOICE:MID	Kë̀ tö t̠ki̠ a̠m i̠
+Kirë̀ tö tabè a̠me̠' ie' a̠	TENSE:IPFV_HAB, ASPECT:IPFV, VOICE:MID	Kë̀ tö t̠ki̠ a̠m i̠
+Kirë̀ tö tabè a̠me̠' ie' a̠	TYPE:NEG, TENSE:IPFV_HAB, ASPECT:IPFV, VOICE:MID	Kë̀ tö t̠ki̠ a̠m i̠
+Kirë̀ tö tabè a̠me̠' ie' a̠	TENSE:FUT_POT, ASPECT:IPFV, VOICE:MID	Kë̀ tö t̠ki̠ a̠m i̠
+Kirë̀ tö tabè a̠me̠' ie' a̠	TYPE:NEG, TENSE:FUT_POT, ASPECT:IPFV, VOICE:MID	Kë̀ tö t̠ki̠ a̠m i̠
+Kirë̀ tö tabè a̠me̠' ie' a̠	TENSE:FUT_CER, ASPECT:IPFV, VOICE:MID	Kë̀ tö t̠ki̠ a̠m i̠
+Kirë̀ tö tabè a̠me̠' ie' a̠	TYPE:NEG, TENSE:FUT_CER, ASPECT:IPFV, VOICE:MID	Kë̀ tö t̠ki̠ a̠m i̠
+Kirë̀ tö tabè a̠me̠' ie' a̠	TENSE:PAS_PLU, VOICE:MID	Kë̀ tö t̠ki̠ a̠m i̠
+Kirë̀ tö tabè a̠me̠' ie' a̠	TYPE:NEG, TENSE:PAS_PLU, VOICE:MID	Kë̀ tö t̠ki̠ a̠m i̠
+Kirë̀ tö tabè a̠me̠' ie' a̠	MODE:POT, TENSE:IPFV_REC, ASPECT:IPFV	Kë̀ tö t̠ki̠ a̠m i̠
+Kirë̀ tö tabè a̠me̠' ie' a̠	TYPE:NEG, MODE:POT, TENSE:IPFV_REC, ASPECT:IPFV	Kë̀ tö t̠ki̠ a̠m i̠
+Ye' tö uyë̀jkuö à̠ritsè bua'ë	TYPE:NEG	Y' kë̀ ku̠ jk kë̀ wa̠ à̠ ië̀ne̠
+Aláköl a̠wì̠ dör buáala	ABSNUM:PL	Alákö wa̠ ìör dör dör dar dar dar dar dar bia'i̠
+Alà mì̠ne̠ i ma̠u̠k	ABSNUM:PL	Alà dapári mi̠n mi̠
+Alà mì̠ne̠ i ma̠u̠k	TYPE:NEG	Alà kë̀ ku̠ me̠ me̠ i me̠ me̠ me̠
+Alà mì̠ne̠ i ma̠u̠k	TYPE:NEG, ABSNUM:PL	Alà ma̠n m  a̠mi̠
+Alà mì̠ne̠ i ma̠u̠k	TENSE:PRF_REC	Alà mì̠n mé̠ mé̠
+Alà mì̠ne̠ i ma̠u̠k	TENSE:PRF_REC, ABSNUM:PL	Alà ma̠n m  a̠mi̠
+Alà mì̠ne̠ i ma̠u̠k	TENSE:IPFV_REC, ASPECT:IPFV	Alà ma̠n m  a̠mi̠
+Alà mì̠ne̠ i ma̠u̠k	TENSE:IPFV_REC, ASPECT:IPFV, ABSNUM:PL	Alà ma̠n m  a̠mi̠
+Alà mì̠ne̠ i ma̠u̠k	TENSE:IPFV_PROG, ASPECT:IPFV	Alà ma̠n m  a̠mi̠
+Alà mì̠ne̠ i ma̠u̠k	TYPE:NEG, TENSE:IPFV_PROG, ASPECT:IPFV	Alà ma̠n m  a̠mi̠
+Alà mì̠ne̠ i ma̠u̠k	TENSE:PRF_PROG	Alà bák e mi̠'bak i mi̠
+Alà mì̠ne̠ i ma̠u̠k	TYPE:NEG, TENSE:PRF_PROG	Alà ma̠n m  a̠mi̠
+Alà mì̠ne̠ i ma̠u̠k	TENSE:IPFV_PROG, ASPECT:IPFV, ABSNUM:PL	Alà ma̠n m  a̠mi̠
+Alà mì̠ne̠ i ma̠u̠k	TYPE:NEG, TENSE:IPFV_PROG, ASPECT:IPFV, ABSNUM:PL	Alà ma̠n m  a̠mi̠
+Alà mì̠ne̠ i ma̠u̠k	TENSE:PRF_PROG, ABSNUM:PL	Alà ma̠n m  a̠mi̠
+Alà mì̠ne̠ i ma̠u̠k	TYPE:NEG, TENSE:PRF_PROG, ABSNUM:PL	Alà ma̠n m  a̠mi̠
+Awá tsë'	TENSE:PRF_REC	Awá tsë̀né
+Ie' tö àrros ña̠'	ASPECT:INC	Ie' tö àr ooràosàosàosàosàosàosàosàosàosàosàosàosàosàosàosàosàosàosàosàosàosàosàosàosàosàosàosàosàosàosàosàosàosàosàosàosàosàosà
+Ie' tö àrros ña̠'	TYPE:NEG	Ie kë̀ wa̠ àr or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or 
+Ie' tö àrros ña̠'	TENSE:IPFV_PROG, ASPECT:IPFV	Ie' tö àr oaroñè̠
+Ie' tö àrros ña̠'	TYPE:NEG, TENSE:IPFV_PROG, ASPECT:IPFV	Ie' tö àr oaroñè̠
+Ie' tö àrros ña̠'	TENSE:PRF_PROG	Ie' bák àrrosàoñku̠
+Ie' tö àrros ña̠'	TYPE:NEG, TENSE:PRF_PROG	Ie' tö àr oaroñè̠
+Ie' tö àrros ña̠'	TENSE:IPFV_REC, ASPECT:IPFV	Ie' tö àr oaroñè̠
+Ie' tö àrros ña̠'	TYPE:NEG, TENSE:IPFV_REC, ASPECT:IPFV	Ie' tö àr oaroñè̠
+Ie' tö àrros ña̠'	MODE:IMP, TENSE:IPFV_REC, ASPECT:IPFV, PERSON:NA	Ie' tö àr oaroñè̠
+Ie' tö àrros ña̠'	TYPE:NEG, MODE:IMP, TENSE:IPFV_REC, ASPECT:IPFV, PERSON:NA	Ie' tö àr oaroñè̠
+Ie' tö àrros ña̠'	TYPE:NEG, MODE:IMP, TENSE:IPFV_REC, ASPECT:IPFV, VOICE:MID, PERSON:NA	Ie' tö àr oaroñè̠
+Ie' tö àrros ña̠'	MODE:EXH, TENSE:IPFV_REC, ASPECT:IPFV, PERSON:1_PL_INC	Ie' tö àr oaroñè̠
+Ie' tö àrros ña̠'	MODE:DES, TENSE:IPFV_REC, ASPECT:IPFV	Ie' tö àr oaroñè̠
+Ie' tö àrros ña̠'	TYPE:NEG, MODE:DES, TENSE:IPFV_REC, ASPECT:IPFV	Ie' tö àr oaroñè̠
+Ie' tö àrros ña̠'	MODE:ADVERS	Ie' wa̠ àr or or or or or or oa' ñè̠
+Ie' tö àrros ña̠'	TENSE:PRF_REC	Ie' tö àr orrosàosrosà̠
+Ie' tö àrros ña̠'	TENSE:PRF_REC, ASPECT:INC	Ie' tö àr oaroñè̠
+Ie' tö àrros ña̠'	TYPE:NEG, TENSE:PRF_REC	Ie' tö àr oaroñè̠
+Ie' tö àrros ña̠'	TENSE:IPFV_HAB, ASPECT:IPFV	Ie' tö àr oaroñè̠
+Ie' tö àrros ña̠'	TYPE:NEG, TENSE:IPFV_HAB, ASPECT:IPFV	Ie' tö àr oaroñè̠
+Ie' tö àrros ña̠'	TENSE:FUT_POT, ASPECT:IPFV	Ie' tö àr oaroñè̠
+Ie' tö àrros ña̠'	TYPE:NEG, TENSE:FUT_POT, ASPECT:IPFV	Ie' tö àr oaroñè̠
+Ie' tö àrros ña̠'	TENSE:FUT_CER, ASPECT:IPFV	Ie' tö àr oaroñè̠
+Ie' tö àrros ña̠'	TYPE:NEG, TENSE:FUT_CER, ASPECT:IPFV	Ie' tö àr oaroñè̠
+Ie' tö àrros ña̠'	TENSE:IPFV_REC, ASPECT:IPFV, VOICE:MID, PERSON:NA	Ie' tö àr oaroñè̠
+Ie' tö àrros ña̠'	TYPE:NEG, TENSE:IPFV_REC, ASPECT:IPFV, VOICE:MID, PERSON:NA	Ie' tö àr oaroñè̠
+Ie' tö àrros ña̠'	VOICE:MID, PERSON:NA	Ie' tö àr oaroñè̠
+Ie' tö àrros ña̠'	TYPE:NEG, VOICE:MID, PERSON:NA	Ie' tö àr oaroñè̠
+Ie' tö àrros ña̠'	TENSE:PRF_REC, VOICE:MID, PERSON:NA	Ie' tö àr oaroñè̠
+Ie' tö àrros ña̠'	TYPE:NEG, TENSE:PRF_REC, VOICE:MID, PERSON:NA	Ie' tö àr oaroñè̠
+Ie' tö àrros ña̠'	TENSE:IPFV_HAB, ASPECT:IPFV, VOICE:MID, PERSON:NA	Ie' tö àr oaroñè̠
+Ie' tö àrros ña̠'	TYPE:NEG, TENSE:IPFV_HAB, ASPECT:IPFV, VOICE:MID, PERSON:NA	Ie' tö àr oaroñè̠
+Ie' tö àrros ña̠'	TENSE:FUT_POT, ASPECT:IPFV, VOICE:MID, PERSON:NA	Ie' tö àr oaroñè̠
+Ie' tö àrros ña̠'	TYPE:NEG, TENSE:FUT_POT, ASPECT:IPFV, VOICE:MID, PERSON:NA	Ie' tö àr oaroñè̠
+Ie' tö àrros ña̠'	TENSE:FUT_CER, ASPECT:IPFV, VOICE:MID, PERSON:NA	Ie' tö àr oaroñè̠
+Ie' tö àrros ña̠'	TYPE:NEG, TENSE:FUT_CER, ASPECT:IPFV, VOICE:MID, PERSON:NA	Ie' tö àr oaroñè̠
+Ie' tö àrros ña̠'	TENSE:PAS_PLU	Ie' wa̠ àr oo àrrosàoñè̠
+Ie' tö àrros ña̠'	TYPE:NEG, TENSE:PAS_PLU	Ie' tö àr oaroñè̠
+Ie' tö àrros ña̠'	TENSE:PAS_PLU, VOICE:MID, PERSON:NA	Ie' tö àr oaroñè̠
+Ie' tö àrros ña̠'	TYPE:NEG, TENSE:PAS_PLU, VOICE:MID, PERSON:NA	Ie' tö àr oaroñè̠
+Skuë̀ ta̠'	TENSE:PRF_REM, ASPECT:PFV	Sku' ta̠ ta̠k ë'mi̠
+Ye' tú̠ne̠'	TYPE:NEG	Kë̀ ie' tö ne̠ ne̠ ne̠ ne̠ ne̠ ne̠ ne̠ ne̠ ne̠ ne̠ ne̠ ne̠ ne̠ ne̠ ne̠ ne̠ ne̠ ne̠ ne̠ ne̠ ne̠ ne̠ ne̠ ne̠ ne̠ ne̠ ne̠ ne̠ ne̠ n
+Ye' tú̠ne̠'	TENSE:PRF_REC	Ye' tú̠n úú̠né̠
+Ye' tú̠ne̠'	TYPE:NEG, TENSE:PRF_REC	Se' tú̠n e̠' e̠'mi̠
+Ye' tú̠ne̠'	TENSE:IPFV_REC, ASPECT:IPFV	Se' tú̠n e̠' e̠'mi̠
+Ye' tú̠ne̠'	TYPE:NEG, TENSE:IPFV_REC, ASPECT:IPFV	Se' tú̠n e̠' e̠'mi̠
+Ye' tú̠ne̠'	TENSE:IPFV_REC, ASPECT:IPFV, PERSON:3_SI	Se' tú̠n e̠' e̠'mi̠
+Ye' tú̠ne̠'	TENSE:IPFV_REC, ASPECT:IPFV, ABSNUM:PL, PERSON:3_PL	Se' tú̠n e̠' e̠'mi̠
+Ye' tú̠ne̠'	TYPE:NEG, TENSE:IPFV_REC, ASPECT:IPFV, PERSON:3_SI	Se' tú̠n e̠' e̠'mi̠
+Ye' tú̠ne̠'	TENSE:IPFV_PROG, ASPECT:IPFV	Se' tú̠n e̠' e̠'mi̠
+Ye' tú̠ne̠'	TYPE:NEG, TENSE:IPFV_PROG, ASPECT:IPFV	Se' tú̠n e̠' e̠'mi̠
+Ye' tú̠ne̠'	TENSE:PRF_PROG	Ye' bák ta̠k nö́k
+Ye' tú̠ne̠'	TYPE:NEG, TENSE:PRF_PROG	Se' tú̠n e̠' e̠'mi̠
+Ye' tú̠ne̠'	MODE:IMP, TENSE:IPFV_REC, ASPECT:IPFV, PERSON:2_SI	Se' tú̠n e̠' e̠'mi̠
+Ye' tú̠ne̠'	MODE:IMP, TENSE:IPFV_REC, ASPECT:IPFV, ABSNUM:PL, PERSON:2_PL	Se' tú̠n e̠' e̠'mi̠
+Ye' tú̠ne̠'	TYPE:NEG, MODE:IMP, TENSE:IPFV_REC, ASPECT:IPFV, PERSON:2_SI	Se' tú̠n e̠' e̠'mi̠
+Ye' tú̠ne̠'	TYPE:NEG, MODE:IMP, TENSE:IPFV_REC, ASPECT:IPFV, ABSNUM:PL, PERSON:2_PL	Se' tú̠n e̠' e̠'mi̠
+Ye' tú̠ne̠'	TENSE:IPFV_HAB, ASPECT:IPFV	Se' tú̠n e̠' e̠'mi̠
+Ye' tú̠ne̠'	TYPE:NEG, TENSE:IPFV_HAB, ASPECT:IPFV	Se' tú̠n e̠' e̠'mi̠
+Ye' tú̠ne̠'	TENSE:FUT_POT, ASPECT:IPFV	Se' tú̠n e̠' e̠'mi̠
+Ye' tú̠ne̠'	TYPE:NEG, TENSE:FUT_POT, ASPECT:IPFV	Se' tú̠n e̠' e̠'mi̠
+Ye' tú̠ne̠'	TENSE:FUT_CER, ASPECT:IPFV	Se' tú̠n e̠' e̠'mi̠
+Ye' tú̠ne̠'	TYPE:NEG, TENSE:FUT_CER, ASPECT:IPFV	Se' tú̠n e̠' e̠'mi̠
+Ye' tú̠ne̠'	VOICE:MID, ABSNUM:NI, PERSON:NA	Se' tú̠n e̠' e̠'mi̠
+Ye' tú̠ne̠'	TYPE:NEG, VOICE:MID, ABSNUM:NI, PERSON:NA	Se' tú̠n e̠' e̠'mi̠
+Ye' tú̠ne̠'	TENSE:PRF_REC, VOICE:MID, ABSNUM:NI, PERSON:NA	Se' tú̠n e̠' e̠'mi̠
+Ye' tú̠ne̠'	TYPE:NEG, TENSE:PRF_REC, VOICE:MID, ABSNUM:NI, PERSON:NA	Se' tú̠n e̠' e̠'mi̠
+Ye' a̠mì̠ tö bö̀wö duké wö'ik	TYPE:NEG	Ye' kë̀ ku̠ ìö bök wa̠ be̠ bök wa̠ dà da̠ wa̠
+Ye' a̠mì̠ tö bö̀wö duké wö'ik	ASPECT:INC	Ye' a̠m wa̠ tö bö'mi̠
+Ye' a̠mì̠ tö bö̀wö duké wö'ik	TENSE:PRF_REC	Ye' a̠ tö bö bö bö bö bök wa̠ da̠wé̠
+Ye' a̠mì̠ tö bö̀wö duké wö'ik	TYPE:NEG, TENSE:PRF_REC	Ye' a̠mta̠btak wa̠ wa̠ wa̠
+Ye' a̠mì̠ tö bö̀wö duké wö'ik	TENSE:PRF_REC, ASPECT:INC	Ye' a̠mta̠btak wa̠ wa̠ wa̠
+Ye' a̠mì̠ tö bö̀wö duké wö'ik	TENSE:IPFV_REC, ASPECT:IPFV	Ye' a̠mta̠btak wa̠ wa̠ wa̠
+Ye' a̠mì̠ tö bö̀wö duké wö'ik	TYPE:NEG, TENSE:IPFV_REC, ASPECT:IPFV	Ye' a̠mta̠btak wa̠ wa̠ wa̠
+Ye' a̠mì̠ tö bö̀wö duké wö'ik	TENSE:IPFV_PROG, ASPECT:IPFV	Ye' a̠mta̠btak wa̠ wa̠ wa̠
+Ye' a̠mì̠ tö bö̀wö duké wö'ik	TYPE:NEG, TENSE:IPFV_PROG, ASPECT:IPFV	Ye' a̠mta̠btak wa̠ wa̠ wa̠
+Ye' a̠mì̠ tö bö̀wö duké wö'ik	TENSE:PRF_PROG	Ye' bák tö́k wa̠k wa̠k wa̠k
+Ye' a̠mì̠ tö bö̀wö duké wö'ik	TYPE:NEG, TENSE:PRF_PROG	Ye' a̠mta̠btak wa̠ wa̠ wa̠
+Ye' a̠mì̠ tö bö̀wö duké wö'ik	MODE:IMP, TENSE:IPFV_REC, ASPECT:IPFV	Ye' a̠mta̠btak wa̠ wa̠ wa̠
+Ye' a̠mì̠ tö bö̀wö duké wö'ik	TYPE:NEG, MODE:IMP, TENSE:IPFV_REC, ASPECT:IPFV	Ye' a̠mta̠btak wa̠ wa̠ wa̠
+Ye' a̠mì̠ tö bö̀wö duké wö'ik	TYPE:NEG, MODE:IMP, TENSE:IPFV_REC, ASPECT:IPFV, VOICE:MID	Ye' a̠mta̠btak wa̠ wa̠ wa̠
+Ye' a̠mì̠ tö bö̀wö duké wö'ik	MODE:EXH, TENSE:IPFV_REC, ASPECT:IPFV, PERSON:1_PL_INC	Ye' a̠mta̠btak wa̠ wa̠ wa̠
+Ye' a̠mì̠ tö bö̀wö duké wö'ik	MODE:DES, TENSE:IPFV_REC, ASPECT:IPFV	Ye' a̠mta̠btak wa̠ wa̠ wa̠
+Ye' a̠mì̠ tö bö̀wö duké wö'ik	TYPE:NEG, MODE:DES, TENSE:IPFV_REC, ASPECT:IPFV	Ye' a̠mta̠btak wa̠ wa̠ wa̠
+Ye' a̠mì̠ tö bö̀wö duké wö'ik	MODE:ADVERS	Ye' wa̠ tö bö́r wa̠ bö́k
+Ye' a̠mì̠ tö bö̀wö duké wö'ik	TENSE:IPFV_HAB, ASPECT:IPFV	Ye' a̠mta̠btak wa̠ wa̠ wa̠
+Ye' a̠mì̠ tö bö̀wö duké wö'ik	TYPE:NEG, TENSE:IPFV_HAB, ASPECT:IPFV	Ye' a̠mta̠btak wa̠ wa̠ wa̠
+Ye' a̠mì̠ tö bö̀wö duké wö'ik	TENSE:FUT_POT, ASPECT:IPFV	Ye' a̠mta̠btak wa̠ wa̠ wa̠
+Ye' a̠mì̠ tö bö̀wö duké wö'ik	TYPE:NEG, TENSE:FUT_POT, ASPECT:IPFV	Ye' a̠mta̠btak wa̠ wa̠ wa̠
+Ye' a̠mì̠ tö bö̀wö duké wö'ik	TENSE:FUT_CER, ASPECT:IPFV	Ye' a̠mta̠btak wa̠ wa̠ wa̠
+Ye' a̠mì̠ tö bö̀wö duké wö'ik	TYPE:NEG, TENSE:FUT_CER, ASPECT:IPFV	Ye' a̠mta̠btak wa̠ wa̠ wa̠
+Ye' a̠mì̠ tö bö̀wö duké wö'ik	VOICE:MID	Àr wá̀ dòne̠
+Ye' a̠mì̠ tö bö̀wö duké wö'ik	TYPE:NEG, VOICE:MID	Ye' a̠mta̠btak wa̠ wa̠ wa̠
+Ye' a̠mì̠ tö bö̀wö duké wö'ik	TENSE:PRF_REC, VOICE:MID	Ye' a̠mta̠btak wa̠ wa̠ wa̠
+Ye' a̠mì̠ tö bö̀wö duké wö'ik	TYPE:NEG, TENSE:PRF_REC, VOICE:MID	Ye' a̠mta̠btak wa̠ wa̠ wa̠
+Ye' a̠mì̠ tö bö̀wö duké wö'ik	TENSE:IPFV_REC, ASPECT:IPFV, VOICE:MID	Ye' a̠mta̠btak wa̠ wa̠ wa̠
+Ye' a̠mì̠ tö bö̀wö duké wö'ik	TYPE:NEG, TENSE:IPFV_REC, ASPECT:IPFV, VOICE:MID	Ye' a̠mta̠btak wa̠ wa̠ wa̠
+Ye' a̠mì̠ tö bö̀wö duké wö'ik	TENSE:IPFV_HAB, ASPECT:IPFV, VOICE:MID	Ye' a̠mta̠btak wa̠ wa̠ wa̠
+Ye' a̠mì̠ tö bö̀wö duké wö'ik	TYPE:NEG, TENSE:IPFV_HAB, ASPECT:IPFV, VOICE:MID	Ye' a̠mta̠btak wa̠ wa̠ wa̠
+Ye' a̠mì̠ tö bö̀wö duké wö'ik	TENSE:FUT_POT, ASPECT:IPFV, VOICE:MID	Ye' a̠mta̠btak wa̠ wa̠ wa̠
+Ye' a̠mì̠ tö bö̀wö duké wö'ik	TYPE:NEG, TENSE:FUT_POT, ASPECT:IPFV, VOICE:MID	Ye' a̠mta̠btak wa̠ wa̠ wa̠
+Ye' a̠mì̠ tö bö̀wö duké wö'ik	TENSE:FUT_CER, ASPECT:IPFV, VOICE:MID	Ye' a̠mta̠btak wa̠ wa̠ wa̠
+Ye' a̠mì̠ tö bö̀wö duké wö'ik	TYPE:NEG, TENSE:FUT_CER, ASPECT:IPFV, VOICE:MID	Ye' a̠mta̠btak wa̠ wa̠ wa̠
+Ye' a̠mì̠ tö bö̀wö duké wö'ik	TENSE:PAS_PLU	Ye' wa̠ tö́rule
+Ye' a̠mì̠ tö bö̀wö duké wö'ik	TYPE:NEG, TENSE:PAS_PLU	Ye' a̠mta̠btak wa̠ wa̠ wa̠
+Ye' a̠mì̠ tö bö̀wö duké wö'ik	MODE:POT, TENSE:IPFV_REC, ASPECT:IPFV	Ye' a̠mta̠btak wa̠ wa̠ wa̠
+Ye' a̠mì̠ tö bö̀wö duké wö'ik	TYPE:NEG, MODE:POT, TENSE:IPFV_REC, ASPECT:IPFV	Ye' a̠mta̠btak wa̠ wa̠ wa̠
+Mó̠köl ar ka̠nò̠ a̠	TYPE:NEG	Mó̠k kë̀ ku̠ a̠ ka̠ ka̠ ka̠ ka̠ ka̠ ka̠ ka̠ ka̠ ka̠ ka̠ ka̠ ka̠ ka̠ ka̠ ka̠ ka̠
+Mó̠köl ar ka̠nò̠ a̠	TENSE:PRF_REM, ASPECT:PFV	Mó̠kö  rr̠n òa̠ ka̠
+Mó̠köl ar ka̠nò̠ a̠	TYPE:NEG, TENSE:PRF_REM, ASPECT:PFV	Mó̠kö  rr̠n òa̠ ka̠
+Mó̠köl ar ka̠nò̠ a̠	ABSNUM:PL	Mó̠kë' dapárke ka̠
+Mó̠köl ar ka̠nò̠ a̠	TYPE:NEG, ABSNUM:PL	Mó̠kö  rr̠n òa̠ ka̠
+Mó̠köl ar ka̠nò̠ a̠	TENSE:PRF_REM, ASPECT:PFV, ABSNUM:PL	Mó̠kö  rr̠n òa̠ ka̠
+Mó̠köl ar ka̠nò̠ a̠	TYPE:NEG, TENSE:PRF_REM, ASPECT:PFV, ABSNUM:PL	Mó̠kö  rr̠n òa̠ ka̠
+Si̠ni̠' tër í̠s ki̠	TYPE:NEG	Si̠n kë̀ wa̠  ë̀ í̠ne̠ të̀ne̠
+Si̠ni̠' tër í̠s ki̠	TENSE:PRF_REM, ASPECT:PFV	Si̠ni̠' të̀ í̠
+Si̠ni̠' tër í̠s ki̠	TYPE:NEG, TENSE:PRF_REM, ASPECT:PFV	Si̠ni̠' të̀ í̠
+Si̠ni̠' tër í̠s ki̠	ABSNUM:PL	Si̠nië'tak kë'rda
+Si̠ni̠' tër í̠s ki̠	TYPE:NEG, ABSNUM:PL	Si̠ni̠' të̀ í̠
+Si̠ni̠' tër í̠s ki̠	TENSE:PRF_REM, ASPECT:PFV, ABSNUM:PL	Si̠ni̠' të̀ í̠
+Si̠ni̠' tër í̠s ki̠	TYPE:NEG, TENSE:PRF_REM, ASPECT:PFV, ABSNUM:PL	Si̠ni̠' të̀ í̠
+I dé	ABSNUM:PL, PERSON:3_PL	I dada̠da̠
+I dé	TENSE:PRF_REM	I dadaépa
+I dé	TENSE:IPFV_PROG, ASPECT:IPFV	I dada̠da̠
+I dé	TYPE:NEG, TENSE:IPFV_PROG, ASPECT:IPFV	I dada̠da̠
+I dé	TENSE:PRF_PROG	I kö́k
+I dé	TYPE:NEG, TENSE:PRF_PROG	I dada̠da̠
+I̠nú̠köl ta̠'	TENSE:PRF_REC, ASPECT:PFV	I̠nú̠kö  aa ta̠ ta̠k ta̠'ku̠
+I̠nú̠köl ta̠'	TENSE:PRF_REM, ASPECT:PFV	I̠nú̠kö  aa ta̠ ta̠k ta̠'ku̠
