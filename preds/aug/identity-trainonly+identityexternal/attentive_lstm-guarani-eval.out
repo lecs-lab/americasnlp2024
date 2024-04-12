@@ -1,0 +1,1 @@
+./preds/aug/identity-trainonly+identityexternal/attentive_lstm-guarani.tsv: Accuracy=15.19, BLEU=29.56, ChrF=71.24

@@ -1,0 +1,1 @@
+./preds/aug/identity-trainonly+identityexternal/pointer_generator_lstm-bribri.tsv: Accuracy=1.42, BLEU=14.65, ChrF=35.70
