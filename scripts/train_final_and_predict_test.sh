@@ -39,7 +39,7 @@ do
     embedding_size=512
     hidden_size=448
     decoder_layers=1
-    teacher_forcing="--no-teacher_forcing"
+    teacher_forcing="--teacher_forcing"
   elif [ "$lang" = "guarani" ]; then
     batch_size=16
     embedding_size=256
@@ -51,7 +51,7 @@ do
     embedding_size=256
     hidden_size=896
     decoder_layers=2
-    teacher_forcing="--no-teacher_forcing"
+    teacher_forcing="--teacher_forcing"
   fi
 
   yoyodyne-train \
