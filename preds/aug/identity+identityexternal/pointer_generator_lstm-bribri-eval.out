@@ -1,1 +1,1 @@
-./preds/aug/identity+identityexternal/pointer_generator_lstm-bribri.tsv: Accuracy=2.36, BLEU=23.72, ChrF=45.30
+./preds/aug/identity+identityexternal/pointer_generator_lstm-bribri.tsv: Accuracy=4.25, BLEU=21.64, ChrF=44.54

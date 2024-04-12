@@ -1,1 +1,1 @@
-./preds/aug/identity+identityexternal/pointer_generator_lstm-guarani.tsv: Accuracy=5.06, BLEU=5.10, ChrF=50.02
+./preds/aug/identity+identityexternal/pointer_generator_lstm-guarani.tsv: Accuracy=27.85, BLEU=43.46, ChrF=81.39
