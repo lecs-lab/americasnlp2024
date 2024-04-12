@@ -90,6 +90,8 @@ do
     --hidden_size $hidden_size \
     --source_attention_heads 1 \
     --teacher_forcing \
+    --max_source_length 200 \
+    --max_target_length 200 \
     --max_epochs 500 \
     --scheduler lineardecay \
     --log_wandb \
