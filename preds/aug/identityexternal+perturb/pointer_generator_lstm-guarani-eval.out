@@ -1,0 +1,1 @@
+./preds/aug/identityexternal+perturb/pointer_generator_lstm-guarani.tsv: Accuracy=20.25, BLEU=31.86, ChrF=77.35
