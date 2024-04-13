@@ -5,7 +5,7 @@ import argparse
 def copy_target_column(source_path, destination_path):
     # Load the source and destination files
     source_df = pd.read_csv(source_path, sep='\t', header=None)
-    destination_df = pd.read_csv(destination_path, sep='\t', header=None)
+    destination_df = pd.read_csv(destination_path, sep='\t')
 
     source_df.columns = ['Target']
     if len(destination_df.columns) == 3:
