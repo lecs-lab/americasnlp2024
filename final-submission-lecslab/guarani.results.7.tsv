@@ -1,366 +1,365 @@
 ID	Source	Change	Target
-ID	Source	Change	Ha’ekuéra opumi
-Guarani0425	Ha’ekuéra opumi	PERSON:3_SI	Ha’ekuéra ndopumi
-Guarani0426	Ha’ekuéra opumi	TYPE:NEG	Ha’ekuéra opumi ikóni
-Guarani0427	Ha’ekuéra opumi	ASPECT:INM	Peë ppppmi
-Guarani0428	Ha’ekuéra opumi	PERSON:2_PL	Ore opumi
-Guarani0429	Ha’ekuéra opumi	PERSON:1_PL_EXC	Ha’ekuéra opumi va’ekue
-Guarani0430	Ha’ekuéra opumi	TENSE:PAS_PLU	Ha’ekuéra opumita
-Guarani0431	Ha’ekuéra opumi	TENSE:FUT_SIM	Ha’ekuéra opumi
-Guarani0432	Ha’ekuéra opumi	TENSE:PRE_SIM	Che acheregueroviáta
-Guarani0614	Nde regueroviáta	PERSON:1_SI	Ha’ekuéra oeeuuerovivaáiáta
-Guarani0615	Nde regueroviáta	PERSON:3_PL	Nde regueroviáta
+Guarani0425	Ha’ekuéra opumi	PERSON:3_SI	Ha’ekuéra opumi
+Guarani0426	Ha’ekuéra opumi	TYPE:NEG	Ha’ekuéra ndopumi
+Guarani0427	Ha’ekuéra opumi	ASPECT:INM	Ha’ekuéra opumi ikóni
+Guarani0428	Ha’ekuéra opumi	PERSON:2_PL	Peë ppppmi
+Guarani0429	Ha’ekuéra opumi	PERSON:1_PL_EXC	Ore opumi
+Guarani0430	Ha’ekuéra opumi	TENSE:PAS_PLU	Ha’ekuéra opumi va’ekue
+Guarani0431	Ha’ekuéra opumi	TENSE:FUT_SIM	Ha’ekuéra opumita
+Guarani0432	Ha’ekuéra opumi	TENSE:PRE_SIM	Ha’ekuéra opumi
+Guarani0614	Nde regueroviáta	PERSON:1_SI	Che acheregueroviáta
+Guarani0615	Nde regueroviáta	PERSON:3_PL	Ha’ekuéra oeeuuerovivaáiáta
 Guarani0616	Nde regueroviáta	PERSON:2_PL	Nde regueroviáta
-Guarani0617	Nde regueroviáta	TENSE:PAS_IMP	Nde reguerovi tevueroviáta kuri
-Guarani0618	Nde regueroviáta	TENSE:PAS_REC	Ore reguerovivta
-Guarani0619	Nde regueroviáta	PERSON:1_PL_EXC	Nde reguerovivta
-Guarani0620	Nde regueroviáta	TENSE:PRE_SIM	Ndnde reguerovivtá
-Guarani0621	Nde regueroviáta	TYPE:NEG	Ha’ekuéra omano
-Guarani0402	Ha’ekuéra omano	TENSE:FUT_SIM	Ha’ekuéra ndomano
-Guarani0403	Ha’ekuéra omano	TYPE:NEG	Ha’ekuéra omano
+Guarani0617	Nde regueroviáta	TENSE:PAS_IMP	Nde regueroviáta
+Guarani0618	Nde regueroviáta	TENSE:PAS_REC	Nde reguerovi tevueroviáta kuri
+Guarani0619	Nde regueroviáta	PERSON:1_PL_EXC	Ore reguerovivta
+Guarani0620	Nde regueroviáta	TENSE:PRE_SIM	Nde reguerovivta
+Guarani0621	Nde regueroviáta	TYPE:NEG	Ndnde reguerovivtá
+Guarani0402	Ha’ekuéra omano	TENSE:FUT_SIM	Ha’ekuéra omano
+Guarani0403	Ha’ekuéra omano	TYPE:NEG	Ha’ekuéra ndomano
 Guarani0404	Ha’ekuéra omano	ASPECT:IPFV	Ha’ekuéra omano
-Guarani0405	Ha’ekuéra omano	TENSE:PAS_REC	Peë pemano
-Guarani0406	Ha’ekuéra omano	PERSON:2_PL	Che amano
-Guarani0407	Ha’ekuéra omano	PERSON:1_SI	Ore romano
-Guarani0408	Ha’ekuéra omano	PERSON:1_PL_EXC	Ha’ekuéra ndoguahẽii
-Guarani0310	Ha’ekuéra oguahẽmi	TYPE:NEG	Ha’ekuéra oguahẽmi
-Guarani0311	Ha’ekuéra oguahẽmi	PERSON:3_SI	Ñande jaguahẽmi
-Guarani0312	Ha’ekuéra oguahẽmi	PERSON:1_PL_INC	Nde reguahẽmi
-Guarani0313	Ha’ekuéra oguahẽmi	PERSON:2_SI	Ha’ekuéra oguahẽi
-Guarani0314	Ha’ekuéra oguahẽmi	TENSE:PRE_SIM	Ha’ekuéra oguahẽta
-Guarani0315	Ha’ekuéra oguahẽmi	TENSE:FUT_SIM	Ha’ekuéra oguahẽkuri
-Guarani0316	Ha’ekuéra oguahẽmi	TENSE:PAS_REC	Ñande rombopohéita ñande rokuere
-Guarani0270	Ñande ñambopohéita ñande tykuekuéra	PERSON:1_PL_EXC	Ñande ñambopohéi aade tykuekuéra
-Guarani0271	Ñande ñambopohéita ñande tykuekuéra	TENSE:PRE_SIM	Ñande ñambopohéita ñande tykuekuéra
+Guarani0405	Ha’ekuéra omano	TENSE:PAS_REC	Ha’ekuéra omano
+Guarani0406	Ha’ekuéra omano	PERSON:2_PL	Peë pemano
+Guarani0407	Ha’ekuéra omano	PERSON:1_SI	Che amano
+Guarani0408	Ha’ekuéra omano	PERSON:1_PL_EXC	Ore romano
+Guarani0310	Ha’ekuéra oguahẽmi	TYPE:NEG	Ha’ekuéra ndoguahẽii
+Guarani0311	Ha’ekuéra oguahẽmi	PERSON:3_SI	Ha’ekuéra oguahẽmi
+Guarani0312	Ha’ekuéra oguahẽmi	PERSON:1_PL_INC	Ñande jaguahẽmi
+Guarani0313	Ha’ekuéra oguahẽmi	PERSON:2_SI	Nde reguahẽmi
+Guarani0314	Ha’ekuéra oguahẽmi	TENSE:PRE_SIM	Ha’ekuéra oguahẽi
+Guarani0315	Ha’ekuéra oguahẽmi	TENSE:FUT_SIM	Ha’ekuéra oguahẽta
+Guarani0316	Ha’ekuéra oguahẽmi	TENSE:PAS_REC	Ha’ekuéra oguahẽkuri
+Guarani0270	Ñande ñambopohéita ñande tykuekuéra	PERSON:1_PL_EXC	Ñande rombopohéita ñande rokuere
+Guarani0271	Ñande ñambopohéita ñande tykuekuéra	TENSE:PRE_SIM	Ñande ñambopohéi aade tykuekuéra
 Guarani0272	Ñande ñambopohéita ñande tykuekuéra	TYPE:NEG	Ñande ñambopohéita ñande tykuekuéra
 Guarani0273	Ñande ñambopohéita ñande tykuekuéra	TENSE:PAS_IMP	Ñande ñambopohéita ñande tykuekuéra
 Guarani0274	Ñande ñambopohéita ñande tykuekuéra	ASPECT:IPFV	Ñande ñambopohéita ñande tykuekuéra
-Guarani0275	Ñande ñambopohéita ñande tykuekuéra	PERSON:3_SI	Nde nderemyende nderemyenyhẽi
-Guarani0287	Ha’ekuéra ndomyenyhẽita	PERSON:2_SI	Ore ndoromyenohei
-Guarani0288	Ha’ekuéra ndomyenyhẽita	PERSON:1_PL_EXC	Ha’ekuéra ndomyenyhẽiva’ekue
-Guarani0289	Ha’ekuéra ndomyenyhẽita	TENSE:PAS_PLU	Ha’ekuéra omyenyhẽita
-Guarani0290	Ha’ekuéra ndomyenyhẽita	TYPE:AFF	Ha’ekuéra ndomyenyhẽita hina
-Guarani0291	Ha’ekuéra ndomyenyhẽita	ASPECT:IPFV	Ha’ekuéra ndomyenyhẽita
-Guarani0292	Ha’ekuéra ndomyenyhẽita	TENSE:PRE_SIM	Chéguintema ojeraha chepe tasyópe
-Guarani0505	Upéguintema ojeraha chupe tasyópe	PERSON:1_SI	Upéguintema ojeraha chupe tasyópe
+Guarani0275	Ñande ñambopohéita ñande tykuekuéra	PERSON:3_SI	Ñande ñambopohéita ñande tykuekuéra
+Guarani0287	Ha’ekuéra ndomyenyhẽita	PERSON:2_SI	Nde nderemyende nderemyenyhẽi
+Guarani0288	Ha’ekuéra ndomyenyhẽita	PERSON:1_PL_EXC	Ore ndoromyenohei
+Guarani0289	Ha’ekuéra ndomyenyhẽita	TENSE:PAS_PLU	Ha’ekuéra ndomyenyhẽiva’ekue
+Guarani0290	Ha’ekuéra ndomyenyhẽita	TYPE:AFF	Ha’ekuéra omyenyhẽita
+Guarani0291	Ha’ekuéra ndomyenyhẽita	ASPECT:IPFV	Ha’ekuéra ndomyenyhẽita hina
+Guarani0292	Ha’ekuéra ndomyenyhẽita	TENSE:PRE_SIM	Ha’ekuéra ndomyenyhẽita
+Guarani0505	Upéguintema ojeraha chupe tasyópe	PERSON:1_SI	Chéguintema ojeraha chepe tasyópe
 Guarani0506	Upéguintema ojeraha chupe tasyópe	TENSE:FUT_SIM	Upéguintema ojeraha chupe tasyópe
 Guarani0507	Upéguintema ojeraha chupe tasyópe	TENSE:PAS_PLU	Upéguintema ojeraha chupe tasyópe
-Guarani0508	Upéguintema ojeraha chupe tasyópe	ASPECT:IPFV	Upéguindema ojeraha chupe penderesyópe
-Guarani0509	Upéguintema ojeraha chupe tasyópe	PERSON:2_PL	Upéguindema ndojeraha chupe tasyópe
-Guarani0510	Upéguintema ojeraha chupe tasyópe	TYPE:NEG	Upe pyhare mbohapyhápe oñembo’e hikuái
-Guarani0544	Upe pyhare mbohapyhápe oñembo’e hikuái	PERSON:3_SI	Upe pyhare mbohapyhápe peñembo’e pekuái
-Guarani0545	Upe pyhare mbohapyhápe oñembo’e hikuái	PERSON:2_PL	Nde pyhare mbohapyhápe reñembo’e nde reñembo’e nde reñembo’e nde reñembo’e nde reñembo’e nde reñembo’e nde reñembo’e nde reñembo’e nde reñembo’e nde reñembo’e nde reñembo’e nde reñembo’e nde reñembo’e
-Guarani0546	Upe pyhare mbohapyhápe oñembo’e hikuái	PERSON:2_SI	Upe pyhare mbohapyhápe oñembo’e hikuái.
-Guarani0547	Upe pyhare mbohapyhápe oñembo’e hikuái	TENSE:FUT_SIM	Upe pyhare mbohapyhápe oñembo’e hikuái
-Guarani0548	Upe pyhare mbohapyhápe oñembo’e hikuái	ASPECT:IPFV	Che pyhare mbohapyhápe añembo’e che añembo’e che añembo’e che añembo’e che añembo’e che añembo’e che añembo’e che añembo’e che añembo’e che añembo’e che añembo’e che añembo’e che añembo’e che añembo’e
-Guarani0549	Upe pyhare mbohapyhápe oñembo’e hikuái	PERSON:1_SI	Upe pyhare mbohapyhápe oñembo’e hikuái
-Guarani0550	Upe pyhare mbohapyhápe oñembo’e hikuái	TYPE:NEG	Peẽ pekakuaakuri
-Guarani0409	Peẽ pekakuaakuri	TYPE:NEG	Nde repakuaakuri
-Guarani0410	Peẽ pekakuaakuri	PERSON:2_SI	Peẽ pekakuaa hina
-Guarani0411	Peẽ pekakuaakuri	PERSON:3_SI	Ore rokakuaakuri
-Guarani0412	Peẽ pekakuaakuri	PERSON:1_PL_EXC	Che apekakuaakuri
-Guarani0413	Peẽ pekakuaakuri	PERSON:1_SI	Peẽ pekakuaata
-Guarani0414	Peẽ pekakuaakuri	TENSE:FUT_SIM	Peẽ pekakuaa hina
-Guarani0415	Peẽ pekakuaakuri	TENSE:PRE_SIM	Peẽ pekakuaakuri hína
-Guarani0416	Peẽ pekakuaakuri	ASPECT:IPFV	Ko’agaite odkatúi ahecha re
-Guarani0511	Ko’ag̃aite ndaikatúi ahecha ndéve	TYPE:AFF	Ko’aguaite ndañaikatúi ñande jave
-Guarani0512	Ko’ag̃aite ndaikatúi ahecha ndéve	PERSON:1_PL_INC	Ko’aguaite ndaikatai ha’ekuéra ndo
-Guarani0513	Ko’ag̃aite ndaikatúi ahecha ndéve	PERSON:3_PL	Ko’aguaite ndoroikatúi orecha reére
-Guarani0514	Ko’ag̃aite ndaikatúi ahecha ndéve	PERSON:1_PL_EXC	Ko’agaita ndaikatúi ahecha ndéve
-Guarani0515	Ko’ag̃aite ndaikatúi ahecha ndéve	TENSE:FUT_SIM	Ko’agaite ndaikatúi ache re
-Guarani0516	Ko’ag̃aite ndaikatúi ahecha ndéve	TENSE:PAS_REC	Che aimo’ãta
-Guarani0598	Nde reimo’ãta	PERSON:1_SI	Ha’ekuéra oimo’ãta
-Guarani0599	Nde reimo’ãta	PERSON:3_PL	Nde reimo’ãta
+Guarani0508	Upéguintema ojeraha chupe tasyópe	ASPECT:IPFV	Upéguintema ojeraha chupe tasyópe
+Guarani0509	Upéguintema ojeraha chupe tasyópe	PERSON:2_PL	Upéguindema ojeraha chupe penderesyópe
+Guarani0510	Upéguintema ojeraha chupe tasyópe	TYPE:NEG	Upéguindema ndojeraha chupe tasyópe
+Guarani0544	Upe pyhare mbohapyhápe oñembo’e hikuái	PERSON:3_SI	Upe pyhare mbohapyhápe oñembo’e hikuái
+Guarani0545	Upe pyhare mbohapyhápe oñembo’e hikuái	PERSON:2_PL	Upe pyhare mbohapyhápe peñembo’e pekuái
+Guarani0546	Upe pyhare mbohapyhápe oñembo’e hikuái	PERSON:2_SI	Nde pyhare mbohapyhápe reñembo’e nde reñembo’e nde reñembo’e nde reñembo’e nde reñembo’e nde reñembo’e nde reñembo’e nde reñembo’e nde reñembo’e nde reñembo’e nde reñembo’e nde reñembo’e nde reñembo’e
+Guarani0547	Upe pyhare mbohapyhápe oñembo’e hikuái	TENSE:FUT_SIM	Upe pyhare mbohapyhápe oñembo’e hikuái.
+Guarani0548	Upe pyhare mbohapyhápe oñembo’e hikuái	ASPECT:IPFV	Upe pyhare mbohapyhápe oñembo’e hikuái
+Guarani0549	Upe pyhare mbohapyhápe oñembo’e hikuái	PERSON:1_SI	Che pyhare mbohapyhápe añembo’e che añembo’e che añembo’e che añembo’e che añembo’e che añembo’e che añembo’e che añembo’e che añembo’e che añembo’e che añembo’e che añembo’e che añembo’e che añembo’e
+Guarani0550	Upe pyhare mbohapyhápe oñembo’e hikuái	TYPE:NEG	Upe pyhare mbohapyhápe oñembo’e hikuái
+Guarani0409	Peẽ pekakuaakuri	TYPE:NEG	Peẽ pekakuaakuri
+Guarani0410	Peẽ pekakuaakuri	PERSON:2_SI	Nde repakuaakuri
+Guarani0411	Peẽ pekakuaakuri	PERSON:3_SI	Peẽ pekakuaa hina
+Guarani0412	Peẽ pekakuaakuri	PERSON:1_PL_EXC	Ore rokakuaakuri
+Guarani0413	Peẽ pekakuaakuri	PERSON:1_SI	Che apekakuaakuri
+Guarani0414	Peẽ pekakuaakuri	TENSE:FUT_SIM	Peẽ pekakuaata
+Guarani0415	Peẽ pekakuaakuri	TENSE:PRE_SIM	Peẽ pekakuaa hina
+Guarani0416	Peẽ pekakuaakuri	ASPECT:IPFV	Peẽ pekakuaakuri hína
+Guarani0511	Ko’ag̃aite ndaikatúi ahecha ndéve	TYPE:AFF	Ko’agaite odkatúi ahecha re
+Guarani0512	Ko’ag̃aite ndaikatúi ahecha ndéve	PERSON:1_PL_INC	Ko’aguaite ndañaikatúi ñande jave
+Guarani0513	Ko’ag̃aite ndaikatúi ahecha ndéve	PERSON:3_PL	Ko’aguaite ndaikatai ha’ekuéra ndo
+Guarani0514	Ko’ag̃aite ndaikatúi ahecha ndéve	PERSON:1_PL_EXC	Ko’aguaite ndoroikatúi orecha reére
+Guarani0515	Ko’ag̃aite ndaikatúi ahecha ndéve	TENSE:FUT_SIM	Ko’agaita ndaikatúi ahecha ndéve
+Guarani0516	Ko’ag̃aite ndaikatúi ahecha ndéve	TENSE:PAS_REC	Ko’agaite ndaikatúi ache re
+Guarani0598	Nde reimo’ãta	PERSON:1_SI	Che aimo’ãta
+Guarani0599	Nde reimo’ãta	PERSON:3_PL	Ha’ekuéra oimo’ãta
 Guarani0600	Nde reimo’ãta	PERSON:2_PL	Nde reimo’ãta
-Guarani0601	Nde reimo’ãta	TENSE:PAS_IMP	Nde reimo’ãta kuri
-Guarani0602	Nde reimo’ãta	TENSE:PAS_REC	Ore reimo’ãta
-Guarani0603	Nde reimo’ãta	PERSON:1_PL_EXC	Nde reimo’ãta
-Guarani0604	Nde reimo’ãta	TENSE:PRE_SIM	Ndnde reimo’ãta
-Guarani0605	Nde reimo’ãta	TYPE:NEG	Che aeoviáta
-Guarani0606	Nde reroviáta	PERSON:1_SI	Nde reroviái
-Guarani0607	Nde reroviáta	PERSON:3_PL	Nde reroviáta
+Guarani0601	Nde reimo’ãta	TENSE:PAS_IMP	Nde reimo’ãta
+Guarani0602	Nde reimo’ãta	TENSE:PAS_REC	Nde reimo’ãta kuri
+Guarani0603	Nde reimo’ãta	PERSON:1_PL_EXC	Ore reimo’ãta
+Guarani0604	Nde reimo’ãta	TENSE:PRE_SIM	Nde reimo’ãta
+Guarani0605	Nde reimo’ãta	TYPE:NEG	Ndnde reimo’ãta
+Guarani0606	Nde reroviáta	PERSON:1_SI	Che aeoviáta
+Guarani0607	Nde reroviáta	PERSON:3_PL	Nde reroviái
 Guarani0608	Nde reroviáta	PERSON:2_PL	Nde reroviáta
-Guarani0609	Nde reroviáta	TENSE:PAS_IMP	Nde reroviáta kuri
-Guarani0610	Nde reroviáta	TENSE:PAS_REC	Ore reroviáta
-Guarani0611	Nde reroviáta	PERSON:1_PL_EXC	Nde rerovi teroviái
-Guarani0612	Nde reroviáta	TENSE:PRE_SIM	Ndnde reroviáta
-Guarani0613	Nde reroviáta	TYPE:NEG	Nde repasáta
-Guarani0373	Peẽ pehasáta	PERSON:2_SI	Peẽ pehasáta
-Guarani0374	Peẽ pehasáta	TYPE:NEG	Che apehasáta
-Guarani0375	Peẽ pehasáta	PERSON:1_SI	Ñande ñahasáta
-Guarani0376	Peẽ pehasáta	PERSON:1_PL_INC	Peẽ pehasáta kuri
-Guarani0377	Peẽ pehasáta	TENSE:PAS_REC	Peẽ pehasái
-Guarani0378	Peẽ pehasáta	TENSE:PRE_SIM	Peẽ pehinasáta hina
-Guarani0379	Peẽ pehasáta	ASPECT:IPFV	Peẽ pehasáta
-Guarani0380	Peẽ pehasáta	PERSON:3_SI	Ha’ekuéra opóta va’ekue
-Guarani0317	Ha’ekuéra opóta	TENSE:PAS_PLU	Ha’ekuéra opóta
+Guarani0609	Nde reroviáta	TENSE:PAS_IMP	Nde reroviáta
+Guarani0610	Nde reroviáta	TENSE:PAS_REC	Nde reroviáta kuri
+Guarani0611	Nde reroviáta	PERSON:1_PL_EXC	Ore reroviáta
+Guarani0612	Nde reroviáta	TENSE:PRE_SIM	Nde rerovi teroviái
+Guarani0613	Nde reroviáta	TYPE:NEG	Ndnde reroviáta
+Guarani0373	Peẽ pehasáta	PERSON:2_SI	Nde repasáta
+Guarani0374	Peẽ pehasáta	TYPE:NEG	Peẽ pehasáta
+Guarani0375	Peẽ pehasáta	PERSON:1_SI	Che apehasáta
+Guarani0376	Peẽ pehasáta	PERSON:1_PL_INC	Ñande ñahasáta
+Guarani0377	Peẽ pehasáta	TENSE:PAS_REC	Peẽ pehasáta kuri
+Guarani0378	Peẽ pehasáta	TENSE:PRE_SIM	Peẽ pehasái
+Guarani0379	Peẽ pehasáta	ASPECT:IPFV	Peẽ pehinasáta hina
+Guarani0380	Peẽ pehasáta	PERSON:3_SI	Peẽ pehasáta
+Guarani0317	Ha’ekuéra opóta	TENSE:PAS_PLU	Ha’ekuéra opóta va’ekue
 Guarani0318	Ha’ekuéra opóta	TENSE:PRE_SIM	Ha’ekuéra opóta
 Guarani0319	Ha’ekuéra opóta	TYPE:NEG	Ha’ekuéra opóta
-Guarani0320	Ha’ekuéra opóta	ASPECT:IPFV	Peë ppppta
-Guarani0321	Ha’ekuéra opóta	PERSON:2_PL	Ñande japóta
-Guarani0322	Ha’ekuéra opóta	PERSON:1_PL_INC	Umi akãnguéra kyre’ỹ odkyramoái
-Guarani0276	Umi akãnguéra kyre’ỹ ndaikyramoái	TYPE:AFF	Umi akãnguéra kure’ỹ ndaikuramoáiva’ekue
-Guarani0277	Umi akãnguéra kyre’ỹ ndaikyramoái	TENSE:PAS_PLU	Umi akãnguéra kuri ndaikuramoái
-Guarani0278	Umi akãnguéra kyre’ỹ ndaikyramoái	TENSE:PAS_REC	Umi akãnguéra kyre’ỹ ndoikyraio
-Guarani0279	Umi akãnguéra kyre’ỹ ndaikyramoái	TENSE:PRE_SIM	Umi akãnguéra kyre’ỹ ndaikyramoái
-Guarani0280	Umi akãnguéra kyre’ỹ ndaikyramoái	PERSON:3_SI	Nde nderembyairi kuri
-Guarani0323	Nde ndarembyairi kuri	PERSON:2_PL	Che ndarembyairi kuri
-Guarani0324	Nde ndarembyairi kuri	PERSON:1_SI	Hde ndarembyai ikuri
-Guarani0325	Nde ndarembyairi kuri	PERSON:3_SI	Nde rembyairi kuri
-Guarani0326	Nde ndarembyairi kuri	TYPE:AFF	Nde ndarembyaita rurita
-Guarani0327	Nde ndarembyairi kuri	TENSE:FUT_SIM	Nde ndarembyai ruri
-Guarani0328	Nde ndarembyairi kuri	TENSE:PRE_SIM	Ñande guyrakuéra py’aguasu noĩrikuri
-Guarani0381	Ñande guyra py’aguasu noĩrikuri	PERSON:3_PL	Ñande guyra py’aguasu oorikuri
-Guarani0382	Ñande guyra py’aguasu noĩrikuri	TYPE:AFF	Ñande guyra py’aguasu noĩrikurta
-Guarani0383	Ñande guyra py’aguasu noĩrikuri	TENSE:FUT_SIM	Ñande guyra py’aguasu noĩrikuri
+Guarani0320	Ha’ekuéra opóta	ASPECT:IPFV	Ha’ekuéra opóta
+Guarani0321	Ha’ekuéra opóta	PERSON:2_PL	Peë ppppta
+Guarani0322	Ha’ekuéra opóta	PERSON:1_PL_INC	Ñande japóta
+Guarani0276	Umi akãnguéra kyre’ỹ ndaikyramoái	TYPE:AFF	Umi akãnguéra kyre’ỹ odkyramoái
+Guarani0277	Umi akãnguéra kyre’ỹ ndaikyramoái	TENSE:PAS_PLU	Umi akãnguéra kure’ỹ ndaikuramoáiva’ekue
+Guarani0278	Umi akãnguéra kyre’ỹ ndaikyramoái	TENSE:PAS_REC	Umi akãnguéra kuri ndaikuramoái
+Guarani0279	Umi akãnguéra kyre’ỹ ndaikyramoái	TENSE:PRE_SIM	Umi akãnguéra kyre’ỹ ndoikyraio
+Guarani0280	Umi akãnguéra kyre’ỹ ndaikyramoái	PERSON:3_SI	Umi akãnguéra kyre’ỹ ndaikyramoái
+Guarani0323	Nde ndarembyairi kuri	PERSON:2_PL	Nde nderembyairi kuri
+Guarani0324	Nde ndarembyairi kuri	PERSON:1_SI	Che ndarembyairi kuri
+Guarani0325	Nde ndarembyairi kuri	PERSON:3_SI	Hde ndarembyai ikuri
+Guarani0326	Nde ndarembyairi kuri	TYPE:AFF	Nde rembyairi kuri
+Guarani0327	Nde ndarembyairi kuri	TENSE:FUT_SIM	Nde ndarembyaita rurita
+Guarani0328	Nde ndarembyairi kuri	TENSE:PRE_SIM	Nde ndarembyai ruri
+Guarani0381	Ñande guyra py’aguasu noĩrikuri	PERSON:3_PL	Ñande guyrakuéra py’aguasu noĩrikuri
+Guarani0382	Ñande guyra py’aguasu noĩrikuri	TYPE:AFF	Ñande guyra py’aguasu oorikuri
+Guarani0383	Ñande guyra py’aguasu noĩrikuri	TENSE:FUT_SIM	Ñande guyra py’aguasu noĩrikurta
 Guarani0384	Ñande guyra py’aguasu noĩrikuri	TENSE:PRE_SIM	Ñande guyra py’aguasu noĩrikuri
-Guarani0385	Ñande guyra py’aguasu noĩrikuri	TENSE:PAS_IMP	Ñande guyra py’aguasu noĩrikuri va’ekue
-Guarani0386	Ñande guyra py’aguasu noĩrikuri	TENSE:PAS_PLU	Ha’ekuéra okytĩmi pende yvyrakuata
-Guarani0351	Ha’ekuéra okytĩmi pende yvyrakuakuéra	TENSE:FUT_SIM	Ha’ekuéra okytĩ ieeyyrakua onye yvyrakuéra
-Guarani0352	Ha’ekuéra okytĩmi pende yvyrakuakuéra	TENSE:PRE_SIM	Ha’ekuéra okytĩmi pende yvyrakuakuéra
-Guarani0353	Ha’ekuéra okytĩmi pende yvyrakuakuéra	PERSON:3_SI	Ñande jakytĩmi pende ñavyrakuakuéra
-Guarani0354	Ha’ekuéra okytĩmi pende yvyrakuakuéra	PERSON:1_PL_INC	Che akytĩmi pende avyrakuakuéra
-Guarani0355	Ha’ekuéra okytĩmi pende yvyrakuakuéra	PERSON:1_SI	Ha’ekuéra ndokytĩmi pende ndovyrakuakuéra
-Guarani0356	Ha’ekuéra okytĩmi pende yvyrakuakuéra	TYPE:NEG	Ha’ekuéra okytĩmi pende yvyrakuakuéra
+Guarani0385	Ñande guyra py’aguasu noĩrikuri	TENSE:PAS_IMP	Ñande guyra py’aguasu noĩrikuri
+Guarani0386	Ñande guyra py’aguasu noĩrikuri	TENSE:PAS_PLU	Ñande guyra py’aguasu noĩrikuri va’ekue
+Guarani0351	Ha’ekuéra okytĩmi pende yvyrakuakuéra	TENSE:FUT_SIM	Ha’ekuéra okytĩmi pende yvyrakuata
+Guarani0352	Ha’ekuéra okytĩmi pende yvyrakuakuéra	TENSE:PRE_SIM	Ha’ekuéra okytĩ ieeyyrakua onye yvyrakuéra
+Guarani0353	Ha’ekuéra okytĩmi pende yvyrakuakuéra	PERSON:3_SI	Ha’ekuéra okytĩmi pende yvyrakuakuéra
+Guarani0354	Ha’ekuéra okytĩmi pende yvyrakuakuéra	PERSON:1_PL_INC	Ñande jakytĩmi pende ñavyrakuakuéra
+Guarani0355	Ha’ekuéra okytĩmi pende yvyrakuakuéra	PERSON:1_SI	Che akytĩmi pende avyrakuakuéra
+Guarani0356	Ha’ekuéra okytĩmi pende yvyrakuakuéra	TYPE:NEG	Ha’ekuéra ndokytĩmi pende ndovyrakuakuéra
 Guarani0357	Ha’ekuéra okytĩmi pende yvyrakuakuéra	TENSE:PAS_REC	Ha’ekuéra okytĩmi pende yvyrakuakuéra
-Guarani0358	Ha’ekuéra okytĩmi pende yvyrakuakuéra	ASPECT:INM	Che akaha tatakua kótare
-Guarani0479	Oñapytĩ ikyha tatakua kótare	PERSON:1_SI	Ñande jayatĩ ikyha jatakua kóiare
-Guarani0480	Oñapytĩ ikyha tatakua kótare	PERSON:1_PL_INC	Oñapytĩ ikyha tatakua kótare
-Guarani0481	Oñapytĩ ikyha tatakua kótare	TENSE:FUT_SIM	Oñepytĩ ikyha tatakua kotare
-Guarani0482	Oñapytĩ ikyha tatakua kótare	PERSON:1_PL_EXC	Oñapytĩ ikyha tatakua kóiaaare
-Guarani0483	Oñapytĩ ikyha tatakua kótare	TYPE:NEG	Oñapytĩ ikyha tatakua kóini ikóni
-Guarani0484	Oñapytĩ ikyha tatakua kótare	ASPECT:INM	Oñapytĩ ikyha tatakua kótare
-Guarani0485	Oñapytĩ ikyha tatakua kótare	ASPECT:IPFV	Oñapytĩ ikyha tatakua kóimira
-Guarani0486	Oñapytĩ ikyha tatakua kótare	TENSE:PAS_IMP	Ha’e omuasãikuri hend namichãi ñemonambikuri
-Guarani0571	Ha’e omuasãimi ne namichãi ñemonambi	TENSE:PAS_REC	Ha’e ndomuasãimi nde namichãi ñemonambi
-Guarani0572	Ha’e omuasãimi ne namichãi ñemonambi	TYPE:NEG	Ha’e omuasãimi ikóni namichãi ñemonambi
-Guarani0573	Ha’e omuasãimi ne namichãi ñemonambi	ASPECT:INM	Ha’e omuasãta ne namichãi ñemonambta
-Guarani0574	Ha’e omuasãimi ne namichãi ñemonambi	TENSE:FUT_SIM	Ha’e omuasãi hendonichãi ñemonambi
-Guarani0575	Ha’e omuasãimi ne namichãi ñemonambi	TENSE:PRE_SIM	Peẽ pemuasãimi pe nderemonambi
-Guarani0576	Ha’e omuasãimi ne namichãi ñemonambi	PERSON:2_PL	Ñande jamuasãimi ñande nañamonambi
-Guarani0577	Ha’e omuasãimi ne namichãi ñemonambi	PERSON:1_PL_INC	Che amuasãimi che ndamichãi ñemonambi
-Guarani0578	Ha’e omuasãimi ne namichãi ñemonambi	PERSON:1_SI	Ko tupyta opu’akuérata
-Guarani0579	Ko tupyty opu’akaveta	PERSON:3_PL	Ko tupyty opu’akaketa
-Guarani0580	Ko tupyty opu’akaveta	TENSE:PAS_REC	Ko tupyty opu’akaveta
+Guarani0358	Ha’ekuéra okytĩmi pende yvyrakuakuéra	ASPECT:INM	Ha’ekuéra okytĩmi pende yvyrakuakuéra
+Guarani0479	Oñapytĩ ikyha tatakua kótare	PERSON:1_SI	Che akaha tatakua kótare
+Guarani0480	Oñapytĩ ikyha tatakua kótare	PERSON:1_PL_INC	Ñande jayatĩ ikyha jatakua kóiare
+Guarani0481	Oñapytĩ ikyha tatakua kótare	TENSE:FUT_SIM	Oñapytĩ ikyha tatakua kótare
+Guarani0482	Oñapytĩ ikyha tatakua kótare	PERSON:1_PL_EXC	Oñepytĩ ikyha tatakua kotare
+Guarani0483	Oñapytĩ ikyha tatakua kótare	TYPE:NEG	Oñapytĩ ikyha tatakua kóiaaare
+Guarani0484	Oñapytĩ ikyha tatakua kótare	ASPECT:INM	Oñapytĩ ikyha tatakua kóini ikóni
+Guarani0485	Oñapytĩ ikyha tatakua kótare	ASPECT:IPFV	Oñapytĩ ikyha tatakua kótare
+Guarani0486	Oñapytĩ ikyha tatakua kótare	TENSE:PAS_IMP	Oñapytĩ ikyha tatakua kóimira
+Guarani0571	Ha’e omuasãimi ne namichãi ñemonambi	TENSE:PAS_REC	Ha’e omuasãikuri hend namichãi ñemonambikuri
+Guarani0572	Ha’e omuasãimi ne namichãi ñemonambi	TYPE:NEG	Ha’e ndomuasãimi nde namichãi ñemonambi
+Guarani0573	Ha’e omuasãimi ne namichãi ñemonambi	ASPECT:INM	Ha’e omuasãimi ikóni namichãi ñemonambi
+Guarani0574	Ha’e omuasãimi ne namichãi ñemonambi	TENSE:FUT_SIM	Ha’e omuasãta ne namichãi ñemonambta
+Guarani0575	Ha’e omuasãimi ne namichãi ñemonambi	TENSE:PRE_SIM	Ha’e omuasãi hendonichãi ñemonambi
+Guarani0576	Ha’e omuasãimi ne namichãi ñemonambi	PERSON:2_PL	Peẽ pemuasãimi pe nderemonambi
+Guarani0577	Ha’e omuasãimi ne namichãi ñemonambi	PERSON:1_PL_INC	Ñande jamuasãimi ñande nañamonambi
+Guarani0578	Ha’e omuasãimi ne namichãi ñemonambi	PERSON:1_SI	Che amuasãimi che ndamichãi ñemonambi
+Guarani0579	Ko tupyty opu’akaveta	PERSON:3_PL	Ko tupyta opu’akuérata
+Guarani0580	Ko tupyty opu’akaveta	TENSE:PAS_REC	Ko tupyty opu’akaketa
 Guarani0581	Ko tupyty opu’akaveta	ASPECT:IPFV	Ko tupyty opu’akaveta
 Guarani0582	Ko tupyty opu’akaveta	TENSE:PRE_SIM	Ko tupyty opu’akaveta
-Guarani0583	Ko tupyty opu’akaveta	TENSE:PAS_PLU	Ko tupyty opu’aknde
-Guarani0584	Ko tupyty opu’akaveta	TYPE:NEG	Ha’e ndorombýairi hína
-Guarani0433	Ha’e orombyasyta	TYPE:NEG	Ha’e orombya hínasasyta
-Guarani0434	Ha’e orombyasyta	ASPECT:IPFV	Che arombyasyta
-Guarani0435	Ha’e orombyasyta	PERSON:1_SI	Nde rerombyasyta
-Guarani0436	Ha’e orombyasyta	PERSON:2_SI	Ha’e orombyakuri hina ura
-Guarani0437	Ha’e orombyasyta	TENSE:PAS_REC	Ha’e orombya oyombyai
-Guarani0438	Ha’e orombyasyta	TENSE:PRE_SIM	Peẽ perombyasyta
-Guarani0439	Ha’e orombyasyta	PERSON:2_PL	Ipahaitépe Peru’i ndosẽ he’i
-Guarani0534	Ipahaitépe Peru’i osẽ he’i	TYPE:NEG	Ipahaitépe Peru’i osẽ he’i
-Guarani0535	Ipahaitépe Peru’i osẽ he’i	ASPECT:IPFV	Ipahaitépe Peru’i osẽ he’ita
-Guarani0536	Ipahaitépe Peru’i osẽ he’i	TENSE:FUT_SIM	Ipahaitépe Peru’i osẽ he’ekue
-Guarani0537	Ipahaitépe Peru’i osẽ he’i	TENSE:PAS_PLU	Ipahaitépe Peru’i osẽ he’i
-Guarani0538	Ipahaitépe Peru’i osẽ he’i	TENSE:PAS_IMP	Che aea’eve che adehúi chepe che abajyramomi che abaíva.
-Guarani0474	Araka’eve jeko ndojehúi chupe ha itajyramíme mba’eve ivaíva.	PERSON:1_SI	Araka’eve jeko ndojehúi chupe ha itajyramomi mvaíva.
-Guarani0475	Araka’eve jeko ndojehúi chupe ha itajyramíme mba’eve ivaíva.	PERSON:3_PL, TYPE:AFF	Nde peko nderejehúi peupe pe retijyramimi peê’eve ivaíeai
-Guarani0476	Araka’eve jeko ndojehúi chupe ha itajyramíme mba’eve ivaíva.	PERSON:2_PL	Araka’eve jeko ndojehúi chupe ha itajyramomi mvaíva.
+Guarani0583	Ko tupyty opu’akaveta	TENSE:PAS_PLU	Ko tupyty opu’akaveta
+Guarani0584	Ko tupyty opu’akaveta	TYPE:NEG	Ko tupyty opu’aknde
+Guarani0433	Ha’e orombyasyta	TYPE:NEG	Ha’e ndorombýairi hína
+Guarani0434	Ha’e orombyasyta	ASPECT:IPFV	Ha’e orombya hínasasyta
+Guarani0435	Ha’e orombyasyta	PERSON:1_SI	Che arombyasyta
+Guarani0436	Ha’e orombyasyta	PERSON:2_SI	Nde rerombyasyta
+Guarani0437	Ha’e orombyasyta	TENSE:PAS_REC	Ha’e orombyakuri hina ura
+Guarani0438	Ha’e orombyasyta	TENSE:PRE_SIM	Ha’e orombya oyombyai
+Guarani0439	Ha’e orombyasyta	PERSON:2_PL	Peẽ perombyasyta
+Guarani0534	Ipahaitépe Peru’i osẽ he’i	TYPE:NEG	Ipahaitépe Peru’i ndosẽ he’i
+Guarani0535	Ipahaitépe Peru’i osẽ he’i	ASPECT:IPFV	Ipahaitépe Peru’i osẽ he’i
+Guarani0536	Ipahaitépe Peru’i osẽ he’i	TENSE:FUT_SIM	Ipahaitépe Peru’i osẽ he’ita
+Guarani0537	Ipahaitépe Peru’i osẽ he’i	TENSE:PAS_PLU	Ipahaitépe Peru’i osẽ he’ekue
+Guarani0538	Ipahaitépe Peru’i osẽ he’i	TENSE:PAS_IMP	Ipahaitépe Peru’i osẽ he’i
+Guarani0474	Araka’eve jeko ndojehúi chupe ha itajyramíme mba’eve ivaíva.	PERSON:1_SI	Che aea’eve che adehúi chepe che abajyramomi che abaíva.
+Guarani0475	Araka’eve jeko ndojehúi chupe ha itajyramíme mba’eve ivaíva.	PERSON:3_PL, TYPE:AFF	Araka’eve jeko ndojehúi chupe ha itajyramomi mvaíva.
+Guarani0476	Araka’eve jeko ndojehúi chupe ha itajyramíme mba’eve ivaíva.	PERSON:2_PL	Nde peko nderejehúi peupe pe retijyramimi peê’eve ivaíeai
 Guarani0477	Araka’eve jeko ndojehúi chupe ha itajyramíme mba’eve ivaíva.	PERSON:3_PL, TENSE:FUT_SIM	Araka’eve jeko ndojehúi chupe ha itajyramomi mvaíva.
-Guarani0478	Araka’eve jeko ndojehúi chupe ha itajyramíme mba’eve ivaíva.	PERSON:3_PL, TENSE:PAS_PLU	Ñande apekuekuéra ndoñemikuri
-Guarani0395	Ñande apekuekuéra oñemikuri	TYPE:NEG	Ñande apekuekuéra oñemikurta
-Guarani0396	Ñande apekuekuéra oñemikuri	TENSE:FUT_SIM	Ñande apekuekuéra oñemikuri
-Guarani0397	Ñande apekuekuéra oñemikuri	PERSON:3_SI	Ñande apekuekuéra oñemikurimi
-Guarani0398	Ñande apekuekuéra oñemikuri	TENSE:PAS_IMP	Ñande apekuekuéra oñemikuri
-Guarani0399	Ñande apekuekuéra oñemikuri	TENSE:PRE_SIM	Ñande apekuekuéra oñemikuri hína
-Guarani0400	Ñande apekuekuéra oñemikuri	ASPECT:IPFV	Ñande apekuekuéra oñemikuri va’ekue
-Guarani0401	Ñande apekuekuéra oñemikuri	TENSE:PAS_PLU	Ako pirapire opa’ỹvakuri hina umi susu’akuéra potĩ
-Guarani0329	Ako pirapire opa’ỹva ndópe’áikuri umi susu’akuéra potĩ	PERSON:3_PL	Ako pirapire opa’ỹva ndópe’ái kusu’akuéra potĩ
-Guarani0330	Ako pirapire opa’ỹva ndópe’áikuri umi susu’akuéra potĩ	TYPE:AFF	Ako pirapire opa’ỹva ndópe’áikuri umi susu’akuéra potĩ
+Guarani0478	Araka’eve jeko ndojehúi chupe ha itajyramíme mba’eve ivaíva.	PERSON:3_PL, TENSE:PAS_PLU	Araka’eve jeko ndojehúi chupe ha itajyramomi mvaíva.
+Guarani0395	Ñande apekuekuéra oñemikuri	TYPE:NEG	Ñande apekuekuéra ndoñemikuri
+Guarani0396	Ñande apekuekuéra oñemikuri	TENSE:FUT_SIM	Ñande apekuekuéra oñemikurta
+Guarani0397	Ñande apekuekuéra oñemikuri	PERSON:3_SI	Ñande apekuekuéra oñemikuri
+Guarani0398	Ñande apekuekuéra oñemikuri	TENSE:PAS_IMP	Ñande apekuekuéra oñemikurimi
+Guarani0399	Ñande apekuekuéra oñemikuri	TENSE:PRE_SIM	Ñande apekuekuéra oñemikuri
+Guarani0400	Ñande apekuekuéra oñemikuri	ASPECT:IPFV	Ñande apekuekuéra oñemikuri hína
+Guarani0401	Ñande apekuekuéra oñemikuri	TENSE:PAS_PLU	Ñande apekuekuéra oñemikuri va’ekue
+Guarani0329	Ako pirapire opa’ỹva ndópe’áikuri umi susu’akuéra potĩ	PERSON:3_PL	Ako pirapire opa’ỹvakuri hina umi susu’akuéra potĩ
+Guarani0330	Ako pirapire opa’ỹva ndópe’áikuri umi susu’akuéra potĩ	TYPE:AFF	Ako pirapire opa’ỹva ndópe’ái kusu’akuéra potĩ
 Guarani0331	Ako pirapire opa’ỹva ndópe’áikuri umi susu’akuéra potĩ	TENSE:PRE_SIM	Ako pirapire opa’ỹva ndópe’áikuri umi susu’akuéra potĩ
 Guarani0332	Ako pirapire opa’ỹva ndópe’áikuri umi susu’akuéra potĩ	TENSE:FUT_SIM	Ako pirapire opa’ỹva ndópe’áikuri umi susu’akuéra potĩ
-Guarani0333	Ako pirapire opa’ỹva ndópe’áikuri umi susu’akuéra potĩ	TENSE:PAS_PLU	Ako pirapire opa’ỹva ndóoeáikuri umi susu’akuéra potĩ
-Guarani0334	Ako pirapire opa’ỹva ndópe’áikuri umi susu’akuéra potĩ	ASPECT:INM	Ako pirapire opa’ỹva ndópe’áikuri hina umi susu’akuéra potĩ
-Guarani0335	Ako pirapire opa’ỹva ndópe’áikuri umi susu’akuéra potĩ	ASPECT:IPFV	Péichantema opyta hikuái
-Guarani0453	Péichantema opyta hikuái	PERSON:2_PL	Péichandema opyta chekuái
-Guarani0454	Péichantema opyta hikuái	PERSON:1_SI	Péichantema opyta hikuái.
-Guarani0455	Péichantema opyta hikuái	TENSE:FUT_SIM	Péichandema opyta hikuái
-Guarani0456	Péichantema opyta hikuái	TYPE:NEG	Péichantema opyta hikuái.
-Guarani0457	Péichantema opyta hikuái	TENSE:PAS_REC	Kuña ikyre’ỹetéva voi opu’ã
-Guarani0487	Kuña ikyre’ỹetéva voi opu’ã	PERSON:3_PL	Kuña ikyre’ỹetéva voi opu’ãta
-Guarani0488	Kuña ikyre’ỹetéva voi opu’ã	TENSE:FUT_SIM	Kuña ikyre’ỹetéva voi opu’ã kuri
-Guarani0489	Kuña ikyre’ỹetéva voi opu’ã	TENSE:PAS_REC	Kuña ikyre’ỹetéva voi opu’ã ikóni
-Guarani0490	Kuña ikyre’ỹetéva voi opu’ã	ASPECT:INM	Kuña ikyre’ỹetéva voi opu’ãi
-Guarani0491	Kuña ikyre’ỹetéva voi opu’ã	TYPE:NEG	Okyvérõnteke okyvehína
+Guarani0333	Ako pirapire opa’ỹva ndópe’áikuri umi susu’akuéra potĩ	TENSE:PAS_PLU	Ako pirapire opa’ỹva ndópe’áikuri umi susu’akuéra potĩ
+Guarani0334	Ako pirapire opa’ỹva ndópe’áikuri umi susu’akuéra potĩ	ASPECT:INM	Ako pirapire opa’ỹva ndóoeáikuri umi susu’akuéra potĩ
+Guarani0335	Ako pirapire opa’ỹva ndópe’áikuri umi susu’akuéra potĩ	ASPECT:IPFV	Ako pirapire opa’ỹva ndópe’áikuri hina umi susu’akuéra potĩ
+Guarani0453	Péichantema opyta hikuái	PERSON:2_PL	Péichantema opyta hikuái
+Guarani0454	Péichantema opyta hikuái	PERSON:1_SI	Péichandema opyta chekuái
+Guarani0455	Péichantema opyta hikuái	TENSE:FUT_SIM	Péichantema opyta hikuái.
+Guarani0456	Péichantema opyta hikuái	TYPE:NEG	Péichandema opyta hikuái
+Guarani0457	Péichantema opyta hikuái	TENSE:PAS_REC	Péichantema opyta hikuái.
+Guarani0487	Kuña ikyre’ỹetéva voi opu’ã	PERSON:3_PL	Kuña ikyre’ỹetéva voi opu’ã
+Guarani0488	Kuña ikyre’ỹetéva voi opu’ã	TENSE:FUT_SIM	Kuña ikyre’ỹetéva voi opu’ãta
+Guarani0489	Kuña ikyre’ỹetéva voi opu’ã	TENSE:PAS_REC	Kuña ikyre’ỹetéva voi opu’ã kuri
+Guarani0490	Kuña ikyre’ỹetéva voi opu’ã	ASPECT:INM	Kuña ikyre’ỹetéva voi opu’ã ikóni
+Guarani0491	Kuña ikyre’ỹetéva voi opu’ã	TYPE:NEG	Kuña ikyre’ỹetéva voi opu’ãi
 Guarani0468	Okyvérõnteke okyvehína	TYPE:NEG	Okyvérõnteke okyvehína
-Guarani0469	Okyvérõnteke okyvehína	TENSE:FUT_SIM	Okyvérõntekuéra okyvehína
-Guarani0470	Okyvérõnteke okyvehína	PERSON:3_PL	Okyvérõntekuri te okyvehína
-Guarani0471	Okyvérõnteke okyvehína	TENSE:PAS_REC	Okyvérõntekó okyvehína
-Guarani0472	Okyvérõnteke okyvehína	ASPECT:INM	Okyvérõntekueku ko okyvehínava’ekue
-Guarani0473	Okyvérõnteke okyvehína	TENSE:PAS_PLU	Che aikotevẽ piripire
-Guarani0551	Che aikotevẽ pirapire	TYPE:NEG	Che aikotevẽ pihina pirapire
-Guarani0552	Che aikotevẽ pirapire	ASPECT:IPFV	Ñande jaikotevẽ pirapire
-Guarani0553	Che aikotevẽ pirapire	PERSON:1_PL_INC	Nde reikotevẽ pirapire
-Guarani0554	Che aikotevẽ pirapire	PERSON:2_SI	Che aikotevẽ pirapire
+Guarani0469	Okyvérõnteke okyvehína	TENSE:FUT_SIM	Okyvérõnteke okyvehína
+Guarani0470	Okyvérõnteke okyvehína	PERSON:3_PL	Okyvérõntekuéra okyvehína
+Guarani0471	Okyvérõnteke okyvehína	TENSE:PAS_REC	Okyvérõntekuri te okyvehína
+Guarani0472	Okyvérõnteke okyvehína	ASPECT:INM	Okyvérõntekó okyvehína
+Guarani0473	Okyvérõnteke okyvehína	TENSE:PAS_PLU	Okyvérõntekueku ko okyvehínava’ekue
+Guarani0551	Che aikotevẽ pirapire	TYPE:NEG	Che aikotevẽ piripire
+Guarani0552	Che aikotevẽ pirapire	ASPECT:IPFV	Che aikotevẽ pihina pirapire
+Guarani0553	Che aikotevẽ pirapire	PERSON:1_PL_INC	Ñande jaikotevẽ pirapire
+Guarani0554	Che aikotevẽ pirapire	PERSON:2_SI	Nde reikotevẽ pirapire
 Guarani0555	Che aikotevẽ pirapire	PERSON:3_SI	Che aikotevẽ pirapire
-Guarani0556	Che aikotevẽ pirapire	TENSE:FUT_SIM	Che aikotevẽ pirkuri hina pirapire
-Guarani0557	Che aikotevẽ pirapire	TENSE:PAS_REC	Upépe pemba’apo pekuái ikokuépe
-Guarani0499	Upépe omba’apo hikuái ikokuépe	PERSON:2_PL	Upépe omba’apo hikuái ikokuépe
-Guarani0500	Upépe omba’apo hikuái ikokuépe	PERSON:1_PL_EXC	Upépe omba’apota hikuái ikokuépe
-Guarani0501	Upépe omba’apo hikuái ikokuépe	TENSE:FUT_SIM	Upépe ndomba’apo hikuái ikokuépe
-Guarani0502	Upépe omba’apo hikuái ikokuépe	TYPE:NEG	Upépe omba’apo hikuái ikokuépe
-Guarani0503	Upépe omba’apo hikuái ikokuépe	ASPECT:INM	Upépe omba’apomi hikuái ikokuépemi
-Guarani0504	Upépe omba’apo hikuái ikokuépe	TENSE:PAS_IMP	Upéingo pyharepyte riremi añandúsapy’a ore koty rokẽ ombotáva kuri
-Guarani0517	Upéingo pyharepyte riremi añandúsapy’a ore koty rokẽ ombotáva	TENSE:PAS_REC	Upéingo pyharepyte riremi añandúia yre koty rokẽ ombotáva ikóna
-Guarani0518	Upéingo pyharepyte riremi añandúsapy’a ore koty rokẽ ombotáva	ASPECT:INM	Upéingo pyharepyte riremi añandúsapy’a ore koty rokẽ ombotáva
-Guarani0519	Upéingo pyharepyte riremi añandúsapy’a ore koty rokẽ ombotáva	TENSE:PAS_IMP	Upéingo pyharepyte reremi añandúsapy’a nde koty rokẽ ombotáva
-Guarani0520	Upéingo pyharepyte riremi añandúsapy’a ore koty rokẽ ombotáva	PERSON:2_SI	Upéingo pyharepyte riremi añandúsapy’a ore koty rokẽ ombotáva
-Guarani0521	Upéingo pyharepyte riremi añandúsapy’a ore koty rokẽ ombotáva	PERSON:3_SI	Nde reguatata
-Guarani0387	Ha’e oguatata	PERSON:2_SI	Che aguatata
-Guarani0388	Ha’e oguatata	PERSON:1_SI	Ha’e oguatata
-Guarani0389	Ha’e oguatata	TENSE:PRE_SIM	Ha’e ndoguatata
-Guarani0390	Ha’e oguatata	TYPE:NEG	Ha’e oguatata hína
-Guarani0391	Ha’e oguatata	ASPECT:IPFV	Ha’e oguatata
-Guarani0392	Ha’e oguatata	ASPECT:INM	Ñande jaguatata
-Guarani0393	Ha’e oguatata	PERSON:1_PL_INC	Ore oguatata
-Guarani0394	Ha’e oguatata	PERSON:1_PL_EXC	Ñande japysápe oike nde ñarandu
-Guarani0527	Maymave apysápe oike ne marandu	PERSON:1_PL_INC	Maymave apysápe oike ne maranduta
-Guarani0528	Maymave apysápe oike ne marandu	TENSE:FUT_SIM	Maymave apysápe oike ndo marandui
-Guarani0529	Maymave apysápe oike ne marandu	TYPE:NEG	Maymave apysápe oike nere raranduri
-Guarani0530	Maymave apysápe oike ne marandu	PERSON:1_PL_EXC	Maymave apysápe oiye nhína o maranduhina
-Guarani0531	Maymave apysápe oike ne marandu	ASPECT:IPFV	Maymave apysápe peike ndere pererende rarandu
-Guarani0532	Maymave apysápe oike ne marandu	PERSON:2_PL	Maymave apysápe oike ne chera ndachere maranduva’ekue
-Guarani0533	Maymave apysápe oike ne marandu	TENSE:PAS_PLU	Ñande ndañajua’ói
-Guarani0343	Ore ndorojua’ói	PERSON:1_PL_INC	Ore ndorojua’óiva’ekue
-Guarani0344	Ore ndorojua’ói	TENSE:PAS_PLU	Ore rojua’ói
-Guarani0345	Ore ndorojua’ói	TYPE:AFF	Ore ndorojua’ói hína
-Guarani0346	Ore ndorojua’ói	ASPECT:IPFV	Ore ndorojua’óita
-Guarani0347	Ore ndorojua’ói	TENSE:FUT_SIM	Nde nderejuj’a’ói
-Guarani0348	Ore ndorojua’ói	PERSON:2_PL	Ore ndorojua’ói
-Guarani0349	Ore ndorojua’ói	PERSON:3_SI	Che ndaikua’ói
-Guarani0350	Ore ndorojua’ói	PERSON:1_SI	Nde rembyasy
-Guarani0366	Che ambyasy	PERSON:2_PL	Ñande jambyasy
-Guarani0367	Che ambyasy	PERSON:1_PL_INC	Che ambyasýva’ekue
-Guarani0368	Che ambyasy	TENSE:PAS_PLU	Che ambyasy ikóni
-Guarani0369	Che ambyasy	ASPECT:INM	Che ambyasy
-Guarani0370	Che ambyasy	TYPE:NEG	Ha’ekuéra ombyasy
-Guarani0371	Che ambyasy	PERSON:3_PL	Che ambyasykuri
-Guarani0372	Che ambyasy	TENSE:PAS_REC	Uroi rorambosáta ñande rusto-pe
-Guarani0558	Upéi ñarambosáta ñande gusto-pe	PERSON:1_PL_EXC	Upéi ñarambosáta ñande gusto-pe
-Guarani0559	Upéi ñarambosáta ñande gusto-pe	TYPE:NEG	Upéi ñarambosáta ñande gusta-pe
-Guarani0560	Upéi ñarambosáta ñande gusto-pe	TENSE:PAS_PLU	Upéi perambosáta ñande pestoopp-
-Guarani0561	Upéi ñarambosáta ñande gusto-pe	PERSON:2_PL	Upéi ñarambosáta ñande gusta-pe
+Guarani0556	Che aikotevẽ pirapire	TENSE:FUT_SIM	Che aikotevẽ pirapire
+Guarani0557	Che aikotevẽ pirapire	TENSE:PAS_REC	Che aikotevẽ pirkuri hina pirapire
+Guarani0499	Upépe omba’apo hikuái ikokuépe	PERSON:2_PL	Upépe pemba’apo pekuái ikokuépe
+Guarani0500	Upépe omba’apo hikuái ikokuépe	PERSON:1_PL_EXC	Upépe omba’apo hikuái ikokuépe
+Guarani0501	Upépe omba’apo hikuái ikokuépe	TENSE:FUT_SIM	Upépe omba’apota hikuái ikokuépe
+Guarani0502	Upépe omba’apo hikuái ikokuépe	TYPE:NEG	Upépe ndomba’apo hikuái ikokuépe
+Guarani0503	Upépe omba’apo hikuái ikokuépe	ASPECT:INM	Upépe omba’apo hikuái ikokuépe
+Guarani0504	Upépe omba’apo hikuái ikokuépe	TENSE:PAS_IMP	Upépe omba’apomi hikuái ikokuépemi
+Guarani0517	Upéingo pyharepyte riremi añandúsapy’a ore koty rokẽ ombotáva	TENSE:PAS_REC	Upéingo pyharepyte riremi añandúsapy’a ore koty rokẽ ombotáva kuri
+Guarani0518	Upéingo pyharepyte riremi añandúsapy’a ore koty rokẽ ombotáva	ASPECT:INM	Upéingo pyharepyte riremi añandúia yre koty rokẽ ombotáva ikóna
+Guarani0519	Upéingo pyharepyte riremi añandúsapy’a ore koty rokẽ ombotáva	TENSE:PAS_IMP	Upéingo pyharepyte riremi añandúsapy’a ore koty rokẽ ombotáva
+Guarani0520	Upéingo pyharepyte riremi añandúsapy’a ore koty rokẽ ombotáva	PERSON:2_SI	Upéingo pyharepyte reremi añandúsapy’a nde koty rokẽ ombotáva
+Guarani0521	Upéingo pyharepyte riremi añandúsapy’a ore koty rokẽ ombotáva	PERSON:3_SI	Upéingo pyharepyte riremi añandúsapy’a ore koty rokẽ ombotáva
+Guarani0387	Ha’e oguatata	PERSON:2_SI	Nde reguatata
+Guarani0388	Ha’e oguatata	PERSON:1_SI	Che aguatata
+Guarani0389	Ha’e oguatata	TENSE:PRE_SIM	Ha’e oguatata
+Guarani0390	Ha’e oguatata	TYPE:NEG	Ha’e ndoguatata
+Guarani0391	Ha’e oguatata	ASPECT:IPFV	Ha’e oguatata hína
+Guarani0392	Ha’e oguatata	ASPECT:INM	Ha’e oguatata
+Guarani0393	Ha’e oguatata	PERSON:1_PL_INC	Ñande jaguatata
+Guarani0394	Ha’e oguatata	PERSON:1_PL_EXC	Ore oguatata
+Guarani0527	Maymave apysápe oike ne marandu	PERSON:1_PL_INC	Ñande japysápe oike nde ñarandu
+Guarani0528	Maymave apysápe oike ne marandu	TENSE:FUT_SIM	Maymave apysápe oike ne maranduta
+Guarani0529	Maymave apysápe oike ne marandu	TYPE:NEG	Maymave apysápe oike ndo marandui
+Guarani0530	Maymave apysápe oike ne marandu	PERSON:1_PL_EXC	Maymave apysápe oike nere raranduri
+Guarani0531	Maymave apysápe oike ne marandu	ASPECT:IPFV	Maymave apysápe oiye nhína o maranduhina
+Guarani0532	Maymave apysápe oike ne marandu	PERSON:2_PL	Maymave apysápe peike ndere pererende rarandu
+Guarani0533	Maymave apysápe oike ne marandu	TENSE:PAS_PLU	Maymave apysápe oike ne chera ndachere maranduva’ekue
+Guarani0343	Ore ndorojua’ói	PERSON:1_PL_INC	Ñande ndañajua’ói
+Guarani0344	Ore ndorojua’ói	TENSE:PAS_PLU	Ore ndorojua’óiva’ekue
+Guarani0345	Ore ndorojua’ói	TYPE:AFF	Ore rojua’ói
+Guarani0346	Ore ndorojua’ói	ASPECT:IPFV	Ore ndorojua’ói hína
+Guarani0347	Ore ndorojua’ói	TENSE:FUT_SIM	Ore ndorojua’óita
+Guarani0348	Ore ndorojua’ói	PERSON:2_PL	Nde nderejuj’a’ói
+Guarani0349	Ore ndorojua’ói	PERSON:3_SI	Ore ndorojua’ói
+Guarani0350	Ore ndorojua’ói	PERSON:1_SI	Che ndaikua’ói
+Guarani0366	Che ambyasy	PERSON:2_PL	Nde rembyasy
+Guarani0367	Che ambyasy	PERSON:1_PL_INC	Ñande jambyasy
+Guarani0368	Che ambyasy	TENSE:PAS_PLU	Che ambyasýva’ekue
+Guarani0369	Che ambyasy	ASPECT:INM	Che ambyasy ikóni
+Guarani0370	Che ambyasy	TYPE:NEG	Che ambyasy
+Guarani0371	Che ambyasy	PERSON:3_PL	Ha’ekuéra ombyasy
+Guarani0372	Che ambyasy	TENSE:PAS_REC	Che ambyasykuri
+Guarani0558	Upéi ñarambosáta ñande gusto-pe	PERSON:1_PL_EXC	Uroi rorambosáta ñande rusto-pe
+Guarani0559	Upéi ñarambosáta ñande gusto-pe	TYPE:NEG	Upéi ñarambosáta ñande gusto-pe
+Guarani0560	Upéi ñarambosáta ñande gusto-pe	TENSE:PAS_PLU	Upéi ñarambosáta ñande gusta-pe
+Guarani0561	Upéi ñarambosáta ñande gusto-pe	PERSON:2_PL	Upéi perambosáta ñande pestoopp-
 Guarani0562	Upéi ñarambosáta ñande gusto-pe	PERSON:3_PL	Upéi ñarambosáta ñande gusta-pe
-Guarani0563	Upéi ñarambosáta ñande gusto-pe	TENSE:PRE_SIM	 kũnguéra mburutue ombovami
+Guarani0563	Upéi ñarambosáta ñande gusto-pe	TENSE:PRE_SIM	Upéi ñarambosáta ñande gusta-pe
 Guarani0258	Ã kũnguéra mburutue ombovami	PERSON:3_SI	 kũnguéra mburutue ombovami
 Guarani0259	Ã kũnguéra mburutue ombovami	TENSE:PAS_REC	 kũnguéra mburutue ombovami
 Guarani0260	Ã kũnguéra mburutue ombovami	TYPE:NEG	 kũnguéra mburutue ombovami
-Guarani0261	Ã kũnguéra mburutue ombovami	ASPECT:INM	 kũnguéra mburutue ombovai
-Guarani0262	Ã kũnguéra mburutue ombovami	TENSE:PRE_SIM	Ore romonnd’õta ñande ára
-Guarani0440	Ore romono’õta ñande ára	TYPE:NEG	Ñande ramono’õta ñande jaada
-Guarani0441	Ore romono’õta ñande ára	PERSON:1_PL_INC	Che aoono’õta ñande ara
-Guarani0442	Ore romono’õta ñande ára	PERSON:1_SI	Ore romono’õta ñande ára
+Guarani0261	Ã kũnguéra mburutue ombovami	ASPECT:INM	 kũnguéra mburutue ombovami
+Guarani0262	Ã kũnguéra mburutue ombovami	TENSE:PRE_SIM	 kũnguéra mburutue ombovai
+Guarani0440	Ore romono’õta ñande ára	TYPE:NEG	Ore romonnd’õta ñande ára
+Guarani0441	Ore romono’õta ñande ára	PERSON:1_PL_INC	Ñande ramono’õta ñande jaada
+Guarani0442	Ore romono’õta ñande ára	PERSON:1_SI	Che aoono’õta ñande ara
 Guarani0443	Ore romono’õta ñande ára	TENSE:PAS_PLU	Ore romono’õta ñande ára
-Guarani0444	Ore romono’õta ñande ára	ASPECT:IPFV	Nde romono’õta ñande ndere
-Guarani0445	Ore romono’õta ñande ára	PERSON:2_SI	Peteĩ tapepo’i puku opahápe ojogapókuri karai Poicarpo
-Guarani0539	Peteĩ tapepo’i puku opahápe ojogapókuri karai Policarpo	TENSE:PAS_IMP	Peteĩ tapepo’i puku opahápe ojogapókuri hanai Poicarpo
-Guarani0540	Peteĩ tapepo’i puku opahápe ojogapókuri karai Policarpo	TENSE:PRE_SIM	Peteĩ tapepndotepo’i puku opahápe ndojogapóikuri karai Poicarpo
-Guarani0541	Peteĩ tapepo’i puku opahápe ojogapókuri karai Policarpo	TYPE:NEG	Peteĩ tapepo’i puku opahápe ojogapókuri kóni kórii Poicarpo
-Guarani0542	Peteĩ tapepo’i puku opahápe ojogapókuri karai Policarpo	ASPECT:INM	Peteĩ tapepo’i puku opahápe ojogapóta karai Poicarpota
-Guarani0543	Peteĩ tapepo’i puku opahápe ojogapókuri karai Policarpo	TENSE:FUT_SIM	Ñande ndarojajapói
-Guarani0263	Ñande ndajajapói	PERSON:1_PL_EXC	Ñande ndajajapói
-Guarani0264	Ñande ndajajapói	PERSON:1_SI	Ñande nderejajapói
-Guarani0265	Ñande ndajajapói	PERSON:2_PL	Ñande rejajapo
-Guarani0266	Ñande ndajajapói	TYPE:AFF	Ñande ndajajapóta
-Guarani0267	Ñande ndajajapói	TENSE:FUT_SIM	Ñande ndajajapói
-Guarani0268	Ñande ndajajapói	ASPECT:IPFV	Ñande ndajajapókuri
-Guarani0269	Ñande ndajajapói	TENSE:PAS_REC	Nde nderejoguái hína
-Guarani0591	Nde nderejoguái	ASPECT:IPFV	Nde rejoguái
-Guarani0592	Nde nderejoguái	TYPE:AFF	Nde nderejoguáita
-Guarani0593	Nde nderejoguái	TENSE:FUT_SIM	Nde nderejoguái kuri
-Guarani0594	Nde nderejoguái	TENSE:PAS_REC	Nde nderejoguái
-Guarani0595	Nde nderejoguái	PERSON:2_PL	Ñande ndajajoguái
-Guarani0596	Nde nderejoguái	PERSON:1_PL_INC	Che ndajajuái
-Guarani0597	Nde nderejoguái	PERSON:1_SI	Ñande ndañahua’ĩmi
-Guarani0293	Ore ndorohua’ĩmi	PERSON:1_PL_INC	Ore rohua’ĩmi
-Guarani0294	Ore ndorohua’ĩmi	TYPE:AFF	Ore ndorohia’ĩii
-Guarani0295	Ore ndorohua’ĩmi	ASPECT:INM	Ore ndorohua’ĩta
-Guarani0296	Ore ndorohua’ĩmi	TENSE:FUT_SIM	Ore ndorohua’ĩi
-Guarani0297	Ore ndorohua’ĩmi	TENSE:PRE_SIM	Nde ndereñemúi hína
-Guarani0336	Nde ndereñemúi	ASPECT:IPFV	Nde reñemúi
-Guarani0337	Nde ndereñemúi	TYPE:AFF	Nde ndereñemúita
-Guarani0338	Nde ndereñemúi	TENSE:FUT_SIM	Nde ndereñemúi kuri
-Guarani0339	Nde ndereñemúi	TENSE:PAS_REC	Nde ndereñeñemúi
-Guarani0340	Nde ndereñemúi	PERSON:2_PL	Ñande ndañañemúi
-Guarani0341	Nde ndereñemúi	PERSON:1_PL_INC	Che ndañeñemúi
-Guarani0342	Nde ndereñemúi	PERSON:1_SI	Ha’e ope’ata
-Guarani0417	Ha’e ope’ata	TYPE:NEG	Ha’e ope’ata hína
-Guarani0418	Ha’e ope’ata	ASPECT:IPFV	Ha’e ope’ata
-Guarani0419	Ha’e ope’ata	TENSE:PRE_SIM	Ha’e ope’ata va’ekue
-Guarani0420	Ha’e ope’ata	TENSE:PAS_PLU	Nde repe’ata
-Guarani0421	Ha’e ope’ata	PERSON:2_SI	Che ape’ata
-Guarani0422	Ha’e ope’ata	PERSON:1_SI	Ore ope’ata
-Guarani0423	Ha’e ope’ata	PERSON:1_PL_EXC	Ñande jape’ata
-Guarani0424	Ha’e ope’ata	PERSON:1_PL_INC	Vy’a guasuete ojaitypo maymávakuera ñe’ãme
-Guarani0522	Vy’a guasuete ojaitypo maymáva ñe’ãme	PERSON:3_PL	Vy’a guasuete ojaitypo maymáva ñe’ãme
+Guarani0444	Ore romono’õta ñande ára	ASPECT:IPFV	Ore romono’õta ñande ára
+Guarani0445	Ore romono’õta ñande ára	PERSON:2_SI	Nde romono’õta ñande ndere
+Guarani0539	Peteĩ tapepo’i puku opahápe ojogapókuri karai Policarpo	TENSE:PAS_IMP	Peteĩ tapepo’i puku opahápe ojogapókuri karai Poicarpo
+Guarani0540	Peteĩ tapepo’i puku opahápe ojogapókuri karai Policarpo	TENSE:PRE_SIM	Peteĩ tapepo’i puku opahápe ojogapókuri hanai Poicarpo
+Guarani0541	Peteĩ tapepo’i puku opahápe ojogapókuri karai Policarpo	TYPE:NEG	Peteĩ tapepndotepo’i puku opahápe ndojogapóikuri karai Poicarpo
+Guarani0542	Peteĩ tapepo’i puku opahápe ojogapókuri karai Policarpo	ASPECT:INM	Peteĩ tapepo’i puku opahápe ojogapókuri kóni kórii Poicarpo
+Guarani0543	Peteĩ tapepo’i puku opahápe ojogapókuri karai Policarpo	TENSE:FUT_SIM	Peteĩ tapepo’i puku opahápe ojogapóta karai Poicarpota
+Guarani0263	Ñande ndajajapói	PERSON:1_PL_EXC	Ñande ndarojajapói
+Guarani0264	Ñande ndajajapói	PERSON:1_SI	Ñande ndajajapói
+Guarani0265	Ñande ndajajapói	PERSON:2_PL	Ñande nderejajapói
+Guarani0266	Ñande ndajajapói	TYPE:AFF	Ñande rejajapo
+Guarani0267	Ñande ndajajapói	TENSE:FUT_SIM	Ñande ndajajapóta
+Guarani0268	Ñande ndajajapói	ASPECT:IPFV	Ñande ndajajapói
+Guarani0269	Ñande ndajajapói	TENSE:PAS_REC	Ñande ndajajapókuri
+Guarani0591	Nde nderejoguái	ASPECT:IPFV	Nde nderejoguái hína
+Guarani0592	Nde nderejoguái	TYPE:AFF	Nde rejoguái
+Guarani0593	Nde nderejoguái	TENSE:FUT_SIM	Nde nderejoguáita
+Guarani0594	Nde nderejoguái	TENSE:PAS_REC	Nde nderejoguái kuri
+Guarani0595	Nde nderejoguái	PERSON:2_PL	Nde nderejoguái
+Guarani0596	Nde nderejoguái	PERSON:1_PL_INC	Ñande ndajajoguái
+Guarani0597	Nde nderejoguái	PERSON:1_SI	Che ndajajuái
+Guarani0293	Ore ndorohua’ĩmi	PERSON:1_PL_INC	Ñande ndañahua’ĩmi
+Guarani0294	Ore ndorohua’ĩmi	TYPE:AFF	Ore rohua’ĩmi
+Guarani0295	Ore ndorohua’ĩmi	ASPECT:INM	Ore ndorohia’ĩii
+Guarani0296	Ore ndorohua’ĩmi	TENSE:FUT_SIM	Ore ndorohua’ĩta
+Guarani0297	Ore ndorohua’ĩmi	TENSE:PRE_SIM	Ore ndorohua’ĩi
+Guarani0336	Nde ndereñemúi	ASPECT:IPFV	Nde ndereñemúi hína
+Guarani0337	Nde ndereñemúi	TYPE:AFF	Nde reñemúi
+Guarani0338	Nde ndereñemúi	TENSE:FUT_SIM	Nde ndereñemúita
+Guarani0339	Nde ndereñemúi	TENSE:PAS_REC	Nde ndereñemúi kuri
+Guarani0340	Nde ndereñemúi	PERSON:2_PL	Nde ndereñeñemúi
+Guarani0341	Nde ndereñemúi	PERSON:1_PL_INC	Ñande ndañañemúi
+Guarani0342	Nde ndereñemúi	PERSON:1_SI	Che ndañeñemúi
+Guarani0417	Ha’e ope’ata	TYPE:NEG	Ha’e ope’ata
+Guarani0418	Ha’e ope’ata	ASPECT:IPFV	Ha’e ope’ata hína
+Guarani0419	Ha’e ope’ata	TENSE:PRE_SIM	Ha’e ope’ata
+Guarani0420	Ha’e ope’ata	TENSE:PAS_PLU	Ha’e ope’ata va’ekue
+Guarani0421	Ha’e ope’ata	PERSON:2_SI	Nde repe’ata
+Guarani0422	Ha’e ope’ata	PERSON:1_SI	Che ape’ata
+Guarani0423	Ha’e ope’ata	PERSON:1_PL_EXC	Ore ope’ata
+Guarani0424	Ha’e ope’ata	PERSON:1_PL_INC	Ñande jape’ata
+Guarani0522	Vy’a guasuete ojaitypo maymáva ñe’ãme	PERSON:3_PL	Vy’a guasuete ojaitypo maymávakuera ñe’ãme
 Guarani0523	Vy’a guasuete ojaitypo maymáva ñe’ãme	TYPE:NEG	Vy’a guasuete ojaitypo maymáva ñe’ãme
-Guarani0524	Vy’a guasuete ojaitypo maymáva ñe’ãme	TENSE:FUT_SIM	Vy’a guasuete ojaitýpo maymáva ñe’ãme
-Guarani0525	Vy’a guasuete ojaitypo maymáva ñe’ãme	TENSE:PAS_PLU	Vy’a guasuete ojaitypo maymáva ñe’ãmi
-Guarani0526	Vy’a guasuete ojaitypo maymáva ñe’ãme	TENSE:PAS_IMP	Yvyrapã ojapo nde rejayvígui
-Guarani0458	Yvyrapã ojapo guajayvígui	PERSON:2_SI	Yvyrapã ojapo guajayvígui
+Guarani0524	Vy’a guasuete ojaitypo maymáva ñe’ãme	TENSE:FUT_SIM	Vy’a guasuete ojaitypo maymáva ñe’ãme
+Guarani0525	Vy’a guasuete ojaitypo maymáva ñe’ãme	TENSE:PAS_PLU	Vy’a guasuete ojaitýpo maymáva ñe’ãme
+Guarani0526	Vy’a guasuete ojaitypo maymáva ñe’ãme	TENSE:PAS_IMP	Vy’a guasuete ojaitypo maymáva ñe’ãmi
+Guarani0458	Yvyrapã ojapo guajayvígui	PERSON:2_SI	Yvyrapã ojapo nde rejayvígui
 Guarani0459	Yvyrapã ojapo guajayvígui	PERSON:1_PL_INC	Yvyrapã ojapo guajayvígui
 Guarani0460	Yvyrapã ojapo guajayvígui	ASPECT:IPFV	Yvyrapã ojapo guajayvígui
-Guarani0461	Yvyrapã ojapo guajayvígui	TYPE:NEG	Yvyrapã ojapo guajayvíva’ekue
-Guarani0462	Yvyrapã ojapo guajayvígui	TENSE:PAS_PLU	Nde nerekirirĩrikuri itendóiataguygua
-Guarani0446	Nde nérekirirĩrikuri itendóta ka’aguygua	PERSON:2_PL	Nde rekirirĩri utendóta ka’aguygua
-Guarani0447	Nde nérekirirĩrikuri itendóta ka’aguygua	TYPE:AFF	Nde nérekirirĩhina kuri hína itendóta ka’aguygua
-Guarani0448	Nde nérekirirĩrikuri itendóta ka’aguygua	ASPECT:IPFV	Ha’ekuéra ndokirirĩrikuri itendótakuéra itaguégua
-Guarani0449	Nde nérekirirĩrikuri itendóta ka’aguygua	PERSON:3_PL	Che ndakukirĩrikuri itendóta ka’aguygua
-Guarani0450	Nde nérekirirĩrikuri itendóta ka’aguygua	PERSON:1_SI	Nde nérekirirĩta itendóta ka’aguygua
-Guarani0451	Nde nérekirirĩrikuri itendóta ka’aguygua	TENSE:FUT_SIM	Ore norekirirĩrikuri itendói ka’aguygua
-Guarani0452	Nde nérekirirĩrikuri itendóta ka’aguygua	PERSON:1_PL_EXC	Kuarahy ojopemi
-Guarani0463	Kuarahy ojope	TENSE:PAS_IMP	Kuarahy ojopíta
-Guarani0464	Kuarahy ojope	TENSE:FUT_SIM	Kuarahy ojope
-Guarani0465	Kuarahy ojope	TYPE:NEG	Kuarahy ojopíhona
-Guarani0466	Kuarahy ojope	ASPECT:IPFV	Kuarahy ojope va’ekue
-Guarani0467	Kuarahy ojope	TENSE:PAS_PLU	Pende tykuekuéra ndomboareta
-Guarani0298	Pende tykuekuéra omboareta	TYPE:NEG	Pende tykuekuéra omboareta hína
-Guarani0299	Pende tykuekuéra omboareta	ASPECT:IPFV	Pende tykuekuéra omboareta
+Guarani0461	Yvyrapã ojapo guajayvígui	TYPE:NEG	Yvyrapã ojapo guajayvígui
+Guarani0462	Yvyrapã ojapo guajayvígui	TENSE:PAS_PLU	Yvyrapã ojapo guajayvíva’ekue
+Guarani0446	Nde nérekirirĩrikuri itendóta ka’aguygua	PERSON:2_PL	Nde nerekirirĩrikuri itendóiataguygua
+Guarani0447	Nde nérekirirĩrikuri itendóta ka’aguygua	TYPE:AFF	Nde rekirirĩri utendóta ka’aguygua
+Guarani0448	Nde nérekirirĩrikuri itendóta ka’aguygua	ASPECT:IPFV	Nde nérekirirĩhina kuri hína itendóta ka’aguygua
+Guarani0449	Nde nérekirirĩrikuri itendóta ka’aguygua	PERSON:3_PL	Ha’ekuéra ndokirirĩrikuri itendótakuéra itaguégua
+Guarani0450	Nde nérekirirĩrikuri itendóta ka’aguygua	PERSON:1_SI	Che ndakukirĩrikuri itendóta ka’aguygua
+Guarani0451	Nde nérekirirĩrikuri itendóta ka’aguygua	TENSE:FUT_SIM	Nde nérekirirĩta itendóta ka’aguygua
+Guarani0452	Nde nérekirirĩrikuri itendóta ka’aguygua	PERSON:1_PL_EXC	Ore norekirirĩrikuri itendói ka’aguygua
+Guarani0463	Kuarahy ojope	TENSE:PAS_IMP	Kuarahy ojopemi
+Guarani0464	Kuarahy ojope	TENSE:FUT_SIM	Kuarahy ojopíta
+Guarani0465	Kuarahy ojope	TYPE:NEG	Kuarahy ojope
+Guarani0466	Kuarahy ojope	ASPECT:IPFV	Kuarahy ojopíhona
+Guarani0467	Kuarahy ojope	TENSE:PAS_PLU	Kuarahy ojope va’ekue
+Guarani0298	Pende tykuekuéra omboareta	TYPE:NEG	Pende tykuekuéra ndomboareta
+Guarani0299	Pende tykuekuéra omboareta	ASPECT:IPFV	Pende tykuekuéra omboareta hína
 Guarani0300	Pende tykuekuéra omboareta	PERSON:3_SI	Pende tykuekuéra omboareta
-Guarani0301	Pende tykuekuéra omboareta	TENSE:PAS_REC	Pende tykue omboarei
-Guarani0302	Pende tykuekuéra omboareta	TENSE:PRE_SIM	Pende tykuekuéra omboareiva’ekue
-Guarani0303	Pende tykuekuéra omboareta	TENSE:PAS_PLU	Che ndambyasymoái
-Guarani0359	Ha’e nombyasymoái	PERSON:1_SI	Ñande ndañambyasymoái
-Guarani0360	Ha’e nombyasymoái	PERSON:1_PL_INC	Ore noromboaayymoái
-Guarani0361	Ha’e nombyasymoái	PERSON:1_PL_EXC	Ha’e ndombyasymoái
-Guarani0362	Ha’e nombyasymoái	TENSE:PAS_REC	Ha’e ndombyava’ekue
-Guarani0363	Ha’e nombyasymoái	TENSE:PAS_PLU	Ha’e ombyasymoái
-Guarani0364	Ha’e nombyasymoái	TYPE:AFF	Ha’e ndombyapy
-Guarani0365	Ha’e nombyasymoái	TENSE:PRE_SIM	Ñande ñañemitỹ hína
-Guarani0281	Ñande ñañemitỹkuri	TENSE:PRE_SIM	Ñande ñañemitỹkuri
-Guarani0282	Ñande ñañemitỹkuri	TYPE:NEG	Ñande ñañemitỹhina
-Guarani0283	Ñande ñañemitỹkuri	ASPECT:IPFV	Ñande ñañemitỹkuri ikóni
-Guarani0284	Ñande ñañemitỹkuri	ASPECT:INM	Ñande roñemitỹkuri
-Guarani0285	Ñande ñañemitỹkuri	PERSON:1_PL_EXC	Ñande aañemitỹkuri
-Guarani0286	Ñande ñañemitỹkuri	PERSON:1_SI	Che ama’ẽkuri
-Guarani0564	Ha’e oma’ẽkuri	PERSON:1_SI	Nde rema’ẽkuri
-Guarani0565	Ha’e oma’ẽkuri	PERSON:2_SI	Ha’e oma’ẽta
-Guarani0566	Ha’e oma’ẽkuri	TENSE:FUT_SIM	Ha’e oma’ẽkuri
-Guarani0567	Ha’e oma’ẽkuri	TYPE:NEG	Ha’e oma’ẽkuri hína
-Guarani0568	Ha’e oma’ẽkuri	ASPECT:IPFV	Peẽ pema’ẽkuri
-Guarani0569	Ha’e oma’ẽkuri	PERSON:2_PL	Ore oma’ẽkuri
-Guarani0570	Ha’e oma’ẽkuri	PERSON:1_PL_EXC	Peẽ peikemoái
-Guarani0585	Peẽ ndapeikemoái	TYPE:AFF	Peẽ ndapeikuemoái va’ekue
-Guarani0586	Peẽ ndapeikemoái	TENSE:PAS_PLU	Peẽ ndapeikemoái
-Guarani0587	Peẽ ndapeikemoái	PERSON:3_SI	Che ndaikumbomo
-Guarani0588	Peẽ ndapeikemoái	PERSON:1_SI	Ñande ndañaikummi
-Guarani0589	Peẽ ndapeikemoái	PERSON:1_PL_INC	Peẽ ndapeikuéra
-Guarani0590	Peẽ ndapeikemoái	TENSE:PRE_SIM	Nde retererende
-Guarani0492	Katu atererehína	PERSON:2_SI	Katu atererende
-Guarani0493	Katu atererehína	PERSON:2_PL	Katu atererentaaíe
-Guarani0494	Katu atererehína	TENSE:FUT_SIM	Katu atererend
-Guarani0495	Katu atererehína	ASPECT:INM	Katu atererendhand
-Guarani0496	Katu atererehína	TYPE:NEG	Katu atererendoranohíra
-Guarani0497	Katu atererehína	PERSON:3_PL	Katu atererend
-Guarani0498	Katu atererehína	ASPECT:-	Ñande ndroñambotavýi
-Guarani0304	Ñande ndañambotavýi	PERSON:1_PL_EXC	Ñande naañambotavýi
-Guarani0305	Ñande ndañambotavýi	PERSON:1_SI	Ñande naadambotavýta
-Guarani0306	Ñande ndañambotavýi	TENSE:FUT_SIM	Ñande ndañambotavýi
-Guarani0307	Ñande ndañambotavýi	ASPECT:IPFV	Ñande ndañambotavýimi
-Guarani0308	Ñande ndañambotavýi	TENSE:PAS_IMP	Ñande ndereñambotavýi
-Guarani0309	Ñande ndañambotavýi	PERSON:2_PL	
+Guarani0301	Pende tykuekuéra omboareta	TENSE:PAS_REC	Pende tykuekuéra omboareta
+Guarani0302	Pende tykuekuéra omboareta	TENSE:PRE_SIM	Pende tykue omboarei
+Guarani0303	Pende tykuekuéra omboareta	TENSE:PAS_PLU	Pende tykuekuéra omboareiva’ekue
+Guarani0359	Ha’e nombyasymoái	PERSON:1_SI	Che ndambyasymoái
+Guarani0360	Ha’e nombyasymoái	PERSON:1_PL_INC	Ñande ndañambyasymoái
+Guarani0361	Ha’e nombyasymoái	PERSON:1_PL_EXC	Ore noromboaayymoái
+Guarani0362	Ha’e nombyasymoái	TENSE:PAS_REC	Ha’e ndombyasymoái
+Guarani0363	Ha’e nombyasymoái	TENSE:PAS_PLU	Ha’e ndombyava’ekue
+Guarani0364	Ha’e nombyasymoái	TYPE:AFF	Ha’e ombyasymoái
+Guarani0365	Ha’e nombyasymoái	TENSE:PRE_SIM	Ha’e ndombyapy
+Guarani0281	Ñande ñañemitỹkuri	TENSE:PRE_SIM	Ñande ñañemitỹ hína
+Guarani0282	Ñande ñañemitỹkuri	TYPE:NEG	Ñande ñañemitỹkuri
+Guarani0283	Ñande ñañemitỹkuri	ASPECT:IPFV	Ñande ñañemitỹhina
+Guarani0284	Ñande ñañemitỹkuri	ASPECT:INM	Ñande ñañemitỹkuri ikóni
+Guarani0285	Ñande ñañemitỹkuri	PERSON:1_PL_EXC	Ñande roñemitỹkuri
+Guarani0286	Ñande ñañemitỹkuri	PERSON:1_SI	Ñande aañemitỹkuri
+Guarani0564	Ha’e oma’ẽkuri	PERSON:1_SI	Che ama’ẽkuri
+Guarani0565	Ha’e oma’ẽkuri	PERSON:2_SI	Nde rema’ẽkuri
+Guarani0566	Ha’e oma’ẽkuri	TENSE:FUT_SIM	Ha’e oma’ẽta
+Guarani0567	Ha’e oma’ẽkuri	TYPE:NEG	Ha’e oma’ẽkuri
+Guarani0568	Ha’e oma’ẽkuri	ASPECT:IPFV	Ha’e oma’ẽkuri hína
+Guarani0569	Ha’e oma’ẽkuri	PERSON:2_PL	Peẽ pema’ẽkuri
+Guarani0570	Ha’e oma’ẽkuri	PERSON:1_PL_EXC	Ore oma’ẽkuri
+Guarani0585	Peẽ ndapeikemoái	TYPE:AFF	Peẽ peikemoái
+Guarani0586	Peẽ ndapeikemoái	TENSE:PAS_PLU	Peẽ ndapeikuemoái va’ekue
+Guarani0587	Peẽ ndapeikemoái	PERSON:3_SI	Peẽ ndapeikemoái
+Guarani0588	Peẽ ndapeikemoái	PERSON:1_SI	Che ndaikumbomo
+Guarani0589	Peẽ ndapeikemoái	PERSON:1_PL_INC	Ñande ndañaikummi
+Guarani0590	Peẽ ndapeikemoái	TENSE:PRE_SIM	Peẽ ndapeikuéra
+Guarani0492	Katu atererehína	PERSON:2_SI	Nde retererende
+Guarani0493	Katu atererehína	PERSON:2_PL	Katu atererende
+Guarani0494	Katu atererehína	TENSE:FUT_SIM	Katu atererentaaíe
+Guarani0495	Katu atererehína	ASPECT:INM	Katu atererend
+Guarani0496	Katu atererehína	TYPE:NEG	Katu atererendhand
+Guarani0497	Katu atererehína	PERSON:3_PL	Katu atererendoranohíra
+Guarani0498	Katu atererehína	ASPECT:-	Katu atererend
+Guarani0304	Ñande ndañambotavýi	PERSON:1_PL_EXC	Ñande ndroñambotavýi
+Guarani0305	Ñande ndañambotavýi	PERSON:1_SI	Ñande naañambotavýi
+Guarani0306	Ñande ndañambotavýi	TENSE:FUT_SIM	Ñande naadambotavýta
+Guarani0307	Ñande ndañambotavýi	ASPECT:IPFV	Ñande ndañambotavýi
+Guarani0308	Ñande ndañambotavýi	TENSE:PAS_IMP	Ñande ndañambotavýimi
+Guarani0309	Ñande ndañambotavýi	PERSON:2_PL	Ñande ndereñambotavýi
