@@ -1,0 +1,311 @@
+ID	Source	Change	Target
+Maya0936	Ta jutaj a najil	TYPE:NEG	Ma' ta kutaj a najili'
+Maya0937	Ta jutaj a najil	SUBTYPE:INT	Ta jutaj wáaj a najil
+Maya0938	Ta jutaj a najil	TYPE:NEG, SUBTYPE:INT	Ma' wáaj a jutaj a najili'
+Maya1004	Ma' táan in bin in wil in waalak'o'obi'	ASPECT:DES	Ma' taak in bin in wil in waalak'o'obi'
+Maya1005	Ma' táan in bin in wil in waalak'o'obi'	ASPECT:OBL, TENSE:FUT_SIM	Ma' k'a'abéet in bin koon a waalak'
+Maya1006	Ma' táan in bin in wil in waalak'o'obi'	ASPECT:CUS	Ma' suuk in bin in wil in waalak'i'
+Maya1007	Ma' táan in bin in wil in waalak'o'obi'	ASPECT:BEG, TENSE:PAS_SIM	Ma' káaj in bin koon koon koonoki'
+Maya0764	Tene' ajk'aayen	PERSON:3_SI	Leti'e' ajk'aayin
+Maya0765	Tene' ajk'aayen	PERSON:2_SI	Teche' ajk'aayech
+Maya0766	Tene' ajk'aayen	PERSON:1_PL	To'one' ajk'aayono'on
+Maya0767	Tene' ajk'aayen	PERSON:2_PL	Te'exe' ajk'aaye'ex
+Maya0768	Tene' ajk'aayen	PERSON:3_PL	Leti'obe' ajk'aayo'ob
+Maya0869	Tene' áak'ab kin suut tu najil xook	TYPE:NEG	Tene' ma' áak'ab wáaj kin suut tu najil xooki'
+Maya0870	Tene' áak'ab kin suut tu najil xook	SUBTYPE:INT	Tene' wáaj wáaj kin suut tu najil xook
+Maya0871	Tene' áak'ab kin suut tu najil xook	TYPE:NEG, SUBTYPE:INT	Tene' ma' áak'ab wáaj kin suut tu najil xooki'
+Maya0996	Táan in suut in páak le solaro'	ASPECT:COM, TENSE:FUT_SIM	Yaan in suut in páak ich lolaro'
+Maya0997	Táan in suut in páak le solaro'	ASPECT:DES	Taak in suut in páak te'
+Maya0998	Táan in suut in páak le solaro'	ASPECT:OBL, TENSE:FUT_SIM	K'a'abéet in suut in páak te'exo'
+Maya0999	Táan in suut in páak le solaro'	ASPECT:HAB	Kin in suut in páak tee'exo'
+Maya1000	Táan in suut in páak le solaro'	ASPECT:CUS	Suuk in suut in páak in polaro'
+Maya1001	Táan in suut in páak le solaro'	ASPECT:TER, TENSE:PAS_SIM	Ts'o'ok in suut in páak ae'al tu solaro'
+Maya1002	Táan in suut in páak le solaro'	ASPECT:BEG, TENSE:PAS_SIM	Káaj in suut in páak le solar
+Maya1003	Táan in suut in páak le solaro'	ASPECT:IMM, TENSE:PAS_SIM	Táant in suut in páak te'ex tu solaro'
+Maya0918	Ta p'axaj a wotoch	SUBTYPE:INT	Ta p'axaj wáaj a wotoch
+Maya0919	Ta p'axaj a wotoch	TYPE:NEG, SUBTYPE:INT	Ma' wáaj a wooochi'
+Maya0920	Ta p'axaj a wotoch	TYPE:NEG, PERSON:1_SI	Ma' tin p'axaj in wotochi'
+Maya0971	Tin p'axaj u lu'umil uti'al in beetik in najil	SUBTYPE:INT	Tin wáaxaj wáaj a le'al in beetik in najil
+Maya0972	Tin p'axaj u lu'umil uti'al in beetik in najil	TYPE:NEG	Ma' tin p'axaj u lu'ulil uti'al in najil
+Maya0973	Tin p'axaj u lu'umil uti'al in beetik in najil	TYPE:NEG, SUBTYPE:INT	Ma' wáaj jaaukik u lu'ulil uti'al in najil
+Maya0849	Yaan wáaj in wokol xook UPN	PERSON:2_SI	Yaan wáaj a wokol xook UPN
+Maya0850	Yaan wáaj in wokol xook UPN	PERSON:3_SI	Yaan wáaj u wokol xook UPN
+Maya0851	Yaan wáaj in wokol xook UPN	PERSON:3_PL	Yaan wáaj u wokolo'ob UPN
+Maya0852	Yaan wáaj in wokol xook UPN	PERSON:2_PL	Yaan wáaj a wokole'ex xook waN
+Maya0853	Yaan wáaj in wokol xook UPN	PERSON:1_PL	Yaan wáaj k wokol xook UPN
+Maya0980	Teche' ka bin xíimbal Chichen Itzá	SUBTYPE:INT	Teche' ka bin xíimbal Caimhan wáache'
+Maya0981	Teche' ka bin xíimbal Chichen Itzá	TYPE:NEG, ASPECT:PRG	Teche' ma' táan a bin xíimbal ti'
+Maya0982	Teche' ka bin xíimbal Chichen Itzá	TYPE:NEG, SUBTYPE:INT, ASPECT:PRG	Teche' ma' táan a bin xíimbal ti'ike'ex Ia
+Maya0834	Sáansamal kin kaambal tu jo'ol in meyaj	PERSON:2_SI	Sáansamal ka kaambal ta jo'ol a meyaj
+Maya0835	Sáansamal kin kaambal tu jo'ol in meyaj	PERSON:3_SI	Sáansamal ku kaambal tu jo'ol u meyaj
+Maya0836	Sáansamal kin kaambal tu jo'ol in meyaj	PERSON:3_PL	Sáansamal ku kaambal tu jo'ol u meyaj
+Maya0837	Sáansamal kin kaambal tu jo'ol in meyaj	PERSON:2_PL	Sáansamal ka kaambal ta je'el a meyaj
+Maya0927	Teche' ka jóok'ol cha'an tu yéetel	TYPE:NEG	Teche' ma' ta jóok'ol ti'an tu yéeteli'
+Maya0928	Teche' ka jóok'ol cha'an tu yéetel	SUBTYPE:INT	Teche' ka jóok'ol wáajan tu yéetel
+Maya0929	Teche' ka jóok'ol cha'an tu yéetel	TYPE:NEG, SUBTYPE:INT	Teche' ma' wáaj a jóok'ol ti'an wáajan tu yéeteli'
+Maya0844	Táan in xook UADY	PERSON:2_SI	Táan a xook UADY
+Maya0845	Táan in xook UADY	PERSON:3_SI	Táan u xook UADY
+Maya0846	Táan in xook UADY	PERSON:3_PL	Táan u xooko'ob UADY
+Maya0847	Táan in xook UADY	PERSON:2_PL	Táan a xooke'ex UADk
+Maya0848	Táan in xook UADY	PERSON:1_PL	Táan k xook UADY
+Maya1049	Máax yéetel ka bin xíimbal Uxmal	ASPECT:TER, TENSE:PAS_SIM	Máax yéetel ts'o'ok a bin xíimbal tu aal
+Maya1050	Máax yéetel ka bin xíimbal Uxmal	ASPECT:INS, TENSE:FUT_SIM	Máax yéetel je'el a bin xíimbal Uxmal
+Maya0794	Tene' áak'ab kin suut tin meyaj	PERSON:2_SI	Teche' áak'ab ka suut ta meyaj
+Maya0795	Tene' áak'ab kin suut tin meyaj	PERSON:3_SI	Leti'e' áak'ab ku suut tu meyaj
+Maya0796	Tene' áak'ab kin suut tin meyaj	PERSON:1_PL	To'one' áak'ab k biut tu meyaj
+Maya0797	Tene' áak'ab kin suut tin meyaj	PERSON:2_PL	Te'exe' áak'ab ka suute'ex
+Maya0798	Tene' áak'ab kin suut tin meyaj	PERSON:3_PL	Leti'obe' áak'ab ku suuto'ob tu meyaj
+Maya0887	Ki'imak a wóol a suut ta wotoch	SUBTYPE:INT	Ki'imak a wóol a suut ti'
+Maya0888	Ki'imak a wóol a suut ta wotoch	TYPE:NEG	Mi' ma' ma' ta wóol ta wotochi'
+Maya0889	Ki'imak a wóol a suut ta wotoch	TYPE:NEG, SUBTYPE:INT	Mi' ma' ma' ma'amaj a wóol ti' ta wotochi'
+Maya0974	Ta bo'otaj u lu'umil uti'al a beetik a najil	TYPE:NEG	Ma' ta bi'obaj u lu'ulil uti'al u bintik a najil
+Maya0975	Ta bo'otaj u lu'umil uti'al a beetik a najil	SUBTYPE:INT	Ta wo'otaj wáaj u lu'umil uti'al a beetik a najil
+Maya0976	Ta bo'otaj u lu'umil uti'al a beetik a najil	TYPE:NEG, SUBTYPE:INT	Ma' wáaj u lu'umil uti'al u bintik a najil
+Maya1052	Kin wilikech te' téerminalo'	ASPECT:IMM, TENSE:PAS_SIM	Táant in wilikech te' téerminalo'
+Maya1053	Kin wilikech te' téerminalo'	ASPECT:COM, TENSE:FUT_SIM	Yaan wáal in wilikech te' téerminalo'
+Maya0896	To'one' áak'ab k luk'ul tu kúuchil tsakyaj	TYPE:NEG	To'one' ma' áak'ab wáaj k binal tu kúuchil ti'ak aji'
+Maya0897	To'one' áak'ab k luk'ul tu kúuchil tsakyaj	SUBTYPE:INT	To'one' áak'ab wáaj k bik'al tu kúuchil tsakyaj
+Maya0898	To'one' áak'ab k luk'ul tu kúuchil tsakyaj	TYPE:NEG, SUBTYPE:INT	To'one' ma' áak'ab wáaj a binel tu kúuchil ti'ak aji'
+Maya0769	Ka'abeje' yaan in taal k'íiwik	PERSON:2_SI	Ka'abeje' yaan a taal tu taal k'íiwik
+Maya0770	Ka'abeje' yaan in taal k'íiwik	PERSON:3_PL	Ka'abeje' yaan u taalo'ob tu taalo'ob
+Maya0771	Ka'abeje' yaan in taal k'íiwik	PERSON:2_PL	Ka'abeje' yaan a taale'ex
+Maya0772	Ka'abeje' yaan in taal k'íiwik	PERSON:3_SI	Ka'abeje' yaan u taal tu taal tu taal tu tuawik
+Maya0773	Ka'abeje' yaan in taal k'íiwik	PERSON:1_PL	Ka'abeje' yaan k taal k'íiwik
+Maya0959	Jach k'a'abéet in bo'ol SAT	TYPE:NEG	Ma' jach k'a'abéet in bi'ol ma'
+Maya0960	Jach k'a'abéet in bo'ol SAT	SUBTYPE:INT	Jach wáaj k'a'abéet in bi'ol wáaj aA
+Maya0961	Jach k'a'abéet in bo'ol SAT	TYPE:NEG, SUBTYPE:INT	Ma' wáaj jach k'a'abéet in bi'ol ma'
+Maya0854	Táan in xíimbal tu jáal ja'	TYPE:NEG	Ma' ti' max k xíimbal tu jáal ja'al ja'al ja'al ja'al ja'al ja'al ja'al ja'al ja'al ja'al ja'al ja'al ja'al ja'al ja'al ja'al ja'al ja'al ja'al ja'al ja'al ja'al ja'al ja'al ja'al ja'al ja'al ja'al ja
+Maya0855	Táan in xíimbal tu jáal ja'	SUBTYPE:INT	Táan wáaj in xíimbal wáaj ja'
+Maya0856	Táan in xíimbal tu jáal ja'	TYPE:NEG, SUBTYPE:INT	Ma' wáaj in xíimbal tu jáal ja'al ja'al ja'al ja'al ja'al ja'al ja'al ja'al ja'al ja'al ja'al ja'al ja'al ja'al ja'al ja'al ja'al ja'al ja'al ja'al ja'al ja'al ja'al ja'al ja'al ja'al ja'al ja'al ja'a
+Maya0890	Teche' áak'ab ka jóok'ol ta meyaj	TYPE:NEG	Teche' ma' áak'ab wáaj ka jóok'ol tu meyaji'
+Maya0891	Teche' áak'ab ka jóok'ol ta meyaj	SUBTYPE:INT	Teche' áak'ab wáaj ka jóok'ol ti'ok aammaj
+Maya0892	Teche' áak'ab ka jóok'ol ta meyaj	TYPE:NEG, SUBTYPE:INT	Teche' ma' áak'ab wáaj ka jóok'ol tu meyaji'
+Maya0989	Táan in bin xíimbal tu nojkaajil zací	ASPECT:COM, TENSE:FUT_SIM	Táan in bin xíimbal tu nojkaajil ach
+Maya0990	Táan in bin xíimbal tu nojkaajil zací	ASPECT:DES	Taak in bin xíimbal tu nojkaajil ach
+Maya0991	Táan in bin xíimbal tu nojkaajil zací	ASPECT:OBL, TENSE:FUT_SIM	Ts''abéet in bin xíimbal tu nojkaajil ach
+Maya0992	Táan in bin xíimbal tu nojkaajil zací	ASPECT:HAB	Táan in bin xíimbal tu nojkaajil ach
+Maya0993	Táan in bin xíimbal tu nojkaajil zací	ASPECT:CUS	Tsuk in bin xíimbal tu nojkaajil ach
+Maya0909	Chilajech te' jáal ja'o'	TYPE:NEG	Ma' malo'ob te' jáal ja'o'i'
+Maya0910	Chilajech te' jáal ja'o'	SUBTYPE:INT	Chilaje'ex we' jáal ja'o'
+Maya0911	Chilajech te' jáal ja'o'	TYPE:NEG, SUBTYPE:INT	Ma' wáaj te'ex maao'i'
+Maya0954	Táan ek taal te' plaasao'	TYPE:NEG	Ma' ta' u taalo'obi'
+Maya0955	Táan ek taal te' plaasao'	SUBTYPE:INT	Táan wáaj a taal te' paasao'
+Maya0956	Táan ek taal te' plaasao'	TYPE:NEG, SUBTYPE:INT	Ma' wáaj a taal te' plaasao'i'
+Maya1051	Míisnaj te' tu kúuchil báaxalo'	STATUS:ICM, ASPECT:PRG, TENSE:PRE_SIM	Míisnaj te'ex tu kúuchil báaxalo'
+Maya0820	Jsa'aten yéetel in éetailo'ob tu nojkaajil Jo'	PERSON:2_SI	Jsa'aten yéetel a éetailo'ob tu nojkaajil Jo'
+Maya0821	Jsa'aten yéetel in éetailo'ob tu nojkaajil Jo'	PERSON:3_SI	Jsa'aten yéetel u éetailo'ob tu nojkaajil Jo'
+Maya0822	Jsa'aten yéetel in éetailo'ob tu nojkaajil Jo'	PERSON:3_PL	Jsa'aten yéetel u éetailo'ob tu nojkaajil Jo'
+Maya0823	Jsa'aten yéetel in éetailo'ob tu nojkaajil Jo'	PERSON:2_PL	Jsa'ate' jéetel a éetailo'ob tu nojkaajil Jo'
+Maya1045	Kin suut je'elel ka'ap'éel k'iin	ASPECT:TER, TENSE:PAS_SIM	Ts'o'ok in suut ko'ok'al tu ya'pa'éel k'aj
+Maya1046	Kin suut je'elel ka'ap'éel k'iin	ASPECT:INS, TENSE:FUT_SIM	Je'ex in suut je'elel aa'ap'éel k'iin
+Maya0939	Tin manaj in nook'	SUBTYPE:INT	Tin manaj in manaj in nook'
+Maya0940	Tin manaj in nook'	TYPE:NEG, SUBTYPE:INT	Ma' wáaj in manaj in nook'
+Maya0941	Tin manaj in nook'	TYPE:NEG	Ma' tin manaj in nook'
+Maya0893	Leti'e' áak'ab ku k'uchul tu yotoch	TYPE:NEG	Leti'e' ma' áak'ab wáaj ku k'uchul tu yotochi'
+Maya0894	Leti'e' áak'ab ku k'uchul tu yotoch	SUBTYPE:INT	Leti'e' áak'ab wáaj ku k'uchul tu yotoch
+Maya0895	Leti'e' áak'ab ku k'uchul tu yotoch	TYPE:NEG, SUBTYPE:INT	Leti'e' ma' áak'ab wáaj ku k'uchul tu yotochi'
+Maya0789	Ma' jach k'a'abéet wáaj in k'aay tu najil k'uji'	PERSON:2_SI	Ma' jach kaa'abéet wáaj a k'aay tu najil k'uji'
+Maya0790	Ma' jach k'a'abéet wáaj in k'aay tu najil k'uji'	PERSON:3_SI	Ma' jach k'a'abéet wáaj u k'aay tu najil k'uji'
+Maya0791	Ma' jach k'a'abéet wáaj in k'aay tu najil k'uji'	PERSON:1_PL	Ma' jach k'a'abéet wáaj k k'aay tu najil k'oon
+Maya0792	Ma' jach k'a'abéet wáaj in k'aay tu najil k'uji'	PERSON:3_PL	Ma' jach k'a'abéet wáaj u k'aay tu najil k'uji'
+Maya0793	Ma' jach k'a'abéet wáaj in k'aay tu najil k'uji'	PERSON:2_PL	Ma' jach k'a'abéet wáaj a k'aayi'
+Maya0831	Ma' táan wáaj a p'áatal tu cha'anil in kaajal	PERSON:3_SI	Ma' táan wáaj u p'áatal tu cha'anil u kaajal
+Maya0832	Ma' táan wáaj a p'áatal tu cha'anil in kaajal	PERSON:2_PL	Ma' táan wáaj a p'áatal ta cha'anil a kaajale'ex
+Maya0833	Ma' táan wáaj a p'áatal tu cha'anil in kaajal	PERSON:3_PL	Ma' táan wáaj u p'áatal tu cha'anil u kaajalo'ob
+Maya1020	Máax yéetel jo'op' a kanik a beet píib	ASPECT:TER	Máax yéetel ts'o'ok a kanik a beet píib
+Maya1021	Máax yéetel jo'op' a kanik a beet píib	ASPECT:IMM	Máax yéetel táan a kanik a beet píib
+Maya0904	Yaan in taal óok'ot	TYPE:NEG	Yaan in taal tu 'aalo'ob
+Maya0905	Yaan in taal óok'ot	SUBTYPE:INT	Yaan wáaj in taal wáaj óokoo
+Maya1035	Táan in póolik ch'ujuk pak'áalo'ob te' táankabo'	ASPECT:HAB	Kin wiolik nik'áalo'ob te' táankabo'
+Maya1036	Táan in póolik ch'ujuk pak'áalo'ob te' táankabo'	ASPECT:TER, TENSE:PAS_SIM	Ts'o'ok in póolik jao'al tu pak'áalo'ob te' táankabo'
+Maya1037	Táan in póolik ch'ujuk pak'áalo'ob te' táankabo'	ASPECT:IMM, TENSE:PAS_SIM	Táant in póolik ch'ujuk pak'áal tu nak'áalo'ob te' táankabo'
+Maya1038	Táan in póolik ch'ujuk pak'áalo'ob te' táankabo'	ASPECT:OBL, TENSE:FUT_SIM	K'a'abéet in póolik suk'áal tu  aa'áalo'ob te' táankabo'
+Maya1039	Táan in póolik ch'ujuk pak'áalo'ob te' táankabo'	ASPECT:COM, TENSE:FUT_SIM	Yaan in póolik ch'ujuko'ob pak'áalo'ob te' táankabo'
+Maya1047	Kin jóok'ol wáaj óok'ot te' k'íiwiko'	ASPECT:TER, TENSE:PAS_SIM	Ts'o'ok wáaj in jóok'ol koook te' k'íiwiko'
+Maya1048	Kin jóok'ol wáaj óok'ot te' k'íiwiko'	ASPECT:COM, TENSE:FUT_SIM	Yaan wáaj in jóok'ol koook te' tu k'íiwiko'
+Maya0838	Jpúuts'en tu najil xook	PERSON:2_SI	Jpúutsaech tu najil xook
+Maya0839	Jpúuts'en tu najil xook	PERSON:3_PL	Jpúuts'ob tu najil xook
+Maya0840	Jpúuts'en tu najil xook	PERSON:2_PL	Jpúuts'ex tu najil xook
+Maya0779	Ma' jach k'a'abéet in suut tin wotochi'	PERSON:2_SI	Mix teech jach kaa'abéet a suut ta wotoch
+Maya0780	Ma' jach k'a'abéet in suut tin wotochi'	PERSON:3_SI	Mix leti' jach k'a'abéet u suut tin wotoch
+Maya0781	Ma' jach k'a'abéet in suut tin wotochi'	PERSON:1_PL	Mix to'on jach k'a'abéet in wouo tin wotoch
+Maya0782	Ma' jach k'a'abéet in suut tin wotochi'	PERSON:3_PL	Mix leti'ob jach k'a'abéet u suuto'ob tu wotoch
+Maya0783	Ma' jach k'a'abéet in suut tin wotochi'	PERSON:2_PL	Mix jach k'a'abéet a suute'ex ta wotochi'
+Maya0912	Jjóok'en áalkab te' tu kúuchil báaxalo'	TYPE:NEG	Ma' bin bin bi' tu kúuchil báaxalo'
+Maya0913	Jjóok'en áalkab te' tu kúuchil báaxalo'	SUBTYPE:INT, PERSON:2_SI	Jjóok'en walkab te' tu kúuchil báaxalo'
+Maya0914	Jjóok'en áalkab te' tu kúuchil báaxalo'	TYPE:NEG, SUBTYPE:INT, PERSON:2_SI	Ma' wáaj aalkab te' tu kúuchil báaxalo'
+Maya0799	Tene' áak'ab wáaj kin báaxal Ticul	PERSON:2_SI	Teche' áak'ab wáaj ka báaxal Tichl
+Maya0800	Tene' áak'ab wáaj kin báaxal Ticul	PERSON:3_SI	Leti'e' áak'ab wáaj ku báaxal Tichl
+Maya0801	Tene' áak'ab wáaj kin báaxal Ticul	PERSON:1_PL	To'one' áak'ab wáaj k báaxal Tichl
+Maya0802	Tene' áak'ab wáaj kin báaxal Ticul	PERSON:2_PL	Te'exe' áak'ab wáaj ka báaxal Tichl
+Maya0803	Tene' áak'ab wáaj kin báaxal Ticul	PERSON:3_PL	Leti'obe' áak'ab wáaj ku báaxalo'ob Tichll
+Maya0774	Jach k'a'abéet a suut ta wotoch	PERSON:1_SI	Jach k'a'abéet in suut ich  otoch
+Maya0775	Jach k'a'abéet a suut ta wotoch	PERSON:3_SI	Jach k'a'abéet u suut ta wotoch
+Maya0776	Jach k'a'abéet a suut ta wotoch	PERSON:3_PL	Jach k'a'abéet u suuto'ob ta wotoch
+Maya0777	Jach k'a'abéet a suut ta wotoch	PERSON:2_PL	Jach k'a'abéet a suute'ex tin wotochi'
+Maya0778	Jach k'a'abéet a suut ta wotoch	PERSON:1_PL	Jach k'a'abéet in suut tin wotoch
+Maya0902	Yaan a taal óok'ot	TYPE:NEG	Yaan a taal tu 'aalo'ob
+Maya0903	Yaan a taal óok'ot	SUBTYPE:INT	Yaan wáaj a taal wáaj óokoo
+Maya0933	Yaan a majáantik a najil	SUBTYPE:INT, PERSON:3_SI	Yaan u majáantik a najil
+Maya0934	Yaan a majáantik a najil	TYPE:NEG, PERSON:3_SI	Mix tu majáantik a najil
+Maya0935	Yaan a majáantik a najil	TYPE:NEG, SUBTYPE:INT, PERSON:3_SI	Mix tu majáantik a najil
+Maya1022	Taak in pak'ik loolo'ob ya'ab u bo'onilo'ob	ASPECT:PRG	Táan in pak'ik boolo'ob ya'ab a bo'onil
+Maya1023	Taak in pak'ik loolo'ob ya'ab u bo'onilo'ob	ASPECT:HAB	Kin wikiik noolo'ob ya'ab tu bo'onil
+Maya1024	Taak in pak'ik loolo'ob ya'ab u bo'onilo'ob	ASPECT:CUS	Suuk in pak'ik suok a bo'onil
+Maya1025	Taak in pak'ik loolo'ob ya'ab u bo'onilo'ob	ASPECT:OBL, TENSE:FUT_SIM	K'a'abéet in pak'ik bool tu'ab a bi'onil
+Maya0951	Táan a báabe'ex ich k'áak'náab	TYPE:NEG	Ma' táan a báab tu k'áak'aáabi'abi'
+Maya0952	Táan a báabe'ex ich k'áak'náab	SUBTYPE:INT	Táan wáaj a báab wáaj ich k'áak'náab
+Maya0953	Táan a báabe'ex ich k'áak'náab	TYPE:NEG, SUBTYPE:INT	Ma' wáaj a báab tu k'áak'aáabi'abi'
+Maya0828	Jaypéel k'iino'ob ka p'áatal tin wotoch	PERSON:3_SI	Jayp'éel k'iino'ob ku p'áatal tin wotoch
+Maya0829	Jaypéel k'iino'ob ka p'áatal tin wotoch	PERSON:3_PL	Jayp'éel k'iino'ob ku p'áatal tin wotoch
+Maya0830	Jaypéel k'iino'ob ka p'áatal tin wotoch	PERSON:2_PL	Jayp'éel k'iino'ob ka p'áatal ta wotochi'
+Maya0986	Táan a wóok'ot tu cha'anil a kaajal	TYPE:NEG	Ma' táan a wóok'ob tu cha'anil u kaajali'
+Maya0987	Táan a wóok'ot tu cha'anil a kaajal	TYPE:NEG, SUBTYPE:INT	Ma' wáaj a wóok'ob tu cha'anil u kaajali'
+Maya0988	Táan a wóok'ot tu cha'anil a kaajal	SUBTYPE:INT	Táan wáaj a wóok'ok wáaj a kaajal
+Maya1008	Yaan wáaj in jóok'ol xíimbal ich kaaj	ASPECT:OBL	Yaan wáaj in jóok'ol xoombal ich kaaj
+Maya1009	Yaan wáaj in jóok'ol xíimbal ich kaaj	ASPECT:HAB, TENSE:PRE_SIM	Yaan wáaj in jóok'ol wáajbal ich kaaj
+Maya1010	Yaan wáaj in jóok'ol xíimbal ich kaaj	ASPECT:CUS, TENSE:PRE_SIM	Yaan wáaj in jóok'ol xíimbal ich kaaj
+Maya1016	Máax yéetel ka bin tu k'iin u k'aaba' Ixchel	ASPECT:PRG	Máax yéetel táan a bin tu k'iin u k'aaba' Ixchel
+Maya1017	Máax yéetel ka bin tu k'iin u k'aaba' Ixchel	ASPECT:CUS	Máax yéetel suuk auk'ana' tu k'aaba' Ixchel
+Maya1018	Máax yéetel ka bin tu k'iin u k'aaba' Ixchel	ASPECT:OBL, TENSE:FUT_SIM	Máax yéetel k'a'aba' tu k'iin u k'aaba' tu k'aaba' tu k'aaba' tu k'aaba' tu k'aaba' tu k'aaba' tu k'aaba' tu k'aaba' tu k'aaba' tu k'aaba' tu k'aaba' tu k'aaba' tu k'aaba' tu k'aaba' tu k'aaba' tu k'a
+Maya1019	Máax yéetel ka bin tu k'iin u k'aaba' Ixchel	ASPECT:DES	Máax yéetel taak a bin tu k'iana' ti'al
+Maya0930	Ta bonaj a najil	SUBTYPE:INT	Ta bonaj wáaj a najil
+Maya0931	Ta bonaj a najil	TYPE:NEG, PERSON:1_SI	Ma' tin bonaj in najili'
+Maya0932	Ta bonaj a najil	TYPE:NEG, SUBTYPE:INT, PERSON:1_SI	Ma' wáaj a najili'
+Maya0841	Ook'in in jóok'ol tu k'íiwikil Zací	PERSON:2_SI	Ook'in a jóok'ol tu k'íiwikil ach
+Maya0842	Ook'in in jóok'ol tu k'íiwikil Zací	PERSON:3_PL	Ook'in u jóok'ol tu k'íiwikil ach
+Maya0843	Ook'in in jóok'ol tu k'íiwikil Zací	PERSON:2_PL	Ook'in a jóok'el k'aaíil ta k'íiwikil ach
+Maya0945	Táan u yáalkab tu jáal ja'	TYPE:NEG	Ma' táan u yáalkab tu jáal ja'al ja'al ja'al ja'al ja'al ja'al ja'al ja'al ja'al ja'al ja'al ja'al ja'al ja'al ja'al ja'al ja'al ja'al ja'al ja'al ja'al ja'al ja'al ja'al ja'al ja'al ja'al ja'al ja'al
+Maya0946	Táan u yáalkab tu jáal ja'	SUBTYPE:INT	Táan wáaj u yáalkab wáaj ja'
+Maya0947	Táan u yáalkab tu jáal ja'	TYPE:NEG, SUBTYPE:INT	Ma' wáaj u yáalkab tu jáal ja'al ja'al ja'al ja'al ja'al ja'al ja'al ja'al ja'al ja'al ja'al ja'al ja'al ja'al ja'al ja'al ja'al ja'al ja'al ja'al ja'al ja'al ja'al ja'al ja'al ja'al ja'al ja'al ja'al
+Maya0884	Táan k jóok'ol xíimbal tu k'íiwikil Tizimín	TYPE:NEG	Táan a jóok'ol ti' tu k'íiwikil Tiimíi'
+Maya0885	Táan k jóok'ol xíimbal tu k'íiwikil Tizimín	SUBTYPE:INT	Táan wáaj a jóok'ol ti'ab a k'íiwikil Tiximíi'
+Maya0886	Táan k jóok'ol xíimbal tu k'íiwikil Tizimín	TYPE:NEG, SUBTYPE:INT	Táan wáaj a jóok'ol ti' tu k'íiwikil Tiimíi'
+Maya0872	Táan a suut xíimbal tu nojkaajil Jo'	TYPE:NEG	Ma' táan a suut tu nojkaajil Jo'
+Maya0873	Táan a suut xíimbal tu nojkaajil Jo'	SUBTYPE:INT	Táan wáaj a suut kíimbal tu nojkaajil Jo'
+Maya0874	Táan a suut xíimbal tu nojkaajil Jo'	TYPE:NEG, SUBTYPE:INT	Ma' wáaj a suut tu nojkaajil Jo'
+Maya0863	Jach k'a'abéet in xook UPN	TYPE:NEG	Ma' jach k'a'abéet in xook meN
+Maya0864	Jach k'a'abéet in xook UPN	SUBTYPE:INT	Jach wáaj k'a'abéet in xook wáaj UPN
+Maya0865	Jach k'a'abéet in xook UPN	TYPE:NEG, SUBTYPE:INT	Ma' wáaj jach k'a'abéet in xooki'
+Maya1043	Kin bin meyaj tu nojlu'umil Canadá	ASPECT:TER, TENSE:PAS_SIM	Ts'o'ok in bin meyaj tu nojlu'okil Canado
+Maya1044	Kin bin meyaj tu nojlu'umil Canadá	ASPECT:INS, TENSE:FUT_SIM	Je'ex in bin meyaj ich nojlu'obil Canadá
+Maya0811	Ma' tin nats'ike'ex te' k'íiwiko'	PERSON:3_SI	Ma' tu nats'ik te' k'íiwiko'
+Maya0812	Ma' tin nats'ike'ex te' k'íiwiko'	PERSON:2_SI	Ma' ta nats'ik te' k'íiwiko'
+Maya0813	Ma' tin nats'ike'ex te' k'íiwiko'	PERSON:3_PL	Ma' tu nats'iko'ob te' k'íiwiko'
+Maya0814	Ma' tin nats'ike'ex te' k'íiwiko'	PERSON:1_PL	Ma' tak nats'ik te' k'íiwiko'
+Maya0878	Leti'obe' táan u suut báaxal boola te' kaampoo'	TYPE:NEG	Ma' táan u suut báaxal tu xaapoo'i'
+Maya0879	Leti'obe' táan u suut báaxal boola te' kaampoo'	SUBTYPE:INT	Táan wáaj u suut xooka te' kaampoo'
+Maya0880	Leti'obe' táan u suut báaxal boola te' kaampoo'	TYPE:NEG, SUBTYPE:INT	Ma' wáaj u suut báaxal tu xaapto'i'
+Maya0968	Jach k'a'abéet a bo'ole'ex ti' SAT	TYPE:NEG	Ma' jach k'a'abéet a binolo'ob ti' SAT
+Maya0969	Jach k'a'abéet a bo'ole'ex ti' SAT	SUBTYPE:INT	Jach wáaj k'a'abéet a be'ol ma' SAT
+Maya0970	Jach k'a'abéet a bo'ole'ex ti' SAT	TYPE:NEG, SUBTYPE:INT	Ma' wáaj jach k'a'abéet a binolo'ob ti' SAT
+Maya0915	Teche' ka p'áatal wenel tu yotoch	SUBTYPE:INT	Teche' ka p'áatal wenel tu yotoch
+Maya0916	Teche' ka p'áatal wenel tu yotoch	TYPE:NEG	Teche' ma' ta p'áatal wenel tu yotochi'
+Maya0917	Teche' ka p'áatal wenel tu yotoch	TYPE:NEG, SUBTYPE:INT	Teche' ma' ka p'áatal wenel tu yotochi'
+Maya0860	Tene' áak'ab kin meyaj te' tu kúuchil ts'akyajo'	TYPE:NEG	Tene' ma' áak'ab wáaj kin meyaj te'ex tu kúuchil ti'akyaji'
+Maya0861	Tene' áak'ab kin meyaj te' tu kúuchil ts'akyajo'	SUBTYPE:INT	Tene' wáaj ka meyaj wáaj kin meyaj te' tu kúuchil ts'akyajo'
+Maya0862	Tene' áak'ab kin meyaj te' tu kúuchil ts'akyajo'	TYPE:NEG, SUBTYPE:INT	Tene' ma' áak'ab wáaj kin meyaj te' tu kúuchil ti'akyaji'
+Maya0983	Ma'alob jk'uchiken tu cha'anil in kaajal 	TYPE:NEG	Ma' ma'alob jk'uchiken tu cha'anil in kaajal ti' kaajal ti' kaajal ti'
+Maya0984	Ma'alob jk'uchiken tu cha'anil in kaajal 	SUBTYPE:INT	Ma'alow wáaj ja'uchiken wáaj ti' cha'anil in kaajal wáaj 
+Maya0985	Ma'alob jk'uchiken tu cha'anil in kaajal 	TYPE:NEG, SUBTYPE:INT	Ma' ma'alo'ob jk'uchiken tu cha'anil in kaajal ti' kaajal ti' kaajal ti'
+Maya0906	Jka'anech te' báabo'	TYPE:NEG	Ma' ma'ano'ob te' báabo'i'
+Maya0907	Jka'anech te' báabo'	SUBTYPE:INT	Jka'anech wáaj aeb báabo'
+Maya0908	Jka'anech te' báabo'	TYPE:NEG, SUBTYPE:INT	Ma' wáajano'ob te' báabo'i'
+Maya1026	Kin manik ya'abach u yich che' tu kaajil Akil	ASPECT:PRG	Táan in manik ya'abach u yich che' tu kaajil Akil
+Maya1027	Kin manik ya'abach u yich che' tu kaajil Akil	ASPECT:TER, TENSE:PAS_SIM	Ts'o'ok in manik ya'abach u yich che' tu kaajil Aajajil Aajajil Aajajil Aajajil Aajajil Aajajil Aajajil Aajajil Aajajil Aajajil Aajajil Aajajil Aajajil Aajajil Aajajil Aajajil Aajajil Aajajil Aajajil 
+Maya1028	Kin manik ya'abach u yich che' tu kaajil Akil	ASPECT:COM, TENSE:FUT_SIM	Yaan in manik ya'abach u yich che' tu kaajil Aaalil Aaalil Aaalil Aail
+Maya1029	Kin manik ya'abach u yich che' tu kaajil Akil	ASPECT:INS, TENSE:FUT_SIM	Je'el in manik ya'abach u yich che' tu kaajil Akil
+Maya1030	Kin manik ya'abach u yich che' tu kaajil Akil	ASPECT:OBL, TENSE:FUT_SIM	K'a'abéet in manik ya'abach u yich che' tu kaajil Aa'ajil Aa'ajil Aa'a'il Aa'ajil Aa'a'il Aa'ajil Aa'a'il Aa'ajil Aa'a'il Aa'ajil Aa'a'il Aa'ajil Aa'a'il Aa'ajil Aa'a'il Aa'ajil Aa'a'il Aa'ajil Aa'a'i
+Maya1031	Kin manik ya'abach u yich che' tu kaajil Akil	ASPECT:BEG, TENSE:PAS_SIM	Káaj in manik ya'abach u yich che' tu kaajil Akil
+Maya1032	Kin manik ya'abach u yich che' tu kaajil Akil	ASPECT:CUS	Suuk in manik ya'abach u yich che' tu kaajil Akil
+Maya1033	Kin manik ya'abach u yich che' tu kaajil Akil	ASPECT:DES	Taak in manik ya'abach u yich che' tu kaajil Akil
+Maya1034	Kin manik ya'abach u yich che' tu kaajil Akil	ASPECT:IMM, TENSE:PAS_SIM	Táan m manik ya'abach u yich che' tu kaajil Akil
+Maya0749	Yaan wáaj in bin maan Jo'	PERSON:2_SI	Yaan wáaj a bin maan Jo'
+Maya0750	Yaan wáaj in bin maan Jo'	PERSON:3_SI	Yaan wáaj u bin maan Jo'
+Maya0751	Yaan wáaj in bin maan Jo'	PERSON:3_PL	Yaan wáaj u bino'ob maan Joonol 
+Maya0752	Yaan wáaj in bin maan Jo'	PERSON:2_PL	Yaan wáaj a bine'ex maan Jo'
+Maya0753	Yaan wáaj in bin maan Jo'	PERSON:1_PL	Yaan wáaj k bin maan Joo
+Maya0977	Tin bonaj u joolbejil in soolar	SUBTYPE:INT	Tin wáaj koonaj u joolbe'il in soolar
+Maya0978	Tin bonaj u joolbejil in soolar	TYPE:NEG	Ma' tin bonaj u jooli'il in soola'
+Maya0979	Tin bonaj u joolbejil in soolar	TYPE:NEG, SUBTYPE:INT	Ma' wáaj in bono'ob ma soola'
+Maya0754	Ma' táan in bin maan Jo'i'	PERSON:2_SI	Ma' táan a bin maan Jo'i'
+Maya0755	Ma' táan in bin maan Jo'i'	PERSON:3_SI	Ma' táan u bin maan Jo'i'
+Maya0756	Ma' táan in bin maan Jo'i'	PERSON:3_PL	Ma' táan u bino'ob maan Joon
+Maya0757	Ma' táan in bin maan Jo'i'	PERSON:2_PL	Ma' táan a bine'ex maan Jo'ob
+Maya0758	Ma' táan in bin maan Jo'i'	PERSON:1_PL	Ma' táan k bin maan Joon
+Maya1011	Tu'ux páanaderiyail ka maan	ASPECT:CUS	Tu'ux páanadech ka maan
+Maya1012	Tu'ux páanaderiyail ka maan	ASPECT:COM	Tu'ux páanado'ob ka maan
+Maya1013	Tu'ux páanaderiyail ka maan	ASPECT:OBL, TENSE:FUT_SIM	Tu'ux páanado'ob ka maan
+Maya1014	Tu'ux páanaderiyail ka maan	ASPECT:BEG, TENSE:PAS_SIM	Tu'ux páanadokin yaan
+Maya1015	Tu'ux páanaderiyail ka maan	ASPECT:DES	Tu'ux páanado'ob ka maan
+Maya0899	Te'exe' áak'ab ka jóok'ole'ex k'íiwik	TYPE:NEG	Tene' ma' áak'ab wáaj ka jóok'ol tu k'íiwiki'
+Maya0900	Te'exe' áak'ab ka jóok'ole'ex k'íiwik	SUBTYPE:INT	Te'exe' áak'ab wáaj ka jóok'ol tu k'íiwik
+Maya0901	Te'exe' áak'ab ka jóok'ole'ex k'íiwik	TYPE:NEG, SUBTYPE:INT	Tene' ma' áak'ab wáaj ka jóok'ol tu k'íiwiki'
+Maya0809	Kin bisikech tu najil xook	PERSON:2_SI	Ka bisiken tu najil xook
+Maya0810	Kin bisikech tu najil xook	PERSON:3_SI	Ku bisik tu najil xook
+Maya0866	Jach k'a'abéet in máan tyeenda	TYPE:NEG	Ma' jach k'a'abéet in máan tue'ex a
+Maya0867	Jach k'a'abéet in máan tyeenda	SUBTYPE:INT	Jach wáaj k'a'abéet in máan tue'
+Maya0868	Jach k'a'abéet in máan tyeenda	TYPE:NEG, SUBTYPE:INT	Ma' wáaj jach k'a'abéet in máan tue'ex a
+Maya0881	Te'exe' táan a suute'ex óok'ot tu cha'anil u kaajil Tekax	TYPE:NEG	Ma' táan a suute'ex óok'ob tu cha'anil tu cha'anil te'axil Tekaxil Tekaxil Tekaxil Tekaxil Tekaxil Tekaxil Tekaxil Tekaxil Tekaxil Tekaxil Tekaxil Tekaxil Tekaxil Tekaxil Tekaxil Tekaxil Tekaxil Tekax
+Maya0882	Te'exe' táan a suute'ex óok'ot tu cha'anil u kaajil Tekax	SUBTYPE:INT	Te'exe' táan a suut wáaj óok'ot tu cha'anil utkkxa
+Maya0883	Te'exe' táan a suute'ex óok'ot tu cha'anil u kaajil Tekax	TYPE:NEG, SUBTYPE:INT	Ma' wáaj a suute'ex koono'ob tu cha'anil u kaajil Tekaxil Tekaxil Tekaxil Tekaxil Tekaxil Tekaxil Tekaxil Tekaxil Tekaxil Tekaxil Tekaxil Tekaxil Tekaxil Tekaxil Tekaxil Tekaxil Tekaxil Tekaxil Tekaxi
+Maya1040	Yaan in wisíinsik in walak' peek'	ASPECT:OBL	K'a'abéet in wisíik'ik in walak'ab te'
+Maya1041	Yaan in wisíinsik in walak' peek'	ASPECT:IMM, TENSE:PAS_SIM	Táan in wisíik in walak' peek'
+Maya1042	Yaan in wisíinsik in walak' peek'	ASPECT:TER, TENSE:PAS_SIM	Ts'o'ok in wisíik in walak'ob peek'
+Maya0744	Táan in bin maan Jo'	PERSON:2_SI	Táan a bin maan Jo'
+Maya0745	Táan in bin maan Jo'	PERSON:3_SI	Táan u bin maan Jo'
+Maya0746	Táan in bin maan Jo'	PERSON:3_PL	Táan u bino'ob maan Joonol maan Jook
+Maya0747	Táan in bin maan Jo'	PERSON:2_PL	Táan a bine'ex maan Joo
+Maya0748	Táan in bin maan Jo'	PERSON:1_PL	Táan k bin maan Joo
+Maya0942	Táan a suut Ticul	TYPE:NEG	Ma' ta' u suut ti'
+Maya0943	Táan a suut Ticul	SUBTYPE:INT	Táan wáaj a suut wáaj
+Maya0944	Táan a suut Ticul	TYPE:NEG, SUBTYPE:INT	Ma' wáaj a suut ti'
+Maya0924	Táan a p'o'ik a wotoch	TYPE:NEG	Ma' táan a p'o'ik in wotochi'
+Maya0925	Táan a p'o'ik a wotoch	SUBTYPE:INT	Táan wáaj a p'o'ik wáaj a wotoch
+Maya0926	Táan a p'o'ik a wotoch	TYPE:NEG, SUBTYPE:INT	Ma' wáaj a p'o'ik in wotochi'
+Maya0759	Táan wáaj a bin maan Jo'	PERSON:1_SI	Táan wáaj a bin maan Jo'
+Maya0760	Táan wáaj a bin maan Jo'	PERSON:3_SI	Táan wáaj u bin maan Jo'
+Maya0761	Táan wáaj a bin maan Jo'	PERSON:3_PL	Táan wáaj u bino'ob maan Joo
+Maya0762	Táan wáaj a bin maan Jo'	PERSON:2_PL	Táan wáaj a bine'ex maan Jo'
+Maya0763	Táan wáaj a bin maan Jo'	PERSON:1_PL	Táan wáaj k bin maan Joo
+Maya0962	Jach k'a'abéet u taal tu najil xook	TYPE:NEG	Ma' jach k'a'abéet u taal tu najil xooki'
+Maya0963	Jach k'a'abéet u taal tu najil xook	SUBTYPE:INT	Jach wáaj k'a'abéet wáaj tu najil xook
+Maya0964	Jach k'a'abéet u taal tu najil xook	TYPE:NEG, SUBTYPE:INT	Ma' wáaj jach k'a'abéet u taal tu najil xooki'
+Maya0804	Tene' ma' áak'ab kin jóok'ol tin meyaji'	PERSON:2_SI	Teche' ma' áak'ab ka jóok'ol tin meyaji'
+Maya0805	Tene' ma' áak'ab kin jóok'ol tin meyaji'	PERSON:3_SI	Leti'e' ma' áak'ab ku jóok'ol tunmmmaji'
+Maya0806	Tene' ma' áak'ab kin jóok'ol tin meyaji'	PERSON:1_PL	To'one' ma' áak'ab k biok'ol tin meyaji'
+Maya0807	Tene' ma' áak'ab kin jóok'ol tin meyaji'	PERSON:2_PL	Te'exe' ma' áak'ab ka jóok'ol tin meyaji'
+Maya0808	Tene' ma' áak'ab kin jóok'ol tin meyaji'	PERSON:3_PL	Leti'obe' ma' áak'ab ku jóok'ol ti'obi'
+Maya0857	Jach k'a'abéet in wuk'ul te' bejo'	TYPE:NEG	Ma' jach k'a'abéet in wuk'al te' bejo'
+Maya0858	Jach k'a'abéet in wuk'ul te' bejo'	SUBTYPE:INT	Jach wáaj k'a'abéet in wuk'ul we' bejo'
+Maya0859	Jach k'a'abéet in wuk'ul te' bejo'	TYPE:NEG, SUBTYPE:INT	Ma' wáaj jach k'a'abéet in wuk'al te' bejo'
+Maya0921	Ta bo'otaj a wotoch	TYPE:NEG	Ma' ta bo'otaj in wotochi'
+Maya0922	Ta bo'otaj a wotoch	SUBTYPE:INT	Ta be'otaj wáaj a wotoch
+Maya0923	Ta bo'otaj a wotoch	TYPE:NEG, SUBTYPE:INT	Ma' wáaj in wotochi'
+Maya0957	Ma' ki'imak a wóol a xíimbal jáal ja'i'	TYPE:AFF, SUBTYPE:INT	Tek k wóomka wóol a xíimbal kook
+Maya0958	Ma' ki'imak a wóol a xíimbal jáal ja'i'	SUBTYPE:INT	Ma' wáaj kook a wóol a xíimbal jaaj ja'a'
+Maya0948	Táan u jóok'olo'ob cha'an	TYPE:NEG	Ma' táan u jóok'olo'ob cha'an
+Maya0949	Táan u jóok'olo'ob cha'an	SUBTYPE:INT	Táan wáaj a jóok'ol wáajan
+Maya0950	Táan u jóok'olo'ob cha'an	TYPE:NEG, SUBTYPE:INT	Ma' wáaj u jóok'olo'ob cha'an
+Maya0965	Jach k'a'abéet u taalo'ob tu cha'anil kaaj	SUBTYPE:INT	Jach wáaj k'a'abéet wáaj a taal ti' cha'anil kaaj
+Maya0966	Jach k'a'abéet u taalo'ob tu cha'anil kaaj	TYPE:NEG, SUBTYPE:INT	Ma' wáaj jach k'a'abéet u taali' ti' cha'anil kaajiki'
+Maya0967	Jach k'a'abéet u taalo'ob tu cha'anil kaaj	TYPE:NEG	Ma' jach k'a'abéet u taalo'ob tu cha'anil kaajiki'
+Maya0815	Ichkíilnajen tu jáal ja'	PERSON:2_SI	Ichkíilnajech tu jáal ja'
+Maya0816	Ichkíilnajen tu jáal ja'	PERSON:1_PL	Ichkíilnajo'on tu jáal ja'
+Maya0817	Ichkíilnajen tu jáal ja'	PERSON:2_PL	Ichkíilnaje'ex tu jáal ja'
+Maya0818	Ichkíilnajen tu jáal ja'	PERSON:3_SI	Ichkíilnaje' tu jáal ja'
+Maya0819	Ichkíilnajen tu jáal ja'	PERSON:3_PL	Ichkíilnajo'ob tu jáal ja'al ja'al ja'al ja'al ja'al ja'al ja'al ja'al ja'al ja'al ja'al ja'al ja'al ja'al ja'al ja'al ja'al ja'al ja'al ja'al ja'al ja'al ja'al ja'al ja'al ja'al ja'al ja'al ja'al ja'
+Maya0875	Táan u suut báaxal ja' tu kaajil Progreso	TYPE:NEG	Táan u suut báaxal tu kaajil Poogr'
+Maya0876	Táan u suut báaxal ja' tu kaajil Progreso	SUBTYPE:INT	Táan wáaj u suut xook wáajal ja'atal ja'atik koogre
+Maya0877	Táan u suut báaxal ja' tu kaajil Progreso	TYPE:NEG, SUBTYPE:INT	Táan wáaj u suut báaxal tu kaajil Poogr'
+Maya0784	Jach wáaj k'a'abéet a suut tu jo'ol a meyaj	PERSON:1_SI	Jach wáaj k'a'abéet in suut ich jeyaj
+Maya0785	Jach wáaj k'a'abéet a suut tu jo'ol a meyaj	PERSON:3_SI	Jach wáaj k'a'abéet u suut tu jo'ol u meyaj
+Maya0786	Jach wáaj k'a'abéet a suut tu jo'ol a meyaj	PERSON:1_PL	Jach wáaj k'a'abéet k suut tu jo'ol k meyaj
+Maya0787	Jach wáaj k'a'abéet a suut tu jo'ol a meyaj	PERSON:3_PL	Jach k'a'abéet u suuto'ob u meyaj
+Maya0788	Jach wáaj k'a'abéet a suut tu jo'ol a meyaj	PERSON:2_PL	Jach k'a'abéet a suute'ex a meyaj
+Maya0994	Ts'o'ok in bin janal Progreso	ASPECT:BEG	Káaj in bin janal Páogre
+Maya0995	Ts'o'ok in bin janal Progreso	ASPECT:IMM	Táan in bin janal tu banal tu ganal tu ganal tu ganal tu ganal tu ganal tu ganal tu ganal tu ganal tu ganal tu ganal tu ganal tu ganal tu ganal tu ganal tu ganal tu ganal tu ganal tu ganal tu ganal tu
+Maya0824	Ba'ax k'iin a je'elel ta meyaj	PERSON:1_SI	Ba'ax k'iin kooon kooon ti' meyaj
+Maya0825	Ba'ax k'iin a je'elel ta meyaj	PERSON:3_SI	Ba'ax k'iin u je'elel tu meyaj
+Maya0826	Ba'ax k'iin a je'elel ta meyaj	PERSON:2_PL	Ba'ax k'iin a je'elel aamea
+Maya0827	Ba'ax k'iin a je'elel ta meyaj	PERSON:3_PL	Ba'ax k'iin u je'olol tu meyajo'ob
