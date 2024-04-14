@@ -13,5 +13,7 @@ data = pd.read_csv(args.input_file, delimiter='\t')
 # Remove the ID column
 data = data.drop(['ID', 'Target'], axis=1)
 
+data['Change'] = data['Change'].str.replace(', ', ';', regex=False)
+
 # Write the modified data to the output file
 data.to_csv(args.output_file, sep='\t', index=False, header=False)
