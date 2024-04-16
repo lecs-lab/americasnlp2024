@@ -1,0 +1,1 @@
+./preds/aug/identity-trainonly/attentive_lstm-maya.tsv: Accuracy=46.31, BLEU=73.06, ChrF=87.58

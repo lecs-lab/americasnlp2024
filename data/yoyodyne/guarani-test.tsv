@@ -157,10 +157,10 @@ Ipahaitépe Peru’i osẽ he’i	TENSE:FUT_SIM
 Ipahaitépe Peru’i osẽ he’i	TENSE:PAS_PLU
 Ipahaitépe Peru’i osẽ he’i	TENSE:PAS_IMP
 Araka’eve jeko ndojehúi chupe ha itajyramíme mba’eve ivaíva.	PERSON:1_SI
-Araka’eve jeko ndojehúi chupe ha itajyramíme mba’eve ivaíva.	PERSON:3_PL, TYPE:AFF
+Araka’eve jeko ndojehúi chupe ha itajyramíme mba’eve ivaíva.	PERSON:3_PL;TYPE:AFF
 Araka’eve jeko ndojehúi chupe ha itajyramíme mba’eve ivaíva.	PERSON:2_PL
-Araka’eve jeko ndojehúi chupe ha itajyramíme mba’eve ivaíva.	PERSON:3_PL, TENSE:FUT_SIM
-Araka’eve jeko ndojehúi chupe ha itajyramíme mba’eve ivaíva.	PERSON:3_PL, TENSE:PAS_PLU
+Araka’eve jeko ndojehúi chupe ha itajyramíme mba’eve ivaíva.	PERSON:3_PL;TENSE:FUT_SIM
+Araka’eve jeko ndojehúi chupe ha itajyramíme mba’eve ivaíva.	PERSON:3_PL;TENSE:PAS_PLU
 Ñande apekuekuéra oñemikuri	TYPE:NEG
 Ñande apekuekuéra oñemikuri	TENSE:FUT_SIM
 Ñande apekuekuéra oñemikuri	PERSON:3_SI

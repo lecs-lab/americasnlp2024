@@ -1,1485 +1,1485 @@
 	ID	Source	Change	Target	language	split	Formatted	Formatted_Covered	Predicted Target
-2463	Bribri0359	Pûs kapë'wa̠	ABSNUM:PL	Pûs kapë'ulur	bribri	dev	"Id: Bribri0359
+0	Bribri0359	Pûs kapë'wa̠	ABSNUM:PL	Pûs kapë'ulur	bribri	dev	"Id: Bribri0359
 Source: Pûs kapë'wa̠
 Change: ABSNUM:PL
 Target: Pûs kapë'ulur"	"Id: Bribri0359
 Source: Pûs kapë'wa̠
 Change: ABSNUM:PL
-Target: "	Pûrakapë'ulur
-2464	Bribri0360	Pûs kapë'wa̠	TYPE:NEG	Pûs kë̀ kapë̀ne̠wa̠	bribri	dev	"Id: Bribri0360
+Target: "	Pûs kapë'wa̠n
+1	Bribri0360	Pûs kapë'wa̠	TYPE:NEG	Pûs kë̀ kapë̀ne̠wa̠	bribri	dev	"Id: Bribri0360
 Source: Pûs kapë'wa̠
 Change: TYPE:NEG
 Target: Pûs kë̀ kapë̀ne̠wa̠"	"Id: Bribri0360
 Source: Pûs kapë'wa̠
 Change: TYPE:NEG
-Target: "	Pûskë̀ kapë'wàne̠
-2465	Bribri0361	Pûs kapë'wa̠	TENSE:PRF_REC	Pûs kapówa̠	bribri	dev	"Id: Bribri0361
+Target: "	Pûs kë̀ kapë'wa̠
+2	Bribri0361	Pûs kapë'wa̠	TENSE:PRF_REC	Pûs kapówa̠	bribri	dev	"Id: Bribri0361
 Source: Pûs kapë'wa̠
 Change: TENSE:PRF_REC
 Target: Pûs kapówa̠"	"Id: Bribri0361
 Source: Pûs kapë'wa̠
 Change: TENSE:PRF_REC
-Target: "	Pûskapë'wé̠
-2466	Bribri0362	Pûs kapë'wa̠	TENSE:PRF_REC, ABSNUM:PL	Pûs kapóulur	bribri	dev	"Id: Bribri0362
+Target: "	Pûs kapé'wa̠
+3	Bribri0362	Pûs kapë'wa̠	TENSE:PRF_REC, ABSNUM:PL	Pûs kapóulur	bribri	dev	"Id: Bribri0362
 Source: Pûs kapë'wa̠
 Change: TENSE:PRF_REC, ABSNUM:PL
 Target: Pûs kapóulur"	"Id: Bribri0362
 Source: Pûs kapë'wa̠
 Change: TENSE:PRF_REC, ABSNUM:PL
-Target: "	Pûskapúlur
-2467	Bribri0363	Pûs kapë'wa̠	TENSE:IPFV_REC, ASPECT:IPFV	Pûs kapö̀wa̠	bribri	dev	"Id: Bribri0363
+Target: "	Pûs kapë'wé̠
+4	Bribri0363	Pûs kapë'wa̠	TENSE:IPFV_REC, ASPECT:IPFV	Pûs kapö̀wa̠	bribri	dev	"Id: Bribri0363
 Source: Pûs kapë'wa̠
 Change: TENSE:IPFV_REC, ASPECT:IPFV
 Target: Pûs kapö̀wa̠"	"Id: Bribri0363
 Source: Pûs kapë'wa̠
 Change: TENSE:IPFV_REC, ASPECT:IPFV
-Target: "	Pûskapö̀wa̠
-2468	Bribri0364	Pûs kapë'wa̠	TENSE:IPFV_PROG, ASPECT:IPFV	Pûs tso kapö́kwa̠	bribri	dev	"Id: Bribri0364
+Target: "	Pûs kapö̀'wa̠
+5	Bribri0364	Pûs kapë'wa̠	TENSE:IPFV_PROG, ASPECT:IPFV	Pûs tso kapö́kwa̠	bribri	dev	"Id: Bribri0364
 Source: Pûs kapë'wa̠
 Change: TENSE:IPFV_PROG, ASPECT:IPFV
 Target: Pûs tso kapö́kwa̠"	"Id: Bribri0364
 Source: Pûs kapë'wa̠
 Change: TENSE:IPFV_PROG, ASPECT:IPFV
-Target: "	Pûstsokapë'wakwa̠
-2469	Bribri0365	Pûs kapë'wa̠	TYPE:NEG, TENSE:IPFV_PROG, ASPECT:IPFV	Pûs kë̀ ku̠ kapö́kwa̠	bribri	dev	"Id: Bribri0365
+Target: "	Pûs katsö' kapë'wa̠
+6	Bribri0365	Pûs kapë'wa̠	TYPE:NEG, TENSE:IPFV_PROG, ASPECT:IPFV	Pûs kë̀ ku̠ kapö́kwa̠	bribri	dev	"Id: Bribri0365
 Source: Pûs kapë'wa̠
 Change: TYPE:NEG, TENSE:IPFV_PROG, ASPECT:IPFV
 Target: Pûs kë̀ ku̠ kapö́kwa̠"	"Id: Bribri0365
 Source: Pûs kapë'wa̠
 Change: TYPE:NEG, TENSE:IPFV_PROG, ASPECT:IPFV
-Target: "	Pûskë̀ ku̠ kapë'wö́k
-2470	Bribri0366	Pûs kapë'wa̠	TENSE:PRF_PROG	Pûs bák kapö́kwa̠	bribri	dev	"Id: Bribri0366
+Target: "	Pûs kë̀ ku̠ kapë'wa̠ö́k
+7	Bribri0366	Pûs kapë'wa̠	TENSE:PRF_PROG	Pûs bák kapö́kwa̠	bribri	dev	"Id: Bribri0366
 Source: Pûs kapë'wa̠
 Change: TENSE:PRF_PROG
 Target: Pûs bák kapö́kwa̠"	"Id: Bribri0366
 Source: Pûs kapë'wa̠
 Change: TENSE:PRF_PROG
-Target: "	Pûsbákkapë'wakwa̠
-2471	Bribri0367	Pûs kapë'wa̠	TYPE:NEG, TENSE:PRF_PROG	Pûs kë̀ ku̠'bak kapö́kwa̠	bribri	dev	"Id: Bribri0367
+Target: "	Pûs bák kapë'wa̠
+8	Bribri0367	Pûs kapë'wa̠	TYPE:NEG, TENSE:PRF_PROG	Pûs kë̀ ku̠'bak kapö́kwa̠	bribri	dev	"Id: Bribri0367
 Source: Pûs kapë'wa̠
 Change: TYPE:NEG, TENSE:PRF_PROG
 Target: Pûs kë̀ ku̠'bak kapö́kwa̠"	"Id: Bribri0367
 Source: Pûs kapë'wa̠
 Change: TYPE:NEG, TENSE:PRF_PROG
-Target: "	Pûskë̀ ku̠'bakkapë'wakö́k
-2472	Bribri0368	Pûs kapë'wa̠	MODE:DES, TENSE:IPFV_REC, ASPECT:IPFV	Pûs kapákwa̠	bribri	dev	"Id: Bribri0368
+Target: "	Pûs kë̀ ku̠'bakapë'wa̠
+9	Bribri0368	Pûs kapë'wa̠	MODE:DES, TENSE:IPFV_REC, ASPECT:IPFV	Pûs kapákwa̠	bribri	dev	"Id: Bribri0368
 Source: Pûs kapë'wa̠
 Change: MODE:DES, TENSE:IPFV_REC, ASPECT:IPFV
 Target: Pûs kapákwa̠"	"Id: Bribri0368
 Source: Pûs kapë'wa̠
 Change: MODE:DES, TENSE:IPFV_REC, ASPECT:IPFV
-Target: "	Pûsé̠na̠ kapë'wa̠'ku̠
-2473	Bribri0369	Pûs kapë'wa̠	TENSE:IPFV_HAB, ASPECT:IPFV	Pûs kapö̀ke̠wa̠	bribri	dev	"Id: Bribri0369
+Target: "	Pûs é̠n a̠ kapë'wa̠ku̠
+10	Bribri0369	Pûs kapë'wa̠	TENSE:IPFV_HAB, ASPECT:IPFV	Pûs kapö̀ke̠wa̠	bribri	dev	"Id: Bribri0369
 Source: Pûs kapë'wa̠
 Change: TENSE:IPFV_HAB, ASPECT:IPFV
 Target: Pûs kapö̀ke̠wa̠"	"Id: Bribri0369
 Source: Pûs kapë'wa̠
 Change: TENSE:IPFV_HAB, ASPECT:IPFV
-Target: "	Pûskapë'wö̀ke̠wa̠
-2474	Bribri0370	Pûs kapë'wa̠	MODE:IMP, TENSE:IPFV_REC, ASPECT:IPFV, PERSON:2_SI	Ba kapö́wa̠	bribri	dev	"Id: Bribri0370
+Target: "	Pûs kapë'wa̠ke̠
+11	Bribri0370	Pûs kapë'wa̠	MODE:IMP, TENSE:IPFV_REC, ASPECT:IPFV, PERSON:2_SI	Ba kapö́wa̠	bribri	dev	"Id: Bribri0370
 Source: Pûs kapë'wa̠
 Change: MODE:IMP, TENSE:IPFV_REC, ASPECT:IPFV, PERSON:2_SI
 Target: Ba kapö́wa̠"	"Id: Bribri0370
 Source: Pûs kapë'wa̠
 Change: MODE:IMP, TENSE:IPFV_REC, ASPECT:IPFV, PERSON:2_SI
-Target: "	Büskapö́'wa̠
-2475	Bribri0371	Pûs kapë'wa̠	VOICE:MID, ABSNUM:NI	Kapë̀ne̠wa̠	bribri	dev	"Id: Bribri0371
+Target: "	Pûs kapö́'wa̠
+12	Bribri0371	Pûs kapë'wa̠	VOICE:MID, ABSNUM:NI	Kapë̀ne̠wa̠	bribri	dev	"Id: Bribri0371
 Source: Pûs kapë'wa̠
 Change: VOICE:MID, ABSNUM:NI
 Target: Kapë̀ne̠wa̠"	"Id: Bribri0371
 Source: Pûs kapë'wa̠
 Change: VOICE:MID, ABSNUM:NI
-Target: "	Kapë'wa̠ kö̀ne̠ ni'
-2476	Bribri0372	Pûs kapë'wa̠	TYPE:NEG, VOICE:MID, ABSNUM:NI	Kë̀ kapë̀ne̠wa̠	bribri	dev	"Id: Bribri0372
+Target: "	Kapë'wa̠ pûsni
+13	Bribri0372	Pûs kapë'wa̠	TYPE:NEG, VOICE:MID, ABSNUM:NI	Kë̀ kapë̀ne̠wa̠	bribri	dev	"Id: Bribri0372
 Source: Pûs kapë'wa̠
 Change: TYPE:NEG, VOICE:MID, ABSNUM:NI
 Target: Kë̀ kapë̀ne̠wa̠"	"Id: Bribri0372
 Source: Pûs kapë'wa̠
 Change: TYPE:NEG, VOICE:MID, ABSNUM:NI
-Target: "	Kapë̀'wane̠
-2477	Bribri0373	Pûs kapë'wa̠	TENSE:IPFV_REC, ASPECT:IPFV, VOICE:MID, ABSNUM:NI	Kapë̀rwa̠	bribri	dev	"Id: Bribri0373
+Target: "	Pûs kë̀ kapë'wa̠ne̠
+14	Bribri0373	Pûs kapë'wa̠	TENSE:IPFV_REC, ASPECT:IPFV, VOICE:MID, ABSNUM:NI	Kapë̀rwa̠	bribri	dev	"Id: Bribri0373
 Source: Pûs kapë'wa̠
 Change: TENSE:IPFV_REC, ASPECT:IPFV, VOICE:MID, ABSNUM:NI
 Target: Kapë̀rwa̠"	"Id: Bribri0373
 Source: Pûs kapë'wa̠
 Change: TENSE:IPFV_REC, ASPECT:IPFV, VOICE:MID, ABSNUM:NI
-Target: "	Kapë'köwa̠
-2478	Bribri0234	Ye' tö i kít	TYPE:NEG	Ye' kë̀ wa̠ i kìte̠	bribri	dev	"Id: Bribri0234
+Target: "	Pûs kapë'ne̠niwa̠
+15	Bribri0234	Ye' tö i kít	TYPE:NEG	Ye' kë̀ wa̠ i kìte̠	bribri	dev	"Id: Bribri0234
 Source: Ye' tö i kít
 Change: TYPE:NEG
 Target: Ye' kë̀ wa̠ i kìte̠"	"Id: Bribri0234
 Source: Ye' tö i kít
 Change: TYPE:NEG
-Target: "	Ye'kë̀ wa̠ ikítne̠
-2479	Bribri0235	Ye' tö i kít	TENSE:PRF_REC	Ye' tö i ishté	bribri	dev	"Id: Bribri0235
+Target: "	Ye' kë̀ wa̠ i kítne̠
+16	Bribri0235	Ye' tö i kít	TENSE:PRF_REC	Ye' tö i ishté	bribri	dev	"Id: Bribri0235
 Source: Ye' tö i kít
 Change: TENSE:PRF_REC
 Target: Ye' tö i ishté"	"Id: Bribri0235
 Source: Ye' tö i kít
 Change: TENSE:PRF_REC
-Target: "	Ye'töikité
-2480	Bribri0236	Ye' tö i kít	TYPE:NEG, TENSE:PRF_REC	Ye' kë̀ wa̠ i kìte̠	bribri	dev	"Id: Bribri0236
+Target: "	Ye' tö i kité
+17	Bribri0236	Ye' tö i kít	TYPE:NEG, TENSE:PRF_REC	Ye' kë̀ wa̠ i kìte̠	bribri	dev	"Id: Bribri0236
 Source: Ye' tö i kít
 Change: TYPE:NEG, TENSE:PRF_REC
 Target: Ye' kë̀ wa̠ i kìte̠"	"Id: Bribri0236
 Source: Ye' tö i kít
 Change: TYPE:NEG, TENSE:PRF_REC
-Target: "	Ye'kë̀ wa̠ ikìtne̠
-2481	Bribri0237	Ye' tö i kít	TENSE:IPFV_REC, ASPECT:IPFV	Ye' tö i ishtè	bribri	dev	"Id: Bribri0237
+Target: "	Ye' kë̀ wa̠ i kítne̠
+18	Bribri0237	Ye' tö i kít	TENSE:IPFV_REC, ASPECT:IPFV	Ye' tö i ishtè	bribri	dev	"Id: Bribri0237
 Source: Ye' tö i kít
 Change: TENSE:IPFV_REC, ASPECT:IPFV
 Target: Ye' tö i ishtè"	"Id: Bribri0237
 Source: Ye' tö i kít
 Change: TENSE:IPFV_REC, ASPECT:IPFV
-Target: "	Ye'töikèt
-2482	Bribri0238	Ye' tö i kít	TYPE:NEG, TENSE:IPFV_REC, ASPECT:IPFV	Kë̀ ye' tö i ishte	bribri	dev	"Id: Bribri0238
+Target: "	Ye' tö i kètè
+19	Bribri0238	Ye' tö i kít	TYPE:NEG, TENSE:IPFV_REC, ASPECT:IPFV	Kë̀ ye' tö i ishte	bribri	dev	"Id: Bribri0238
 Source: Ye' tö i kít
 Change: TYPE:NEG, TENSE:IPFV_REC, ASPECT:IPFV
 Target: Kë̀ ye' tö i ishte"	"Id: Bribri0238
 Source: Ye' tö i kít
 Change: TYPE:NEG, TENSE:IPFV_REC, ASPECT:IPFV
-Target: "	Kë̀ ye'töikie
-2483	Bribri0239	Ye' tö i kít	TENSE:IPFV_PROG, ASPECT:IPFV	Ye' tso i ishtö́k	bribri	dev	"Id: Bribri0239
+Target: "	Kë̀ ye' tö i kítne
+20	Bribri0239	Ye' tö i kít	TENSE:IPFV_PROG, ASPECT:IPFV	Ye' tso i ishtö́k	bribri	dev	"Id: Bribri0239
 Source: Ye' tö i kít
 Change: TENSE:IPFV_PROG, ASPECT:IPFV
 Target: Ye' tso i ishtö́k"	"Id: Bribri0239
 Source: Ye' tö i kít
 Change: TENSE:IPFV_PROG, ASPECT:IPFV
-Target: "	Ye'tsoikítö́k
-2484	Bribri0240	Ye' tö i kít	TYPE:NEG, TENSE:IPFV_PROG, ASPECT:IPFV	Ye' kë̀ ku̠ i ishtö́k	bribri	dev	"Id: Bribri0240
+Target: "	Ye' tso i kítk
+21	Bribri0240	Ye' tö i kít	TYPE:NEG, TENSE:IPFV_PROG, ASPECT:IPFV	Ye' kë̀ ku̠ i ishtö́k	bribri	dev	"Id: Bribri0240
 Source: Ye' tö i kít
 Change: TYPE:NEG, TENSE:IPFV_PROG, ASPECT:IPFV
 Target: Ye' kë̀ ku̠ i ishtö́k"	"Id: Bribri0240
 Source: Ye' tö i kít
 Change: TYPE:NEG, TENSE:IPFV_PROG, ASPECT:IPFV
-Target: "	Ye'kë̀ ku̠ ikítö́k
-2485	Bribri0241	Ye' tö i kít	TENSE:PRF_PROG	Ye' bák i ishtö́k	bribri	dev	"Id: Bribri0241
+Target: "	Ye' kë̀ ku̠ i kíkók
+22	Bribri0241	Ye' tö i kít	TENSE:PRF_PROG	Ye' bák i ishtö́k	bribri	dev	"Id: Bribri0241
 Source: Ye' tö i kít
 Change: TENSE:PRF_PROG
 Target: Ye' bák i ishtö́k"	"Id: Bribri0241
 Source: Ye' tö i kít
 Change: TENSE:PRF_PROG
-Target: "	Ye'bákikítö́k
-2486	Bribri0242	Ye' tö i kít	TYPE:NEG, TENSE:PRF_PROG	Ye' kë̀ ku̠'bak i ishtö́k	bribri	dev	"Id: Bribri0242
+Target: "	Ye' bák i kítö́k
+23	Bribri0242	Ye' tö i kít	TYPE:NEG, TENSE:PRF_PROG	Ye' kë̀ ku̠'bak i ishtö́k	bribri	dev	"Id: Bribri0242
 Source: Ye' tö i kít
 Change: TYPE:NEG, TENSE:PRF_PROG
 Target: Ye' kë̀ ku̠'bak i ishtö́k"	"Id: Bribri0242
 Source: Ye' tö i kít
 Change: TYPE:NEG, TENSE:PRF_PROG
-Target: "	Ye'kë̀ ku̠'bakikítö́k
-2487	Bribri0243	Ye' tö i kít	MODE:IMP, TENSE:IPFV_REC, ASPECT:IPFV, PERSON:NA	I ishtö́	bribri	dev	"Id: Bribri0243
+Target: "	Ye' kë̀ ku̠'bak i kítö́k
+24	Bribri0243	Ye' tö i kít	MODE:IMP, TENSE:IPFV_REC, ASPECT:IPFV, PERSON:NA	I ishtö́	bribri	dev	"Id: Bribri0243
 Source: Ye' tö i kít
 Change: MODE:IMP, TENSE:IPFV_REC, ASPECT:IPFV, PERSON:NA
 Target: I ishtö́"	"Id: Bribri0243
 Source: Ye' tö i kít
 Change: MODE:IMP, TENSE:IPFV_REC, ASPECT:IPFV, PERSON:NA
-Target: "	Ikitú
-2488	Bribri0244	Ye' tö i kít	TYPE:NEG, MODE:IMP, TENSE:IPFV_REC, ASPECT:IPFV, PERSON:NA	Kë̀ i ishtök	bribri	dev	"Id: Bribri0244
+Target: "	I kítú
+25	Bribri0244	Ye' tö i kít	TYPE:NEG, MODE:IMP, TENSE:IPFV_REC, ASPECT:IPFV, PERSON:NA	Kë̀ i ishtök	bribri	dev	"Id: Bribri0244
 Source: Ye' tö i kít
 Change: TYPE:NEG, MODE:IMP, TENSE:IPFV_REC, ASPECT:IPFV, PERSON:NA
 Target: Kë̀ i ishtök"	"Id: Bribri0244
 Source: Ye' tö i kít
 Change: TYPE:NEG, MODE:IMP, TENSE:IPFV_REC, ASPECT:IPFV, PERSON:NA
-Target: "	Kë̀ ikítök
-2489	Bribri0245	Ye' tö i kít	TYPE:NEG, MODE:IMP, TENSE:IPFV_REC, ASPECT:IPFV, VOICE:MID, PERSON:3_SI	Kë̀ i ishtar	bribri	dev	"Id: Bribri0245
+Target: "	Kë̀ kít tök
+26	Bribri0245	Ye' tö i kít	TYPE:NEG, MODE:IMP, TENSE:IPFV_REC, ASPECT:IPFV, VOICE:MID, PERSON:3_SI	Kë̀ i ishtar	bribri	dev	"Id: Bribri0245
 Source: Ye' tö i kít
 Change: TYPE:NEG, MODE:IMP, TENSE:IPFV_REC, ASPECT:IPFV, VOICE:MID, PERSON:3_SI
 Target: Kë̀ i ishtar"	"Id: Bribri0245
 Source: Ye' tö i kít
 Change: TYPE:NEG, MODE:IMP, TENSE:IPFV_REC, ASPECT:IPFV, VOICE:MID, PERSON:3_SI
-Target: "	Kítne̠
-2490	Bribri0246	Ye' tö i kít	VOICE:MID, PERSON:3_SI	I kìte̠	bribri	dev	"Id: Bribri0246
+Target: "	Ye' kë̀ wa̠ kítne̠
+27	Bribri0246	Ye' tö i kít	VOICE:MID, PERSON:3_SI	I kìte̠	bribri	dev	"Id: Bribri0246
 Source: Ye' tö i kít
 Change: VOICE:MID, PERSON:3_SI
 Target: I kìte̠"	"Id: Bribri0246
 Source: Ye' tö i kít
 Change: VOICE:MID, PERSON:3_SI
-Target: "	Ikíne̠
-2491	Bribri0247	Ye' tö i kít	TYPE:NEG, TENSE:PRF_REC, VOICE:MID, PERSON:3_SI	Kë̀ i kìte̠	bribri	dev	"Id: Bribri0247
+Target: "	I kítne̠
+28	Bribri0247	Ye' tö i kít	TYPE:NEG, TENSE:PRF_REC, VOICE:MID, PERSON:3_SI	Kë̀ i kìte̠	bribri	dev	"Id: Bribri0247
 Source: Ye' tö i kít
 Change: TYPE:NEG, TENSE:PRF_REC, VOICE:MID, PERSON:3_SI
 Target: Kë̀ i kìte̠"	"Id: Bribri0247
 Source: Ye' tö i kít
 Change: TYPE:NEG, TENSE:PRF_REC, VOICE:MID, PERSON:3_SI
-Target: "	Ikíte
-2492	Bribri0862	Ye' diö́köl bàtsul ako̠' a̠'mi̠k	TYPE:NEG	Ye' diö́köl kë̀ ku̠ bàtsul ako̠' a̠'mi̠k	bribri	dev	"Id: Bribri0862
+Target: "	Ie' kë̀ wa̠ kítu̠
+29	Bribri0862	Ye' diö́köl bàtsul ako̠' a̠'mi̠k	TYPE:NEG	Ye' diö́köl kë̀ ku̠ bàtsul ako̠' a̠'mi̠k	bribri	dev	"Id: Bribri0862
 Source: Ye' diö́köl bàtsul ako̠' a̠'mi̠k
 Change: TYPE:NEG
 Target: Ye' diö́köl kë̀ ku̠ bàtsul ako̠' a̠'mi̠k"	"Id: Bribri0862
 Source: Ye' diö́köl bàtsul ako̠' a̠'mi̠k
 Change: TYPE:NEG
-Target: "	Ye'kë̀ wa̠ diö́kölbàtsulako̠'ne̠ a̠'mi̠k
-2493	Bribri0863	Ye' diö́köl bàtsul ako̠' a̠'mi̠k	TENSE:PRF_REM, ASPECT:PFV	Ye' diö́köl bák bàtsul ako̠' a̠'mi̠k	bribri	dev	"Id: Bribri0863
+Target: "	Ye' kë̀ wa̠ diö́köl bàtsul ako̠' a̠'mi̠k
+30	Bribri0863	Ye' diö́köl bàtsul ako̠' a̠'mi̠k	TENSE:PRF_REM, ASPECT:PFV	Ye' diö́köl bák bàtsul ako̠' a̠'mi̠k	bribri	dev	"Id: Bribri0863
 Source: Ye' diö́köl bàtsul ako̠' a̠'mi̠k
 Change: TENSE:PRF_REM, ASPECT:PFV
 Target: Ye' diö́köl bák bàtsul ako̠' a̠'mi̠k"	"Id: Bribri0863
 Source: Ye' diö́köl bàtsul ako̠' a̠'mi̠k
 Change: TENSE:PRF_REM, ASPECT:PFV
-Target: "	Ye'bákdiö́kölbàtsulako̠'a̠'mi̠k
-2494	Bribri0864	Ye' diö́köl bàtsul ako̠' a̠'mi̠k	TYPE:NEG, TENSE:PRF_REM, ASPECT:PFV	Ye' diö́köl kë̀ ku̠'bak bàtsul ako̠' a̠'mi̠k	bribri	dev	"Id: Bribri0864
+Target: "	Ye' diö́köl bák bàtsul ako̠' a̠'mi̠k
+31	Bribri0864	Ye' diö́köl bàtsul ako̠' a̠'mi̠k	TYPE:NEG, TENSE:PRF_REM, ASPECT:PFV	Ye' diö́köl kë̀ ku̠'bak bàtsul ako̠' a̠'mi̠k	bribri	dev	"Id: Bribri0864
 Source: Ye' diö́köl bàtsul ako̠' a̠'mi̠k
 Change: TYPE:NEG, TENSE:PRF_REM, ASPECT:PFV
 Target: Ye' diö́köl kë̀ ku̠'bak bàtsul ako̠' a̠'mi̠k"	"Id: Bribri0864
 Source: Ye' diö́köl bàtsul ako̠' a̠'mi̠k
 Change: TYPE:NEG, TENSE:PRF_REM, ASPECT:PFV
-Target: "	Ye'kë̀ ku̠'bakdiö́kölbàtsulako̠'a̠'mi̠k
-2495	Bribri0865	Ye' diö́köl bàtsul ako̠' a̠'mi̠k	ABSNUM:PL	Ye' diö́köl bàtsulur ako̠' a̠'mi̠k	bribri	dev	"Id: Bribri0865
+Target: "	Ye' kë̀ wa̠ diö́köl bàtsul ako̠' a̠'mi̠kne̠
+32	Bribri0865	Ye' diö́köl bàtsul ako̠' a̠'mi̠k	ABSNUM:PL	Ye' diö́köl bàtsulur ako̠' a̠'mi̠k	bribri	dev	"Id: Bribri0865
 Source: Ye' diö́köl bàtsul ako̠' a̠'mi̠k
 Change: ABSNUM:PL
 Target: Ye' diö́köl bàtsulur ako̠' a̠'mi̠k"	"Id: Bribri0865
 Source: Ye' diö́köl bàtsul ako̠' a̠'mi̠k
 Change: ABSNUM:PL
-Target: "	Ye'költökölbàtsulako̠'a̠'mi̠k
-2496	Bribri0866	Ye' diö́köl bàtsul ako̠' a̠'mi̠k	TYPE:NEG, ABSNUM:PL	Ye' diö́köl kë̀ ku̠ bàtsulur ako̠' a̠'mi̠k	bribri	dev	"Id: Bribri0866
+Target: "	Ye' diö́köl bàtsul ako̠' a̠'mi̠k
+33	Bribri0866	Ye' diö́köl bàtsul ako̠' a̠'mi̠k	TYPE:NEG, ABSNUM:PL	Ye' diö́köl kë̀ ku̠ bàtsulur ako̠' a̠'mi̠k	bribri	dev	"Id: Bribri0866
 Source: Ye' diö́köl bàtsul ako̠' a̠'mi̠k
 Change: TYPE:NEG, ABSNUM:PL
 Target: Ye' diö́köl kë̀ ku̠ bàtsulur ako̠' a̠'mi̠k"	"Id: Bribri0866
 Source: Ye' diö́köl bàtsul ako̠' a̠'mi̠k
 Change: TYPE:NEG, ABSNUM:PL
-Target: "	Ye'kë̀ ku̠ diö́kölbàtsulako̠'a̠'ulur
-2497	Bribri0867	Ye' diö́köl bàtsul ako̠' a̠'mi̠k	TENSE:PRF_REM, ASPECT:PFV, ABSNUM:PL	Ye' diö́köl bák bàtsulur ako̠' a̠'mi̠k	bribri	dev	"Id: Bribri0867
+Target: "	Ye' kë̀ wa̠köl bàtsul ako̠' a̠'mi̠k dapárke
+34	Bribri0867	Ye' diö́köl bàtsul ako̠' a̠'mi̠k	TENSE:PRF_REM, ASPECT:PFV, ABSNUM:PL	Ye' diö́köl bák bàtsulur ako̠' a̠'mi̠k	bribri	dev	"Id: Bribri0867
 Source: Ye' diö́köl bàtsul ako̠' a̠'mi̠k
 Change: TENSE:PRF_REM, ASPECT:PFV, ABSNUM:PL
 Target: Ye' diö́köl bák bàtsulur ako̠' a̠'mi̠k"	"Id: Bribri0867
 Source: Ye' diö́köl bàtsul ako̠' a̠'mi̠k
 Change: TENSE:PRF_REM, ASPECT:PFV, ABSNUM:PL
-Target: "	Ye'bákdiö́köla̠tsö́nbàtsulako̠'a̠'mi̠k
-2498	Bribri0868	Ye' diö́köl bàtsul ako̠' a̠'mi̠k	TYPE:NEG, TENSE:PRF_REM, ASPECT:PFV, ABSNUM:PL	Ye' diö́köl kë̀ ku̠'bak bàtsulur ako̠' a̠'mi̠k	bribri	dev	"Id: Bribri0868
+Target: "	Ye' bák diö́köl bàtsul ako̠' a̠'mi̠k
+35	Bribri0868	Ye' diö́köl bàtsul ako̠' a̠'mi̠k	TYPE:NEG, TENSE:PRF_REM, ASPECT:PFV, ABSNUM:PL	Ye' diö́köl kë̀ ku̠'bak bàtsulur ako̠' a̠'mi̠k	bribri	dev	"Id: Bribri0868
 Source: Ye' diö́köl bàtsul ako̠' a̠'mi̠k
 Change: TYPE:NEG, TENSE:PRF_REM, ASPECT:PFV, ABSNUM:PL
 Target: Ye' diö́köl kë̀ ku̠'bak bàtsulur ako̠' a̠'mi̠k"	"Id: Bribri0868
 Source: Ye' diö́köl bàtsul ako̠' a̠'mi̠k
 Change: TYPE:NEG, TENSE:PRF_REM, ASPECT:PFV, ABSNUM:PL
-Target: "	Ye'kë̀ ku'ba̠kbàtsulako̠'ulura̠'mi̠k
-2499	Bribri0080	Ye'r i sú̠	TYPE:NEG	Ye' kë̀ wa̠ i sù̠ne̠	bribri	dev	"Id: Bribri0080
+Target: "	Ye' kë̀ wa̠ diö́köl bàtsul ako̠' a̠'mi̠kne̠
+36	Bribri0080	Ye'r i sú̠	TYPE:NEG	Ye' kë̀ wa̠ i sù̠ne̠	bribri	dev	"Id: Bribri0080
 Source: Ye'r i sú̠
 Change: TYPE:NEG
 Target: Ye' kë̀ wa̠ i sù̠ne̠"	"Id: Bribri0080
 Source: Ye'r i sú̠
 Change: TYPE:NEG
-Target: "	Ye'rkë̀ wa̠ isú̠ne̠
-2500	Bribri0081	Ye'r i sú̠	TENSE:PRF_REC	Ye'r i sa̠wé̠	bribri	dev	"Id: Bribri0081
+Target: "	Ye'r kë̀ wa̠ sú̠ne̠
+37	Bribri0081	Ye'r i sú̠	TENSE:PRF_REC	Ye'r i sa̠wé̠	bribri	dev	"Id: Bribri0081
 Source: Ye'r i sú̠
 Change: TENSE:PRF_REC
 Target: Ye'r i sa̠wé̠"	"Id: Bribri0081
 Source: Ye'r i sú̠
 Change: TENSE:PRF_REC
-Target: "	Ye'risúwé̠
-2501	Bribri0082	Ye'r i sú̠	TYPE:NEG, TENSE:PRF_REC	Ye kë̀ wa̠ i sù̠ne̠	bribri	dev	"Id: Bribri0082
+Target: "	Ye'r i sué
+38	Bribri0082	Ye'r i sú̠	TYPE:NEG, TENSE:PRF_REC	Ye kë̀ wa̠ i sù̠ne̠	bribri	dev	"Id: Bribri0082
 Source: Ye'r i sú̠
 Change: TYPE:NEG, TENSE:PRF_REC
 Target: Ye kë̀ wa̠ i sù̠ne̠"	"Id: Bribri0082
 Source: Ye'r i sú̠
 Change: TYPE:NEG, TENSE:PRF_REC
-Target: "	Ye'kë̀ wa̠ isù̠ne̠
-2502	Bribri0083	Ye'r i sú̠	TENSE:IPFV_REC, ASPECT:IPFV	Ye'r i sa̠wè̠	bribri	dev	"Id: Bribri0083
+Target: "	Ye'r kë̀ wa̠ i súne̠
+39	Bribri0083	Ye'r i sú̠	TENSE:IPFV_REC, ASPECT:IPFV	Ye'r i sa̠wè̠	bribri	dev	"Id: Bribri0083
 Source: Ye'r i sú̠
 Change: TENSE:IPFV_REC, ASPECT:IPFV
 Target: Ye'r i sa̠wè̠"	"Id: Bribri0083
 Source: Ye'r i sú̠
 Change: TENSE:IPFV_REC, ASPECT:IPFV
-Target: "	Ye'risò̠
-2503	Bribri0084	Ye'r i sú̠	TYPE:NEG, TENSE:IPFV_REC, ASPECT:IPFV	Kë̀ ye'r i sa̠we̠	bribri	dev	"Id: Bribri0084
+Target: "	Ye'r i su̠tö̀
+40	Bribri0084	Ye'r i sú̠	TYPE:NEG, TENSE:IPFV_REC, ASPECT:IPFV	Kë̀ ye'r i sa̠we̠	bribri	dev	"Id: Bribri0084
 Source: Ye'r i sú̠
 Change: TYPE:NEG, TENSE:IPFV_REC, ASPECT:IPFV
 Target: Kë̀ ye'r i sa̠we̠"	"Id: Bribri0084
 Source: Ye'r i sú̠
 Change: TYPE:NEG, TENSE:IPFV_REC, ASPECT:IPFV
-Target: "	Kë̀ ye'risü
-2504	Bribri0085	Ye'r i sú̠	MODE:IMP, TENSE:IPFV_REC, ASPECT:IPFV, PERSON:NA	I sa̠ú̠	bribri	dev	"Id: Bribri0085
+Target: "	Kë̀ ye'r i súne̠
+41	Bribri0085	Ye'r i sú̠	MODE:IMP, TENSE:IPFV_REC, ASPECT:IPFV, PERSON:NA	I sa̠ú̠	bribri	dev	"Id: Bribri0085
 Source: Ye'r i sú̠
 Change: MODE:IMP, TENSE:IPFV_REC, ASPECT:IPFV, PERSON:NA
 Target: I sa̠ú̠"	"Id: Bribri0085
 Source: Ye'r i sú̠
 Change: MODE:IMP, TENSE:IPFV_REC, ASPECT:IPFV, PERSON:NA
-Target: "	Sú̠ ta̠ú̠
-2505	Bribri0086	Ye'r i sú̠	TYPE:NEG, MODE:IMP, TENSE:IPFV_REC, ASPECT:IPFV, PERSON:2_SI	Kë̀ be' tö i sa̠u̠k	bribri	dev	"Id: Bribri0086
+Target: "	I sú̠
+42	Bribri0086	Ye'r i sú̠	TYPE:NEG, MODE:IMP, TENSE:IPFV_REC, ASPECT:IPFV, PERSON:2_SI	Kë̀ be' tö i sa̠u̠k	bribri	dev	"Id: Bribri0086
 Source: Ye'r i sú̠
 Change: TYPE:NEG, MODE:IMP, TENSE:IPFV_REC, ASPECT:IPFV, PERSON:2_SI
 Target: Kë̀ be' tö i sa̠u̠k"	"Id: Bribri0086
 Source: Ye'r i sú̠
 Change: TYPE:NEG, MODE:IMP, TENSE:IPFV_REC, ASPECT:IPFV, PERSON:2_SI
-Target: "	Kë̀ be'sükö
-2506	Bribri0087	Ye'r i sú̠	TYPE:NEG, MODE:IMP, TENSE:IPFV_REC, ASPECT:IPFV, VOICE:MID, PERSON:3_SI	Kë̀ i sa̠wa̠r	bribri	dev	"Id: Bribri0087
+Target: "	Kë̀ be' sú̠k
+43	Bribri0087	Ye'r i sú̠	TYPE:NEG, MODE:IMP, TENSE:IPFV_REC, ASPECT:IPFV, VOICE:MID, PERSON:3_SI	Kë̀ i sa̠wa̠r	bribri	dev	"Id: Bribri0087
 Source: Ye'r i sú̠
 Change: TYPE:NEG, MODE:IMP, TENSE:IPFV_REC, ASPECT:IPFV, VOICE:MID, PERSON:3_SI
 Target: Kë̀ i sa̠wa̠r"	"Id: Bribri0087
 Source: Ye'r i sú̠
 Change: TYPE:NEG, MODE:IMP, TENSE:IPFV_REC, ASPECT:IPFV, VOICE:MID, PERSON:3_SI
-Target: "	Sú̠ne̠
-2507	Bribri0088	Ye'r i sú̠	MODE:EXH, TENSE:IPFV_REC, ASPECT:IPFV, PERSON:1_PL_INC	I sa̠ù̠ sö	bribri	dev	"Id: Bribri0088
+Target: "	Ie kë̀ wa̠ sú̠ne̠
+44	Bribri0088	Ye'r i sú̠	MODE:EXH, TENSE:IPFV_REC, ASPECT:IPFV, PERSON:1_PL_INC	I sa̠ù̠ sö	bribri	dev	"Id: Bribri0088
 Source: Ye'r i sú̠
 Change: MODE:EXH, TENSE:IPFV_REC, ASPECT:IPFV, PERSON:1_PL_INC
 Target: I sa̠ù̠ sö"	"Id: Bribri0088
 Source: Ye'r i sú̠
 Change: MODE:EXH, TENSE:IPFV_REC, ASPECT:IPFV, PERSON:1_PL_INC
-Target: "	Sú̠ sö
-2508	Bribri0089	Ye'r i sú̠	TENSE:FUT_CER, ASPECT:IPFV	Ye'r i sa̠wè̠râ	bribri	dev	"Id: Bribri0089
+Target: "	Sú̠ sö'r i
+45	Bribri0089	Ye'r i sú̠	TENSE:FUT_CER, ASPECT:IPFV	Ye'r i sa̠wè̠râ	bribri	dev	"Id: Bribri0089
 Source: Ye'r i sú̠
 Change: TENSE:FUT_CER, ASPECT:IPFV
 Target: Ye'r i sa̠wè̠râ"	"Id: Bribri0089
 Source: Ye'r i sú̠
 Change: TENSE:FUT_CER, ASPECT:IPFV
-Target: "	Ye'risù̠râ
-2509	Bribri0090	Ye'r i sú̠	TYPE:NEG, TENSE:FUT_CER, ASPECT:IPFV	Kë̀ ye'r i sa̠wè̠pa	bribri	dev	"Id: Bribri0090
+Target: "	Ye'r i sú̠râ
+46	Bribri0090	Ye'r i sú̠	TYPE:NEG, TENSE:FUT_CER, ASPECT:IPFV	Kë̀ ye'r i sa̠wè̠pa	bribri	dev	"Id: Bribri0090
 Source: Ye'r i sú̠
 Change: TYPE:NEG, TENSE:FUT_CER, ASPECT:IPFV
 Target: Kë̀ ye'r i sa̠wè̠pa"	"Id: Bribri0090
 Source: Ye'r i sú̠
 Change: TYPE:NEG, TENSE:FUT_CER, ASPECT:IPFV
-Target: "	Kë̀ ye'risúpa
-2510	Bribri0091	Ye'r i sú̠	TENSE:IPFV_HAB, ASPECT:IPFV	Ye'r i sa̠wè̠ke̠	bribri	dev	"Id: Bribri0091
+Target: "	Kë̀ ye'r wa̠ sú̠pa
+47	Bribri0091	Ye'r i sú̠	TENSE:IPFV_HAB, ASPECT:IPFV	Ye'r i sa̠wè̠ke̠	bribri	dev	"Id: Bribri0091
 Source: Ye'r i sú̠
 Change: TENSE:IPFV_HAB, ASPECT:IPFV
 Target: Ye'r i sa̠wè̠ke̠"	"Id: Bribri0091
 Source: Ye'r i sú̠
 Change: TENSE:IPFV_HAB, ASPECT:IPFV
-Target: "	Ye'risú̠ke̠
-2511	Bribri0092	Ye'r i sú̠	TYPE:NEG, TENSE:IPFV_HAB, ASPECT:IPFV	Kë̀ ye'r i sa̠wè̠ku̠	bribri	dev	"Id: Bribri0092
+Target: "	Ye'r i sùke̠
+48	Bribri0092	Ye'r i sú̠	TYPE:NEG, TENSE:IPFV_HAB, ASPECT:IPFV	Kë̀ ye'r i sa̠wè̠ku̠	bribri	dev	"Id: Bribri0092
 Source: Ye'r i sú̠
 Change: TYPE:NEG, TENSE:IPFV_HAB, ASPECT:IPFV
 Target: Kë̀ ye'r i sa̠wè̠ku̠"	"Id: Bribri0092
 Source: Ye'r i sú̠
 Change: TYPE:NEG, TENSE:IPFV_HAB, ASPECT:IPFV
-Target: "	Kë̀ ye'risu̠èku̠
-2512	Bribri0093	Ye'r i sú̠	TENSE:FUT_POT, ASPECT:IPFV	Ye'r i sa̠wè̠mi̠	bribri	dev	"Id: Bribri0093
+Target: "	Kë̀ ye'r i sú̠ku̠
+49	Bribri0093	Ye'r i sú̠	TENSE:FUT_POT, ASPECT:IPFV	Ye'r i sa̠wè̠mi̠	bribri	dev	"Id: Bribri0093
 Source: Ye'r i sú̠
 Change: TENSE:FUT_POT, ASPECT:IPFV
 Target: Ye'r i sa̠wè̠mi̠"	"Id: Bribri0093
 Source: Ye'r i sú̠
 Change: TENSE:FUT_POT, ASPECT:IPFV
-Target: "	Ye'risúwèmi̠
-2513	Bribri0094	Ye'r i sú̠	TYPE:NEG, TENSE:FUT_POT, ASPECT:IPFV	Kë̀ ye'r i sa̠u̠k	bribri	dev	"Id: Bribri0094
+Target: "	Ye'r i sú̠mi̠
+50	Bribri0094	Ye'r i sú̠	TYPE:NEG, TENSE:FUT_POT, ASPECT:IPFV	Kë̀ ye'r i sa̠u̠k	bribri	dev	"Id: Bribri0094
 Source: Ye'r i sú̠
 Change: TYPE:NEG, TENSE:FUT_POT, ASPECT:IPFV
 Target: Kë̀ ye'r i sa̠u̠k"	"Id: Bribri0094
 Source: Ye'r i sú̠
 Change: TYPE:NEG, TENSE:FUT_POT, ASPECT:IPFV
-Target: "	Kë̀ ye'risüök
-2514	Bribri0095	Ye'r i sú̠	VOICE:MID, PERSON:3_SI	I sù̠ne̠	bribri	dev	"Id: Bribri0095
+Target: "	Kë̀ ye'r i súne̠
+51	Bribri0095	Ye'r i sú̠	VOICE:MID, PERSON:3_SI	I sù̠ne̠	bribri	dev	"Id: Bribri0095
 Source: Ye'r i sú̠
 Change: VOICE:MID, PERSON:3_SI
 Target: I sù̠ne̠"	"Id: Bribri0095
 Source: Ye'r i sú̠
 Change: VOICE:MID, PERSON:3_SI
-Target: "	Isú̠ne̠
-2515	Bribri0096	Ye'r i sú̠	VOICE:MID, ABSNUM:PL, PERSON:3_PL	I sù̠ne̠rak	bribri	dev	"Id: Bribri0096
+Target: "	I súne̠
+52	Bribri0096	Ye'r i sú̠	VOICE:MID, ABSNUM:PL, PERSON:3_PL	I sù̠ne̠rak	bribri	dev	"Id: Bribri0096
 Source: Ye'r i sú̠
 Change: VOICE:MID, ABSNUM:PL, PERSON:3_PL
 Target: I sù̠ne̠rak"	"Id: Bribri0096
 Source: Ye'r i sú̠
 Change: VOICE:MID, ABSNUM:PL, PERSON:3_PL
-Target: "	Sú̠paië'te̠n
-2516	Bribri0334	Ye' wa̠ sawë́ chka katárule	TYPE:NEG	Ye' kë̀ wa̠ sawë́ chka katárule	bribri	dev	"Id: Bribri0334
+Target: "	Ye'rpa i sú̠ne̠
+53	Bribri0334	Ye' wa̠ sawë́ chka katárule	TYPE:NEG	Ye' kë̀ wa̠ sawë́ chka katárule	bribri	dev	"Id: Bribri0334
 Source: Ye' wa̠ sawë́ chka katárule
 Change: TYPE:NEG
 Target: Ye' kë̀ wa̠ sawë́ chka katárule"	"Id: Bribri0334
 Source: Ye' wa̠ sawë́ chka katárule
 Change: TYPE:NEG
-Target: "	Ye'kë̀ wa̠ sawë́ chkakatárule
-2517	Bribri0335	Ye' wa̠ sawë́ chka katárule	VOICE:MID, PERSON:NA	Sawë́ chka katárule	bribri	dev	"Id: Bribri0335
+Target: "	Ye' kë̀ wa̠ sawë́ chka katárule ne̠
+54	Bribri0335	Ye' wa̠ sawë́ chka katárule	VOICE:MID, PERSON:NA	Sawë́ chka katárule	bribri	dev	"Id: Bribri0335
 Source: Ye' wa̠ sawë́ chka katárule
 Change: VOICE:MID, PERSON:NA
 Target: Sawë́ chka katárule"	"Id: Bribri0335
 Source: Ye' wa̠ sawë́ chka katárule
 Change: VOICE:MID, PERSON:NA
-Target: "	Sawë́ chkakatárulene̠
-2518	Bribri0123	Ye' stsë'	TENSE:PRF_REC	Ye' stsé	bribri	dev	"Id: Bribri0123
+Target: "	Wa̠ sawë́ chka katárulène̠
+55	Bribri0123	Ye' stsë'	TENSE:PRF_REC	Ye' stsé	bribri	dev	"Id: Bribri0123
 Source: Ye' stsë'
 Change: TENSE:PRF_REC
 Target: Ye' stsé"	"Id: Bribri0123
 Source: Ye' stsë'
 Change: TENSE:PRF_REC
-Target: "	Ye'stsé
-2519	Bribri0124	Ye' stsë'	TYPE:NEG	Ye' kë̀ stsë̀ne̠	bribri	dev	"Id: Bribri0124
+Target: "	Ye' sté
+56	Bribri0124	Ye' stsë'	TYPE:NEG	Ye' kë̀ stsë̀ne̠	bribri	dev	"Id: Bribri0124
 Source: Ye' stsë'
 Change: TYPE:NEG
 Target: Ye' kë̀ stsë̀ne̠"	"Id: Bribri0124
 Source: Ye' stsë'
 Change: TYPE:NEG
-Target: "	Ye'kë̀ wa̠ stsë̀ne̠
-2520	Bribri0125	Ye' stsë'	TYPE:NEG, TENSE:PRF_REC	Ye' kë̀ stsë̀ne̠	bribri	dev	"Id: Bribri0125
+Target: "	Ye' kë̀ wa̠ stsë̠ne̠
+57	Bribri0125	Ye' stsë'	TYPE:NEG, TENSE:PRF_REC	Ye' kë̀ stsë̀ne̠	bribri	dev	"Id: Bribri0125
 Source: Ye' stsë'
 Change: TYPE:NEG, TENSE:PRF_REC
 Target: Ye' kë̀ stsë̀ne̠"	"Id: Bribri0125
 Source: Ye' stsë'
 Change: TYPE:NEG, TENSE:PRF_REC
-Target: "	Ye'kë̀ stsë̀ne̠
-2521	Bribri0126	Ye' stsë'	VOICE:MID, ABSNUM:NI, PERSON:NA	Stsë̀ne̠	bribri	dev	"Id: Bribri0126
+Target: "	Ye' kë̀ wa̠ stsë̀ne̠
+58	Bribri0126	Ye' stsë'	VOICE:MID, ABSNUM:NI, PERSON:NA	Stsë̀ne̠	bribri	dev	"Id: Bribri0126
 Source: Ye' stsë'
 Change: VOICE:MID, ABSNUM:NI, PERSON:NA
 Target: Stsë̀ne̠"	"Id: Bribri0126
 Source: Ye' stsë'
 Change: VOICE:MID, ABSNUM:NI, PERSON:NA
-Target: "	Stsè̠ne̠
-2522	Bribri0127	Ye' stsë'	TYPE:NEG, VOICE:MID, ABSNUM:NI, PERSON:NA	Kë̀ stsë̀ne̠	bribri	dev	"Id: Bribri0127
+Target: "	Stsë̠ne̠
+59	Bribri0127	Ye' stsë'	TYPE:NEG, VOICE:MID, ABSNUM:NI, PERSON:NA	Kë̀ stsë̀ne̠	bribri	dev	"Id: Bribri0127
 Source: Ye' stsë'
 Change: TYPE:NEG, VOICE:MID, ABSNUM:NI, PERSON:NA
 Target: Kë̀ stsë̀ne̠"	"Id: Bribri0127
 Source: Ye' stsë'
 Change: TYPE:NEG, VOICE:MID, ABSNUM:NI, PERSON:NA
-Target: "	Kë̀ stsë̀ne̠
-2523	Bribri0128	Ye' stsë'	TENSE:IPFV_REC, ASPECT:IPFV, PERSON:3_SI	Ie' stsö̀	bribri	dev	"Id: Bribri0128
+Target: "	Kë̀ stsëne̠
+60	Bribri0128	Ye' stsë'	TENSE:IPFV_REC, ASPECT:IPFV, PERSON:3_SI	Ie' stsö̀	bribri	dev	"Id: Bribri0128
 Source: Ye' stsë'
 Change: TENSE:IPFV_REC, ASPECT:IPFV, PERSON:3_SI
 Target: Ie' stsö̀"	"Id: Bribri0128
 Source: Ye' stsë'
 Change: TENSE:IPFV_REC, ASPECT:IPFV, PERSON:3_SI
-Target: "	Ie'stsö̀'
-2524	Bribri0129	Ye' stsë'	TYPE:NEG, TENSE:IPFV_REC, ASPECT:IPFV, PERSON:3_SI	Ie' kë̀ stsö	bribri	dev	"Id: Bribri0129
+Target: "	Ie' stö̀sö'
+61	Bribri0129	Ye' stsë'	TYPE:NEG, TENSE:IPFV_REC, ASPECT:IPFV, PERSON:3_SI	Ie' kë̀ stsö	bribri	dev	"Id: Bribri0129
 Source: Ye' stsë'
 Change: TYPE:NEG, TENSE:IPFV_REC, ASPECT:IPFV, PERSON:3_SI
 Target: Ie' kë̀ stsö"	"Id: Bribri0129
 Source: Ye' stsë'
 Change: TYPE:NEG, TENSE:IPFV_REC, ASPECT:IPFV, PERSON:3_SI
-Target: "	Ie'kë̀ wa̠ stsawö̀ë̠
-2525	Bribri0130	Ye' stsë'	TENSE:IPFV_REC, ASPECT:IPFV	Ye' stsö̀	bribri	dev	"Id: Bribri0130
+Target: "	Ie' kë̀ wa̠ stsë'wa̠
+62	Bribri0130	Ye' stsë'	TENSE:IPFV_REC, ASPECT:IPFV	Ye' stsö̀	bribri	dev	"Id: Bribri0130
 Source: Ye' stsë'
 Change: TENSE:IPFV_REC, ASPECT:IPFV
 Target: Ye' stsö̀"	"Id: Bribri0130
 Source: Ye' stsë'
 Change: TENSE:IPFV_REC, ASPECT:IPFV
-Target: "	Ye'stsö̀
-2526	Bribri0131	Ye' stsë'	TENSE:FUT_CER, ASPECT:IPFV	Ye' stsö̀râ	bribri	dev	"Id: Bribri0131
+Target: "	Ye' stsö̀
+63	Bribri0131	Ye' stsë'	TENSE:FUT_CER, ASPECT:IPFV	Ye' stsö̀râ	bribri	dev	"Id: Bribri0131
 Source: Ye' stsë'
 Change: TENSE:FUT_CER, ASPECT:IPFV
 Target: Ye' stsö̀râ"	"Id: Bribri0131
 Source: Ye' stsë'
 Change: TENSE:FUT_CER, ASPECT:IPFV
-Target: "	Ye'stsërâ
-2527	Bribri0132	Ye' stsë'	TYPE:NEG, TENSE:FUT_CER, ASPECT:IPFV	Kë̀ ye' stsö̀pa	bribri	dev	"Id: Bribri0132
+Target: "	Ye' stsë̀râ
+64	Bribri0132	Ye' stsë'	TYPE:NEG, TENSE:FUT_CER, ASPECT:IPFV	Kë̀ ye' stsö̀pa	bribri	dev	"Id: Bribri0132
 Source: Ye' stsë'
 Change: TYPE:NEG, TENSE:FUT_CER, ASPECT:IPFV
 Target: Kë̀ ye' stsö̀pa"	"Id: Bribri0132
 Source: Ye' stsë'
 Change: TYPE:NEG, TENSE:FUT_CER, ASPECT:IPFV
-Target: "	Kë̀ ye'stsë̀pa
-2528	Bribri0133	Ye' stsë'	TENSE:IPFV_HAB, ASPECT:IPFV	Ye' stsö̀ke̠	bribri	dev	"Id: Bribri0133
+Target: "	Kë̀ ye' stë̀pa
+65	Bribri0133	Ye' stsë'	TENSE:IPFV_HAB, ASPECT:IPFV	Ye' stsö̀ke̠	bribri	dev	"Id: Bribri0133
 Source: Ye' stsë'
 Change: TENSE:IPFV_HAB, ASPECT:IPFV
 Target: Ye' stsö̀ke̠"	"Id: Bribri0133
 Source: Ye' stsë'
 Change: TENSE:IPFV_HAB, ASPECT:IPFV
-Target: "	Ye'stsë̀ke̠
-2529	Bribri0134	Ye' stsë'	TYPE:NEG, TENSE:IPFV_HAB, ASPECT:IPFV	Kë̀ ye' stsö̀ku̠	bribri	dev	"Id: Bribri0134
+Target: "	Ye' stsë̀ke̠
+66	Bribri0134	Ye' stsë'	TYPE:NEG, TENSE:IPFV_HAB, ASPECT:IPFV	Kë̀ ye' stsö̀ku̠	bribri	dev	"Id: Bribri0134
 Source: Ye' stsë'
 Change: TYPE:NEG, TENSE:IPFV_HAB, ASPECT:IPFV
 Target: Kë̀ ye' stsö̀ku̠"	"Id: Bribri0134
 Source: Ye' stsë'
 Change: TYPE:NEG, TENSE:IPFV_HAB, ASPECT:IPFV
-Target: "	Kë̀ ye'stsë̀ku̠
-2530	Bribri0135	Ye' stsë'	TENSE:FUT_POT, ASPECT:IPFV	Ye' stsö̀mi̠	bribri	dev	"Id: Bribri0135
+Target: "	Kë̀ ye' stse̠ku̠
+67	Bribri0135	Ye' stsë'	TENSE:FUT_POT, ASPECT:IPFV	Ye' stsö̀mi̠	bribri	dev	"Id: Bribri0135
 Source: Ye' stsë'
 Change: TENSE:FUT_POT, ASPECT:IPFV
 Target: Ye' stsö̀mi̠"	"Id: Bribri0135
 Source: Ye' stsë'
 Change: TENSE:FUT_POT, ASPECT:IPFV
-Target: "	Ye'stsëmi̠
-2531	Bribri0136	Ye' stsë'	TYPE:NEG, TENSE:FUT_POT, ASPECT:IPFV	Kë̀ ye' stsök	bribri	dev	"Id: Bribri0136
+Target: "	Ye' stsë̀mi̠
+68	Bribri0136	Ye' stsë'	TYPE:NEG, TENSE:FUT_POT, ASPECT:IPFV	Kë̀ ye' stsök	bribri	dev	"Id: Bribri0136
 Source: Ye' stsë'
 Change: TYPE:NEG, TENSE:FUT_POT, ASPECT:IPFV
 Target: Kë̀ ye' stsök"	"Id: Bribri0136
 Source: Ye' stsë'
 Change: TYPE:NEG, TENSE:FUT_POT, ASPECT:IPFV
-Target: "	Kë̀ ye'stsëk
-2532	Bribri0137	Ye' stsë'	MODE:ADVERS	Ye' stsa'	bribri	dev	"Id: Bribri0137
+Target: "	Kë̀ ye' stsë' stök
+69	Bribri0137	Ye' stsë'	MODE:ADVERS	Ye' stsa'	bribri	dev	"Id: Bribri0137
 Source: Ye' stsë'
 Change: MODE:ADVERS
 Target: Ye' stsa'"	"Id: Bribri0137
 Source: Ye' stsë'
 Change: MODE:ADVERS
-Target: "	Ye'wa̠ stsë'ta'
-2533	Bribri0138	Ye' stsë'	MODE:IMP, TENSE:IPFV_REC, ASPECT:IPFV, PERSON:2_SI	Be' stsö́	bribri	dev	"Id: Bribri0138
+Target: "	Ye' wa̠' stsë'
+70	Bribri0138	Ye' stsë'	MODE:IMP, TENSE:IPFV_REC, ASPECT:IPFV, PERSON:2_SI	Be' stsö́	bribri	dev	"Id: Bribri0138
 Source: Ye' stsë'
 Change: MODE:IMP, TENSE:IPFV_REC, ASPECT:IPFV, PERSON:2_SI
 Target: Be' stsö́"	"Id: Bribri0138
 Source: Ye' stsë'
 Change: MODE:IMP, TENSE:IPFV_REC, ASPECT:IPFV, PERSON:2_SI
-Target: "	Be'stsö́
-2534	Bribri0139	Ye' stsë'	TYPE:NEG, MODE:IMP, TENSE:IPFV_REC, ASPECT:IPFV, PERSON:2_SI	Kë̀ be' stsök	bribri	dev	"Id: Bribri0139
+Target: "	Be' stsó̠
+71	Bribri0139	Ye' stsë'	TYPE:NEG, MODE:IMP, TENSE:IPFV_REC, ASPECT:IPFV, PERSON:2_SI	Kë̀ be' stsök	bribri	dev	"Id: Bribri0139
 Source: Ye' stsë'
 Change: TYPE:NEG, MODE:IMP, TENSE:IPFV_REC, ASPECT:IPFV, PERSON:2_SI
 Target: Kë̀ be' stsök"	"Id: Bribri0139
 Source: Ye' stsë'
 Change: TYPE:NEG, MODE:IMP, TENSE:IPFV_REC, ASPECT:IPFV, PERSON:2_SI
-Target: "	Kë̀ be'stsëkök
-2535	Bribri0140	Ye' stsë'	TYPE:NEG, MODE:IMP, TENSE:IPFV_REC, ASPECT:IPFV, VOICE:MID, ABSNUM:NI, PERSON:NA	Kë̀ stsar	bribri	dev	"Id: Bribri0140
+Target: "	Kë̀ be' shkë̀ne̠
+72	Bribri0140	Ye' stsë'	TYPE:NEG, MODE:IMP, TENSE:IPFV_REC, ASPECT:IPFV, VOICE:MID, ABSNUM:NI, PERSON:NA	Kë̀ stsar	bribri	dev	"Id: Bribri0140
 Source: Ye' stsë'
 Change: TYPE:NEG, MODE:IMP, TENSE:IPFV_REC, ASPECT:IPFV, VOICE:MID, ABSNUM:NI, PERSON:NA
 Target: Kë̀ stsar"	"Id: Bribri0140
 Source: Ye' stsë'
 Change: TYPE:NEG, MODE:IMP, TENSE:IPFV_REC, ASPECT:IPFV, VOICE:MID, ABSNUM:NI, PERSON:NA
-Target: "	Kë̀ stsër
-2536	Bribri0921	Ye' tö i búk	TYPE:NEG	Ye' kë̀ wa̠ i bùne̠	bribri	dev	"Id: Bribri0921
+Target: "	Ye' kë̀ wa̠ stsë̀ne̠
+73	Bribri0921	Ye' tö i búk	TYPE:NEG	Ye' kë̀ wa̠ i bùne̠	bribri	dev	"Id: Bribri0921
 Source: Ye' tö i búk
 Change: TYPE:NEG
 Target: Ye' kë̀ wa̠ i bùne̠"	"Id: Bribri0921
 Source: Ye' tö i búk
 Change: TYPE:NEG
-Target: "	Ye'kë̀ wa̠ ibúk
-2537	Bribri0922	Ye' tö i búk	TENSE:PRF_REC	Ye' tö i ppé	bribri	dev	"Id: Bribri0922
+Target: "	Ye' kë̀ wa̠ i búne̠
+74	Bribri0922	Ye' tö i búk	TENSE:PRF_REC	Ye' tö i ppé	bribri	dev	"Id: Bribri0922
 Source: Ye' tö i búk
 Change: TENSE:PRF_REC
 Target: Ye' tö i ppé"	"Id: Bribri0922
 Source: Ye' tö i búk
 Change: TENSE:PRF_REC
-Target: "	Ye'töibúké
-2538	Bribri0923	Ye' tö i búk	TENSE:IPFV_REC, ASPECT:IPFV	Ye tö i ppè	bribri	dev	"Id: Bribri0923
+Target: "	Ye' tö i búké
+75	Bribri0923	Ye' tö i búk	TENSE:IPFV_REC, ASPECT:IPFV	Ye tö i ppè	bribri	dev	"Id: Bribri0923
 Source: Ye' tö i búk
 Change: TENSE:IPFV_REC, ASPECT:IPFV
 Target: Ye tö i ppè"	"Id: Bribri0923
 Source: Ye' tö i búk
 Change: TENSE:IPFV_REC, ASPECT:IPFV
-Target: "	Ye'töibùkè
-2539	Bribri0924	Ye' tö i búk	TENSE:IPFV_PROG, ASPECT:IPFV	Ye' tso i ppö́k	bribri	dev	"Id: Bribri0924
+Target: "	Ye' tö i bùkè
+76	Bribri0924	Ye' tö i búk	TENSE:IPFV_PROG, ASPECT:IPFV	Ye' tso i ppö́k	bribri	dev	"Id: Bribri0924
 Source: Ye' tö i búk
 Change: TENSE:IPFV_PROG, ASPECT:IPFV
 Target: Ye' tso i ppö́k"	"Id: Bribri0924
 Source: Ye' tö i búk
 Change: TENSE:IPFV_PROG, ASPECT:IPFV
-Target: "	Ye'tsoibúkö́k
-2540	Bribri0925	Ye' tö i búk	TYPE:NEG, TENSE:IPFV_PROG, ASPECT:IPFV	Ye' kë̀ ku̠ i ppö́k	bribri	dev	"Id: Bribri0925
+Target: "	Ye' tso i búkók
+77	Bribri0925	Ye' tö i búk	TYPE:NEG, TENSE:IPFV_PROG, ASPECT:IPFV	Ye' kë̀ ku̠ i ppö́k	bribri	dev	"Id: Bribri0925
 Source: Ye' tö i búk
 Change: TYPE:NEG, TENSE:IPFV_PROG, ASPECT:IPFV
 Target: Ye' kë̀ ku̠ i ppö́k"	"Id: Bribri0925
 Source: Ye' tö i búk
 Change: TYPE:NEG, TENSE:IPFV_PROG, ASPECT:IPFV
-Target: "	Ye'kë̀ ku̠ ibkö́k
-2541	Bribri0926	Ye' tö i búk	TENSE:PRF_PROG	Ye' bák i ppö́k	bribri	dev	"Id: Bribri0926
+Target: "	Ye' kë̀ ku̠ i búkík
+78	Bribri0926	Ye' tö i búk	TENSE:PRF_PROG	Ye' bák i ppö́k	bribri	dev	"Id: Bribri0926
 Source: Ye' tö i búk
 Change: TENSE:PRF_PROG
 Target: Ye' bák i ppö́k"	"Id: Bribri0926
 Source: Ye' tö i búk
 Change: TENSE:PRF_PROG
-Target: "	Ye'bákibukúk
-2542	Bribri0927	Ye' tö i búk	TYPE:NEG, TENSE:PRF_PROG	Ye' kë̀ ku̠'bak i ppö́k	bribri	dev	"Id: Bribri0927
+Target: "	Ye' bák i búkók
+79	Bribri0927	Ye' tö i búk	TYPE:NEG, TENSE:PRF_PROG	Ye' kë̀ ku̠'bak i ppö́k	bribri	dev	"Id: Bribri0927
 Source: Ye' tö i búk
 Change: TYPE:NEG, TENSE:PRF_PROG
 Target: Ye' kë̀ ku̠'bak i ppö́k"	"Id: Bribri0927
 Source: Ye' tö i búk
 Change: TYPE:NEG, TENSE:PRF_PROG
-Target: "	Ye'kë̀ ku̠'bakibö́k
-2543	Bribri0928	Ye' tö i búk	TENSE:IPFV_HAB, ASPECT:IPFV	Ye' tö i ppèke̠	bribri	dev	"Id: Bribri0928
+Target: "	Ye' kë̀ ku̠'bak i búkwa̠
+80	Bribri0928	Ye' tö i búk	TENSE:IPFV_HAB, ASPECT:IPFV	Ye' tö i ppèke̠	bribri	dev	"Id: Bribri0928
 Source: Ye' tö i búk
 Change: TENSE:IPFV_HAB, ASPECT:IPFV
 Target: Ye' tö i ppèke̠"	"Id: Bribri0928
 Source: Ye' tö i búk
 Change: TENSE:IPFV_HAB, ASPECT:IPFV
-Target: "	Ye'töibúkeke
-2544	Bribri0929	Ye' tö i búk	MODE:IMP, TENSE:IPFV_REC, ASPECT:IPFV, PERSON:NA	I ppö́	bribri	dev	"Id: Bribri0929
+Target: "	Ye' tö i búke̠
+81	Bribri0929	Ye' tö i búk	MODE:IMP, TENSE:IPFV_REC, ASPECT:IPFV, PERSON:NA	I ppö́	bribri	dev	"Id: Bribri0929
 Source: Ye' tö i búk
 Change: MODE:IMP, TENSE:IPFV_REC, ASPECT:IPFV, PERSON:NA
 Target: I ppö́"	"Id: Bribri0929
 Source: Ye' tö i búk
 Change: MODE:IMP, TENSE:IPFV_REC, ASPECT:IPFV, PERSON:NA
-Target: "	Búkta̠ú̠
-2545	Bribri0930	Ye' tö i búk	VOICE:MID, ABSNUM:NI, PERSON:NA	Bùne̠	bribri	dev	"Id: Bribri0930
+Target: "	I bukú
+82	Bribri0930	Ye' tö i búk	VOICE:MID, ABSNUM:NI, PERSON:NA	Bùne̠	bribri	dev	"Id: Bribri0930
 Source: Ye' tö i búk
 Change: VOICE:MID, ABSNUM:NI, PERSON:NA
 Target: Bùne̠"	"Id: Bribri0930
 Source: Ye' tö i búk
 Change: VOICE:MID, ABSNUM:NI, PERSON:NA
-Target: "	Búkàne̠
-2546	Bribri0931	Ye' tö i búk	TENSE:IPFV_REC, ASPECT:IPFV, VOICE:MID, ABSNUM:NI, PERSON:NA	Bùr	bribri	dev	"Id: Bribri0931
+Target: "	Töne̠ i búkà
+83	Bribri0931	Ye' tö i búk	TENSE:IPFV_REC, ASPECT:IPFV, VOICE:MID, ABSNUM:NI, PERSON:NA	Bùr	bribri	dev	"Id: Bribri0931
 Source: Ye' tö i búk
 Change: TENSE:IPFV_REC, ASPECT:IPFV, VOICE:MID, ABSNUM:NI, PERSON:NA
 Target: Bùr"	"Id: Bribri0931
 Source: Ye' tö i búk
 Change: TENSE:IPFV_REC, ASPECT:IPFV, VOICE:MID, ABSNUM:NI, PERSON:NA
-Target: "	Bùkir
-2547	Bribri0904	Wé̠shke̠ alákölpaë̀ tso	TENSE:PRF_REC, ASPECT:PFV	Wé̠shke̠ alákölpaë̀ tká	bribri	dev	"Id: Bribri0904
+Target: "	Búkne̠
+84	Bribri0904	Wé̠shke̠ alákölpaë̀ tso	TENSE:PRF_REC, ASPECT:PFV	Wé̠shke̠ alákölpaë̀ tká	bribri	dev	"Id: Bribri0904
 Source: Wé̠shke̠ alákölpaë̀ tso
 Change: TENSE:PRF_REC, ASPECT:PFV
 Target: Wé̠shke̠ alákölpaë̀ tká"	"Id: Bribri0904
 Source: Wé̠shke̠ alákölpaë̀ tso
 Change: TENSE:PRF_REC, ASPECT:PFV
-Target: "	Wéshkéalákölpaë̀ tsó
-2548	Bribri0905	Wé̠shke̠ alákölpaë̀ tso	TENSE:PRF_REM, ASPECT:PFV	Wé̠shke̠ alákölpaë̀ bák	bribri	dev	"Id: Bribri0905
+Target: "	Wé̠shke̠ alákölpaë̀ tsó̠
+85	Bribri0905	Wé̠shke̠ alákölpaë̀ tso	TENSE:PRF_REM, ASPECT:PFV	Wé̠shke̠ alákölpaë̀ bák	bribri	dev	"Id: Bribri0905
 Source: Wé̠shke̠ alákölpaë̀ tso
 Change: TENSE:PRF_REM, ASPECT:PFV
 Target: Wé̠shke̠ alákölpaë̀ bák"	"Id: Bribri0905
 Source: Wé̠shke̠ alákölpaë̀ tso
 Change: TENSE:PRF_REM, ASPECT:PFV
-Target: "	Wé̠shke̠ bákalákölpaë̀ tso
-2549	Bribri0063	Ye' tö ù sú̠	PERSON:2_SI	Be' tö ù sú̠	bribri	dev	"Id: Bribri0063
+Target: "	Wé̠shke̠ bák alákölpaë̀ tso
+86	Bribri0063	Ye' tö ù sú̠	PERSON:2_SI	Be' tö ù sú̠	bribri	dev	"Id: Bribri0063
 Source: Ye' tö ù sú̠
 Change: PERSON:2_SI
 Target: Be' tö ù sú̠"	"Id: Bribri0063
 Source: Ye' tö ù sú̠
 Change: PERSON:2_SI
-Target: "	Be'töùsú̠
-2550	Bribri0064	Ye' tö ù sú̠	PERSON:3_SI	Ie' tö ù sú̠	bribri	dev	"Id: Bribri0064
+Target: "	Be' tö ù sú̠
+87	Bribri0064	Ye' tö ù sú̠	PERSON:3_SI	Ie' tö ù sú̠	bribri	dev	"Id: Bribri0064
 Source: Ye' tö ù sú̠
 Change: PERSON:3_SI
 Target: Ie' tö ù sú̠"	"Id: Bribri0064
 Source: Ye' tö ù sú̠
 Change: PERSON:3_SI
-Target: "	Ie'töùsú̠
-2551	Bribri0065	Ye' tö ù sú̠	PERSON:1_PL_EXC	Sa' tö ù sú̠	bribri	dev	"Id: Bribri0065
+Target: "	Ie' tö ù sú̠
+88	Bribri0065	Ye' tö ù sú̠	PERSON:1_PL_EXC	Sa' tö ù sú̠	bribri	dev	"Id: Bribri0065
 Source: Ye' tö ù sú̠
 Change: PERSON:1_PL_EXC
 Target: Sa' tö ù sú̠"	"Id: Bribri0065
 Source: Ye' tö ù sú̠
 Change: PERSON:1_PL_EXC
-Target: "	Ye'töùsú̠ pa'ran
-2552	Bribri0066	Ye' tö ù sú̠	PERSON:1_PL_INC	Se' tö ù sú̠	bribri	dev	"Id: Bribri0066
+Target: "	Ye' tö ù sú̠
+89	Bribri0066	Ye' tö ù sú̠	PERSON:1_PL_INC	Se' tö ù sú̠	bribri	dev	"Id: Bribri0066
 Source: Ye' tö ù sú̠
 Change: PERSON:1_PL_INC
 Target: Se' tö ù sú̠"	"Id: Bribri0066
 Source: Ye' tö ù sú̠
 Change: PERSON:1_PL_INC
-Target: "	Ye'töpasú̠
-2553	Bribri0067	Ye' tö ù sú̠	PERSON:2_PL	A' tö ù sú̠	bribri	dev	"Id: Bribri0067
+Target: "	Ye' tö ù sú̠ mä́nki
+90	Bribri0067	Ye' tö ù sú̠	PERSON:2_PL	A' tö ù sú̠	bribri	dev	"Id: Bribri0067
 Source: Ye' tö ù sú̠
 Change: PERSON:2_PL
 Target: A' tö ù sú̠"	"Id: Bribri0067
 Source: Ye' tö ù sú̠
 Change: PERSON:2_PL
-Target: "	Ye'töbésú̠
-2554	Bribri0068	Ye' tö ù sú̠	PERSON:3_PL	Ie'pa tö ù sú̠	bribri	dev	"Id: Bribri0068
+Target: "	Ye' tö ù sú̠ yà'a
+91	Bribri0068	Ye' tö ù sú̠	PERSON:3_PL	Ie'pa tö ù sú̠	bribri	dev	"Id: Bribri0068
 Source: Ye' tö ù sú̠
 Change: PERSON:3_PL
 Target: Ie'pa tö ù sú̠"	"Id: Bribri0068
 Source: Ye' tö ù sú̠
 Change: PERSON:3_PL
-Target: "	Ye'patöùsú̠
-2555	Bribri0069	Ye' tö ù sú̠	TENSE:PRF_REC	Ye' tö ù sa̠wé̠	bribri	dev	"Id: Bribri0069
+Target: "	Ye'pa tö ù sú̠
+92	Bribri0069	Ye' tö ù sú̠	TENSE:PRF_REC	Ye' tö ù sa̠wé̠	bribri	dev	"Id: Bribri0069
 Source: Ye' tö ù sú̠
 Change: TENSE:PRF_REC
 Target: Ye' tö ù sa̠wé̠"	"Id: Bribri0069
 Source: Ye' tö ù sú̠
 Change: TENSE:PRF_REC
-Target: "	Ye'töùsúwé̠
-2556	Bribri0070	Ye' tö ù sú̠	TENSE:IPFV_PROG, ASPECT:IPFV	Ye' tso ù sa̠u̠k	bribri	dev	"Id: Bribri0070
+Target: "	Ye' tö ù súwé̠
+93	Bribri0070	Ye' tö ù sú̠	TENSE:IPFV_PROG, ASPECT:IPFV	Ye' tso ù sa̠u̠k	bribri	dev	"Id: Bribri0070
 Source: Ye' tö ù sú̠
 Change: TENSE:IPFV_PROG, ASPECT:IPFV
 Target: Ye' tso ù sa̠u̠k"	"Id: Bribri0070
 Source: Ye' tö ù sú̠
 Change: TENSE:IPFV_PROG, ASPECT:IPFV
-Target: "	Ye'tsoùsûk
-2557	Bribri0071	Ye' tö ù sú̠	VOICE:MID, PERSON:NA	Ù sù̠ne̠	bribri	dev	"Id: Bribri0071
+Target: "	Ye' tso ù sú̠k
+94	Bribri0071	Ye' tö ù sú̠	VOICE:MID, PERSON:NA	Ù sù̠ne̠	bribri	dev	"Id: Bribri0071
 Source: Ye' tö ù sú̠
 Change: VOICE:MID, PERSON:NA
 Target: Ù sù̠ne̠"	"Id: Bribri0071
 Source: Ye' tö ù sú̠
 Change: VOICE:MID, PERSON:NA
-Target: "	Sú̠ tò̠ne̠
-2558	Bribri0072	Ye' tö ù sú̠	TYPE:NEG, VOICE:MID, PERSON:NA	Kë̀ ù sù̠ne̠	bribri	dev	"Id: Bribri0072
+Target: "	Ù sù̠ne̠
+95	Bribri0072	Ye' tö ù sú̠	TYPE:NEG, VOICE:MID, PERSON:NA	Kë̀ ù sù̠ne̠	bribri	dev	"Id: Bribri0072
 Source: Ye' tö ù sú̠
 Change: TYPE:NEG, VOICE:MID, PERSON:NA
 Target: Kë̀ ù sù̠ne̠"	"Id: Bribri0072
 Source: Ye' tö ù sú̠
 Change: TYPE:NEG, VOICE:MID, PERSON:NA
-Target: "	Kë̀ ùsú̠ne̠
-2559	Bribri0073	Ye' tö ù sú̠	TENSE:PRF_REC, VOICE:MID, PERSON:NA	Ù sù̠na̠	bribri	dev	"Id: Bribri0073
+Target: "	Kë̀ wa̠ ù sú̠ne̠
+96	Bribri0073	Ye' tö ù sú̠	TENSE:PRF_REC, VOICE:MID, PERSON:NA	Ù sù̠na̠	bribri	dev	"Id: Bribri0073
 Source: Ye' tö ù sú̠
 Change: TENSE:PRF_REC, VOICE:MID, PERSON:NA
 Target: Ù sù̠na̠"	"Id: Bribri0073
 Source: Ye' tö ù sú̠
 Change: TENSE:PRF_REC, VOICE:MID, PERSON:NA
-Target: "	Sù̠na̠
-2560	Bribri0074	Ye' tö ù sú̠	TENSE:IPFV_REC, ASPECT:IPFV, VOICE:MID, PERSON:NA	Ù sú̠r	bribri	dev	"Id: Bribri0074
+Target: "	Tö ù sú̠na̠
+97	Bribri0074	Ye' tö ù sú̠	TENSE:IPFV_REC, ASPECT:IPFV, VOICE:MID, PERSON:NA	Ù sú̠r	bribri	dev	"Id: Bribri0074
 Source: Ye' tö ù sú̠
 Change: TENSE:IPFV_REC, ASPECT:IPFV, VOICE:MID, PERSON:NA
 Target: Ù sú̠r"	"Id: Bribri0074
 Source: Ye' tö ù sú̠
 Change: TENSE:IPFV_REC, ASPECT:IPFV, VOICE:MID, PERSON:NA
-Target: "	Ùsú̠r
-2561	Bribri0075	Ye' tö ù sú̠	TYPE:NEG, TENSE:IPFV_REC, ASPECT:IPFV, VOICE:MID, PERSON:NA	Kë̀ ù sú̠r	bribri	dev	"Id: Bribri0075
+Target: "	Ù sù̠r
+98	Bribri0075	Ye' tö ù sú̠	TYPE:NEG, TENSE:IPFV_REC, ASPECT:IPFV, VOICE:MID, PERSON:NA	Kë̀ ù sú̠r	bribri	dev	"Id: Bribri0075
 Source: Ye' tö ù sú̠
 Change: TYPE:NEG, TENSE:IPFV_REC, ASPECT:IPFV, VOICE:MID, PERSON:NA
 Target: Kë̀ ù sú̠r"	"Id: Bribri0075
 Source: Ye' tö ù sú̠
 Change: TYPE:NEG, TENSE:IPFV_REC, ASPECT:IPFV, VOICE:MID, PERSON:NA
-Target: "	Kë̀ ùsùr
-2562	Bribri0076	Ye' tö ù sú̠	TYPE:NEG	Ye' kë̀ wa̠ ù sù̠ne̠	bribri	dev	"Id: Bribri0076
+Target: "	Kë̀ ù sú̠r
+99	Bribri0076	Ye' tö ù sú̠	TYPE:NEG	Ye' kë̀ wa̠ ù sù̠ne̠	bribri	dev	"Id: Bribri0076
 Source: Ye' tö ù sú̠
 Change: TYPE:NEG
 Target: Ye' kë̀ wa̠ ù sù̠ne̠"	"Id: Bribri0076
 Source: Ye' tö ù sú̠
 Change: TYPE:NEG
-Target: "	Ye'kë̀ wa̠ ùsú̠ne̠
-2563	Bribri0077	Ye' tö ù sú̠	TENSE:PAS_PLU, VOICE:MID, PERSON:NA	Ù sú̠rule	bribri	dev	"Id: Bribri0077
+Target: "	Ye' kë̀ wa̠ ù sùne̠
+100	Bribri0077	Ye' tö ù sú̠	TENSE:PAS_PLU, VOICE:MID, PERSON:NA	Ù sú̠rule	bribri	dev	"Id: Bribri0077
 Source: Ye' tö ù sú̠
 Change: TENSE:PAS_PLU, VOICE:MID, PERSON:NA
 Target: Ù sú̠rule"	"Id: Bribri0077
 Source: Ye' tö ù sú̠
 Change: TENSE:PAS_PLU, VOICE:MID, PERSON:NA
-Target: "	Sú̠ne̠
-2564	Bribri0078	Ye' tö ù sú̠	TENSE:PAS_PLU, PERSON:3_PL	Ie'pa wa̠ ù sú̠rule	bribri	dev	"Id: Bribri0078
+Target: "	Ye' wa̠ ù sú̠ne̠
+101	Bribri0078	Ye' tö ù sú̠	TENSE:PAS_PLU, PERSON:3_PL	Ie'pa wa̠ ù sú̠rule	bribri	dev	"Id: Bribri0078
 Source: Ye' tö ù sú̠
 Change: TENSE:PAS_PLU, PERSON:3_PL
 Target: Ie'pa wa̠ ù sú̠rule"	"Id: Bribri0078
 Source: Ye' tö ù sú̠
 Change: TENSE:PAS_PLU, PERSON:3_PL
-Target: "	Ye'pawa̠ ùsú̠rule
-2565	Bribri0079	Ye' tö ù sú̠	TYPE:NEG, TENSE:PAS_PLU, PERSON:3_PL	Ie'pa kë̀ wa̠ ù sú̠rule	bribri	dev	"Id: Bribri0079
+Target: "	Ye' wa̠ ù sú̠rule
+102	Bribri0079	Ye' tö ù sú̠	TYPE:NEG, TENSE:PAS_PLU, PERSON:3_PL	Ie'pa kë̀ wa̠ ù sú̠rule	bribri	dev	"Id: Bribri0079
 Source: Ye' tö ù sú̠
 Change: TYPE:NEG, TENSE:PAS_PLU, PERSON:3_PL
 Target: Ie'pa kë̀ wa̠ ù sú̠rule"	"Id: Bribri0079
 Source: Ye' tö ù sú̠
 Change: TYPE:NEG, TENSE:PAS_PLU, PERSON:3_PL
-Target: "	Ye'pakë̀ wa̠ ùsú̠rule
-2566	Bribri0395	Ye' tö i kö́twa̠	ABSNUM:PL	Ye' tö i kö́tulur	bribri	dev	"Id: Bribri0395
+Target: "	Ye' kë̀ wa̠ ù sú̠ne̠
+103	Bribri0395	Ye' tö i kö́twa̠	ABSNUM:PL	Ye' tö i kö́tulur	bribri	dev	"Id: Bribri0395
 Source: Ye' tö i kö́twa̠
 Change: ABSNUM:PL
 Target: Ye' tö i kö́tulur"	"Id: Bribri0395
 Source: Ye' tö i kö́twa̠
 Change: ABSNUM:PL
-Target: "	Ye'töikö́twar
-2567	Bribri0396	Ye' tö i kö́twa̠	TYPE:NEG	Ye' kë̀ wa̠ i kö̀te̠wa̠	bribri	dev	"Id: Bribri0396
+Target: "	Ye' tö i kö́twa̠ulur
+104	Bribri0396	Ye' tö i kö́twa̠	TYPE:NEG	Ye' kë̀ wa̠ i kö̀te̠wa̠	bribri	dev	"Id: Bribri0396
 Source: Ye' tö i kö́twa̠
 Change: TYPE:NEG
 Target: Ye' kë̀ wa̠ i kö̀te̠wa̠"	"Id: Bribri0396
 Source: Ye' tö i kö́twa̠
 Change: TYPE:NEG
-Target: "	Ye'kë̀ wa̠ ikö́twane̠
-2568	Bribri0397	Ye' tö i kö́twa̠	TENSE:PRF_REC	Ye' tö i ujtéwa̠	bribri	dev	"Id: Bribri0397
+Target: "	Ye' kë̀ wa̠ i kö́twa̠ne̠
+105	Bribri0397	Ye' tö i kö́twa̠	TENSE:PRF_REC	Ye' tö i ujtéwa̠	bribri	dev	"Id: Bribri0397
 Source: Ye' tö i kö́twa̠
 Change: TENSE:PRF_REC
 Target: Ye' tö i ujtéwa̠"	"Id: Bribri0397
 Source: Ye' tö i kö́twa̠
 Change: TENSE:PRF_REC
-Target: "	Ye'töikötwé̠
-2569	Bribri0398	Ye' tö i kö́twa̠	TYPE:NEG, TENSE:PRF_REC	Ye' kë̀ wa̠ i kö̀te̠wa̠	bribri	dev	"Id: Bribri0398
+Target: "	Ye' tö i kwétwa̠
+106	Bribri0398	Ye' tö i kö́twa̠	TYPE:NEG, TENSE:PRF_REC	Ye' kë̀ wa̠ i kö̀te̠wa̠	bribri	dev	"Id: Bribri0398
 Source: Ye' tö i kö́twa̠
 Change: TYPE:NEG, TENSE:PRF_REC
 Target: Ye' kë̀ wa̠ i kö̀te̠wa̠"	"Id: Bribri0398
 Source: Ye' tö i kö́twa̠
 Change: TYPE:NEG, TENSE:PRF_REC
-Target: "	Ye'kë̀ wa̠ ikö̀twàne̠
-2570	Bribri0399	Ye' tö i kö́twa̠	TENSE:IPFV_REC, ASPECT:IPFV	Ye' tö i ujtèwa̠	bribri	dev	"Id: Bribri0399
+Target: "	Ye' kë̀ wa̠ i kòtwa̠ne̠
+107	Bribri0399	Ye' tö i kö́twa̠	TENSE:IPFV_REC, ASPECT:IPFV	Ye' tö i ujtèwa̠	bribri	dev	"Id: Bribri0399
 Source: Ye' tö i kö́twa̠
 Change: TENSE:IPFV_REC, ASPECT:IPFV
 Target: Ye' tö i ujtèwa̠"	"Id: Bribri0399
 Source: Ye' tö i kö́twa̠
 Change: TENSE:IPFV_REC, ASPECT:IPFV
-Target: "	Ye'töikö̀twa̠
-2571	Bribri0400	Ye' tö i kö́twa̠	TENSE:IPFV_REC, ASPECT:IPFV, ABSNUM:PL	Ye' tö i ujtèulur	bribri	dev	"Id: Bribri0400
+Target: "	Ye' tö i kwòtwa̠
+108	Bribri0400	Ye' tö i kö́twa̠	TENSE:IPFV_REC, ASPECT:IPFV, ABSNUM:PL	Ye' tö i ujtèulur	bribri	dev	"Id: Bribri0400
 Source: Ye' tö i kö́twa̠
 Change: TENSE:IPFV_REC, ASPECT:IPFV, ABSNUM:PL
 Target: Ye' tö i ujtèulur"	"Id: Bribri0400
 Source: Ye' tö i kö́twa̠
 Change: TENSE:IPFV_REC, ASPECT:IPFV, ABSNUM:PL
-Target: "	Ye'töikölötwö̀wa̠
-2572	Bribri0401	Ye' tö i kö́twa̠	TENSE:IPFV_PROG, ASPECT:IPFV	Ye' tso i ujtö́kwa̠	bribri	dev	"Id: Bribri0401
+Target: "	Ye' tö i kö́twa̠pa ië'te̠n
+109	Bribri0401	Ye' tö i kö́twa̠	TENSE:IPFV_PROG, ASPECT:IPFV	Ye' tso i ujtö́kwa̠	bribri	dev	"Id: Bribri0401
 Source: Ye' tö i kö́twa̠
 Change: TENSE:IPFV_PROG, ASPECT:IPFV
 Target: Ye' tso i ujtö́kwa̠"	"Id: Bribri0401
 Source: Ye' tö i kö́twa̠
 Change: TENSE:IPFV_PROG, ASPECT:IPFV
-Target: "	Ye'tsoikótwa̠k
-2573	Bribri0402	Ye' tö i kö́twa̠	TYPE:NEG, TENSE:IPFV_PROG, ASPECT:IPFV	Ye' kë̀ ku̠ i ujtö́kwa̠	bribri	dev	"Id: Bribri0402
+Target: "	Ye' tso i kö́twa̠k
+110	Bribri0402	Ye' tö i kö́twa̠	TYPE:NEG, TENSE:IPFV_PROG, ASPECT:IPFV	Ye' kë̀ ku̠ i ujtö́kwa̠	bribri	dev	"Id: Bribri0402
 Source: Ye' tö i kö́twa̠
 Change: TYPE:NEG, TENSE:IPFV_PROG, ASPECT:IPFV
 Target: Ye' kë̀ ku̠ i ujtö́kwa̠"	"Id: Bribri0402
 Source: Ye' tö i kö́twa̠
 Change: TYPE:NEG, TENSE:IPFV_PROG, ASPECT:IPFV
-Target: "	Ye'kë̀ ku̠ ikötwö́k
-2574	Bribri0403	Ye' tö i kö́twa̠	TENSE:PRF_PROG	Ye' bák i ujtö́kwa̠	bribri	dev	"Id: Bribri0403
+Target: "	Ye' kë̀ ku̠ i kö́twa̠ne̠
+111	Bribri0403	Ye' tö i kö́twa̠	TENSE:PRF_PROG	Ye' bák i ujtö́kwa̠	bribri	dev	"Id: Bribri0403
 Source: Ye' tö i kö́twa̠
 Change: TENSE:PRF_PROG
 Target: Ye' bák i ujtö́kwa̠"	"Id: Bribri0403
 Source: Ye' tö i kö́twa̠
 Change: TENSE:PRF_PROG
-Target: "	Ye'bákikötö́kwa̠
-2575	Bribri0404	Ye' tö i kö́twa̠	TYPE:NEG, TENSE:PRF_PROG	Ye' kë̀ ku̠'bak i ujtö́kwa̠	bribri	dev	"Id: Bribri0404
+Target: "	Ye' bák i kö́twa̠
+112	Bribri0404	Ye' tö i kö́twa̠	TYPE:NEG, TENSE:PRF_PROG	Ye' kë̀ ku̠'bak i ujtö́kwa̠	bribri	dev	"Id: Bribri0404
 Source: Ye' tö i kö́twa̠
 Change: TYPE:NEG, TENSE:PRF_PROG
 Target: Ye' kë̀ ku̠'bak i ujtö́kwa̠"	"Id: Bribri0404
 Source: Ye' tö i kö́twa̠
 Change: TYPE:NEG, TENSE:PRF_PROG
-Target: "	Ye'kë̀ ku̠'bakikötö́k
-2576	Bribri0405	Ye' tö i kö́twa̠	TYPE:NEG, MODE:IMP, TENSE:IPFV_REC, ASPECT:IPFV, PERSON:NA	Kë̀ i ujtök	bribri	dev	"Id: Bribri0405
+Target: "	Ye' kë̀ ku̠'bak i kö́twa̠
+113	Bribri0405	Ye' tö i kö́twa̠	TYPE:NEG, MODE:IMP, TENSE:IPFV_REC, ASPECT:IPFV, PERSON:NA	Kë̀ i ujtök	bribri	dev	"Id: Bribri0405
 Source: Ye' tö i kö́twa̠
 Change: TYPE:NEG, MODE:IMP, TENSE:IPFV_REC, ASPECT:IPFV, PERSON:NA
 Target: Kë̀ i ujtök"	"Id: Bribri0405
 Source: Ye' tö i kö́twa̠
 Change: TYPE:NEG, MODE:IMP, TENSE:IPFV_REC, ASPECT:IPFV, PERSON:NA
-Target: "	Kë̀ ikötwaök
-2577	Bribri0406	Ye' tö i kö́twa̠	MODE:DES, TENSE:IPFV_REC, ASPECT:IPFV	Ye' é̠n a̠ i ujta'kwa̠	bribri	dev	"Id: Bribri0406
+Target: "	Kë̀ wa̠ i kö́twa̠ök
+114	Bribri0406	Ye' tö i kö́twa̠	MODE:DES, TENSE:IPFV_REC, ASPECT:IPFV	Ye' é̠n a̠ i ujta'kwa̠	bribri	dev	"Id: Bribri0406
 Source: Ye' tö i kö́twa̠
 Change: MODE:DES, TENSE:IPFV_REC, ASPECT:IPFV
 Target: Ye' é̠n a̠ i ujta'kwa̠"	"Id: Bribri0406
 Source: Ye' tö i kö́twa̠
 Change: MODE:DES, TENSE:IPFV_REC, ASPECT:IPFV
-Target: "	Ye'é̠na̠ ikö́twa̠'ku̠
-2578	Bribri0407	Ye' tö i kö́twa̠	TYPE:NEG, MODE:DES, TENSE:IPFV_REC, ASPECT:IPFV	Kë̀ ye' é̠n a̠ i ujta'kwa̠	bribri	dev	"Id: Bribri0407
+Target: "	Ye' é̠n a̠ i kua'ku̠
+115	Bribri0407	Ye' tö i kö́twa̠	TYPE:NEG, MODE:DES, TENSE:IPFV_REC, ASPECT:IPFV	Kë̀ ye' é̠n a̠ i ujta'kwa̠	bribri	dev	"Id: Bribri0407
 Source: Ye' tö i kö́twa̠
 Change: TYPE:NEG, MODE:DES, TENSE:IPFV_REC, ASPECT:IPFV
 Target: Kë̀ ye' é̠n a̠ i ujta'kwa̠"	"Id: Bribri0407
 Source: Ye' tö i kö́twa̠
 Change: TYPE:NEG, MODE:DES, TENSE:IPFV_REC, ASPECT:IPFV
-Target: "	Kë̀ ye'é̠na̠ ikö́twa̠'ku̠
-2579	Bribri0408	Ye' tö i kö́twa̠	MODE:ADVERS	Ye' tö i ujta'wa̠	bribri	dev	"Id: Bribri0408
+Target: "	Kë̀ ye' é̠n a̠ kö́twa̠'ku̠
+116	Bribri0408	Ye' tö i kö́twa̠	MODE:ADVERS	Ye' tö i ujta'wa̠	bribri	dev	"Id: Bribri0408
 Source: Ye' tö i kö́twa̠
 Change: MODE:ADVERS
 Target: Ye' tö i ujta'wa̠"	"Id: Bribri0408
 Source: Ye' tö i kö́twa̠
 Change: MODE:ADVERS
-Target: "	Ye'wa̠ ikua'
-2580	Bribri0409	Ye' tö i kö́twa̠	TENSE:IPFV_HAB, ASPECT:IPFV	Ye' tö i ujtèke̠wa̠	bribri	dev	"Id: Bribri0409
+Target: "	Ye' wa̠ i kua̠wa̠
+117	Bribri0409	Ye' tö i kö́twa̠	TENSE:IPFV_HAB, ASPECT:IPFV	Ye' tö i ujtèke̠wa̠	bribri	dev	"Id: Bribri0409
 Source: Ye' tö i kö́twa̠
 Change: TENSE:IPFV_HAB, ASPECT:IPFV
 Target: Ye' tö i ujtèke̠wa̠"	"Id: Bribri0409
 Source: Ye' tö i kö́twa̠
 Change: TENSE:IPFV_HAB, ASPECT:IPFV
-Target: "	Ye'töikö̀twèke̠
-2581	Bribri0410	Ye' tö i kö́twa̠	TENSE:IPFV_HAB, ASPECT:IPFV, ABSNUM:PL	Ye' tö i ujtèkè̠ulur	bribri	dev	"Id: Bribri0410
+Target: "	Ye' tö i kö́twa̠ke
+118	Bribri0410	Ye' tö i kö́twa̠	TENSE:IPFV_HAB, ASPECT:IPFV, ABSNUM:PL	Ye' tö i ujtèkè̠ulur	bribri	dev	"Id: Bribri0410
 Source: Ye' tö i kö́twa̠
 Change: TENSE:IPFV_HAB, ASPECT:IPFV, ABSNUM:PL
 Target: Ye' tö i ujtèkè̠ulur"	"Id: Bribri0410
 Source: Ye' tö i kö́twa̠
 Change: TENSE:IPFV_HAB, ASPECT:IPFV, ABSNUM:PL
-Target: "	Ye'töikö'jtek
-2582	Bribri0411	Ye' tö i kö́twa̠	TENSE:FUT_CER, ASPECT:IPFV	Ye' tö i ujtèwa̠râ	bribri	dev	"Id: Bribri0411
+Target: "	Ye' tö i kö́twa̠n yë'ulur
+119	Bribri0411	Ye' tö i kö́twa̠	TENSE:FUT_CER, ASPECT:IPFV	Ye' tö i ujtèwa̠râ	bribri	dev	"Id: Bribri0411
 Source: Ye' tö i kö́twa̠
 Change: TENSE:FUT_CER, ASPECT:IPFV
 Target: Ye' tö i ujtèwa̠râ"	"Id: Bribri0411
 Source: Ye' tö i kö́twa̠
 Change: TENSE:FUT_CER, ASPECT:IPFV
-Target: "	Ye'töikötwèrâ
-2583	Bribri0412	Ye' tö i kö́twa̠	TYPE:NEG, TENSE:FUT_CER, ASPECT:IPFV	Kë̀ ye' tö i ujtèpawa̠	bribri	dev	"Id: Bribri0412
+Target: "	Ye' tö i kòtwa̠râ
+120	Bribri0412	Ye' tö i kö́twa̠	TYPE:NEG, TENSE:FUT_CER, ASPECT:IPFV	Kë̀ ye' tö i ujtèpawa̠	bribri	dev	"Id: Bribri0412
 Source: Ye' tö i kö́twa̠
 Change: TYPE:NEG, TENSE:FUT_CER, ASPECT:IPFV
 Target: Kë̀ ye' tö i ujtèpawa̠"	"Id: Bribri0412
 Source: Ye' tö i kö́twa̠
 Change: TYPE:NEG, TENSE:FUT_CER, ASPECT:IPFV
-Target: "	Kë̀ ye'töikö̀tawa̠
-2584	Bribri0413	Ye' tö i kö́twa̠	MODE:POT, TENSE:IPFV_REC, ASPECT:IPFV	Ye' a̠ i dawö	bribri	dev	"Id: Bribri0413
+Target: "	Kë̀ ye' tö i kö́twa̠pa
+121	Bribri0413	Ye' tö i kö́twa̠	MODE:POT, TENSE:IPFV_REC, ASPECT:IPFV	Ye' a̠ i dawö	bribri	dev	"Id: Bribri0413
 Source: Ye' tö i kö́twa̠
 Change: MODE:POT, TENSE:IPFV_REC, ASPECT:IPFV
 Target: Ye' a̠ i dawö"	"Id: Bribri0413
 Source: Ye' tö i kö́twa̠
 Change: MODE:POT, TENSE:IPFV_REC, ASPECT:IPFV
-Target: "	Ye'a̠ ikö́twár
-2585	Bribri0414	Ye' tö i kö́twa̠	VOICE:MID, PERSON:3_SI	I kö̀te̠wa̠	bribri	dev	"Id: Bribri0414
+Target: "	Ye' a̠ i kö́twa̠
+122	Bribri0414	Ye' tö i kö́twa̠	VOICE:MID, PERSON:3_SI	I kö̀te̠wa̠	bribri	dev	"Id: Bribri0414
 Source: Ye' tö i kö́twa̠
 Change: VOICE:MID, PERSON:3_SI
 Target: I kö̀te̠wa̠"	"Id: Bribri0414
 Source: Ye' tö i kö́twa̠
 Change: VOICE:MID, PERSON:3_SI
-Target: "	Ikö́twa̠ne̠
-2586	Bribri0415	Ye' tö i kö́twa̠	TYPE:NEG, VOICE:MID, PERSON:3_SI	Kë̀ i kö̀te̠wa̠	bribri	dev	"Id: Bribri0415
+Target: "	I kö́twa̠ne̠
+123	Bribri0415	Ye' tö i kö́twa̠	TYPE:NEG, VOICE:MID, PERSON:3_SI	Kë̀ i kö̀te̠wa̠	bribri	dev	"Id: Bribri0415
 Source: Ye' tö i kö́twa̠
 Change: TYPE:NEG, VOICE:MID, PERSON:3_SI
 Target: Kë̀ i kö̀te̠wa̠"	"Id: Bribri0415
 Source: Ye' tö i kö́twa̠
 Change: TYPE:NEG, VOICE:MID, PERSON:3_SI
-Target: "	Kö́twa̠ne̠
-2587	Bribri0195	Ye' tso' dawèie	TYPE:NEG	Ye' kë̀ ku̠ dawèie	bribri	dev	"Id: Bribri0195
+Target: "	Ie' kë̀ wa̠ kò̠twa̠ne̠
+124	Bribri0195	Ye' tso' dawèie	TYPE:NEG	Ye' kë̀ ku̠ dawèie	bribri	dev	"Id: Bribri0195
 Source: Ye' tso' dawèie
 Change: TYPE:NEG
 Target: Ye' kë̀ ku̠ dawèie"	"Id: Bribri0195
 Source: Ye' tso' dawèie
 Change: TYPE:NEG
-Target: "	Ye'kë̀ wa̠ tso'dawèiene̠
-2588	Bribri0196	Ye' tso' dawèie	TENSE:PRF_REC, ASPECT:PFV	Ye' tchá dawèie	bribri	dev	"Id: Bribri0196
+Target: "	Ye' kë̀ wa̠ dawèine̠
+125	Bribri0196	Ye' tso' dawèie	TENSE:PRF_REC, ASPECT:PFV	Ye' tchá dawèie	bribri	dev	"Id: Bribri0196
 Source: Ye' tso' dawèie
 Change: TENSE:PRF_REC, ASPECT:PFV
 Target: Ye' tchá dawèie"	"Id: Bribri0196
 Source: Ye' tso' dawèie
 Change: TENSE:PRF_REC, ASPECT:PFV
-Target: "	Ye'tso'dawéie
-2589	Bribri0197	Ye' tso' dawèie	TENSE:PRF_REM, ASPECT:PFV	Ye' bák dawèie	bribri	dev	"Id: Bribri0197
+Target: "	Ye' tso' dawèié
+126	Bribri0197	Ye' tso' dawèie	TENSE:PRF_REM, ASPECT:PFV	Ye' bák dawèie	bribri	dev	"Id: Bribri0197
 Source: Ye' tso' dawèie
 Change: TENSE:PRF_REM, ASPECT:PFV
 Target: Ye' bák dawèie"	"Id: Bribri0197
 Source: Ye' tso' dawèie
 Change: TENSE:PRF_REM, ASPECT:PFV
-Target: "	Ye'báktso'dawèie
-2590	Bribri0198	Ye' tso' dawèie	TYPE:NEG, TENSE:PRF_REM, ASPECT:PFV	Ye' kë̀ ku̠'bak dawèie	bribri	dev	"Id: Bribri0198
+Target: "	Ye' bák tso' dawèie
+127	Bribri0198	Ye' tso' dawèie	TYPE:NEG, TENSE:PRF_REM, ASPECT:PFV	Ye' kë̀ ku̠'bak dawèie	bribri	dev	"Id: Bribri0198
 Source: Ye' tso' dawèie
 Change: TYPE:NEG, TENSE:PRF_REM, ASPECT:PFV
 Target: Ye' kë̀ ku̠'bak dawèie"	"Id: Bribri0198
 Source: Ye' tso' dawèie
 Change: TYPE:NEG, TENSE:PRF_REM, ASPECT:PFV
-Target: "	Ye'kë̀ ku̠'baktso'dawèiene̠
-2591	Bribri0199	Ye' tso' dawèie	PERSON:2_SI	Be' tso' dawèie	bribri	dev	"Id: Bribri0199
+Target: "	Ye' kë̀ wa̠ dawèine̠
+128	Bribri0199	Ye' tso' dawèie	PERSON:2_SI	Be' tso' dawèie	bribri	dev	"Id: Bribri0199
 Source: Ye' tso' dawèie
 Change: PERSON:2_SI
 Target: Be' tso' dawèie"	"Id: Bribri0199
 Source: Ye' tso' dawèie
 Change: PERSON:2_SI
-Target: "	Be'tso'dawèie
-2592	Bribri0200	Ye' tso' dawèie	TYPE:NEG, PERSON:2_SI	Be' kë̀ ku̠ dawèie	bribri	dev	"Id: Bribri0200
+Target: "	Be' tso' dawèie
+129	Bribri0200	Ye' tso' dawèie	TYPE:NEG, PERSON:2_SI	Be' kë̀ ku̠ dawèie	bribri	dev	"Id: Bribri0200
 Source: Ye' tso' dawèie
 Change: TYPE:NEG, PERSON:2_SI
 Target: Be' kë̀ ku̠ dawèie"	"Id: Bribri0200
 Source: Ye' tso' dawèie
 Change: TYPE:NEG, PERSON:2_SI
-Target: "	Be'kë̀ wa̠ tso'dawèiene̠
-2593	Bribri0201	Ye' tso' dawèie	TENSE:PRF_REC, ASPECT:PFV, PERSON:2_SI	Be' tchá dawèie	bribri	dev	"Id: Bribri0201
+Target: "	Be' kë̀ wa̠ dawèine̠
+130	Bribri0201	Ye' tso' dawèie	TENSE:PRF_REC, ASPECT:PFV, PERSON:2_SI	Be' tchá dawèie	bribri	dev	"Id: Bribri0201
 Source: Ye' tso' dawèie
 Change: TENSE:PRF_REC, ASPECT:PFV, PERSON:2_SI
 Target: Be' tchá dawèie"	"Id: Bribri0201
 Source: Ye' tso' dawèie
 Change: TENSE:PRF_REC, ASPECT:PFV, PERSON:2_SI
-Target: "	Be'tso'dawójtie
-2594	Bribri0202	Ye' tso' dawèie	TENSE:PRF_REM, ASPECT:PFV, PERSON:2_SI	Be' bák dawèie	bribri	dev	"Id: Bribri0202
+Target: "	Be' tso' dawèiekué
+131	Bribri0202	Ye' tso' dawèie	TENSE:PRF_REM, ASPECT:PFV, PERSON:2_SI	Be' bák dawèie	bribri	dev	"Id: Bribri0202
 Source: Ye' tso' dawèie
 Change: TENSE:PRF_REM, ASPECT:PFV, PERSON:2_SI
 Target: Be' bák dawèie"	"Id: Bribri0202
 Source: Ye' tso' dawèie
 Change: TENSE:PRF_REM, ASPECT:PFV, PERSON:2_SI
-Target: "	Be'tso'dawèbie
-2595	Bribri0203	Ye' tso' dawèie	TYPE:NEG, TENSE:PRF_REM, ASPECT:PFV, PERSON:2_SI	Be' kë̀ ku̠'bak dawèie	bribri	dev	"Id: Bribri0203
+Target: "	Be' tso' dawèie
+132	Bribri0203	Ye' tso' dawèie	TYPE:NEG, TENSE:PRF_REM, ASPECT:PFV, PERSON:2_SI	Be' kë̀ ku̠'bak dawèie	bribri	dev	"Id: Bribri0203
 Source: Ye' tso' dawèie
 Change: TYPE:NEG, TENSE:PRF_REM, ASPECT:PFV, PERSON:2_SI
 Target: Be' kë̀ ku̠'bak dawèie"	"Id: Bribri0203
 Source: Ye' tso' dawèie
 Change: TYPE:NEG, TENSE:PRF_REM, ASPECT:PFV, PERSON:2_SI
-Target: "	Be'kë̀ wa̠ tso'dawèiene̠
-2596	Bribri0204	Ye' tso' dawèie	PERSON:3_SI	Ie' tso' dawèie	bribri	dev	"Id: Bribri0204
+Target: "	Be' kë̀ wa̠ dawèine̠
+133	Bribri0204	Ye' tso' dawèie	PERSON:3_SI	Ie' tso' dawèie	bribri	dev	"Id: Bribri0204
 Source: Ye' tso' dawèie
 Change: PERSON:3_SI
 Target: Ie' tso' dawèie"	"Id: Bribri0204
 Source: Ye' tso' dawèie
 Change: PERSON:3_SI
-Target: "	Ie'tso'dawèie
-2597	Bribri0205	Ye' tso' dawèie	TYPE:NEG, PERSON:3_SI	Ie' kë̀ ku̠ dawèie	bribri	dev	"Id: Bribri0205
+Target: "	Ie' tso' dawèie
+134	Bribri0205	Ye' tso' dawèie	TYPE:NEG, PERSON:3_SI	Ie' kë̀ ku̠ dawèie	bribri	dev	"Id: Bribri0205
 Source: Ye' tso' dawèie
 Change: TYPE:NEG, PERSON:3_SI
 Target: Ie' kë̀ ku̠ dawèie"	"Id: Bribri0205
 Source: Ye' tso' dawèie
 Change: TYPE:NEG, PERSON:3_SI
-Target: "	Ie'kë̀ wa̠ tso'dawèiene̠
-2598	Bribri0206	Ye' tso' dawèie	TENSE:PRF_REC, ASPECT:PFV, PERSON:3_SI	Ie' tchá dawèie	bribri	dev	"Id: Bribri0206
+Target: "	Ie' kë̀ wa̠ dawèine̠
+135	Bribri0206	Ye' tso' dawèie	TENSE:PRF_REC, ASPECT:PFV, PERSON:3_SI	Ie' tchá dawèie	bribri	dev	"Id: Bribri0206
 Source: Ye' tso' dawèie
 Change: TENSE:PRF_REC, ASPECT:PFV, PERSON:3_SI
 Target: Ie' tchá dawèie"	"Id: Bribri0206
 Source: Ye' tso' dawèie
 Change: TENSE:PRF_REC, ASPECT:PFV, PERSON:3_SI
-Target: "	Ie'tso'dawéie
-2599	Bribri0207	Ye' tso' dawèie	TENSE:PRF_REM, ASPECT:PFV, PERSON:3_SI	Ie' bák dawèie	bribri	dev	"Id: Bribri0207
+Target: "	Ie' tso' dawéie
+136	Bribri0207	Ye' tso' dawèie	TENSE:PRF_REM, ASPECT:PFV, PERSON:3_SI	Ie' bák dawèie	bribri	dev	"Id: Bribri0207
 Source: Ye' tso' dawèie
 Change: TENSE:PRF_REM, ASPECT:PFV, PERSON:3_SI
 Target: Ie' bák dawèie"	"Id: Bribri0207
 Source: Ye' tso' dawèie
 Change: TENSE:PRF_REM, ASPECT:PFV, PERSON:3_SI
-Target: "	Ie'tso'dawèiesa'
-2600	Bribri0208	Ye' tso' dawèie	TYPE:NEG, TENSE:PRF_REM, ASPECT:PFV, PERSON:3_SI	Ie' kë̀ ku̠'bak dawèie	bribri	dev	"Id: Bribri0208
+Target: "	Ie' tso' dawèie
+137	Bribri0208	Ye' tso' dawèie	TYPE:NEG, TENSE:PRF_REM, ASPECT:PFV, PERSON:3_SI	Ie' kë̀ ku̠'bak dawèie	bribri	dev	"Id: Bribri0208
 Source: Ye' tso' dawèie
 Change: TYPE:NEG, TENSE:PRF_REM, ASPECT:PFV, PERSON:3_SI
 Target: Ie' kë̀ ku̠'bak dawèie"	"Id: Bribri0208
 Source: Ye' tso' dawèie
 Change: TYPE:NEG, TENSE:PRF_REM, ASPECT:PFV, PERSON:3_SI
-Target: "	Iekë̀ wa̠ dawèiene̠
-2601	Bribri0209	Ye' tso' dawèie	ABSNUM:PL, PERSON:1_PL_INC	Se' tso' dawèie	bribri	dev	"Id: Bribri0209
+Target: "	Ie' kë̀ wa̠ dawèine̠
+138	Bribri0209	Ye' tso' dawèie	ABSNUM:PL, PERSON:1_PL_INC	Se' tso' dawèie	bribri	dev	"Id: Bribri0209
 Source: Ye' tso' dawèie
 Change: ABSNUM:PL, PERSON:1_PL_INC
 Target: Se' tso' dawèie"	"Id: Bribri0209
 Source: Ye' tso' dawèie
 Change: ABSNUM:PL, PERSON:1_PL_INC
-Target: "	Se'tso'dawèie
-2602	Bribri0210	Ye' tso' dawèie	TYPE:NEG, ABSNUM:PL, PERSON:1_PL_INC	Se' kë̀ ku̠ dawèie	bribri	dev	"Id: Bribri0210
+Target: "	Se' tso' dawèie
+139	Bribri0210	Ye' tso' dawèie	TYPE:NEG, ABSNUM:PL, PERSON:1_PL_INC	Se' kë̀ ku̠ dawèie	bribri	dev	"Id: Bribri0210
 Source: Ye' tso' dawèie
 Change: TYPE:NEG, ABSNUM:PL, PERSON:1_PL_INC
 Target: Se' kë̀ ku̠ dawèie"	"Id: Bribri0210
 Source: Ye' tso' dawèie
 Change: TYPE:NEG, ABSNUM:PL, PERSON:1_PL_INC
-Target: "	Ìnkë̀ wa̠ tso'dawèiene̠
-2603	Bribri0211	Ye' tso' dawèie	TENSE:PRF_REC, ASPECT:PFV, ABSNUM:PL, PERSON:1_PL_INC	Se' tchá dawèie	bribri	dev	"Id: Bribri0211
+Target: "	Ye' kë̀ wa̠ dawèine̠ ki̠ne̠
+140	Bribri0211	Ye' tso' dawèie	TENSE:PRF_REC, ASPECT:PFV, ABSNUM:PL, PERSON:1_PL_INC	Se' tchá dawèie	bribri	dev	"Id: Bribri0211
 Source: Ye' tso' dawèie
 Change: TENSE:PRF_REC, ASPECT:PFV, ABSNUM:PL, PERSON:1_PL_INC
 Target: Se' tchá dawèie"	"Id: Bribri0211
 Source: Ye' tso' dawèie
 Change: TENSE:PRF_REC, ASPECT:PFV, ABSNUM:PL, PERSON:1_PL_INC
-Target: "	Ye'tso'dawéjungki
-2604	Bribri0212	Ye' tso' dawèie	TENSE:PRF_REM, ASPECT:PFV, ABSNUM:PL, PERSON:1_PL_INC	Se' bák dawèie	bribri	dev	"Id: Bribri0212
+Target: "	Ye' tso' dawèiepápé ta̠wé̠.
+141	Bribri0212	Ye' tso' dawèie	TENSE:PRF_REM, ASPECT:PFV, ABSNUM:PL, PERSON:1_PL_INC	Se' bák dawèie	bribri	dev	"Id: Bribri0212
 Source: Ye' tso' dawèie
 Change: TENSE:PRF_REM, ASPECT:PFV, ABSNUM:PL, PERSON:1_PL_INC
 Target: Se' bák dawèie"	"Id: Bribri0212
 Source: Ye' tso' dawèie
 Change: TENSE:PRF_REM, ASPECT:PFV, ABSNUM:PL, PERSON:1_PL_INC
-Target: "	Bèye'tso'dawèitäkbukurí
-2605	Bribri0213	Ye' tso' dawèie	TYPE:NEG, TENSE:PRF_REM, ASPECT:PFV, ABSNUM:PL, PERSON:1_PL_INC	Se' kë̀ ku̠'bak dawèie	bribri	dev	"Id: Bribri0213
+Target: "	Ye' tso' dapárke ië'ulur
+142	Bribri0213	Ye' tso' dawèie	TYPE:NEG, TENSE:PRF_REM, ASPECT:PFV, ABSNUM:PL, PERSON:1_PL_INC	Se' kë̀ ku̠'bak dawèie	bribri	dev	"Id: Bribri0213
 Source: Ye' tso' dawèie
 Change: TYPE:NEG, TENSE:PRF_REM, ASPECT:PFV, ABSNUM:PL, PERSON:1_PL_INC
 Target: Se' kë̀ ku̠'bak dawèie"	"Id: Bribri0213
 Source: Ye' tso' dawèie
 Change: TYPE:NEG, TENSE:PRF_REM, ASPECT:PFV, ABSNUM:PL, PERSON:1_PL_INC
-Target: "	Kë̀ wa̠ dawèieulurùmö'
-2606	Bribri0214	Ye' tso' dawèie	ABSNUM:PL, PERSON:1_PL_EXC	Sa' tso' dawèie	bribri	dev	"Id: Bribri0214
+Target: "	Ye' kë̀ wa̠ dawèine̠ne̠
+143	Bribri0214	Ye' tso' dawèie	ABSNUM:PL, PERSON:1_PL_EXC	Sa' tso' dawèie	bribri	dev	"Id: Bribri0214
 Source: Ye' tso' dawèie
 Change: ABSNUM:PL, PERSON:1_PL_EXC
 Target: Sa' tso' dawèie"	"Id: Bribri0214
 Source: Ye' tso' dawèie
 Change: ABSNUM:PL, PERSON:1_PL_EXC
-Target: "	Sa'tso'dawèie
-2607	Bribri0215	Ye' tso' dawèie	TYPE:NEG, ABSNUM:PL, PERSON:1_PL_EXC	Sa' kë̀ ku̠ dawèie	bribri	dev	"Id: Bribri0215
+Target: "	Sa' tso' dawèie
+144	Bribri0215	Ye' tso' dawèie	TYPE:NEG, ABSNUM:PL, PERSON:1_PL_EXC	Sa' kë̀ ku̠ dawèie	bribri	dev	"Id: Bribri0215
 Source: Ye' tso' dawèie
 Change: TYPE:NEG, ABSNUM:PL, PERSON:1_PL_EXC
 Target: Sa' kë̀ ku̠ dawèie"	"Id: Bribri0215
 Source: Ye' tso' dawèie
 Change: TYPE:NEG, ABSNUM:PL, PERSON:1_PL_EXC
-Target: "	Ye'kë̀ wa̠ dawèieulur
-2608	Bribri0216	Ye' tso' dawèie	TENSE:PRF_REC, ASPECT:PFV, ABSNUM:PL, PERSON:1_PL_EXC	Sa' tchá dawèie	bribri	dev	"Id: Bribri0216
+Target: "	Ye' kë̀ wa̠ dawèine̠
+145	Bribri0216	Ye' tso' dawèie	TENSE:PRF_REC, ASPECT:PFV, ABSNUM:PL, PERSON:1_PL_EXC	Sa' tchá dawèie	bribri	dev	"Id: Bribri0216
 Source: Ye' tso' dawèie
 Change: TENSE:PRF_REC, ASPECT:PFV, ABSNUM:PL, PERSON:1_PL_EXC
 Target: Sa' tchá dawèie"	"Id: Bribri0216
 Source: Ye' tso' dawèie
 Change: TENSE:PRF_REC, ASPECT:PFV, ABSNUM:PL, PERSON:1_PL_EXC
-Target: "	Ye'tso'dawéienù'ki
-2609	Bribri0217	Ye' tso' dawèie	TENSE:PRF_REM, ASPECT:PFV, ABSNUM:PL, PERSON:1_PL_EXC	Sa' bák dawèie	bribri	dev	"Id: Bribri0217
+Target: "	Ye' tso' dawèié ië'póké
+146	Bribri0217	Ye' tso' dawèie	TENSE:PRF_REM, ASPECT:PFV, ABSNUM:PL, PERSON:1_PL_EXC	Sa' bák dawèie	bribri	dev	"Id: Bribri0217
 Source: Ye' tso' dawèie
 Change: TENSE:PRF_REM, ASPECT:PFV, ABSNUM:PL, PERSON:1_PL_EXC
 Target: Sa' bák dawèie"	"Id: Bribri0217
 Source: Ye' tso' dawèie
 Change: TENSE:PRF_REM, ASPECT:PFV, ABSNUM:PL, PERSON:1_PL_EXC
-Target: "	Ye'jötojpadawèiebukurí
-2610	Bribri0218	Ye' tso' dawèie	TYPE:NEG, TENSE:PRF_REM, ASPECT:PFV, ABSNUM:PL, PERSON:1_PL_EXC	Sa' kë̀ ku̠'bak dawèie	bribri	dev	"Id: Bribri0218
+Target: "	Ye' tso' dapárke ië'te̠n
+147	Bribri0218	Ye' tso' dawèie	TYPE:NEG, TENSE:PRF_REM, ASPECT:PFV, ABSNUM:PL, PERSON:1_PL_EXC	Sa' kë̀ ku̠'bak dawèie	bribri	dev	"Id: Bribri0218
 Source: Ye' tso' dawèie
 Change: TYPE:NEG, TENSE:PRF_REM, ASPECT:PFV, ABSNUM:PL, PERSON:1_PL_EXC
 Target: Sa' kë̀ ku̠'bak dawèie"	"Id: Bribri0218
 Source: Ye' tso' dawèie
 Change: TYPE:NEG, TENSE:PRF_REM, ASPECT:PFV, ABSNUM:PL, PERSON:1_PL_EXC
-Target: "	Ye'kë̀ wa̠ iyótso'dawèiene̠ yà'
-2611	Bribri0219	Ye' tso' dawèie	ABSNUM:PL, PERSON:2_PL	A' tso' dawèie	bribri	dev	"Id: Bribri0219
+Target: "	Ye' kë̀ wa̠ dawèine̠ne̠
+148	Bribri0219	Ye' tso' dawèie	ABSNUM:PL, PERSON:2_PL	A' tso' dawèie	bribri	dev	"Id: Bribri0219
 Source: Ye' tso' dawèie
 Change: ABSNUM:PL, PERSON:2_PL
 Target: A' tso' dawèie"	"Id: Bribri0219
 Source: Ye' tso' dawèie
 Change: ABSNUM:PL, PERSON:2_PL
-Target: "	A'tso'dawèie
-2612	Bribri0220	Ye' tso' dawèie	TYPE:NEG, ABSNUM:PL, PERSON:2_PL	A' kë̀ ku̠ dawèie	bribri	dev	"Id: Bribri0220
+Target: "	A' tso' dawèie
+149	Bribri0220	Ye' tso' dawèie	TYPE:NEG, ABSNUM:PL, PERSON:2_PL	A' kë̀ ku̠ dawèie	bribri	dev	"Id: Bribri0220
 Source: Ye' tso' dawèie
 Change: TYPE:NEG, ABSNUM:PL, PERSON:2_PL
 Target: A' kë̀ ku̠ dawèie"	"Id: Bribri0220
 Source: Ye' tso' dawèie
 Change: TYPE:NEG, ABSNUM:PL, PERSON:2_PL
-Target: "	Waye'kë̀ wa̠ dawèieulur
-2613	Bribri0221	Ye' tso' dawèie	TENSE:PRF_REC, ASPECT:PFV, ABSNUM:PL, PERSON:2_PL	A' tchá dawèie	bribri	dev	"Id: Bribri0221
+Target: "	Ye' kë̀ wa̠ dawèine̠
+150	Bribri0221	Ye' tso' dawèie	TENSE:PRF_REC, ASPECT:PFV, ABSNUM:PL, PERSON:2_PL	A' tchá dawèie	bribri	dev	"Id: Bribri0221
 Source: Ye' tso' dawèie
 Change: TENSE:PRF_REC, ASPECT:PFV, ABSNUM:PL, PERSON:2_PL
 Target: A' tchá dawèie"	"Id: Bribri0221
 Source: Ye' tso' dawèie
 Change: TENSE:PRF_REC, ASPECT:PFV, ABSNUM:PL, PERSON:2_PL
-Target: "	Ye'tso'dawépaië'te̠n
-2614	Bribri0222	Ye' tso' dawèie	TENSE:PRF_REM, ASPECT:PFV, ABSNUM:PL, PERSON:2_PL	A' bák dawèie	bribri	dev	"Id: Bribri0222
+Target: "	Ye' tso' dawèié
+151	Bribri0222	Ye' tso' dawèie	TENSE:PRF_REM, ASPECT:PFV, ABSNUM:PL, PERSON:2_PL	A' bák dawèie	bribri	dev	"Id: Bribri0222
 Source: Ye' tso' dawèie
 Change: TENSE:PRF_REM, ASPECT:PFV, ABSNUM:PL, PERSON:2_PL
 Target: A' bák dawèie"	"Id: Bribri0222
 Source: Ye' tso' dawèie
 Change: TENSE:PRF_REM, ASPECT:PFV, ABSNUM:PL, PERSON:2_PL
-Target: "	Bo'tso'dawèirönì'etyö'
-2615	Bribri0223	Ye' tso' dawèie	TYPE:NEG, TENSE:PRF_REM, ASPECT:PFV, ABSNUM:PL, PERSON:2_PL	A' kë̀ ku̠'bak dawèie	bribri	dev	"Id: Bribri0223
+Target: "	Ye' tso' dawèiepá ië'ulur
+152	Bribri0223	Ye' tso' dawèie	TYPE:NEG, TENSE:PRF_REM, ASPECT:PFV, ABSNUM:PL, PERSON:2_PL	A' kë̀ ku̠'bak dawèie	bribri	dev	"Id: Bribri0223
 Source: Ye' tso' dawèie
 Change: TYPE:NEG, TENSE:PRF_REM, ASPECT:PFV, ABSNUM:PL, PERSON:2_PL
 Target: A' kë̀ ku̠'bak dawèie"	"Id: Bribri0223
 Source: Ye' tso' dawèie
 Change: TYPE:NEG, TENSE:PRF_REM, ASPECT:PFV, ABSNUM:PL, PERSON:2_PL
-Target: "	Ye'kë̀ wa̠ tso'dawèieulurbukrípabuki
-2616	Bribri0224	Ye' tso' dawèie	ABSNUM:PL, PERSON:3_PL	Ie'pa tso' dawèie	bribri	dev	"Id: Bribri0224
+Target: "	Ye' kë̀ wa̠ dawèine̠
+153	Bribri0224	Ye' tso' dawèie	ABSNUM:PL, PERSON:3_PL	Ie'pa tso' dawèie	bribri	dev	"Id: Bribri0224
 Source: Ye' tso' dawèie
 Change: ABSNUM:PL, PERSON:3_PL
 Target: Ie'pa tso' dawèie"	"Id: Bribri0224
 Source: Ye' tso' dawèie
 Change: ABSNUM:PL, PERSON:3_PL
-Target: "	Ie'patso'dawèie
-2617	Bribri0225	Ye' tso' dawèie	TYPE:NEG, ABSNUM:PL, PERSON:3_PL	Ie'pa kë̀ ku̠ dawèie	bribri	dev	"Id: Bribri0225
+Target: "	Ie'pa tso' dawèie
+154	Bribri0225	Ye' tso' dawèie	TYPE:NEG, ABSNUM:PL, PERSON:3_PL	Ie'pa kë̀ ku̠ dawèie	bribri	dev	"Id: Bribri0225
 Source: Ye' tso' dawèie
 Change: TYPE:NEG, ABSNUM:PL, PERSON:3_PL
 Target: Ie'pa kë̀ ku̠ dawèie"	"Id: Bribri0225
 Source: Ye' tso' dawèie
 Change: TYPE:NEG, ABSNUM:PL, PERSON:3_PL
-Target: "	Ye'pakë̀ wa̠ dawèieulur
-2618	Bribri0226	Ye' tso' dawèie	TENSE:PRF_REC, ASPECT:PFV, ABSNUM:PL, PERSON:3_PL	Ie'pa tchá dawèie	bribri	dev	"Id: Bribri0226
+Target: "	Ye' kë̀ wa̠ dawèine̠
+155	Bribri0226	Ye' tso' dawèie	TENSE:PRF_REC, ASPECT:PFV, ABSNUM:PL, PERSON:3_PL	Ie'pa tchá dawèie	bribri	dev	"Id: Bribri0226
 Source: Ye' tso' dawèie
 Change: TENSE:PRF_REC, ASPECT:PFV, ABSNUM:PL, PERSON:3_PL
 Target: Ie'pa tchá dawèie"	"Id: Bribri0226
 Source: Ye' tso' dawèie
 Change: TENSE:PRF_REC, ASPECT:PFV, ABSNUM:PL, PERSON:3_PL
-Target: "	Ie'patso'dawíeulur
-2619	Bribri0227	Ye' tso' dawèie	TENSE:PRF_REM, ASPECT:PFV, ABSNUM:PL, PERSON:3_PL	Ie'pa bák dawèie	bribri	dev	"Id: Bribri0227
+Target: "	Ye' tso' dawèiepá ië'te̠n
+156	Bribri0227	Ye' tso' dawèie	TENSE:PRF_REM, ASPECT:PFV, ABSNUM:PL, PERSON:3_PL	Ie'pa bák dawèie	bribri	dev	"Id: Bribri0227
 Source: Ye' tso' dawèie
 Change: TENSE:PRF_REM, ASPECT:PFV, ABSNUM:PL, PERSON:3_PL
 Target: Ie'pa bák dawèie"	"Id: Bribri0227
 Source: Ye' tso' dawèie
 Change: TENSE:PRF_REM, ASPECT:PFV, ABSNUM:PL, PERSON:3_PL
-Target: "	Ye'patso'ië'te̠ndaöulök
-2620	Bribri0228	Ye' tso' dawèie	TYPE:NEG, TENSE:PRF_REM, ASPECT:PFV, ABSNUM:PL, PERSON:3_PL	Ie'pa kë̀ ku̠'bak dawèie	bribri	dev	"Id: Bribri0228
+Target: "	Ye'pa tso' dawèiepa ië'ulur
+157	Bribri0228	Ye' tso' dawèie	TYPE:NEG, TENSE:PRF_REM, ASPECT:PFV, ABSNUM:PL, PERSON:3_PL	Ie'pa kë̀ ku̠'bak dawèie	bribri	dev	"Id: Bribri0228
 Source: Ye' tso' dawèie
 Change: TYPE:NEG, TENSE:PRF_REM, ASPECT:PFV, ABSNUM:PL, PERSON:3_PL
 Target: Ie'pa kë̀ ku̠'bak dawèie"	"Id: Bribri0228
 Source: Ye' tso' dawèie
 Change: TYPE:NEG, TENSE:PRF_REM, ASPECT:PFV, ABSNUM:PL, PERSON:3_PL
-Target: "	Ye'pakë̀ wa̠ dawèieulur
-2621	Bribri0185	Ye' tö i̠ ña̠'wa	ABSNUM:PL	Ye' tö i̠ ña̠'alor	bribri	dev	"Id: Bribri0185
+Target: "	Ye' kë̀ wa̠ dawèine̠ulur
+158	Bribri0185	Ye' tö i̠ ña̠'wa	ABSNUM:PL	Ye' tö i̠ ña̠'alor	bribri	dev	"Id: Bribri0185
 Source: Ye' tö i̠ ña̠'wa
 Change: ABSNUM:PL
 Target: Ye' tö i̠ ña̠'alor"	"Id: Bribri0185
 Source: Ye' tö i̠ ña̠'wa
 Change: ABSNUM:PL
-Target: "	Ye'töi̠ ñatúlur
-2622	Bribri0390	Ie' stsë' bua'	TENSE:IPFV_REC, ASPECT:IPFV	Ie' stsö̀ bua'	bribri	dev	"Id: Bribri0390
+Target: "	Ye' tö i̠ ña̠'wa̠n
+159	Bribri0390	Ie' stsë' bua'	TENSE:IPFV_REC, ASPECT:IPFV	Ie' stsö̀ bua'	bribri	dev	"Id: Bribri0390
 Source: Ie' stsë' bua'
 Change: TENSE:IPFV_REC, ASPECT:IPFV
 Target: Ie' stsö̀ bua'"	"Id: Bribri0390
 Source: Ie' stsë' bua'
 Change: TENSE:IPFV_REC, ASPECT:IPFV
-Target: "	Ie'stsö̀ buè
-2623	Bribri0391	Ie' stsë' bua'	TYPE:NEG, TENSE:IPFV_REC, ASPECT:IPFV	Ie' kë̀ stsö bua'	bribri	dev	"Id: Bribri0391
+Target: "	Ie' stsë' buè
+160	Bribri0391	Ie' stsë' bua'	TYPE:NEG, TENSE:IPFV_REC, ASPECT:IPFV	Ie' kë̀ stsö bua'	bribri	dev	"Id: Bribri0391
 Source: Ie' stsë' bua'
 Change: TYPE:NEG, TENSE:IPFV_REC, ASPECT:IPFV
 Target: Ie' kë̀ stsö bua'"	"Id: Bribri0391
 Source: Ie' stsë' bua'
 Change: TYPE:NEG, TENSE:IPFV_REC, ASPECT:IPFV
-Target: "	Kë̀ ie'stsë'buawe
-2624	Bribri0387	Chìchi dör bë̂rie	ABSNUM:PL	Chichi dör wî̠wî̠	bribri	dev	"Id: Bribri0387
+Target: "	Kë̀ ie' stsë' bua'
+161	Bribri0387	Chìchi dör bë̂rie	ABSNUM:PL	Chichi dör wî̠wî̠	bribri	dev	"Id: Bribri0387
 Source: Chìchi dör bë̂rie
 Change: ABSNUM:PL
 Target: Chichi dör wî̠wî̠"	"Id: Bribri0387
 Source: Chìchi dör bë̂rie
 Change: ABSNUM:PL
-Target: "	Chìchidöpárkebë̂rie
-2625	Bribri0386	Chìchi dör sarûrû	ABSNUM:PL	Chìchi dör sarûrû sarûrû	bribri	dev	"Id: Bribri0386
+Target: "	Chìchi dör bë̂pa̠rie
+162	Bribri0386	Chìchi dör sarûrû	ABSNUM:PL	Chìchi dör sarûrû sarûrû	bribri	dev	"Id: Bribri0386
 Source: Chìchi dör sarûrû
 Change: ABSNUM:PL
 Target: Chìchi dör sarûrû sarûrû"	"Id: Bribri0386
 Source: Chìchi dör sarûrû
 Change: ABSNUM:PL
-Target: "	Chìchirë'ulusarûrû
-2626	Bribri0186	Ie'pa tö kàsir chka të'a	TYPE:NEG	Ie'pa kë̀ wa̠ kàsir chka të̀nà̠ne̠	bribri	dev	"Id: Bribri0186
+Target: "	Chìchi dör sarûrû ki̠
+163	Bribri0186	Ie'pa tö kàsir chka të'a	TYPE:NEG	Ie'pa kë̀ wa̠ kàsir chka të̀nà̠ne̠	bribri	dev	"Id: Bribri0186
 Source: Ie'pa tö kàsir chka të'a
 Change: TYPE:NEG
 Target: Ie'pa kë̀ wa̠ kàsir chka të̀nà̠ne̠"	"Id: Bribri0186
 Source: Ie'pa tö kàsir chka të'a
 Change: TYPE:NEG
-Target: "	Ie'pakë̀ wa̠ kàsirchkatë'àne̠
-2627	Bribri0187	Ie'pa tö kàsir chka të'a	TENSE:IPFV_PROG, ASPECT:IPFV	Ie'pa tso kàsir chka tö́kök	bribri	dev	"Id: Bribri0187
+Target: "	Ie'pa kë̀ wa̠ kàsir chka të̀'ne̠
+164	Bribri0187	Ie'pa tö kàsir chka të'a	TENSE:IPFV_PROG, ASPECT:IPFV	Ie'pa tso kàsir chka tö́kök	bribri	dev	"Id: Bribri0187
 Source: Ie'pa tö kàsir chka të'a
 Change: TENSE:IPFV_PROG, ASPECT:IPFV
 Target: Ie'pa tso kàsir chka tö́kök"	"Id: Bribri0187
 Source: Ie'pa tö kàsir chka të'a
 Change: TENSE:IPFV_PROG, ASPECT:IPFV
-Target: "	Ie'patsokàsirchkatökë'a
-2628	Bribri0188	Ie'pa tö kàsir chka të'a	TYPE:NEG, TENSE:IPFV_PROG, ASPECT:IPFV	Ie'pa kë̀ ku̠ kàsir chka tö́kök	bribri	dev	"Id: Bribri0188
+Target: "	Ie'pa tso kàsir chka tö́k'a
+165	Bribri0188	Ie'pa tö kàsir chka të'a	TYPE:NEG, TENSE:IPFV_PROG, ASPECT:IPFV	Ie'pa kë̀ ku̠ kàsir chka tö́kök	bribri	dev	"Id: Bribri0188
 Source: Ie'pa tö kàsir chka të'a
 Change: TYPE:NEG, TENSE:IPFV_PROG, ASPECT:IPFV
 Target: Ie'pa kë̀ ku̠ kàsir chka tö́kök"	"Id: Bribri0188
 Source: Ie'pa tö kàsir chka të'a
 Change: TYPE:NEG, TENSE:IPFV_PROG, ASPECT:IPFV
-Target: "	Ie'pakë̀ ku̠ kàsirchkatö́ktë'a
-2629	Bribri0189	Ie'pa tö kàsir chka të'a	TENSE:PRF_PROG	Ie'pa bák kàsir chka tö́kök	bribri	dev	"Id: Bribri0189
+Target: "	Ie'pa kë̀ ku̠ kàsir chka të̀ne̠
+166	Bribri0189	Ie'pa tö kàsir chka të'a	TENSE:PRF_PROG	Ie'pa bák kàsir chka tö́kök	bribri	dev	"Id: Bribri0189
 Source: Ie'pa tö kàsir chka të'a
 Change: TENSE:PRF_PROG
 Target: Ie'pa bák kàsir chka tö́kök"	"Id: Bribri0189
 Source: Ie'pa tö kàsir chka të'a
 Change: TENSE:PRF_PROG
-Target: "	Ie'pabákkàsirchkatö́katë'a
-2630	Bribri0190	Ie'pa tö kàsir chka të'a	TYPE:NEG, TENSE:PRF_PROG	Ie'pa kë̀ ku̠'bak kàsir chka tö́kök	bribri	dev	"Id: Bribri0190
+Target: "	Ie'pa bák kàsir chka tö́'a
+167	Bribri0190	Ie'pa tö kàsir chka të'a	TYPE:NEG, TENSE:PRF_PROG	Ie'pa kë̀ ku̠'bak kàsir chka tö́kök	bribri	dev	"Id: Bribri0190
 Source: Ie'pa tö kàsir chka të'a
 Change: TYPE:NEG, TENSE:PRF_PROG
 Target: Ie'pa kë̀ ku̠'bak kàsir chka tö́kök"	"Id: Bribri0190
 Source: Ie'pa tö kàsir chka të'a
 Change: TYPE:NEG, TENSE:PRF_PROG
-Target: "	Ie'pakë̀ ku̠'bakkàsirchkö́ktë'a
-2631	Bribri0191	Ie'pa tö kàsir chka të'a	TENSE:PRF_REC, VOICE:MID, PERSON:NA	Kàsir chka të̀nà̠ne̠	bribri	dev	"Id: Bribri0191
+Target: "	Ie'pa kë̀ ku̠'bak kàsir chka tö́a
+168	Bribri0191	Ie'pa tö kàsir chka të'a	TENSE:PRF_REC, VOICE:MID, PERSON:NA	Kàsir chka të̀nà̠ne̠	bribri	dev	"Id: Bribri0191
 Source: Ie'pa tö kàsir chka të'a
 Change: TENSE:PRF_REC, VOICE:MID, PERSON:NA
 Target: Kàsir chka të̀nà̠ne̠"	"Id: Bribri0191
 Source: Ie'pa tö kàsir chka të'a
 Change: TENSE:PRF_REC, VOICE:MID, PERSON:NA
-Target: "	Kàsirchkatë̀'ana̠
-2632	Bribri0192	Ie'pa tö kàsir chka të'a	TENSE:PRF_REC	Ie'pa tö kàsir chka tée	bribri	dev	"Id: Bribri0192
+Target: "	Kàsir chka të̀na̠'a
+169	Bribri0192	Ie'pa tö kàsir chka të'a	TENSE:PRF_REC	Ie'pa tö kàsir chka tée	bribri	dev	"Id: Bribri0192
 Source: Ie'pa tö kàsir chka të'a
 Change: TENSE:PRF_REC
 Target: Ie'pa tö kàsir chka tée"	"Id: Bribri0192
 Source: Ie'pa tö kàsir chka të'a
 Change: TENSE:PRF_REC
-Target: "	Ie'patökàsirchkaté'a
-2633	Bribri0193	Ie'pa tö kàsir chka të'a	MODE:IMP, TENSE:IPFV_REC, ASPECT:IPFV, PERSON:NA	Kàsir chka tö́ö	bribri	dev	"Id: Bribri0193
+Target: "	Ie'pa tö kàsir chka té'a
+170	Bribri0193	Ie'pa tö kàsir chka të'a	MODE:IMP, TENSE:IPFV_REC, ASPECT:IPFV, PERSON:NA	Kàsir chka tö́ö	bribri	dev	"Id: Bribri0193
 Source: Ie'pa tö kàsir chka të'a
 Change: MODE:IMP, TENSE:IPFV_REC, ASPECT:IPFV, PERSON:NA
 Target: Kàsir chka tö́ö"	"Id: Bribri0193
 Source: Ie'pa tö kàsir chka të'a
 Change: MODE:IMP, TENSE:IPFV_REC, ASPECT:IPFV, PERSON:NA
-Target: "	Kàsirta̠pö̀ chkatë'a
-2634	Bribri0194	Ie'pa tö kàsir chka të'a	TYPE:NEG, MODE:IMP, TENSE:IPFV_REC, ASPECT:IPFV, PERSON:NA	Kë̀ kàsir chka tökök	bribri	dev	"Id: Bribri0194
+Target: "	Ie'pa kàsir chka të'a
+171	Bribri0194	Ie'pa tö kàsir chka të'a	TYPE:NEG, MODE:IMP, TENSE:IPFV_REC, ASPECT:IPFV, PERSON:NA	Kë̀ kàsir chka tökök	bribri	dev	"Id: Bribri0194
 Source: Ie'pa tö kàsir chka të'a
 Change: TYPE:NEG, MODE:IMP, TENSE:IPFV_REC, ASPECT:IPFV, PERSON:NA
 Target: Kë̀ kàsir chka tökök"	"Id: Bribri0194
 Source: Ie'pa tö kàsir chka të'a
 Change: TYPE:NEG, MODE:IMP, TENSE:IPFV_REC, ASPECT:IPFV, PERSON:NA
-Target: "	Kë̀ kàsirtökchkatë'a
-2635	Bribri0641	Ye' tö dawà su'	TYPE:NEG	Ye' kë̀ wa̠ dawà sùne̠	bribri	dev	"Id: Bribri0641
+Target: "	Kë̀ kàsir chka të'ök
+172	Bribri0641	Ye' tö dawà su'	TYPE:NEG	Ye' kë̀ wa̠ dawà sùne̠	bribri	dev	"Id: Bribri0641
 Source: Ye' tö dawà su'
 Change: TYPE:NEG
 Target: Ye' kë̀ wa̠ dawà sùne̠"	"Id: Bribri0641
 Source: Ye' tö dawà su'
 Change: TYPE:NEG
-Target: "	Ye'kë̀ wa̠ dawàsùne̠
-2636	Bribri0642	Ye' tö dawà su'	ASPECT:INC	Ye' tö dawà su'mi̠	bribri	dev	"Id: Bribri0642
+Target: "	Ye' kë̀ wa̠ dawà sùne̠
+173	Bribri0642	Ye' tö dawà su'	ASPECT:INC	Ye' tö dawà su'mi̠	bribri	dev	"Id: Bribri0642
 Source: Ye' tö dawà su'
 Change: ASPECT:INC
 Target: Ye' tö dawà su'mi̠"	"Id: Bribri0642
 Source: Ye' tö dawà su'
 Change: ASPECT:INC
-Target: "	Ye'tödawàsu'mi̠
-2637	Bribri0643	Ye' tö dawà su'	TENSE:PRF_REC	Ye' tö dawà sawé	bribri	dev	"Id: Bribri0643
+Target: "	Ye' tö dawà su'mi̠
+174	Bribri0643	Ye' tö dawà su'	TENSE:PRF_REC	Ye' tö dawà sawé	bribri	dev	"Id: Bribri0643
 Source: Ye' tö dawà su'
 Change: TENSE:PRF_REC
 Target: Ye' tö dawà sawé"	"Id: Bribri0643
 Source: Ye' tö dawà su'
 Change: TENSE:PRF_REC
-Target: "	Ye'tödawàsûrë
-2638	Bribri0644	Ye' tö dawà su'	TYPE:NEG, TENSE:PRF_REC	Ye' kë̀ wa̠ dawà sùne̠	bribri	dev	"Id: Bribri0644
+Target: "	Ye' tö dawà swé
+175	Bribri0644	Ye' tö dawà su'	TYPE:NEG, TENSE:PRF_REC	Ye' kë̀ wa̠ dawà sùne̠	bribri	dev	"Id: Bribri0644
 Source: Ye' tö dawà su'
 Change: TYPE:NEG, TENSE:PRF_REC
 Target: Ye' kë̀ wa̠ dawà sùne̠"	"Id: Bribri0644
 Source: Ye' tö dawà su'
 Change: TYPE:NEG, TENSE:PRF_REC
-Target: "	Ye'kë̀ wa̠ dawàsù'ne̠
-2639	Bribri0645	Ye' tö dawà su'	TENSE:PRF_REC, ASPECT:INC	Ye' tö dawà sawémi̠	bribri	dev	"Id: Bribri0645
+Target: "	Ye' kë̀ wa̠ dawà sùne̠
+176	Bribri0645	Ye' tö dawà su'	TENSE:PRF_REC, ASPECT:INC	Ye' tö dawà sawémi̠	bribri	dev	"Id: Bribri0645
 Source: Ye' tö dawà su'
 Change: TENSE:PRF_REC, ASPECT:INC
 Target: Ye' tö dawà sawémi̠"	"Id: Bribri0645
 Source: Ye' tö dawà su'
 Change: TENSE:PRF_REC, ASPECT:INC
-Target: "	Ye'tödawàsu'mi̠
-2640	Bribri0646	Ye' tö dawà su'	TENSE:IPFV_REC, ASPECT:IPFV	Ye' tö dawà sawè	bribri	dev	"Id: Bribri0646
+Target: "	Ye' tö dawà su'témi̠
+177	Bribri0646	Ye' tö dawà su'	TENSE:IPFV_REC, ASPECT:IPFV	Ye' tö dawà sawè	bribri	dev	"Id: Bribri0646
 Source: Ye' tö dawà su'
 Change: TENSE:IPFV_REC, ASPECT:IPFV
 Target: Ye' tö dawà sawè"	"Id: Bribri0646
 Source: Ye' tö dawà su'
 Change: TENSE:IPFV_REC, ASPECT:IPFV
-Target: "	Ye'tödawàsuè
-2641	Bribri0647	Ye' tö dawà su'	TYPE:NEG, TENSE:IPFV_REC, ASPECT:IPFV	Kë̀ ye' tö dawà sawe	bribri	dev	"Id: Bribri0647
+Target: "	Ye' tö dawà suè
+178	Bribri0647	Ye' tö dawà su'	TYPE:NEG, TENSE:IPFV_REC, ASPECT:IPFV	Kë̀ ye' tö dawà sawe	bribri	dev	"Id: Bribri0647
 Source: Ye' tö dawà su'
 Change: TYPE:NEG, TENSE:IPFV_REC, ASPECT:IPFV
 Target: Kë̀ ye' tö dawà sawe"	"Id: Bribri0647
 Source: Ye' tö dawà su'
 Change: TYPE:NEG, TENSE:IPFV_REC, ASPECT:IPFV
-Target: "	Kë̀ ye'tödawàsue
-2642	Bribri0648	Ye' tö dawà su'	TENSE:IPFV_PROG, ASPECT:IPFV	Ye' tso dawà sawö́k	bribri	dev	"Id: Bribri0648
+Target: "	Kë̀ ye' tö dawà su
+179	Bribri0648	Ye' tö dawà su'	TENSE:IPFV_PROG, ASPECT:IPFV	Ye' tso dawà sawö́k	bribri	dev	"Id: Bribri0648
 Source: Ye' tö dawà su'
 Change: TENSE:IPFV_PROG, ASPECT:IPFV
 Target: Ye' tso dawà sawö́k"	"Id: Bribri0648
 Source: Ye' tö dawà su'
 Change: TENSE:IPFV_PROG, ASPECT:IPFV
-Target: "	Ye'tsodawàsuö́k
-2643	Bribri0649	Ye' tö dawà su'	TYPE:NEG, TENSE:IPFV_PROG, ASPECT:IPFV	Ye' kë̀ ku̠ dawà sawö́k	bribri	dev	"Id: Bribri0649
+Target: "	Ye' tso dawà suö́k
+180	Bribri0649	Ye' tö dawà su'	TYPE:NEG, TENSE:IPFV_PROG, ASPECT:IPFV	Ye' kë̀ ku̠ dawà sawö́k	bribri	dev	"Id: Bribri0649
 Source: Ye' tö dawà su'
 Change: TYPE:NEG, TENSE:IPFV_PROG, ASPECT:IPFV
 Target: Ye' kë̀ ku̠ dawà sawö́k"	"Id: Bribri0649
 Source: Ye' tö dawà su'
 Change: TYPE:NEG, TENSE:IPFV_PROG, ASPECT:IPFV
-Target: "	Ye'kë̀ ku̠ dawàsuö́k
-2644	Bribri0650	Ye' tö dawà su'	TENSE:PRF_PROG	Ye' bák dawà sawö́k	bribri	dev	"Id: Bribri0650
+Target: "	Ye' kë̀ ku̠ dawà suö́k
+181	Bribri0650	Ye' tö dawà su'	TENSE:PRF_PROG	Ye' bák dawà sawö́k	bribri	dev	"Id: Bribri0650
 Source: Ye' tö dawà su'
 Change: TENSE:PRF_PROG
 Target: Ye' bák dawà sawö́k"	"Id: Bribri0650
 Source: Ye' tö dawà su'
 Change: TENSE:PRF_PROG
-Target: "	Ye'bákdawàsö́k
-2645	Bribri0651	Ye' tö dawà su'	TYPE:NEG, TENSE:PRF_PROG	Ye' kë̀ ku̠'bak dawà sawö́k	bribri	dev	"Id: Bribri0651
+Target: "	Ye' bák dawà suö́k
+182	Bribri0651	Ye' tö dawà su'	TYPE:NEG, TENSE:PRF_PROG	Ye' kë̀ ku̠'bak dawà sawö́k	bribri	dev	"Id: Bribri0651
 Source: Ye' tö dawà su'
 Change: TYPE:NEG, TENSE:PRF_PROG
 Target: Ye' kë̀ ku̠'bak dawà sawö́k"	"Id: Bribri0651
 Source: Ye' tö dawà su'
 Change: TYPE:NEG, TENSE:PRF_PROG
-Target: "	Ye'kë̀ ku̠'bakdawàsuö́k
-2646	Bribri0652	Ye' tö dawà su'	MODE:IMP, TENSE:IPFV_REC, ASPECT:IPFV, PERSON:NA	Dawà sawö́	bribri	dev	"Id: Bribri0652
+Target: "	Ye' kë̀ ku̠'bak dawà suö́k
+183	Bribri0652	Ye' tö dawà su'	MODE:IMP, TENSE:IPFV_REC, ASPECT:IPFV, PERSON:NA	Dawà sawö́	bribri	dev	"Id: Bribri0652
 Source: Ye' tö dawà su'
 Change: MODE:IMP, TENSE:IPFV_REC, ASPECT:IPFV, PERSON:NA
 Target: Dawà sawö́"	"Id: Bribri0652
 Source: Ye' tö dawà su'
 Change: MODE:IMP, TENSE:IPFV_REC, ASPECT:IPFV, PERSON:NA
-Target: "	Dawàtúsu'
-2647	Bribri0653	Ye' tö dawà su'	TYPE:NEG, MODE:IMP, TENSE:IPFV_REC, ASPECT:IPFV, PERSON:NA	Kë̀ dawà sawök	bribri	dev	"Id: Bribri0653
+Target: "	Dawà su'
+184	Bribri0653	Ye' tö dawà su'	TYPE:NEG, MODE:IMP, TENSE:IPFV_REC, ASPECT:IPFV, PERSON:NA	Kë̀ dawà sawök	bribri	dev	"Id: Bribri0653
 Source: Ye' tö dawà su'
 Change: TYPE:NEG, MODE:IMP, TENSE:IPFV_REC, ASPECT:IPFV, PERSON:NA
 Target: Kë̀ dawà sawök"	"Id: Bribri0653
 Source: Ye' tö dawà su'
 Change: TYPE:NEG, MODE:IMP, TENSE:IPFV_REC, ASPECT:IPFV, PERSON:NA
-Target: "	Kë̀ dawàsuök
-2648	Bribri0654	Ye' tö dawà su'	TYPE:NEG, MODE:IMP, TENSE:IPFV_REC, ASPECT:IPFV, VOICE:MID, PERSON:NA	Kë̀ dawà sawar	bribri	dev	"Id: Bribri0654
+Target: "	Kë̀ dawà suök
+185	Bribri0654	Ye' tö dawà su'	TYPE:NEG, MODE:IMP, TENSE:IPFV_REC, ASPECT:IPFV, VOICE:MID, PERSON:NA	Kë̀ dawà sawar	bribri	dev	"Id: Bribri0654
 Source: Ye' tö dawà su'
 Change: TYPE:NEG, MODE:IMP, TENSE:IPFV_REC, ASPECT:IPFV, VOICE:MID, PERSON:NA
 Target: Kë̀ dawà sawar"	"Id: Bribri0654
 Source: Ye' tö dawà su'
 Change: TYPE:NEG, MODE:IMP, TENSE:IPFV_REC, ASPECT:IPFV, VOICE:MID, PERSON:NA
-Target: "	Kë̀ dawàsar
-2649	Bribri0655	Ye' tö dawà su'	MODE:EXH, TENSE:IPFV_REC, ASPECT:IPFV, PERSON:1_PL_INC	Dawà sawö̀ sö	bribri	dev	"Id: Bribri0655
+Target: "	Kë̀ dawà suar
+186	Bribri0655	Ye' tö dawà su'	MODE:EXH, TENSE:IPFV_REC, ASPECT:IPFV, PERSON:1_PL_INC	Dawà sawö̀ sö	bribri	dev	"Id: Bribri0655
 Source: Ye' tö dawà su'
 Change: MODE:EXH, TENSE:IPFV_REC, ASPECT:IPFV, PERSON:1_PL_INC
 Target: Dawà sawö̀ sö"	"Id: Bribri0655
 Source: Ye' tö dawà su'
 Change: MODE:EXH, TENSE:IPFV_REC, ASPECT:IPFV, PERSON:1_PL_INC
-Target: "	Dawàtö̀ sö
-2650	Bribri0656	Ye' tö dawà su'	MODE:DES, TENSE:IPFV_REC, ASPECT:IPFV	Ye' é̠n a̠ dawà sawa'ku̠	bribri	dev	"Id: Bribri0656
+Target: "	Dawà tö suö̀ sö
+187	Bribri0656	Ye' tö dawà su'	MODE:DES, TENSE:IPFV_REC, ASPECT:IPFV	Ye' é̠n a̠ dawà sawa'ku̠	bribri	dev	"Id: Bribri0656
 Source: Ye' tö dawà su'
 Change: MODE:DES, TENSE:IPFV_REC, ASPECT:IPFV
 Target: Ye' é̠n a̠ dawà sawa'ku̠"	"Id: Bribri0656
 Source: Ye' tö dawà su'
 Change: MODE:DES, TENSE:IPFV_REC, ASPECT:IPFV
-Target: "	Ye'é̠na̠ dawàta'su'ku̠
-2651	Bribri0657	Ye' tö dawà su'	TYPE:NEG, MODE:DES, TENSE:IPFV_REC, ASPECT:IPFV	Kë̀ ye' é̠n a̠ dawà sawa'ku̠	bribri	dev	"Id: Bribri0657
+Target: "	Ye' é̠n a̠ dawà su'ku̠
+188	Bribri0657	Ye' tö dawà su'	TYPE:NEG, MODE:DES, TENSE:IPFV_REC, ASPECT:IPFV	Kë̀ ye' é̠n a̠ dawà sawa'ku̠	bribri	dev	"Id: Bribri0657
 Source: Ye' tö dawà su'
 Change: TYPE:NEG, MODE:DES, TENSE:IPFV_REC, ASPECT:IPFV
 Target: Kë̀ ye' é̠n a̠ dawà sawa'ku̠"	"Id: Bribri0657
 Source: Ye' tö dawà su'
 Change: TYPE:NEG, MODE:DES, TENSE:IPFV_REC, ASPECT:IPFV
-Target: "	Kë̀ ye'é̠na̠ dawàsu'ku̠
-2652	Bribri0658	Ye' tö dawà su'	MODE:ADVERS	Ye' wa̠ dawà sawa'	bribri	dev	"Id: Bribri0658
+Target: "	Kë̀ ye' é̠n a̠ dawà su'ku̠
+189	Bribri0658	Ye' tö dawà su'	MODE:ADVERS	Ye' wa̠ dawà sawa'	bribri	dev	"Id: Bribri0658
 Source: Ye' tö dawà su'
 Change: MODE:ADVERS
 Target: Ye' wa̠ dawà sawa'"	"Id: Bribri0658
 Source: Ye' tö dawà su'
 Change: MODE:ADVERS
-Target: "	Ye'wa̠ dawàsua'
-2653	Bribri0659	Ye' tö dawà su'	TENSE:IPFV_HAB, ASPECT:IPFV	Ye' tö dawà sawèke̠	bribri	dev	"Id: Bribri0659
+Target: "	Ye' wa̠ dawà sua'
+190	Bribri0659	Ye' tö dawà su'	TENSE:IPFV_HAB, ASPECT:IPFV	Ye' tö dawà sawèke̠	bribri	dev	"Id: Bribri0659
 Source: Ye' tö dawà su'
 Change: TENSE:IPFV_HAB, ASPECT:IPFV
 Target: Ye' tö dawà sawèke̠"	"Id: Bribri0659
 Source: Ye' tö dawà su'
 Change: TENSE:IPFV_HAB, ASPECT:IPFV
-Target: "	Ye'tödawàsuèke
-2654	Bribri0660	Ye' tö dawà su'	TYPE:NEG, TENSE:IPFV_HAB, ASPECT:IPFV	Kë̀ ye' tö dawà sawèku̠	bribri	dev	"Id: Bribri0660
+Target: "	Ye' tö dawà suke̠
+191	Bribri0660	Ye' tö dawà su'	TYPE:NEG, TENSE:IPFV_HAB, ASPECT:IPFV	Kë̀ ye' tö dawà sawèku̠	bribri	dev	"Id: Bribri0660
 Source: Ye' tö dawà su'
 Change: TYPE:NEG, TENSE:IPFV_HAB, ASPECT:IPFV
 Target: Kë̀ ye' tö dawà sawèku̠"	"Id: Bribri0660
 Source: Ye' tö dawà su'
 Change: TYPE:NEG, TENSE:IPFV_HAB, ASPECT:IPFV
-Target: "	Kë̀ ye'tödawàsuku̠
-2655	Bribri0661	Ye' tö dawà su'	TENSE:FUT_POT, ASPECT:IPFV	Ye' tö dawà sawèmi̠	bribri	dev	"Id: Bribri0661
+Target: "	Kë̀ ye' tö dawà sùku̠
+192	Bribri0661	Ye' tö dawà su'	TENSE:FUT_POT, ASPECT:IPFV	Ye' tö dawà sawèmi̠	bribri	dev	"Id: Bribri0661
 Source: Ye' tö dawà su'
 Change: TENSE:FUT_POT, ASPECT:IPFV
 Target: Ye' tö dawà sawèmi̠"	"Id: Bribri0661
 Source: Ye' tö dawà su'
 Change: TENSE:FUT_POT, ASPECT:IPFV
-Target: "	Ye'tödawàsuèmi̠
-2656	Bribri0662	Ye' tö dawà su'	TYPE:NEG, TENSE:FUT_POT, ASPECT:IPFV	Kë̀ ye' tö dawà sawök	bribri	dev	"Id: Bribri0662
+Target: "	Ye' tö dawà suèmi̠
+193	Bribri0662	Ye' tö dawà su'	TYPE:NEG, TENSE:FUT_POT, ASPECT:IPFV	Kë̀ ye' tö dawà sawök	bribri	dev	"Id: Bribri0662
 Source: Ye' tö dawà su'
 Change: TYPE:NEG, TENSE:FUT_POT, ASPECT:IPFV
 Target: Kë̀ ye' tö dawà sawök"	"Id: Bribri0662
 Source: Ye' tö dawà su'
 Change: TYPE:NEG, TENSE:FUT_POT, ASPECT:IPFV
-Target: "	Kë̀ ye'tödawàsuk
-2657	Bribri0663	Ye' tö dawà su'	TENSE:FUT_CER, ASPECT:IPFV	Ye' tö dawà sawèrâ	bribri	dev	"Id: Bribri0663
+Target: "	Kë̀ ye' tö dawà suök
+194	Bribri0663	Ye' tö dawà su'	TENSE:FUT_CER, ASPECT:IPFV	Ye' tö dawà sawèrâ	bribri	dev	"Id: Bribri0663
 Source: Ye' tö dawà su'
 Change: TENSE:FUT_CER, ASPECT:IPFV
 Target: Ye' tö dawà sawèrâ"	"Id: Bribri0663
 Source: Ye' tö dawà su'
 Change: TENSE:FUT_CER, ASPECT:IPFV
-Target: "	Ye'tödawàsuèrâ
-2658	Bribri0664	Ye' tö dawà su'	TYPE:NEG, TENSE:FUT_CER, ASPECT:IPFV	Kë̀ ye' tö dawà sawèpa	bribri	dev	"Id: Bribri0664
+Target: "	Ye' tö dawà suèrâ
+195	Bribri0664	Ye' tö dawà su'	TYPE:NEG, TENSE:FUT_CER, ASPECT:IPFV	Kë̀ ye' tö dawà sawèpa	bribri	dev	"Id: Bribri0664
 Source: Ye' tö dawà su'
 Change: TYPE:NEG, TENSE:FUT_CER, ASPECT:IPFV
 Target: Kë̀ ye' tö dawà sawèpa"	"Id: Bribri0664
 Source: Ye' tö dawà su'
 Change: TYPE:NEG, TENSE:FUT_CER, ASPECT:IPFV
-Target: "	Kë̀ ye'tödawàsupa
-2659	Bribri0665	Ye' tö dawà su'	VOICE:MID, PERSON:NA	Dawà sùne̠	bribri	dev	"Id: Bribri0665
+Target: "	Kë̀ ye' tö dawà suèpa
+196	Bribri0665	Ye' tö dawà su'	VOICE:MID, PERSON:NA	Dawà sùne̠	bribri	dev	"Id: Bribri0665
 Source: Ye' tö dawà su'
 Change: VOICE:MID, PERSON:NA
 Target: Dawà sùne̠"	"Id: Bribri0665
 Source: Ye' tö dawà su'
 Change: VOICE:MID, PERSON:NA
-Target: "	Dawàsùne̠
-2660	Bribri0666	Ye' tö dawà su'	TYPE:NEG, VOICE:MID, PERSON:NA	Kë̀ dawà sùne̠	bribri	dev	"Id: Bribri0666
+Target: "	Dawà sùne̠
+197	Bribri0666	Ye' tö dawà su'	TYPE:NEG, VOICE:MID, PERSON:NA	Kë̀ dawà sùne̠	bribri	dev	"Id: Bribri0666
 Source: Ye' tö dawà su'
 Change: TYPE:NEG, VOICE:MID, PERSON:NA
 Target: Kë̀ dawà sùne̠"	"Id: Bribri0666
 Source: Ye' tö dawà su'
 Change: TYPE:NEG, VOICE:MID, PERSON:NA
-Target: "	Kë̀ dawàsùne̠
-2661	Bribri0667	Ye' tö dawà su'	TENSE:PRF_REC, VOICE:MID, PERSON:NA	Dawà sùna̠	bribri	dev	"Id: Bribri0667
+Target: "	Kë̀ dawà sùne̠
+198	Bribri0667	Ye' tö dawà su'	TENSE:PRF_REC, VOICE:MID, PERSON:NA	Dawà sùna̠	bribri	dev	"Id: Bribri0667
 Source: Ye' tö dawà su'
 Change: TENSE:PRF_REC, VOICE:MID, PERSON:NA
 Target: Dawà sùna̠"	"Id: Bribri0667
 Source: Ye' tö dawà su'
 Change: TENSE:PRF_REC, VOICE:MID, PERSON:NA
-Target: "	Dawàsù'na̠
-2662	Bribri0668	Ye' tö dawà su'	TYPE:NEG, TENSE:PRF_REC, VOICE:MID, PERSON:NA	Kë̀ dawà sùne̠	bribri	dev	"Id: Bribri0668
+Target: "	Tö dawà sùna̠
+199	Bribri0668	Ye' tö dawà su'	TYPE:NEG, TENSE:PRF_REC, VOICE:MID, PERSON:NA	Kë̀ dawà sùne̠	bribri	dev	"Id: Bribri0668
 Source: Ye' tö dawà su'
 Change: TYPE:NEG, TENSE:PRF_REC, VOICE:MID, PERSON:NA
 Target: Kë̀ dawà sùne̠"	"Id: Bribri0668
 Source: Ye' tö dawà su'
 Change: TYPE:NEG, TENSE:PRF_REC, VOICE:MID, PERSON:NA
-Target: "	Kë̀ dawàsùne̠
-2663	Bribri0669	Ye' tö dawà su'	TENSE:IPFV_REC, ASPECT:IPFV, VOICE:MID, PERSON:NA	Dawà sùr	bribri	dev	"Id: Bribri0669
+Target: "	Kë̀ dawà sùne̠
+200	Bribri0669	Ye' tö dawà su'	TENSE:IPFV_REC, ASPECT:IPFV, VOICE:MID, PERSON:NA	Dawà sùr	bribri	dev	"Id: Bribri0669
 Source: Ye' tö dawà su'
 Change: TENSE:IPFV_REC, ASPECT:IPFV, VOICE:MID, PERSON:NA
 Target: Dawà sùr"	"Id: Bribri0669
 Source: Ye' tö dawà su'
 Change: TENSE:IPFV_REC, ASPECT:IPFV, VOICE:MID, PERSON:NA
-Target: "	Dawàsùr
-2664	Bribri0670	Ye' tö dawà su'	TYPE:NEG, TENSE:IPFV_REC, ASPECT:IPFV, VOICE:MID, PERSON:NA	Kë̀ dawà sur	bribri	dev	"Id: Bribri0670
+Target: "	Dawa sùr
+201	Bribri0670	Ye' tö dawà su'	TYPE:NEG, TENSE:IPFV_REC, ASPECT:IPFV, VOICE:MID, PERSON:NA	Kë̀ dawà sur	bribri	dev	"Id: Bribri0670
 Source: Ye' tö dawà su'
 Change: TYPE:NEG, TENSE:IPFV_REC, ASPECT:IPFV, VOICE:MID, PERSON:NA
 Target: Kë̀ dawà sur"	"Id: Bribri0670
 Source: Ye' tö dawà su'
 Change: TYPE:NEG, TENSE:IPFV_REC, ASPECT:IPFV, VOICE:MID, PERSON:NA
-Target: "	Kë̀ dawàsur
-2665	Bribri0671	Ye' tö dawà su'	TENSE:IPFV_HAB, ASPECT:IPFV, VOICE:MID, PERSON:NA	Dawà sùrke̠	bribri	dev	"Id: Bribri0671
+Target: "	Kë̀ dawà su̠r
+202	Bribri0671	Ye' tö dawà su'	TENSE:IPFV_HAB, ASPECT:IPFV, VOICE:MID, PERSON:NA	Dawà sùrke̠	bribri	dev	"Id: Bribri0671
 Source: Ye' tö dawà su'
 Change: TENSE:IPFV_HAB, ASPECT:IPFV, VOICE:MID, PERSON:NA
 Target: Dawà sùrke̠"	"Id: Bribri0671
 Source: Ye' tö dawà su'
 Change: TENSE:IPFV_HAB, ASPECT:IPFV, VOICE:MID, PERSON:NA
-Target: "	Dawàsùrke̠
-2666	Bribri0672	Ye' tö dawà su'	TYPE:NEG, TENSE:IPFV_HAB, ASPECT:IPFV, VOICE:MID, PERSON:NA	Kë̀ dawà sùrku̠	bribri	dev	"Id: Bribri0672
+Target: "	Dawà sùne̠
+203	Bribri0672	Ye' tö dawà su'	TYPE:NEG, TENSE:IPFV_HAB, ASPECT:IPFV, VOICE:MID, PERSON:NA	Kë̀ dawà sùrku̠	bribri	dev	"Id: Bribri0672
 Source: Ye' tö dawà su'
 Change: TYPE:NEG, TENSE:IPFV_HAB, ASPECT:IPFV, VOICE:MID, PERSON:NA
 Target: Kë̀ dawà sùrku̠"	"Id: Bribri0672
 Source: Ye' tö dawà su'
 Change: TYPE:NEG, TENSE:IPFV_HAB, ASPECT:IPFV, VOICE:MID, PERSON:NA
-Target: "	Kë̀ dawàsùrku̠
-2667	Bribri0673	Ye' tö dawà su'	TENSE:FUT_POT, ASPECT:IPFV, VOICE:MID, PERSON:NA	Dawà sùrmi̠	bribri	dev	"Id: Bribri0673
+Target: "	Kë̀ dawà su̠ne̠
+204	Bribri0673	Ye' tö dawà su'	TENSE:FUT_POT, ASPECT:IPFV, VOICE:MID, PERSON:NA	Dawà sùrmi̠	bribri	dev	"Id: Bribri0673
 Source: Ye' tö dawà su'
 Change: TENSE:FUT_POT, ASPECT:IPFV, VOICE:MID, PERSON:NA
 Target: Dawà sùrmi̠"	"Id: Bribri0673
 Source: Ye' tö dawà su'
 Change: TENSE:FUT_POT, ASPECT:IPFV, VOICE:MID, PERSON:NA
-Target: "	Dawàsùrmi̠
-2668	Bribri0674	Ye' tö dawà su'	TYPE:NEG, TENSE:FUT_POT, ASPECT:IPFV, VOICE:MID, PERSON:NA	Kë̀ dawà sùnu̠k	bribri	dev	"Id: Bribri0674
+Target: "	Dawà sùrmi̠
+205	Bribri0674	Ye' tö dawà su'	TYPE:NEG, TENSE:FUT_POT, ASPECT:IPFV, VOICE:MID, PERSON:NA	Kë̀ dawà sùnu̠k	bribri	dev	"Id: Bribri0674
 Source: Ye' tö dawà su'
 Change: TYPE:NEG, TENSE:FUT_POT, ASPECT:IPFV, VOICE:MID, PERSON:NA
 Target: Kë̀ dawà sùnu̠k"	"Id: Bribri0674
 Source: Ye' tö dawà su'
 Change: TYPE:NEG, TENSE:FUT_POT, ASPECT:IPFV, VOICE:MID, PERSON:NA
-Target: "	Kë̀ dawàsunu̠k
-2669	Bribri0675	Ye' tö dawà su'	TENSE:FUT_CER, ASPECT:IPFV, VOICE:MID, PERSON:NA	Dawà sùrdâ	bribri	dev	"Id: Bribri0675
+Target: "	Kë̀ dawà sùnu̠k
+206	Bribri0675	Ye' tö dawà su'	TENSE:FUT_CER, ASPECT:IPFV, VOICE:MID, PERSON:NA	Dawà sùrdâ	bribri	dev	"Id: Bribri0675
 Source: Ye' tö dawà su'
 Change: TENSE:FUT_CER, ASPECT:IPFV, VOICE:MID, PERSON:NA
 Target: Dawà sùrdâ"	"Id: Bribri0675
 Source: Ye' tö dawà su'
 Change: TENSE:FUT_CER, ASPECT:IPFV, VOICE:MID, PERSON:NA
-Target: "	Dawàsùrdâ
-2670	Bribri0676	Ye' tö dawà su'	TYPE:NEG, TENSE:FUT_CER, ASPECT:IPFV, VOICE:MID, PERSON:NA	Kë̀ dawà sùrpa	bribri	dev	"Id: Bribri0676
+Target: "	Dawà sùne̠
+207	Bribri0676	Ye' tö dawà su'	TYPE:NEG, TENSE:FUT_CER, ASPECT:IPFV, VOICE:MID, PERSON:NA	Kë̀ dawà sùrpa	bribri	dev	"Id: Bribri0676
 Source: Ye' tö dawà su'
 Change: TYPE:NEG, TENSE:FUT_CER, ASPECT:IPFV, VOICE:MID, PERSON:NA
 Target: Kë̀ dawà sùrpa"	"Id: Bribri0676
 Source: Ye' tö dawà su'
 Change: TYPE:NEG, TENSE:FUT_CER, ASPECT:IPFV, VOICE:MID, PERSON:NA
-Target: "	Kë̀ dawàsùrpa
-2671	Bribri0677	Ye' tö dawà su'	TENSE:PAS_PLU	Ye' wa̠ dawà súrule	bribri	dev	"Id: Bribri0677
+Target: "	Kë̀ dawà su̠rpa
+208	Bribri0677	Ye' tö dawà su'	TENSE:PAS_PLU	Ye' wa̠ dawà súrule	bribri	dev	"Id: Bribri0677
 Source: Ye' tö dawà su'
 Change: TENSE:PAS_PLU
 Target: Ye' wa̠ dawà súrule"	"Id: Bribri0677
 Source: Ye' tö dawà su'
 Change: TENSE:PAS_PLU
-Target: "	Ye'wa̠ dawàsúrule
-2672	Bribri0678	Ye' tö dawà su'	TYPE:NEG, TENSE:PAS_PLU	Ye' kë̀ wa̠ dawà súrule	bribri	dev	"Id: Bribri0678
+Target: "	Ye' wa̠ dawà súrule
+209	Bribri0678	Ye' tö dawà su'	TYPE:NEG, TENSE:PAS_PLU	Ye' kë̀ wa̠ dawà súrule	bribri	dev	"Id: Bribri0678
 Source: Ye' tö dawà su'
 Change: TYPE:NEG, TENSE:PAS_PLU
 Target: Ye' kë̀ wa̠ dawà súrule"	"Id: Bribri0678
 Source: Ye' tö dawà su'
 Change: TYPE:NEG, TENSE:PAS_PLU
-Target: "	Ye'kë̀ wa̠ dawàsúrule
-2673	Bribri0679	Ye' tö dawà su'	MODE:POT, TENSE:IPFV_REC, ASPECT:IPFV	Ye' a̠ dawà súr	bribri	dev	"Id: Bribri0679
+Target: "	Ye' kë̀ wa̠ dawà súrule
+210	Bribri0679	Ye' tö dawà su'	MODE:POT, TENSE:IPFV_REC, ASPECT:IPFV	Ye' a̠ dawà súr	bribri	dev	"Id: Bribri0679
 Source: Ye' tö dawà su'
 Change: MODE:POT, TENSE:IPFV_REC, ASPECT:IPFV
 Target: Ye' a̠ dawà súr"	"Id: Bribri0679
 Source: Ye' tö dawà su'
 Change: MODE:POT, TENSE:IPFV_REC, ASPECT:IPFV
-Target: "	Ye'a̠ tödawàrsu'
-2674	Bribri0680	Ye' tö dawà su'	TYPE:NEG, MODE:POT, TENSE:IPFV_REC, ASPECT:IPFV	Kë̀ ye' a̠ dawà súr	bribri	dev	"Id: Bribri0680
+Target: "	Ye' a̠ dawà su̠r
+211	Bribri0680	Ye' tö dawà su'	TYPE:NEG, MODE:POT, TENSE:IPFV_REC, ASPECT:IPFV	Kë̀ ye' a̠ dawà súr	bribri	dev	"Id: Bribri0680
 Source: Ye' tö dawà su'
 Change: TYPE:NEG, MODE:POT, TENSE:IPFV_REC, ASPECT:IPFV
 Target: Kë̀ ye' a̠ dawà súr"	"Id: Bribri0680
 Source: Ye' tö dawà su'
 Change: TYPE:NEG, MODE:POT, TENSE:IPFV_REC, ASPECT:IPFV
-Target: "	Kë̀ ye'a̠ dawàsúr
+Target: "	Kë̀ ye' a̠ dawà su̠r

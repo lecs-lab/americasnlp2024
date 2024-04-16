@@ -24,7 +24,7 @@ method="$1"
 
 mkdir data/temp
 
-for lang in bribri maya guarani 
+for lang in bribri guarani maya 
 do
   for arch in attentive_lstm pointer_generator_lstm
   do
@@ -46,8 +46,10 @@ do
       --log_wandb \
       --seed 0 \
       --no_save_best \
+      --max_source_length 200 \
+      --max_target_length 200 \
       --accelerator gpu \
-
+      --teacher_forcing 
 
     ckpt_file=(./models/aug/$method/2024americasnlp-$lang/version_0/checkpoints/*.ckpt)
     ckpt_file=${ckpt_file[0]}

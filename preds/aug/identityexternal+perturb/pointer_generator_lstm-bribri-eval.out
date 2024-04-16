@@ -1,0 +1,1 @@
+./preds/aug/identityexternal+perturb/pointer_generator_lstm-bribri.tsv: Accuracy=5.66, BLEU=31.81, ChrF=53.50

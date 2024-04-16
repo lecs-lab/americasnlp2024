@@ -1,0 +1,1 @@
+./preds/aug/identityexternal+lateral/attentive_lstm-bribri.tsv: Accuracy=2.36, BLEU=19.84, ChrF=38.96

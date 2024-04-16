@@ -1,0 +1,1 @@
+./preds/aug/identity-trainonly/pointer_generator_lstm-maya.tsv: Accuracy=50.34, BLEU=73.79, ChrF=88.88

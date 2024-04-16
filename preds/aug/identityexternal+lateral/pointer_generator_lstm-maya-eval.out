@@ -1,0 +1,1 @@
+./preds/aug/identityexternal+lateral/pointer_generator_lstm-maya.tsv: Accuracy=48.99, BLEU=70.51, ChrF=86.29
