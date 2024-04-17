@@ -1,0 +1,1 @@
+./test-preds/char-identityexternal-pointer_generator_lstm/guarani-dev.tsv: Accuracy=25.32, BLEU=44.72, ChrF=80.38

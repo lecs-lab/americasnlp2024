@@ -1,0 +1,1 @@
+./test-preds/char-identityexternal+lateral-pointer_generator_lstm/bribri-dev.tsv: Accuracy=1.89, BLEU=21.28, ChrF=34.87

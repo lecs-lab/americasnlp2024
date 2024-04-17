@@ -1,0 +1,1 @@
+./test-preds/char-identityexternal+perturb+concat-pointer_generator_lstm/bribri-dev.tsv: Accuracy=6.60, BLEU=31.70, ChrF=53.59

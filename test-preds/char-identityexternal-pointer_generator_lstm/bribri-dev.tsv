@@ -1,0 +1,213 @@
+ID	Source	Change	Target	Predicted Target
+Bribri0359	Pûs kapë'wa̠	ABSNUM:PL	Pûs kapë'ulur	P' kë' ië'wa̠
+Bribri0360	Pûs kapë'wa̠	TYPE:NEG	Pûs kë̀ kapë̀ne̠wa̠	Kë̀ ye' kë̀ ku̠ kàpa̠
+Bribri0361	Pûs kapë'wa̠	TENSE:PRF_REC	Pûs kapówa̠	Ps kapówa̠
+Bribri0362	Pûs kapë'wa̠	TENSE:PRF_REC, ABSNUM:PL	Pûs kapóulur	P' ka' 'ulwa̠
+Bribri0363	Pûs kapë'wa̠	TENSE:IPFV_REC, ASPECT:IPFV	Pûs kapö̀wa̠	Ps kimè̠
+Bribri0364	Pûs kapë'wa̠	TENSE:IPFV_PROG, ASPECT:IPFV	Pûs tso kapö́kwa̠	Ps tso ki̠ ku̠ a̠
+Bribri0365	Pûs kapë'wa̠	TYPE:NEG, TENSE:IPFV_PROG, ASPECT:IPFV	Pûs kë̀ ku̠ kapö́kwa̠	Ps kë̀ ku̠ kàsëak wa̠
+Bribri0366	Pûs kapë'wa̠	TENSE:PRF_PROG	Pûs bák kapö́kwa̠	Ps bák kák ku'bak kuö́k
+Bribri0367	Pûs kapë'wa̠	TYPE:NEG, TENSE:PRF_PROG	Pûs kë̀ ku̠'bak kapö́kwa̠	P' kë̀ ku'bak kàpak ëu̠
+Bribri0368	Pûs kapë'wa̠	MODE:DES, TENSE:IPFV_REC, ASPECT:IPFV	Pûs kapákwa̠	P' é̠n a̠ ku̠'a̠
+Bribri0369	Pûs kapë'wa̠	TENSE:IPFV_HAB, ASPECT:IPFV	Pûs kapö̀ke̠wa̠	P' kö̀ ku̠'ku̠
+Bribri0370	Pûs kapë'wa̠	MODE:IMP, TENSE:IPFV_REC, ASPECT:IPFV, PERSON:2_SI	Ba kapö́wa̠	Bs kimú̠
+Bribri0371	Pûs kapë'wa̠	VOICE:MID, ABSNUM:NI	Kapë̀ne̠wa̠	Shkàna̠
+Bribri0372	Pûs kapë'wa̠	TYPE:NEG, VOICE:MID, ABSNUM:NI	Kë̀ kapë̀ne̠wa̠	Kë̀ kàswa̠wa̠
+Bribri0373	Pûs kapë'wa̠	TENSE:IPFV_REC, ASPECT:IPFV, VOICE:MID, ABSNUM:NI	Kapë̀rwa̠	Shkàrwa̠
+Bribri0234	Ye' tö i kít	TYPE:NEG	Ye' kë̀ wa̠ i kìte̠	Ye' kë̀ wa̠ i kàne̠
+Bribri0235	Ye' tö i kít	TENSE:PRF_REC	Ye' tö i ishté	Ye' tö i kté
+Bribri0236	Ye' tö i kít	TYPE:NEG, TENSE:PRF_REC	Ye' kë̀ wa̠ i kìte̠	Ye' kë̀ wa̠ i kíne̠
+Bribri0237	Ye' tö i kít	TENSE:IPFV_REC, ASPECT:IPFV	Ye' tö i ishtè	Ye' tö i kiè
+Bribri0238	Ye' tö i kít	TYPE:NEG, TENSE:IPFV_REC, ASPECT:IPFV	Kë̀ ye' tö i ishte	Ye' kë̀ ku̠ i k
+Bribri0239	Ye' tö i kít	TENSE:IPFV_PROG, ASPECT:IPFV	Ye' tso i ishtö́k	Ye' tso i ktö́k
+Bribri0240	Ye' tö i kít	TYPE:NEG, TENSE:IPFV_PROG, ASPECT:IPFV	Ye' kë̀ ku̠ i ishtö́k	Ye' kë̀ ku̠ i ktö́k
+Bribri0241	Ye' tö i kít	TENSE:PRF_PROG	Ye' bák i ishtö́k	Ye' bák i ktö́k
+Bribri0242	Ye' tö i kít	TYPE:NEG, TENSE:PRF_PROG	Ye' kë̀ ku̠'bak i ishtö́k	Ye' kë̀ ku̠'bak i ktö́k
+Bribri0243	Ye' tö i kít	MODE:IMP, TENSE:IPFV_REC, ASPECT:IPFV, PERSON:NA	I ishtö́	I kimú̠
+Bribri0244	Ye' tö i kít	TYPE:NEG, MODE:IMP, TENSE:IPFV_REC, ASPECT:IPFV, PERSON:NA	Kë̀ i ishtök	I kë̀ ku̠ i kuj
+Bribri0245	Ye' tö i kít	TYPE:NEG, MODE:IMP, TENSE:IPFV_REC, ASPECT:IPFV, VOICE:MID, PERSON:3_SI	Kë̀ i ishtar	I kir
+Bribri0246	Ye' tö i kít	VOICE:MID, PERSON:3_SI	I kìte̠	I kàne̠
+Bribri0247	Ye' tö i kít	TYPE:NEG, TENSE:PRF_REC, VOICE:MID, PERSON:3_SI	Kë̀ i kìte̠	I kàne̠
+Bribri0862	Ye' diö́köl bàtsul ako̠' a̠'mi̠k	TYPE:NEG	Ye' diö́köl kë̀ ku̠ bàtsul ako̠' a̠'mi̠k	Kë̀ de' dö̀ ö lö  be̠ be̠ alo̠ a̠
+Bribri0863	Ye' diö́köl bàtsul ako̠' a̠'mi̠k	TENSE:PRF_REM, ASPECT:PFV	Ye' diö́köl bák bàtsul ako̠' a̠'mi̠k	Ye' dör ö  bö' bák be̠r a o̠' a̠
+Bribri0864	Ye' diö́köl bàtsul ako̠' a̠'mi̠k	TYPE:NEG, TENSE:PRF_REM, ASPECT:PFV	Ye' diö́köl kë̀ ku̠'bak bàtsul ako̠' a̠'mi̠k	Ye' kë̀ ku̠'bak ö  be' tö su̠ a̠
+Bribri0865	Ye' diö́köl bàtsul ako̠' a̠'mi̠k	ABSNUM:PL	Ye' diö́köl bàtsulur ako̠' a̠'mi̠k	Ye' dapár bàt ulo' alu̠ku̠
+Bribri0866	Ye' diö́köl bàtsul ako̠' a̠'mi̠k	TYPE:NEG, ABSNUM:PL	Ye' diö́köl kë̀ ku̠ bàtsulur ako̠' a̠'mi̠k	Ye' kë̀ ku̠ dapárke  ulo 'i̠
+Bribri0867	Ye' diö́köl bàtsul ako̠' a̠'mi̠k	TENSE:PRF_REM, ASPECT:PFV, ABSNUM:PL	Ye' diö́köl bák bàtsulur ako̠' a̠'mi̠k	Ye' dör ö  bàtak ku̠'ku̠
+Bribri0868	Ye' diö́köl bàtsul ako̠' a̠'mi̠k	TYPE:NEG, TENSE:PRF_REM, ASPECT:PFV, ABSNUM:PL	Ye' diö́köl kë̀ ku̠'bak bàtsulur ako̠' a̠'mi̠k	Ye' kë̀ ku'ba̠ dapárke  ulo 'i̠
+Bribri0080	Ye'r i sú̠	TYPE:NEG	Ye' kë̀ wa̠ i sù̠ne̠	Kë̀ ye'  i sú̠ne̠
+Bribri0081	Ye'r i sú̠	TENSE:PRF_REC	Ye'r i sa̠wé̠	Ye'  i sú̠
+Bribri0082	Ye'r i sú̠	TYPE:NEG, TENSE:PRF_REC	Ye kë̀ wa̠ i sù̠ne̠	Ye' kë̀ wa̠ i sú̠ne̠
+Bribri0083	Ye'r i sú̠	TENSE:IPFV_REC, ASPECT:IPFV	Ye'r i sa̠wè̠	Ye'  i sú̠
+Bribri0084	Ye'r i sú̠	TYPE:NEG, TENSE:IPFV_REC, ASPECT:IPFV	Kë̀ ye'r i sa̠we̠	Kë̀ ie'  i sú̠
+Bribri0085	Ye'r i sú̠	MODE:IMP, TENSE:IPFV_REC, ASPECT:IPFV, PERSON:NA	I sa̠ú̠	I s ku̠
+Bribri0086	Ye'r i sú̠	TYPE:NEG, MODE:IMP, TENSE:IPFV_REC, ASPECT:IPFV, PERSON:2_SI	Kë̀ be' tö i sa̠u̠k	Be' kë̀ ku̠ i sú̠
+Bribri0087	Ye'r i sú̠	TYPE:NEG, MODE:IMP, TENSE:IPFV_REC, ASPECT:IPFV, VOICE:MID, PERSON:3_SI	Kë̀ i sa̠wa̠r	I kàrr
+Bribri0088	Ye'r i sú̠	MODE:EXH, TENSE:IPFV_REC, ASPECT:IPFV, PERSON:1_PL_INC	I sa̠ù̠ sö	Se' tso sö
+Bribri0089	Ye'r i sú̠	TENSE:FUT_CER, ASPECT:IPFV	Ye'r i sa̠wè̠râ	Ye'  i sú̠râ
+Bribri0090	Ye'r i sú̠	TYPE:NEG, TENSE:FUT_CER, ASPECT:IPFV	Kë̀ ye'r i sa̠wè̠pa	Kë̀ ie'  i sú̠rpa
+Bribri0091	Ye'r i sú̠	TENSE:IPFV_HAB, ASPECT:IPFV	Ye'r i sa̠wè̠ke̠	Ye'  i sú̠wè̠
+Bribri0092	Ye'r i sú̠	TYPE:NEG, TENSE:IPFV_HAB, ASPECT:IPFV	Kë̀ ye'r i sa̠wè̠ku̠	Kë̀ ie'    ̠ö̀ku̠
+Bribri0093	Ye'r i sú̠	TENSE:FUT_POT, ASPECT:IPFV	Ye'r i sa̠wè̠mi̠	Ye'  i sú̠mi̠
+Bribri0094	Ye'r i sú̠	TYPE:NEG, TENSE:FUT_POT, ASPECT:IPFV	Kë̀ ye'r i sa̠u̠k	Kë̀ ie' i sú̠mi̠
+Bribri0095	Ye'r i sú̠	VOICE:MID, PERSON:3_SI	I sù̠ne̠	I súne̠
+Bribri0096	Ye'r i sú̠	VOICE:MID, ABSNUM:PL, PERSON:3_PL	I sù̠ne̠rak	Ie'pa kàne̠
+Bribri0334	Ye' wa̠ sawë́ chka katárule	TYPE:NEG	Ye' kë̀ wa̠ sawë́ chka katárule	Kë̀ wa̠ sa ëö̀ ku̠ shk hhku̠
+Bribri0335	Ye' wa̠ sawë́ chka katárule	VOICE:MID, PERSON:NA	Sawë́ chka katárule	I kàsër a̠ne̠
+Bribri0123	Ye' stsë'	TENSE:PRF_REC	Ye' stsé	Ye' stsë
+Bribri0124	Ye' stsë'	TYPE:NEG	Ye' kë̀ stsë̀ne̠	Kë̀ ye' stsë̀ne̠
+Bribri0125	Ye' stsë'	TYPE:NEG, TENSE:PRF_REC	Ye' kë̀ stsë̀ne̠	Kë̀ ye' sts'kë̀ne̠
+Bribri0126	Ye' stsë'	VOICE:MID, ABSNUM:NI, PERSON:NA	Stsë̀ne̠	Shkàne̠
+Bribri0127	Ye' stsë'	TYPE:NEG, VOICE:MID, ABSNUM:NI, PERSON:NA	Kë̀ stsë̀ne̠	Kë̀ stsë̀ne̠
+Bribri0128	Ye' stsë'	TENSE:IPFV_REC, ASPECT:IPFV, PERSON:3_SI	Ie' stsö̀	Ie' stsö̀
+Bribri0129	Ye' stsë'	TYPE:NEG, TENSE:IPFV_REC, ASPECT:IPFV, PERSON:3_SI	Ie' kë̀ stsö	Kë̀ ye' stsë
+Bribri0130	Ye' stsë'	TENSE:IPFV_REC, ASPECT:IPFV	Ye' stsö̀	Ye' stsö̀
+Bribri0131	Ye' stsë'	TENSE:FUT_CER, ASPECT:IPFV	Ye' stsö̀râ	Ye' stsö̀râ
+Bribri0132	Ye' stsë'	TYPE:NEG, TENSE:FUT_CER, ASPECT:IPFV	Kë̀ ye' stsö̀pa	Kë̀ ye' stsë̀rpa
+Bribri0133	Ye' stsë'	TENSE:IPFV_HAB, ASPECT:IPFV	Ye' stsö̀ke̠	Ye' stsö̀ke̠
+Bribri0134	Ye' stsë'	TYPE:NEG, TENSE:IPFV_HAB, ASPECT:IPFV	Kë̀ ye' stsö̀ku̠	Kë̀ ye' stsë̀ku̠
+Bribri0135	Ye' stsë'	TENSE:FUT_POT, ASPECT:IPFV	Ye' stsö̀mi̠	Ye' stsö̀mi̠
+Bribri0136	Ye' stsë'	TYPE:NEG, TENSE:FUT_POT, ASPECT:IPFV	Kë̀ ye' stsök	Kë̀ ye' stsëök
+Bribri0137	Ye' stsë'	MODE:ADVERS	Ye' stsa'	Ye' stso'
+Bribri0138	Ye' stsë'	MODE:IMP, TENSE:IPFV_REC, ASPECT:IPFV, PERSON:2_SI	Be' stsö́	Be' stsö́
+Bribri0139	Ye' stsë'	TYPE:NEG, MODE:IMP, TENSE:IPFV_REC, ASPECT:IPFV, PERSON:2_SI	Kë̀ be' stsök	Kë̀ be' stsë́r
+Bribri0140	Ye' stsë'	TYPE:NEG, MODE:IMP, TENSE:IPFV_REC, ASPECT:IPFV, VOICE:MID, ABSNUM:NI, PERSON:NA	Kë̀ stsar	Kë̀ stsë́r
+Bribri0921	Ye' tö i búk	TYPE:NEG	Ye' kë̀ wa̠ i bùne̠	Kë̀ ye' tö i bìne̠
+Bribri0922	Ye' tö i búk	TENSE:PRF_REC	Ye' tö i ppé	Ye' tö i bké
+Bribri0923	Ye' tö i búk	TENSE:IPFV_REC, ASPECT:IPFV	Ye tö i ppè	Ye' tö i biè
+Bribri0924	Ye' tö i búk	TENSE:IPFV_PROG, ASPECT:IPFV	Ye' tso i ppö́k	Ye' tso i bkö́k
+Bribri0925	Ye' tö i búk	TYPE:NEG, TENSE:IPFV_PROG, ASPECT:IPFV	Ye' kë̀ ku̠ i ppö́k	Ye' kë̀ ku̠ i bkö́k
+Bribri0926	Ye' tö i búk	TENSE:PRF_PROG	Ye' bák i ppö́k	Ye' bák i bkö́k
+Bribri0927	Ye' tö i búk	TYPE:NEG, TENSE:PRF_PROG	Ye' kë̀ ku̠'bak i ppö́k	Ye' kë̀ ku̠'bak i bkö́k
+Bribri0928	Ye' tö i búk	TENSE:IPFV_HAB, ASPECT:IPFV	Ye' tö i ppèke̠	Ye' tö i bkèke̠
+Bribri0929	Ye' tö i búk	MODE:IMP, TENSE:IPFV_REC, ASPECT:IPFV, PERSON:NA	I ppö́	I biö́
+Bribri0930	Ye' tö i búk	VOICE:MID, ABSNUM:NI, PERSON:NA	Bùne̠	Shkàne̠
+Bribri0931	Ye' tö i búk	TENSE:IPFV_REC, ASPECT:IPFV, VOICE:MID, ABSNUM:NI, PERSON:NA	Bùr	Shkàr
+Bribri0904	Wé̠shke̠ alákölpaë̀ tso	TENSE:PRF_REC, ASPECT:PFV	Wé̠shke̠ alákölpaë̀ tká	Wé̠shk ̠á a̠ a̠ kàl alpak a̠'bak a̠
+Bribri0905	Wé̠shke̠ alákölpaë̀ tso	TENSE:PRF_REM, ASPECT:PFV	Wé̠shke̠ alákölpaë̀ bák	Wé̠shk ̠á a̠ a̠ kàö ku'ba̠k áe' alpar a̠
+Bribri0063	Ye' tö ù sú̠	PERSON:2_SI	Be' tö ù sú̠	Be' tö ù sú̠
+Bribri0064	Ye' tö ù sú̠	PERSON:3_SI	Ie' tö ù sú̠	Ie' ts ùi̠
+Bribri0065	Ye' tö ù sú̠	PERSON:1_PL_EXC	Sa' tö ù sú̠	Sa' tö ù sú̠
+Bribri0066	Ye' tö ù sú̠	PERSON:1_PL_INC	Se' tö ù sú̠	Se' ts ùö́k
+Bribri0067	Ye' tö ù sú̠	PERSON:2_PL	A' tö ù sú̠	A' tö ù sú̠
+Bribri0068	Ye' tö ù sú̠	PERSON:3_PL	Ie'pa tö ù sú̠	Ie'pa tö ù sú̠
+Bribri0069	Ye' tö ù sú̠	TENSE:PRF_REC	Ye' tö ù sa̠wé̠	Ye' tö ù sú̠
+Bribri0070	Ye' tö ù sú̠	TENSE:IPFV_PROG, ASPECT:IPFV	Ye' tso ù sa̠u̠k	Ye' tso ù sú̠
+Bribri0071	Ye' tö ù sú̠	VOICE:MID, PERSON:NA	Ù sù̠ne̠	Shkàne̠
+Bribri0072	Ye' tö ù sú̠	TYPE:NEG, VOICE:MID, PERSON:NA	Kë̀ ù sù̠ne̠	Sa' kë̀ne̠
+Bribri0073	Ye' tö ù sú̠	TENSE:PRF_REC, VOICE:MID, PERSON:NA	Ù sù̠na̠	Shkàna̠
+Bribri0074	Ye' tö ù sú̠	TENSE:IPFV_REC, ASPECT:IPFV, VOICE:MID, PERSON:NA	Ù sú̠r	Shk sör
+Bribri0075	Ye' tö ù sú̠	TYPE:NEG, TENSE:IPFV_REC, ASPECT:IPFV, VOICE:MID, PERSON:NA	Kë̀ ù sú̠r	Sa' kë̀rr
+Bribri0076	Ye' tö ù sú̠	TYPE:NEG	Ye' kë̀ wa̠ ù sù̠ne̠	Kë̀ be' tö ù sú̠ne̠
+Bribri0077	Ye' tö ù sú̠	TENSE:PAS_PLU, VOICE:MID, PERSON:NA	Ù sú̠rule	Shkárule
+Bribri0078	Ye' tö ù sú̠	TENSE:PAS_PLU, PERSON:3_PL	Ie'pa wa̠ ù sú̠rule	Ie'pa tö ù sú̠rule
+Bribri0079	Ye' tö ù sú̠	TYPE:NEG, TENSE:PAS_PLU, PERSON:3_PL	Ie'pa kë̀ wa̠ ù sú̠rule	Ie'pa kë̀ wa̠ ùur súrule
+Bribri0395	Ye' tö i kö́twa̠	ABSNUM:PL	Ye' tö i kö́tulur	Ie' tö i kö' wa̠
+Bribri0396	Ye' tö i kö́twa̠	TYPE:NEG	Ye' kë̀ wa̠ i kö̀te̠wa̠	Kë̀ be' tö i kö̀ne̠
+Bribri0397	Ye' tö i kö́twa̠	TENSE:PRF_REC	Ye' tö i ujtéwa̠	Ye' tö i kö' wa̠
+Bribri0398	Ye' tö i kö́twa̠	TYPE:NEG, TENSE:PRF_REC	Ye' kë̀ wa̠ i kö̀te̠wa̠	Ye' kë̀ wa̠ i köa wa̠ne̠
+Bribri0399	Ye' tö i kö́twa̠	TENSE:IPFV_REC, ASPECT:IPFV	Ye' tö i ujtèwa̠	Ye' tö i ki̠
+Bribri0400	Ye' tö i kö́twa̠	TENSE:IPFV_REC, ASPECT:IPFV, ABSNUM:PL	Ye' tö i ujtèulur	Ie' tö i kö̀ru̠
+Bribri0401	Ye' tö i kö́twa̠	TENSE:IPFV_PROG, ASPECT:IPFV	Ye' tso i ujtö́kwa̠	Ye' tso i kö́ku̠
+Bribri0402	Ye' tö i kö́twa̠	TYPE:NEG, TENSE:IPFV_PROG, ASPECT:IPFV	Ye' kë̀ ku̠ i ujtö́kwa̠	Ye' kë̀ ku̠ i kö́ku̠
+Bribri0403	Ye' tö i kö́twa̠	TENSE:PRF_PROG	Ye' bák i ujtö́kwa̠	Ye' bák i kö́kö́k
+Bribri0404	Ye' tö i kö́twa̠	TYPE:NEG, TENSE:PRF_PROG	Ye' kë̀ ku̠'bak i ujtö́kwa̠	Ye' kë̀ ku̠'bak i kö́ku̠
+Bribri0405	Ye' tö i kö́twa̠	TYPE:NEG, MODE:IMP, TENSE:IPFV_REC, ASPECT:IPFV, PERSON:NA	Kë̀ i ujtök	Ie' kë̀ ku̠ i̠
+Bribri0406	Ye' tö i kö́twa̠	MODE:DES, TENSE:IPFV_REC, ASPECT:IPFV	Ye' é̠n a̠ i ujta'kwa̠	Ye' é̠n a̠ i kö'ku̠
+Bribri0407	Ye' tö i kö́twa̠	TYPE:NEG, MODE:DES, TENSE:IPFV_REC, ASPECT:IPFV	Kë̀ ye' é̠n a̠ i ujta'kwa̠	Kë̀ ye' é̠n a̠ i kö'ku̠
+Bribri0408	Ye' tö i kö́twa̠	MODE:ADVERS	Ye' tö i ujta'wa̠	Ye' wa̠ i kö' a̠'
+Bribri0409	Ye' tö i kö́twa̠	TENSE:IPFV_HAB, ASPECT:IPFV	Ye' tö i ujtèke̠wa̠	Ye' tö i kö̀rke̠
+Bribri0410	Ye' tö i kö́twa̠	TENSE:IPFV_HAB, ASPECT:IPFV, ABSNUM:PL	Ye' tö i ujtèkè̠ulur	Ye' tö i kö̀rök
+Bribri0411	Ye' tö i kö́twa̠	TENSE:FUT_CER, ASPECT:IPFV	Ye' tö i ujtèwa̠râ	Ye' tö i kö̀rââ
+Bribri0412	Ye' tö i kö́twa̠	TYPE:NEG, TENSE:FUT_CER, ASPECT:IPFV	Kë̀ ye' tö i ujtèpawa̠	Kë̀ ye' tö i kö̀rpa
+Bribri0413	Ye' tö i kö́twa̠	MODE:POT, TENSE:IPFV_REC, ASPECT:IPFV	Ye' a̠ i dawö	Ye' a̠ i kö́r
+Bribri0414	Ye' tö i kö́twa̠	VOICE:MID, PERSON:3_SI	I kö̀te̠wa̠	I kàska̠
+Bribri0415	Ye' tö i kö́twa̠	TYPE:NEG, VOICE:MID, PERSON:3_SI	Kë̀ i kö̀te̠wa̠	I kàska̠
+Bribri0195	Ye' tso' dawèie	TYPE:NEG	Ye' kë̀ ku̠ dawèie	Kë̀ ye' tsa dùne̠
+Bribri0196	Ye' tso' dawèie	TENSE:PRF_REC, ASPECT:PFV	Ye' tchá dawèie	Ye' tso da' dapárke daw dapárke daw dapárke daw da̠
+Bribri0197	Ye' tso' dawèie	TENSE:PRF_REM, ASPECT:PFV	Ye' bák dawèie	Ye' bák tak da' dap da'bak dapárke daw da'bak dapárke daw da'bak dapárke daw da'bak dapárke daw da'bak dapárke daw da'bak dapárke daw da'bak dapárke daw da'bak dapárke daw da'bak dapárke daw da'bak da
+Bribri0198	Ye' tso' dawèie	TYPE:NEG, TENSE:PRF_REM, ASPECT:PFV	Ye' kë̀ ku̠'bak dawèie	Kë̀ be' tsa da'ku̠
+Bribri0199	Ye' tso' dawèie	PERSON:2_SI	Be' tso' dawèie	Be' tsa da'ka̠
+Bribri0200	Ye' tso' dawèie	TYPE:NEG, PERSON:2_SI	Be' kë̀ ku̠ dawèie	Be' kë̀ ku̠ ta̠ daparke
+Bribri0201	Ye' tso' dawèie	TENSE:PRF_REC, ASPECT:PFV, PERSON:2_SI	Be' tchá dawèie	Be' tso da' dapárke
+Bribri0202	Ye' tso' dawèie	TENSE:PRF_REM, ASPECT:PFV, PERSON:2_SI	Be' bák dawèie	Be' tso da' dapárke dawark
+Bribri0203	Ye' tso' dawèie	TYPE:NEG, TENSE:PRF_REM, ASPECT:PFV, PERSON:2_SI	Be' kë̀ ku̠'bak dawèie	Be' kë̀ ku̠'bak tak da' dapárke dawè̠
+Bribri0204	Ye' tso' dawèie	PERSON:3_SI	Ie' tso' dawèie	Ie' tsa  aa'ku̠
+Bribri0205	Ye' tso' dawèie	TYPE:NEG, PERSON:3_SI	Ie' kë̀ ku̠ dawèie	Ie' kë̀ ku̠ ta̠ dapakwa̠
+Bribri0206	Ye' tso' dawèie	TENSE:PRF_REC, ASPECT:PFV, PERSON:3_SI	Ie' tchá dawèie	Ie' tso da' dapárke daw da̠
+Bribri0207	Ye' tso' dawèie	TENSE:PRF_REM, ASPECT:PFV, PERSON:3_SI	Ie' bák dawèie	Ie' bák tak da' dap da'bak dapárke dawèku̠
+Bribri0208	Ye' tso' dawèie	TYPE:NEG, TENSE:PRF_REM, ASPECT:PFV, PERSON:3_SI	Ie' kë̀ ku̠'bak dawèie	Ie' kë̀ ku̠'bak te̠n daw da̠mi̠
+Bribri0209	Ye' tso' dawèie	ABSNUM:PL, PERSON:1_PL_INC	Se' tso' dawèie	Se' tö  aawó̠
+Bribri0210	Ye' tso' dawèie	TYPE:NEG, ABSNUM:PL, PERSON:1_PL_INC	Se' kë̀ ku̠ dawèie	Se' kë̀ ku̠ ta̠ dapárke
+Bribri0211	Ye' tso' dawèie	TENSE:PRF_REC, ASPECT:PFV, ABSNUM:PL, PERSON:1_PL_INC	Se' tchá dawèie	Se' tsa da' ku' a̠
+Bribri0212	Ye' tso' dawèie	TENSE:PRF_REM, ASPECT:PFV, ABSNUM:PL, PERSON:1_PL_INC	Se' bák dawèie	Se' tsa da' ku'ba̠k
+Bribri0213	Ye' tso' dawèie	TYPE:NEG, TENSE:PRF_REM, ASPECT:PFV, ABSNUM:PL, PERSON:1_PL_INC	Se' kë̀ ku̠'bak dawèie	Se' kë̀ ku'ba̠k dapárke daw dapárke daw ku̠
+Bribri0214	Ye' tso' dawèie	ABSNUM:PL, PERSON:1_PL_EXC	Sa' tso' dawèie	Sa' tö daw dapárke
+Bribri0215	Ye' tso' dawèie	TYPE:NEG, ABSNUM:PL, PERSON:1_PL_EXC	Sa' kë̀ ku̠ dawèie	Sa' kë̀ ku̠ dapárke daw daparke
+Bribri0216	Ye' tso' dawèie	TENSE:PRF_REC, ASPECT:PFV, ABSNUM:PL, PERSON:1_PL_EXC	Sa' tchá dawèie	Sa' tso da' ië' dapárke daw da'ku̠
+Bribri0217	Ye' tso' dawèie	TENSE:PRF_REM, ASPECT:PFV, ABSNUM:PL, PERSON:1_PL_EXC	Sa' bák dawèie	Sa' bák dapárke daw da'ku̠
+Bribri0218	Ye' tso' dawèie	TYPE:NEG, TENSE:PRF_REM, ASPECT:PFV, ABSNUM:PL, PERSON:1_PL_EXC	Sa' kë̀ ku̠'bak dawèie	Sa' kë̀ ku'ba̠k dapárke daw dapak
+Bribri0219	Ye' tso' dawèie	ABSNUM:PL, PERSON:2_PL	A' tso' dawèie	A' tak ku' dapárke
+Bribri0220	Ye' tso' dawèie	TYPE:NEG, ABSNUM:PL, PERSON:2_PL	A' kë̀ ku̠ dawèie	A' kë̀ ku̠ dapárke daw dapárke
+Bribri0221	Ye' tso' dawèie	TENSE:PRF_REC, ASPECT:PFV, ABSNUM:PL, PERSON:2_PL	A' tchá dawèie	A' tsa da' ku' a̠
+Bribri0222	Ye' tso' dawèie	TENSE:PRF_REM, ASPECT:PFV, ABSNUM:PL, PERSON:2_PL	A' bák dawèie	A' tsa da' ku'ba̠k da' dapárke daw da'ku̠
+Bribri0223	Ye' tso' dawèie	TYPE:NEG, TENSE:PRF_REM, ASPECT:PFV, ABSNUM:PL, PERSON:2_PL	A' kë̀ ku̠'bak dawèie	A' kë̀ ku'ba̠k dapárke daw dapárke daw ku̠'bak dapárke daw dapárke daw ku̠'bak dapárke daw dapárke daw ku̠'bak dapárke daw dapárke daw ku̠'bak dapárke daw dapárke daw ku̠'bak dapárke daw dapárke daw k
+Bribri0224	Ye' tso' dawèie	ABSNUM:PL, PERSON:3_PL	Ie'pa tso' dawèie	Ie'pa tö  aawulur
+Bribri0225	Ye' tso' dawèie	TYPE:NEG, ABSNUM:PL, PERSON:3_PL	Ie'pa kë̀ ku̠ dawèie	Ie'pa kë̀ ku̠ dapárke daw daparke
+Bribri0226	Ye' tso' dawèie	TENSE:PRF_REC, ASPECT:PFV, ABSNUM:PL, PERSON:3_PL	Ie'pa tchá dawèie	Ie'pa tö oaw dapárke dawèrk
+Bribri0227	Ye' tso' dawèie	TENSE:PRF_REM, ASPECT:PFV, ABSNUM:PL, PERSON:3_PL	Ie'pa bák dawèie	Ie'pa tö oö' dapárke dawèrk
+Bribri0228	Ye' tso' dawèie	TYPE:NEG, TENSE:PRF_REM, ASPECT:PFV, ABSNUM:PL, PERSON:3_PL	Ie'pa kë̀ ku̠'bak dawèie	Ie'pa kë̀ ku'ba̠k dapárke daw dapárke daw ku̠'bak dapárke daw dapárke daw ku̠'bak dapárke daw dapárke daw ku̠'bak dapárke daw dapárke daw ku̠'bak dapárke daw dapárke daw ku̠'bak dapárke daw dapárke da
+Bribri0185	Ye' tö i̠ ña̠'wa	ABSNUM:PL	Ye' tö i̠ ña̠'alor	Ye' tö i̠ ña̠'ku̠
+Bribri0390	Ie' stsë' bua'	TENSE:IPFV_REC, ASPECT:IPFV	Ie' stsö̀ bua'	Ie' stsë̀ ku̠
+Bribri0391	Ie' stsë' bua'	TYPE:NEG, TENSE:IPFV_REC, ASPECT:IPFV	Ie' kë̀ stsö bua'	Kë̀ ye' stsbe
+Bribri0387	Chìchi dör bë̂rie	ABSNUM:PL	Chichi dör wî̠wî̠	Chìchi tö dör bi̠
+Bribri0386	Chìchi dör sarûrû	ABSNUM:PL	Chìchi dör sarûrû sarûrû	Chìchi tö dör sarule
+Bribri0186	Ie'pa tö kàsir chka të'a	TYPE:NEG	Ie'pa kë̀ wa̠ kàsir chka të̀nà̠ne̠	Ie' kë̀ wa̠ kàsir chkàne̠
+Bribri0187	Ie'pa tö kàsir chka të'a	TENSE:IPFV_PROG, ASPECT:IPFV	Ie'pa tso kàsir chka tö́kök	Ie'pa tso kàsir cö́k
+Bribri0188	Ie'pa tö kàsir chka të'a	TYPE:NEG, TENSE:IPFV_PROG, ASPECT:IPFV	Ie'pa kë̀ ku̠ kàsir chka tö́kök	Ie'pa kë̀ ku̠ kàsir cö́k cö́k
+Bribri0189	Ie'pa tö kàsir chka të'a	TENSE:PRF_PROG	Ie'pa bák kàsir chka tö́kök	Ie'pa bák kàsir cö́k
+Bribri0190	Ie'pa tö kàsir chka të'a	TYPE:NEG, TENSE:PRF_PROG	Ie'pa kë̀ ku̠'bak kàsir chka tö́kök	Ie' kë̀ ku̠'bak kàsir aö́k
+Bribri0191	Ie'pa tö kàsir chka të'a	TENSE:PRF_REC, VOICE:MID, PERSON:NA	Kàsir chka të̀nà̠ne̠	Ye' tskàr të̀na̠
+Bribri0192	Ie'pa tö kàsir chka të'a	TENSE:PRF_REC	Ie'pa tö kàsir chka tée	Ie'pa tö kàsir cé
+Bribri0193	Ie'pa tö kàsir chka të'a	MODE:IMP, TENSE:IPFV_REC, ASPECT:IPFV, PERSON:NA	Kàsir chka tö́ö	Kàrostak kuö́
+Bribri0194	Ie'pa tö kàsir chka të'a	TYPE:NEG, MODE:IMP, TENSE:IPFV_REC, ASPECT:IPFV, PERSON:NA	Kë̀ kàsir chka tökök	Kë̀ kàsir cök
+Bribri0641	Ye' tö dawà su'	TYPE:NEG	Ye' kë̀ wa̠ dawà sùne̠	Kë̀ be' tö dö̀ dapane̠
+Bribri0642	Ye' tö dawà su'	ASPECT:INC	Ye' tö dawà su'mi̠	Ye' tö dawmi̠
+Bribri0643	Ye' tö dawà su'	TENSE:PRF_REC	Ye' tö dawà sawé	Ye' tö dawór
+Bribri0644	Ye' tö dawà su'	TYPE:NEG, TENSE:PRF_REC	Ye' kë̀ wa̠ dawà sùne̠	Ye' kë̀ wa̠ daw a̠ne̠
+Bribri0645	Ye' tö dawà su'	TENSE:PRF_REC, ASPECT:INC	Ye' tö dawà sawémi̠	Ye' tö dawómi̠
+Bribri0646	Ye' tö dawà su'	TENSE:IPFV_REC, ASPECT:IPFV	Ye' tö dawà sawè	Ye' tö dö̀ ta̠
+Bribri0647	Ye' tö dawà su'	TYPE:NEG, TENSE:IPFV_REC, ASPECT:IPFV	Kë̀ ye' tö dawà sawe	Kë̀ ye' tö dör dar
+Bribri0648	Ye' tö dawà su'	TENSE:IPFV_PROG, ASPECT:IPFV	Ye' tso dawà sawö́k	Ye' tso dö́dak dö́k
+Bribri0649	Ye' tö dawà su'	TYPE:NEG, TENSE:IPFV_PROG, ASPECT:IPFV	Ye' kë̀ ku̠ dawà sawö́k	Ye' kë̀ ku̠ daw aö́k
+Bribri0650	Ye' tö dawà su'	TENSE:PRF_PROG	Ye' bák dawà sawö́k	Ye' bák dawö́kbak dawö́k
+Bribri0651	Ye' tö dawà su'	TYPE:NEG, TENSE:PRF_PROG	Ye' kë̀ ku̠'bak dawà sawö́k	Ye' kë̀ ku̠'bak dawö́k dawö́k
+Bribri0652	Ye' tö dawà su'	MODE:IMP, TENSE:IPFV_REC, ASPECT:IPFV, PERSON:NA	Dawà sawö́	I sak kuö́
+Bribri0653	Ye' tö dawà su'	TYPE:NEG, MODE:IMP, TENSE:IPFV_REC, ASPECT:IPFV, PERSON:NA	Kë̀ dawà sawök	Kë̀ dö́ku̠
+Bribri0654	Ye' tö dawà su'	TYPE:NEG, MODE:IMP, TENSE:IPFV_REC, ASPECT:IPFV, VOICE:MID, PERSON:NA	Kë̀ dawà sawar	Ie' tsw kua'
+Bribri0655	Ye' tö dawà su'	MODE:EXH, TENSE:IPFV_REC, ASPECT:IPFV, PERSON:1_PL_INC	Dawà sawö̀ sö	Se' tö dö̀ ku̠
+Bribri0656	Ye' tö dawà su'	MODE:DES, TENSE:IPFV_REC, ASPECT:IPFV	Ye' é̠n a̠ dawà sawa'ku̠	Ye' é̠n a̠ dawa̠'ku̠
+Bribri0657	Ye' tö dawà su'	TYPE:NEG, MODE:DES, TENSE:IPFV_REC, ASPECT:IPFV	Kë̀ ye' é̠n a̠ dawà sawa'ku̠	Kë̀ ye' é̠n a̠ dawa̠na̠
+Bribri0658	Ye' tö dawà su'	MODE:ADVERS	Ye' wa̠ dawà sawa'	Ye' wa̠ dawa'̠a
+Bribri0659	Ye' tö dawà su'	TENSE:IPFV_HAB, ASPECT:IPFV	Ye' tö dawà sawèke̠	Ye' tö dawö̀ke̠
+Bribri0660	Ye' tö dawà su'	TYPE:NEG, TENSE:IPFV_HAB, ASPECT:IPFV	Kë̀ ye' tö dawà sawèku̠	Kë̀ ye' tö dawö̀ku̠
+Bribri0661	Ye' tö dawà su'	TENSE:FUT_POT, ASPECT:IPFV	Ye' tö dawà sawèmi̠	Ye' tö dö̀ ta̠mi̠
+Bribri0662	Ye' tö dawà su'	TYPE:NEG, TENSE:FUT_POT, ASPECT:IPFV	Kë̀ ye' tö dawà sawök	Kë̀ ye' tö dök a̠mi̠
+Bribri0663	Ye' tö dawà su'	TENSE:FUT_CER, ASPECT:IPFV	Ye' tö dawà sawèrâ	Ye' tö dö̀ ta̠ darâ
+Bribri0664	Ye' tö dawà su'	TYPE:NEG, TENSE:FUT_CER, ASPECT:IPFV	Kë̀ ye' tö dawà sawèpa	Kë̀ ye' tö dö̀ dappar dârpa
+Bribri0665	Ye' tö dawà su'	VOICE:MID, PERSON:NA	Dawà sùne̠	Shkàne̠
+Bribri0666	Ye' tö dawà su'	TYPE:NEG, VOICE:MID, PERSON:NA	Kë̀ dawà sùne̠	Kë̀ dan kàne̠
+Bribri0667	Ye' tö dawà su'	TENSE:PRF_REC, VOICE:MID, PERSON:NA	Dawà sùna̠	I san kàna̠
+Bribri0668	Ye' tö dawà su'	TYPE:NEG, TENSE:PRF_REC, VOICE:MID, PERSON:NA	Kë̀ dawà sùne̠	Kë̀ dan kàne̠
+Bribri0669	Ye' tö dawà su'	TENSE:IPFV_REC, ASPECT:IPFV, VOICE:MID, PERSON:NA	Dawà sùr	I sar sö
+Bribri0670	Ye' tö dawà su'	TYPE:NEG, TENSE:IPFV_REC, ASPECT:IPFV, VOICE:MID, PERSON:NA	Kë̀ dawà sur	Kë̀ dan a̠'ka̠
+Bribri0671	Ye' tö dawà su'	TENSE:IPFV_HAB, ASPECT:IPFV, VOICE:MID, PERSON:NA	Dawà sùrke̠	I sar sö̀ke̠
+Bribri0672	Ye' tö dawà su'	TYPE:NEG, TENSE:IPFV_HAB, ASPECT:IPFV, VOICE:MID, PERSON:NA	Kë̀ dawà sùrku̠	Kë̀ dan a̠ke̠
+Bribri0673	Ye' tö dawà su'	TENSE:FUT_POT, ASPECT:IPFV, VOICE:MID, PERSON:NA	Dawà sùrmi̠	I sar sö́k
+Bribri0674	Ye' tö dawà su'	TYPE:NEG, TENSE:FUT_POT, ASPECT:IPFV, VOICE:MID, PERSON:NA	Kë̀ dawà sùnu̠k	Kë̀ dan a̠ni̠k
+Bribri0675	Ye' tö dawà su'	TENSE:FUT_CER, ASPECT:IPFV, VOICE:MID, PERSON:NA	Dawà sùrdâ	I sar dar dar
+Bribri0676	Ye' tö dawà su'	TYPE:NEG, TENSE:FUT_CER, ASPECT:IPFV, VOICE:MID, PERSON:NA	Kë̀ dawà sùrpa	Kë̀ dan a̠' a̠ dar a̠
+Bribri0677	Ye' tö dawà su'	TENSE:PAS_PLU	Ye' wa̠ dawà súrule	Ye' wa̠ dawárule sur
+Bribri0678	Ye' tö dawà su'	TYPE:NEG, TENSE:PAS_PLU	Ye' kë̀ wa̠ dawà súrule	Ye' kë̀ wa̠ dawárule sur
+Bribri0679	Ye' tö dawà su'	MODE:POT, TENSE:IPFV_REC, ASPECT:IPFV	Ye' a̠ dawà súr	Ye' a̠ dawóar
+Bribri0680	Ye' tö dawà su'	TYPE:NEG, MODE:POT, TENSE:IPFV_REC, ASPECT:IPFV	Kë̀ ye' a̠ dawà súr	Kë̀ ye' a̠ dawóar
