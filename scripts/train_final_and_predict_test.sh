@@ -23,7 +23,6 @@ cd "/projects/migi8081/americasnlp2024"
 arch="$1"
 method="$2"
 
-mkdir data/temp
 
 for lang in bribri guarani maya
 do 
@@ -90,8 +89,6 @@ do
       --accelerator gpu \
 
   python ./scripts/copy_preds.py "./test-preds/char-$method-$arch/$lang-test.tsv" "./americasnlp2024/ST2_EducationalMaterials/data/$lang-test.tsv"
-
-  rm data/temp/*.tsv
 
 done 
 
