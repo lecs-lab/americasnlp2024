@@ -8,7 +8,7 @@ def copy_target_column(source_path, destination_path):
     destination_df = pd.read_csv(destination_path, sep='\t')
 
     source_df.columns = ['Target']
-    destination_df.columns = ['ID', 'Change', 'Source', 'Target']
+    destination_df.columns = ['ID', 'Source', 'Change', 'Target']
 
     if not destination_df.isnull().iloc[1]['Target']:
         destination_df['Predicted Target'] = source_df['Target']
