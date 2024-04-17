@@ -83,7 +83,7 @@ do
       --experiment 2024americasnlp-$lang-final \
       --checkpoint "$ckpt_file" \
       --predict "data/yoyodyne/$lang-test.tsv" \
-      --output "./test-preds/$method-$arch/$lang-test.tsv" \
+      --output "./test-preds/char-$method-$arch/$lang-test.tsv" \
       --features_col 2 \
       --target_col 0 \
       --arch $arch \
