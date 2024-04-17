@@ -8,11 +8,11 @@ def copy_target_column(source_path, destination_path):
     destination_df = pd.read_csv(destination_path, sep='\t')
 
     source_df.columns = ['Target']
-    if len(destination_df.columns) == 3:
-        destination_df.columns = ['Source', 'Target', 'Change']
+    destination_df.columns = ['ID', 'Source', 'Target', 'Change']
+
+    if not destination_df.isnull().iloc[1]['Target']:
         destination_df['Predicted Target'] = source_df['Target']
     else:
-        destination_df.columns = ['ID', 'Source', 'Change', 'Target']
         destination_df['Target'] = source_df['Target']
 
     # Save the updated destination DataFrame to a new file
