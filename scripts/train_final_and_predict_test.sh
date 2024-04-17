@@ -35,7 +35,7 @@ do
 
   yoyodyne-train \
       --experiment 2024americasnlp-$lang-final \
-      --model_dir models/final-$arch/$method \
+      --model_dir models/final/$method-$arch \
       --train data/temp/$lang-train+$method.tsv \
       --val data/yoyodyne/$lang-dev.tsv \
       --features_col 3 \
@@ -73,7 +73,7 @@ do
       --arch $arch \
       --accelerator gpu \
 
-  python ./scripts/copy_preds.py "./test-preds/char-$method-$arch/$lang-dev.tsv" "./data/yoyodyne/$lang-dev.tsv"
+  python ./scripts/copy_preds.py "./test-preds/char-$method-$arch/$lang-dev.tsv" "./americasnlp2024/ST2_EducationalMaterials/data/$lang-dev.tsv"
 
   python ./americasnlp2024/ST2_EducationalMaterials/baseline/evaluate.py "./test-preds/char-$method-$arch/$lang-dev.tsv" > "./test-preds/char-$method-$arch/$lang-dev-eval.out"
 
